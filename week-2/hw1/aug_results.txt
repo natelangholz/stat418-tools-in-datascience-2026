@@ -1,0 +1,124 @@
+========================================
+ Analyzing: NASA_Aug95.log
+========================================
+
+--- 1. Top 10 Hosts (excluding 404 errors) ---
+   6519 edams.ksc.nasa.gov
+   4816 piweba4y.prodigy.com
+   4779 163.206.89.4
+   4576 piweba5y.prodigy.com
+   4369 piweba3y.prodigy.com
+   3866 www-d1.proxy.aol.com
+   3522 www-b2.proxy.aol.com
+   3445 www-b3.proxy.aol.com
+   3412 www-c5.proxy.aol.com
+   3393 www-b5.proxy.aol.com
+DONE: section 1
+
+--- 2. IP vs Hostname percentage ---
+  Total requests : 1569898
+  IP addresses   : 446494 (28.44%)
+  Hostnames      : 1123404 (71.56%)
+DONE: section 2
+
+--- 3. Top 10 Requested URLs (excluding 404 errors) ---
+  97293 /images/NASA-logosmall.gif
+  75283 /images/KSC-logosmall.gif
+  67356 /images/MOSAIC-logosmall.gif
+  66975 /images/USA-logosmall.gif
+  66351 /images/WORLD-logosmall.gif
+  62670 /images/ksclogo-medium.gif
+  43619 /ksc.html
+  37806 /history/apollo/images/apollo-logo1.gif
+  35119 /images/launch-logo.gif
+  30123 /
+DONE: section 3
+
+--- 4. HTTP Request Types ---
+1565812 GET
+   3965 HEAD
+    111 POST
+      4 ±‰6žÿT7‰FÃÇF
+      2 ýÑí.Š2í.‹>î
+      2 €|t°9Ã°'Ã€|u&÷G
+      1 huttle/countdown/
+      1 ?
+DONE: section 4
+
+--- 5. Total 404 Errors ---
+9978
+DONE: section 5
+
+--- 6. Most Frequent Response Code ---
+1396473 200
+ 134138 304
+  26422 302
+   9978 404
+    624 <berend@blazemonger.pc.cc.cmu.edu>"
+  Most frequent: 200 at 88.95% of all responses
+DONE: section 6
+
+--- 7. Requests by Hour of Day ---
+  47862 00
+  38531 01
+  32508 02
+  29995 03
+  26756 04
+  27587 05
+  31287 06
+  47386 07
+  65443 08
+  78695 09
+  88309 10
+  95344 11
+ 105143 12
+ 104536 13
+ 101394 14
+ 109465 15
+  99527 16
+  80834 17
+  66809 18
+  59315 19
+  59944 20
+  57985 21
+  60673 22
+  54570 23
+DONE: section 7
+
+--- 8. Busiest Day ---
+  90125 31/Aug/1995
+DONE: section 8
+
+--- 9. Quietest Day ---
+  31608 26/Aug/1995
+  31893 05/Aug/1995
+  32094 19/Aug/1995
+  32420 06/Aug/1995
+  32823 27/Aug/1995
+DONE: section 9
+
+--- 10. Hurricane Outage Detection ---
+Possible gap: 03/Aug/1995:04 (only 16 requests)
+Possible gap: 03/Aug/1995:05 (only 43 requests)
+Possible gap: 03/Aug/1995:06 (only 70 requests)
+Possible gap: 03/Aug/1995:07 (only 58 requests)
+Possible gap: 03/Aug/1995:09 (only 22 requests)
+Possible gap: 03/Aug/1995:10 (only 57 requests)
+DONE: section 10
+
+--- 11. Largest and Average Response Size (bytes) ---
+  Largest : 3421948 bytes
+  Average : 17242 bytes
+DONE: section 11
+
+--- 12. Error Patterns (top hours for errors) ---
+    797 12
+    732 13
+    675 16
+    674 17
+    673 15
+DONE: section 12
+
+========================================
+ Analysis complete for: NASA_Aug95.log
+========================================
