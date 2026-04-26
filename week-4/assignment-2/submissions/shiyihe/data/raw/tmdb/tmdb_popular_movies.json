@@ -19,8 +19,8 @@
     "release_date": "2026-04-01",
     "softcore": false,
     "video": false,
-    "vote_average": 6.768,
-    "vote_count": 611
+    "vote_average": 6.771,
+    "vote_count": 614
   },
   {
     "adult": false,
@@ -39,8 +39,8 @@
     "release_date": "2026-03-26",
     "softcore": false,
     "video": false,
-    "vote_average": 6.9,
-    "vote_count": 73
+    "vote_average": 6.851,
+    "vote_count": 74
   },
   {
     "adult": false,
@@ -60,8 +60,8 @@
     "release_date": "2026-01-22",
     "softcore": false,
     "video": false,
-    "vote_average": 7.03,
-    "vote_count": 1074
+    "vote_average": 7.025,
+    "vote_count": 1076
   },
   {
     "adult": false,
@@ -103,68 +103,8 @@
     "release_date": "2025-12-17",
     "softcore": false,
     "video": false,
-    "vote_average": 7.376,
-    "vote_count": 2720
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1613798,
-    "title": "Vengeance",
-    "original_language": "es",
-    "original_title": "Venganza",
-    "overview": "The brutal murder of the wife of \u201cToro,\u201d a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
-    "popularity": 216.1292,
-    "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
-    "release_date": "2026-02-26",
-    "softcore": false,
-    "video": false,
-    "vote_average": 6.841,
-    "vote_count": 82
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
-    "genre_ids": [
-      53,
-      28
-    ],
-    "id": 1318447,
-    "title": "Apex",
-    "original_language": "en",
-    "original_title": "Apex",
-    "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-    "popularity": 455.2368,
-    "poster_path": "/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
-    "release_date": "2026-04-24",
-    "softcore": false,
-    "video": false,
-    "vote_average": 6.357,
-    "vote_count": 150
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-    "genre_ids": [
-      878,
-      12
-    ],
-    "id": 687163,
-    "title": "Project Hail Mary",
-    "original_language": "en",
-    "original_title": "Project Hail Mary",
-    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction\u2026 but an unexpected friendship means he may not have to do it alone.",
-    "popularity": 194.6913,
-    "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-    "release_date": "2026-03-15",
-    "softcore": false,
-    "video": false,
-    "vote_average": 8.215,
-    "vote_count": 1715
+    "vote_average": 7.377,
+    "vote_count": 2721
   },
   {
     "adult": false,
@@ -183,8 +123,68 @@
     "release_date": "2026-04-22",
     "softcore": false,
     "video": false,
-    "vote_average": 7.468,
-    "vote_count": 186
+    "vote_average": 7.5,
+    "vote_count": 196
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1613798,
+    "title": "Vengeance",
+    "original_language": "es",
+    "original_title": "Venganza",
+    "overview": "The brutal murder of the wife of \u201cToro,\u201d a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+    "popularity": 216.1292,
+    "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+    "release_date": "2026-02-26",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.869,
+    "vote_count": 84
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 1318447,
+    "title": "Apex",
+    "original_language": "en",
+    "original_title": "Apex",
+    "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+    "popularity": 455.2368,
+    "poster_path": "/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+    "release_date": "2026-04-24",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.41,
+    "vote_count": 173
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 687163,
+    "title": "Project Hail Mary",
+    "original_language": "en",
+    "original_title": "Project Hail Mary",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction\u2026 but an unexpected friendship means he may not have to do it alone.",
+    "popularity": 194.6913,
+    "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "release_date": "2026-03-15",
+    "softcore": false,
+    "video": false,
+    "vote_average": 8.213,
+    "vote_count": 1721
   },
   {
     "adult": false,
@@ -224,8 +224,8 @@
     "release_date": "2026-01-28",
     "softcore": false,
     "video": false,
-    "vote_average": 6.789,
-    "vote_count": 596
+    "vote_average": 6.786,
+    "vote_count": 597
   },
   {
     "adult": false,
@@ -287,8 +287,8 @@
     "release_date": "2026-02-11",
     "softcore": false,
     "video": false,
-    "vote_average": 7.904,
-    "vote_count": 444
+    "vote_average": 7.9,
+    "vote_count": 446
   },
   {
     "adult": false,
@@ -307,28 +307,8 @@
     "release_date": "2026-02-11",
     "softcore": false,
     "video": false,
-    "vote_average": 6.954,
-    "vote_count": 775
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 1304313,
-    "title": "Lee Cronin's The Mummy",
-    "original_language": "en",
-    "original_title": "Lee Cronin's The Mummy",
-    "overview": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-    "popularity": 125.6582,
-    "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-    "release_date": "2026-04-15",
-    "softcore": false,
-    "video": false,
-    "vote_average": 6.824,
-    "vote_count": 142
+    "vote_average": 6.949,
+    "vote_count": 779
   },
   {
     "adult": false,
@@ -373,6 +353,26 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1290417,
+    "title": "Thrash",
+    "original_language": "en",
+    "original_title": "Thrash",
+    "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+    "popularity": 126.432,
+    "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+    "release_date": "2026-04-10",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 431
+  },
+  {
+    "adult": false,
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
     "genre_ids": [
       16,
@@ -394,24 +394,23 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+    "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
     "genre_ids": [
-      35,
-      28,
-      12
+      27,
+      9648
     ],
-    "id": 1084577,
-    "title": "Balls Up",
+    "id": 1304313,
+    "title": "Lee Cronin's The Mummy",
     "original_language": "en",
-    "original_title": "Balls Up",
-    "overview": "Two marketing executives go \"balls out\" and pitch a bold full\u2011coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-    "popularity": 114.5049,
-    "poster_path": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+    "original_title": "Lee Cronin's The Mummy",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "popularity": 125.6582,
+    "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
     "release_date": "2026-04-15",
     "softcore": false,
     "video": false,
-    "vote_average": 5.617,
-    "vote_count": 128
+    "vote_average": 6.818,
+    "vote_count": 143
   },
   {
     "adult": false,
