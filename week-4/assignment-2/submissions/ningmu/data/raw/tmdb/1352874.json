@@ -1,0 +1,193 @@
+{
+  "adult": false,
+  "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
+  "belongs_to_collection": null,
+  "budget": 100000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1352874,
+  "imdb_id": "tt32059878",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Crucifix: Blood of the Exorcist",
+  "overview": "A gruesome discovery in the grounds of their new home plunges a young couple into a maelstrom of spiritual possession, pagan rituals, Viking battles, and violent revenge.",
+  "popularity": 160.9132,
+  "poster_path": "/uLXxpWRfoIPfB2fwM8hsAMIjSWf.jpg",
+  "production_companies": [
+    {
+      "id": 186394,
+      "logo_path": null,
+      "name": "Equalize Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-01-09",
+  "revenue": 82873,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Blood of the Exorcist",
+  "title": "The Crucifix: Blood of the Exorcist",
+  "video": false,
+  "vote_average": 6.033,
+  "vote_count": 30,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2843103,
+      "known_for_department": "Acting",
+      "name": "Hannaj Bang Bendz",
+      "original_name": "Hannaj Bang Bendz",
+      "popularity": 0.2659,
+      "profile_path": "/8gytiT7RNrjVbhazgnPQCmSZUKE.jpg",
+      "cast_id": 27,
+      "character": "Sara",
+      "credit_id": "66da41cac4f05a920525448a",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1524860,
+      "known_for_department": "Acting",
+      "name": "Dean Kilbey",
+      "original_name": "Dean Kilbey",
+      "popularity": 0.2491,
+      "profile_path": "/hFvcImTeCZCkKQgOwOz13sKPMgG.jpg",
+      "cast_id": 28,
+      "character": "Mungo",
+      "credit_id": "66da41dbdee85d55d0c5c4c1",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1759040,
+      "known_for_department": "Acting",
+      "name": "Nicholas Anscombe",
+      "original_name": "Nicholas Anscombe",
+      "popularity": 0.1769,
+      "profile_path": "/heKvBj7qvdOADnMD0azgmSwuqZJ.jpg",
+      "cast_id": 29,
+      "character": "Father Stewart",
+      "credit_id": "66da41ed2b4e67af085dc007",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1128296,
+      "known_for_department": "Acting",
+      "name": "Tom Carter",
+      "original_name": "Tom Carter",
+      "popularity": 0.1481,
+      "profile_path": null,
+      "cast_id": 30,
+      "character": "Doctor Byrne",
+      "credit_id": "66da42018b6b29cad88c9345",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2822929,
+      "known_for_department": "Crew",
+      "name": "Darren Le Fevre",
+      "original_name": "Darren Le Fevre",
+      "popularity": 0.0837,
+      "profile_path": null,
+      "cast_id": 31,
+      "character": "Thorvald Ironside",
+      "credit_id": "66da42147fc03534a825448e",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2165296,
+      "known_for_department": "Camera",
+      "name": "Stephen Roach",
+      "original_name": "Stephen Roach",
+      "popularity": 0.2133,
+      "profile_path": null,
+      "credit_id": "66da3eeebe7cd54d5d34b605",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2992683,
+      "known_for_department": "Directing",
+      "name": "Robert Howgate",
+      "original_name": "Robert Howgate",
+      "popularity": 0.1531,
+      "profile_path": null,
+      "credit_id": "66da3f03065d5aa580c5c4dc",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2523577,
+      "known_for_department": "Production",
+      "name": "Glenn Kendrick Ackermann",
+      "original_name": "Glenn Kendrick Ackermann",
+      "popularity": 0.057,
+      "profile_path": null,
+      "credit_id": "66da3f19ec0113d44c5dbf91",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2992683,
+      "known_for_department": "Directing",
+      "name": "Robert Howgate",
+      "original_name": "Robert Howgate",
+      "popularity": 0.1531,
+      "profile_path": null,
+      "credit_id": "66da3f2cbe7cd54d5d34b608",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 3017812,
+      "known_for_department": "Production",
+      "name": "David Marsh",
+      "original_name": "David Marsh",
+      "popularity": 0.0261,
+      "profile_path": null,
+      "credit_id": "66da3f6d0ee5792182d59423",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

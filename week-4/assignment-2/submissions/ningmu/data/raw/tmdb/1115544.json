@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/mike-and-nick-and-nick-and-alice",
+  "id": 1115544,
+  "imdb_id": "tt27552099",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mike & Nick & Nick & Alice",
+  "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+  "popularity": 71.0675,
+  "poster_path": "/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+  "production_companies": [
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 1757,
+      "logo_path": "/fc9qw5GoTbyWGa0QcfbsZFzuMKQ.png",
+      "name": "Mad Chance",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-14",
+  "revenue": 0,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A time-traveling, double-crossing, ass-kicking comedy.",
+  "title": "Mike & Nick & Nick & Alice",
+  "video": false,
+  "vote_average": 6.761,
+  "vote_count": 273,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 11006,
+      "known_for_department": "Acting",
+      "name": "James Marsden",
+      "original_name": "James Marsden",
+      "popularity": 5.9399,
+      "profile_path": "/gmM9kCBzMeSGmkVXJGAkm25i9pe.jpg",
+      "cast_id": 5,
+      "character": "Quick Draw Mike",
+      "credit_id": "6679cbd0dbc8b399fe9052cd",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4937,
+      "known_for_department": "Acting",
+      "name": "Vince Vaughn",
+      "original_name": "Vince Vaughn",
+      "popularity": 2.5584,
+      "profile_path": "/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg",
+      "cast_id": 4,
+      "character": "Future Nick / Present Nick",
+      "credit_id": "6647a65c95dc59d471b53a22",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1222992,
+      "known_for_department": "Acting",
+      "name": "Eiza González",
+      "original_name": "Eiza González",
+      "popularity": 6.4953,
+      "profile_path": "/w2pZ8gLqZNguj8cqrDGbMw2Ibj0.jpg",
+      "cast_id": 6,
+      "character": "Alice",
+      "credit_id": "66aab97c5d7f317f768802b5",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 65827,
+      "known_for_department": "Acting",
+      "name": "Keith David",
+      "original_name": "Keith David",
+      "popularity": 3.3221,
+      "profile_path": "/zM6WKGExJ7cn0Id1FiOXXRpvTts.jpg",
+      "cast_id": 12,
+      "character": "Sosa",
+      "credit_id": "670ee468019f3bc5b11bac22",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1304335,
+      "known_for_department": "Acting",
+      "name": "Jimmy Tatro",
+      "original_name": "Jimmy Tatro",
+      "popularity": 1.3047,
+      "profile_path": "/xehT2IK65qXKSctcYChrWLE04pI.jpg",
+      "cast_id": 7,
+      "character": "Jimmy Boy",
+      "credit_id": "66c3842d667e1ca650d56f12",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 29525,
+      "known_for_department": "Production",
+      "name": "Andrew Lazar",
+      "original_name": "Andrew Lazar",
+      "popularity": 0.327,
+      "profile_path": "/tSiXeYh6X6ZTQHuPMMryn84d0oJ.jpg",
+      "credit_id": "64406bd5e24b9304dd9f5221",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 937016,
+      "known_for_department": "Writing",
+      "name": "BenDavid Grabinski",
+      "original_name": "BenDavid Grabinski",
+      "popularity": 0.5383,
+      "profile_path": "/s7OjIcusYmaJGO8vWQR9uTh0cNq.jpg",
+      "credit_id": "64406bbed768fe052d8f8dc7",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 937016,
+      "known_for_department": "Writing",
+      "name": "BenDavid Grabinski",
+      "original_name": "BenDavid Grabinski",
+      "popularity": 0.5383,
+      "profile_path": "/s7OjIcusYmaJGO8vWQR9uTh0cNq.jpg",
+      "credit_id": "64406bc8e24b9305859f51ce",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

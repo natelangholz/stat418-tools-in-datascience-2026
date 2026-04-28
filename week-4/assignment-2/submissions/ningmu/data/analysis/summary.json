@@ -1,0 +1,191 @@
+{
+  "n_movies": 50,
+  "n_with_tmdb_rating": 50,
+  "n_with_letterboxd_rating": 41,
+  "rating": {
+    "n": 41,
+    "pearson": 0.508097085288369
+  },
+  "genres": {
+    "top_genres": [
+      {
+        "genre": "Adventure",
+        "count": 17
+      },
+      {
+        "genre": "Thriller",
+        "count": 15
+      },
+      {
+        "genre": "Action",
+        "count": 15
+      },
+      {
+        "genre": "Horror",
+        "count": 13
+      },
+      {
+        "genre": "Comedy",
+        "count": 13
+      },
+      {
+        "genre": "Science Fiction",
+        "count": 10
+      },
+      {
+        "genre": "Drama",
+        "count": 9
+      },
+      {
+        "genre": "Mystery",
+        "count": 8
+      },
+      {
+        "genre": "Crime",
+        "count": 8
+      },
+      {
+        "genre": "Animation",
+        "count": 7
+      }
+    ],
+    "avg_rating_by_genre": [
+      {
+        "genre": "Family",
+        "mean_rating": 7.263000000000001,
+        "n": 6
+      },
+      {
+        "genre": "Science Fiction",
+        "mean_rating": 7.181900000000001,
+        "n": 10
+      },
+      {
+        "genre": "Romance",
+        "mean_rating": 7.153,
+        "n": 3
+      },
+      {
+        "genre": "Drama",
+        "mean_rating": 6.964,
+        "n": 9
+      },
+      {
+        "genre": "Adventure",
+        "mean_rating": 6.848823529411765,
+        "n": 17
+      },
+      {
+        "genre": "Comedy",
+        "mean_rating": 6.804846153846153,
+        "n": 13
+      },
+      {
+        "genre": "Fantasy",
+        "mean_rating": 6.619714285714286,
+        "n": 7
+      },
+      {
+        "genre": "Action",
+        "mean_rating": 6.613733333333333,
+        "n": 15
+      },
+      {
+        "genre": "Animation",
+        "mean_rating": 6.454,
+        "n": 7
+      },
+      {
+        "genre": "Mystery",
+        "mean_rating": 6.413125,
+        "n": 8
+      },
+      {
+        "genre": "Thriller",
+        "mean_rating": 6.3915999999999995,
+        "n": 15
+      },
+      {
+        "genre": "Crime",
+        "mean_rating": 6.35925,
+        "n": 8
+      },
+      {
+        "genre": "Horror",
+        "mean_rating": 5.686076923076923,
+        "n": 13
+      },
+      {
+        "genre": "Documentary",
+        "mean_rating": 2.6675,
+        "n": 2
+      }
+    ]
+  },
+  "finance": {
+    "n": 30,
+    "pearson": 0.6159496367624601,
+    "top_profitable": [
+      {
+        "title": "Spider-Man: No Way Home",
+        "budget": 200000000.0,
+        "revenue": 1921847111.0,
+        "profit": 1721847111.0
+      },
+      {
+        "title": "Zootopia 2",
+        "budget": 150000000.0,
+        "revenue": 1868208796.0,
+        "profit": 1718208796.0
+      },
+      {
+        "title": "The Super Mario Bros. Movie",
+        "budget": 100000000.0,
+        "revenue": 1360879735.0,
+        "profit": 1260879735.0
+      },
+      {
+        "title": "Avatar: Fire and Ash",
+        "budget": 350000000.0,
+        "revenue": 1490477656.0,
+        "profit": 1140477656.0
+      },
+      {
+        "title": "The Lord of the Rings: The Return of the King",
+        "budget": 94000000.0,
+        "revenue": 1118888979.0,
+        "profit": 1024888979.0
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "budget": 93000000.0,
+        "revenue": 871368364.0,
+        "profit": 778368364.0
+      },
+      {
+        "title": "The Super Mario Galaxy Movie",
+        "budget": 110000000.0,
+        "revenue": 831474150.0,
+        "profit": 721474150.0
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "budget": 20000000.0,
+        "revenue": 733030221.0,
+        "profit": 713030221.0
+      },
+      {
+        "title": "Interstellar",
+        "budget": 165000000.0,
+        "revenue": 746606706.0,
+        "profit": 581606706.0
+      },
+      {
+        "title": "Project Hail Mary",
+        "budget": 200000000.0,
+        "revenue": 613431522.0,
+        "profit": 413431522.0
+      }
+    ]
+  }
+}

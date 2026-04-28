@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0GS6Y7QCD",
+  "id": 1613798,
+  "imdb_id": "tt37989803",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Venganza",
+  "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+  "popularity": 203.9331,
+  "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+  "production_companies": [
+    {
+      "id": 94730,
+      "logo_path": "/1fwoMRV4eUpdosHjiveHV91LaXJ.png",
+      "name": "El Estudio",
+      "origin_country": "ES"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-02-26",
+  "revenue": 0,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vengeance",
+  "video": false,
+  "vote_average": 6.962,
+  "vote_count": 91,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1134885,
+      "known_for_department": "Acting",
+      "name": "Omar Chaparro",
+      "original_name": "Omar Chaparro",
+      "popularity": 34.1174,
+      "profile_path": "/fAIDrbtyHBcDDbRdRZ3bvNesKU7.jpg",
+      "cast_id": 1,
+      "character": "Carlos Estrada",
+      "credit_id": "6963271e2f456c204a171e3c",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1889622,
+      "known_for_department": "Acting",
+      "name": "Alejandro Speitzer",
+      "original_name": "Alejandro Speitzer",
+      "popularity": 3.0773,
+      "profile_path": "/cV95e8sHliYBnjdz1OpZYqAywL7.jpg",
+      "cast_id": 2,
+      "character": "Miguel Díaz",
+      "credit_id": "6963272aa361b0647c364ef3",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 544442,
+      "known_for_department": "Acting",
+      "name": "Paola Nuñez",
+      "original_name": "Paola Nuñez",
+      "popularity": 5.5686,
+      "profile_path": "/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg",
+      "cast_id": 3,
+      "character": "Cnel. Gabriela Rangel",
+      "credit_id": "69632741c78aae806fd151a6",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3514938,
+      "known_for_department": "Acting",
+      "name": "Natalia Solián",
+      "original_name": "Natalia Solián",
+      "popularity": 1.9049,
+      "profile_path": "/miG7BYdOLR8DvvqdfhGpukxGZLh.jpg",
+      "cast_id": 4,
+      "character": "Dolores Ramirez 'Lola'",
+      "credit_id": "6963274c1fb918955bd152c7",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1309460,
+      "known_for_department": "Acting",
+      "name": "Luis Alberti",
+      "original_name": "Luis Alberti",
+      "popularity": 0.9005,
+      "profile_path": "/1uf6WXebWuL0oEMM2z8ulcnRro.jpg",
+      "cast_id": 5,
+      "character": "Aurelio Salazar 'Chunco'",
+      "credit_id": "6963275572e76980b8bd3e91",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2144033,
+      "known_for_department": "Writing",
+      "name": "Daniel Krauze",
+      "original_name": "Daniel Krauze",
+      "popularity": 0.1948,
+      "profile_path": null,
+      "credit_id": "696327bb5c3753ab6bbd3b86",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5945781,
+      "known_for_department": "Directing",
+      "name": "Rodrigo Valdes",
+      "original_name": "Rodrigo Valdes",
+      "popularity": 0.3282,
+      "profile_path": null,
+      "credit_id": "696bd7d1afbdcea5226896b3",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 87260,
+      "known_for_department": "Production",
+      "name": "Pablo Cruz",
+      "original_name": "Pablo Cruz",
+      "popularity": 0.1957,
+      "profile_path": "/6bZbi3kpgXk6Fi0sBrTpSw87cNc.jpg",
+      "credit_id": "699e85b7e171611dfcf22a26",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

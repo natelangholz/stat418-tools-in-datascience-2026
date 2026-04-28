@@ -1,0 +1,231 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+  "belongs_to_collection": null,
+  "budget": 200000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.amazon.com/salp/projecthailmary?hhf",
+  "id": 687163,
+  "imdb_id": "tt12042730",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Project Hail Mary",
+  "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+  "popularity": 190.373,
+  "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+  "production_companies": [
+    {
+      "id": 77973,
+      "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+      "name": "Lord Miller",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 232193,
+      "logo_path": null,
+      "name": "Open Invite Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 22842,
+      "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+      "name": "Waypoint Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-15",
+  "revenue": 613431522,
+  "runtime": 157,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Believe in the Hail Mary.",
+  "title": "Project Hail Mary",
+  "video": false,
+  "vote_average": 8.207,
+  "vote_count": 1776,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 30614,
+      "known_for_department": "Acting",
+      "name": "Ryan Gosling",
+      "original_name": "Ryan Gosling",
+      "popularity": 10.6753,
+      "profile_path": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "cast_id": 87,
+      "character": "Ryland Grace",
+      "credit_id": "69b1f6054812db78124ef8fe",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2096164,
+      "known_for_department": "Acting",
+      "name": "James Ortiz",
+      "original_name": "James Ortiz",
+      "popularity": 1.5488,
+      "profile_path": "/zYYDXniHb36mjG7xK59r9IoOKvt.jpg",
+      "cast_id": 95,
+      "character": "Rocky (voice)",
+      "credit_id": "69b25524eebf9bc41921d1a0",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 7152,
+      "known_for_department": "Acting",
+      "name": "Sandra Hüller",
+      "original_name": "Sandra Hüller",
+      "popularity": 3.6702,
+      "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg",
+      "cast_id": 88,
+      "character": "Eva Stratt",
+      "credit_id": "69b25470d5362088ae21d1af",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2320708,
+      "known_for_department": "Acting",
+      "name": "Lionel Boyce",
+      "original_name": "Lionel Boyce",
+      "popularity": 1.0859,
+      "profile_path": "/hpIxX5nkfA3pWCW8rYkEUCSBVyS.jpg",
+      "cast_id": 89,
+      "character": "Carl",
+      "credit_id": "69b254822e3d5e39b621d1c1",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1454946,
+      "known_for_department": "Acting",
+      "name": "Milana Vayntrub",
+      "original_name": "Milana Vayntrub",
+      "popularity": 4.2279,
+      "profile_path": "/i5Cou9ExwTZvRRtl79V75CsI7oC.jpg",
+      "cast_id": 91,
+      "character": "Olesya Ilyukhina",
+      "credit_id": "69b254a805c13524b64efaaa",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1774412,
+      "known_for_department": "Production",
+      "name": "Rachel O'Connor",
+      "original_name": "Rachel O'Connor",
+      "popularity": 0.145,
+      "profile_path": null,
+      "credit_id": "661776780a517c017dffb7ef",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 30614,
+      "known_for_department": "Acting",
+      "name": "Ryan Gosling",
+      "original_name": "Ryan Gosling",
+      "popularity": 10.6753,
+      "profile_path": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
+      "credit_id": "5e7eb05f70309f0012604527",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 107446,
+      "known_for_department": "Production",
+      "name": "Phil Lord",
+      "original_name": "Phil Lord",
+      "popularity": 1.6336,
+      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg",
+      "credit_id": "5ebf24c779b3d4001b91c0ff",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 155267,
+      "known_for_department": "Production",
+      "name": "Christopher Miller",
+      "original_name": "Christopher Miller",
+      "popularity": 1.608,
+      "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg",
+      "credit_id": "5ebf24e7bc8abc0022c516a8",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1425616,
+      "known_for_department": "Production",
+      "name": "Amy Pascal",
+      "original_name": "Amy Pascal",
+      "popularity": 0.4997,
+      "profile_path": "/texxoBV4naFHyuSii6jyxlfuEvK.jpg",
+      "credit_id": "5ebf29c29979d2001f2b1b7c",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

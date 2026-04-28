@@ -1,0 +1,2107 @@
+[
+  {
+    "tmdb_id":1010755,
+    "title":"The Strangers: Chapter 3",
+    "original_title":"The Strangers: Chapter 3",
+    "release_date":"2026-02-05T00:00:00.000",
+    "year":2026,
+    "runtime":92,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "budget":8500000.0,
+    "revenue":9191988.0,
+    "tmdb_rating":5.574,
+    "tmdb_vote_count":122,
+    "original_language":"en",
+    "production_companies":[
+      "Lionsgate",
+      "Fifth Element Productions",
+      "Lipsync Productions",
+      "Sherbone Media",
+      "Stream Media"
+    ],
+    "cast":[
+      "Madelaine Petsch",
+      "Richard Brake",
+      "Ema Horvath",
+      "Gabriel Basso",
+      "Pedro Leandro"
+    ],
+    "crew_top":[
+      "Alan R. Cohen (Writer)",
+      "Alan Freedland (Writer)",
+      "Renny Harlin (Director)",
+      "Courtney Solomon (Producer)",
+      "Mark Canton (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-strangers-chapter-3\/",
+    "letterboxd_rating":1.57,
+    "letterboxd_fans":23.0,
+    "letterboxd_ok":true,
+    "profit":691988.0,
+    "roi":0.0814103529
+  },
+  {
+    "tmdb_id":1084242,
+    "title":"Zootopia 2",
+    "original_title":"Zootopia 2",
+    "release_date":"2025-11-26T00:00:00.000",
+    "year":2025,
+    "runtime":108,
+    "genres":[
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Mystery"
+    ],
+    "budget":150000000.0,
+    "revenue":1868208796.0,
+    "tmdb_rating":7.607,
+    "tmdb_vote_count":2619,
+    "original_language":"en",
+    "production_companies":[
+      "Walt Disney Animation Studios",
+      "Walt Disney Animation Studios"
+    ],
+    "cast":[
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Ke Huy Quan",
+      "Fortune Feimster",
+      "Andy Samberg"
+    ],
+    "crew_top":[
+      "Yvett Merino (Producer)",
+      "Jared Bush (Writer)",
+      "Jared Bush (Director)",
+      "Byron Howard (Director)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/zootopia-2\/",
+    "letterboxd_rating":3.69,
+    "letterboxd_fans":4300.0,
+    "letterboxd_ok":true,
+    "profit":1718208796.0,
+    "roi":11.4547253067
+  },
+  {
+    "tmdb_id":1084577,
+    "title":"Balls Up",
+    "original_title":"Balls Up",
+    "release_date":"2026-04-15T00:00:00.000",
+    "year":2026,
+    "runtime":104,
+    "genres":[
+      "Comedy",
+      "Action",
+      "Adventure"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":5.67,
+    "tmdb_vote_count":141,
+    "original_language":"en",
+    "production_companies":[
+      "Skydance Media",
+      "Reese Wernick Productions",
+      "Amazon MGM Studios"
+    ],
+    "cast":[
+      "Mark Wahlberg",
+      "Paul Walter Hauser",
+      "Sacha Baron Cohen",
+      "Benjamin Bratt",
+      "Luciano Szafir"
+    ],
+    "crew_top":[
+      "Peter Farrelly (Director)",
+      "David Ellison (Producer)",
+      "Dana Goldberg (Producer)",
+      "Don Granger (Producer)",
+      "Paul Wernick (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/balls-up\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":10867,
+    "title":"Malena",
+    "original_title":"Mal\u00e8na",
+    "release_date":"2000-10-27T00:00:00.000",
+    "year":2000,
+    "runtime":108,
+    "genres":[
+      "Drama"
+    ],
+    "budget":null,
+    "revenue":14493284.0,
+    "tmdb_rating":7.4,
+    "tmdb_vote_count":2478,
+    "original_language":"it",
+    "production_companies":[
+      "Medusa Film",
+      "Miramax",
+      "Pacific Pictures",
+      "Tele+"
+    ],
+    "cast":[
+      "Monica Bellucci",
+      "Giuseppe Sulfaro",
+      "Luciano Federico",
+      "Matilde Piana",
+      "Pietro Notarianni"
+    ],
+    "crew_top":[
+      "Giuseppe Tornatore (Director)",
+      "Harvey Weinstein (Producer)",
+      "Carlo Bernasconi (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/malena\/",
+    "letterboxd_rating":3.58,
+    "letterboxd_fans":2400.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1107166,
+    "title":"Psycho Killer",
+    "original_title":"Psycho Killer",
+    "release_date":"2026-02-19T00:00:00.000",
+    "year":2026,
+    "runtime":91,
+    "genres":[
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "budget":10000000.0,
+    "revenue":2376805.0,
+    "tmdb_rating":5.513,
+    "tmdb_vote_count":39,
+    "original_language":"en",
+    "production_companies":[
+      "New Regency Pictures",
+      "Vertigo Entertainment",
+      "Constantin Film",
+      "Regency Enterprises"
+    ],
+    "cast":[
+      "Georgina Campbell",
+      "James Preston Rogers",
+      "Malcolm McDowell",
+      "Logan Miller",
+      "Grace Dove"
+    ],
+    "crew_top":[
+      "Andrew Kevin Walker (Producer)",
+      "Andrew Kevin Walker (Writer)",
+      "Gavin Polone (Director)",
+      "Roy Lee (Producer)",
+      "Matt Berenson (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/psycho-killer\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":-7623195.0,
+    "roi":-0.7623195
+  },
+  {
+    "tmdb_id":1115544,
+    "title":"Mike & Nick & Nick & Alice",
+    "original_title":"Mike & Nick & Nick & Alice",
+    "release_date":"2026-03-14T00:00:00.000",
+    "year":2026,
+    "runtime":107,
+    "genres":[
+      "Comedy",
+      "Science Fiction",
+      "Crime"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":6.761,
+    "tmdb_vote_count":273,
+    "original_language":"en",
+    "production_companies":[
+      "20th Century Studios",
+      "Mad Chance"
+    ],
+    "cast":[
+      "James Marsden",
+      "Vince Vaughn",
+      "Eiza Gonz\u00e1lez",
+      "Keith David",
+      "Jimmy Tatro"
+    ],
+    "crew_top":[
+      "Andrew Lazar (Producer)",
+      "BenDavid Grabinski (Writer)",
+      "BenDavid Grabinski (Director)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/mike-nick-nick-alice\/",
+    "letterboxd_rating":3.0,
+    "letterboxd_fans":30.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1159559,
+    "title":"Scream 7",
+    "original_title":"Scream 7",
+    "release_date":"2026-02-25T00:00:00.000",
+    "year":2026,
+    "runtime":114,
+    "genres":[
+      "Horror",
+      "Mystery",
+      "Crime"
+    ],
+    "budget":45000000.0,
+    "revenue":213819468.0,
+    "tmdb_rating":6.06,
+    "tmdb_vote_count":803,
+    "original_language":"en",
+    "production_companies":[
+      "Paramount Pictures",
+      "Spyglass Media Group",
+      "Project X Entertainment"
+    ],
+    "cast":[
+      "Neve Campbell",
+      "Courteney Cox",
+      "Isabel May",
+      "Jasmin Savoy Brown",
+      "Mason Gooding"
+    ],
+    "crew_top":[
+      "William Sherak (Producer)",
+      "Paul Neinstein (Producer)",
+      "Kevin Williamson (Director)",
+      "James Vanderbilt (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/scream-7\/",
+    "letterboxd_rating":2.24,
+    "letterboxd_fans":259.0,
+    "letterboxd_ok":true,
+    "profit":168819468.0,
+    "roi":3.7515437333
+  },
+  {
+    "tmdb_id":1171145,
+    "title":"Crime 101",
+    "original_title":"Crime 101",
+    "release_date":"2026-02-11T00:00:00.000",
+    "year":2026,
+    "runtime":141,
+    "genres":[
+      "Crime",
+      "Thriller"
+    ],
+    "budget":90000000.0,
+    "revenue":72824188.0,
+    "tmdb_rating":6.94,
+    "tmdb_vote_count":794,
+    "original_language":"en",
+    "production_companies":[
+      "Working Title Films",
+      "The Story Factory",
+      "RAW",
+      "Amazon MGM Studios",
+      "Wild State"
+    ],
+    "cast":[
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Halle Berry",
+      "Barry Keoghan",
+      "Monica Barbaro"
+    ],
+    "crew_top":[
+      "Bart Layton (Director)",
+      "Chris Hemsworth (Producer)",
+      "Ben Grayson (Producer)",
+      "Eric Fellner (Producer)",
+      "Derrin Schlesinger (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/crime-101\/",
+    "letterboxd_rating":3.11,
+    "letterboxd_fans":110.0,
+    "letterboxd_ok":true,
+    "profit":-17175812.0,
+    "roi":-0.1908423556
+  },
+  {
+    "tmdb_id":1193501,
+    "title":"Whistle",
+    "original_title":"Whistle",
+    "release_date":"2026-01-20T00:00:00.000",
+    "year":2026,
+    "runtime":100,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "budget":2000000.0,
+    "revenue":4633854.0,
+    "tmdb_rating":6.093,
+    "tmdb_vote_count":273,
+    "original_language":"en",
+    "production_companies":[
+      "No Trace Camping",
+      "Wild Atlantic Pictures"
+    ],
+    "cast":[
+      "Dafne Keen",
+      "Sophie N\u00e9lisse",
+      "Alissa Skovbye",
+      "Jhaleil Swaby",
+      "Sky Yang"
+    ],
+    "crew_top":[
+      "Owen Egerton (Writer)",
+      "David Gross (Producer)",
+      "Macdara Kelleher (Producer)",
+      "Corin Hardy (Director)",
+      "Whitney Brown (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/whistle\/",
+    "letterboxd_rating":3.16,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":2633854.0,
+    "roi":1.316927
+  },
+  {
+    "tmdb_id":1198994,
+    "title":"Send Help",
+    "original_title":"Send Help",
+    "release_date":"2026-01-22T00:00:00.000",
+    "year":2026,
+    "runtime":113,
+    "genres":[
+      "Horror",
+      "Thriller",
+      "Comedy"
+    ],
+    "budget":40000000.0,
+    "revenue":94041481.0,
+    "tmdb_rating":7.025,
+    "tmdb_vote_count":1103,
+    "original_language":"en",
+    "production_companies":[
+      "Raimi Productions",
+      "20th Century Studios",
+      "TSG Entertainment"
+    ],
+    "cast":[
+      "Rachel McAdams",
+      "Dylan O'Brien",
+      "Edyll Ismail",
+      "Dennis Haysbert",
+      "Xavier Samuel"
+    ],
+    "crew_top":[
+      "Sam Raimi (Producer)",
+      "Zainab Azizi (Producer)",
+      "Sam Raimi (Director)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/send-help\/",
+    "letterboxd_rating":3.4,
+    "letterboxd_fans":757.0,
+    "letterboxd_ok":true,
+    "profit":54041481.0,
+    "roi":1.351037025
+  },
+  {
+    "tmdb_id":120,
+    "title":"The Lord of the Rings: The Fellowship of the Ring",
+    "original_title":"The Lord of the Rings: The Fellowship of the Ring",
+    "release_date":"2001-12-18T00:00:00.000",
+    "year":2001,
+    "runtime":179,
+    "genres":[
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "budget":93000000.0,
+    "revenue":871368364.0,
+    "tmdb_rating":8.4,
+    "tmdb_vote_count":27378,
+    "original_language":"en",
+    "production_companies":[
+      "New Line Cinema",
+      "WingNut Films",
+      "The Saul Zaentz Company"
+    ],
+    "cast":[
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Ian Holm"
+    ],
+    "crew_top":[
+      "Peter Jackson (Director)",
+      "Peter Jackson (Producer)",
+      "Barrie M. Osborne (Producer)",
+      "Tim Sanders (Producer)",
+      "Fran Walsh (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-lord-of-the-rings-the-fellowship-of-the-ring\/",
+    "letterboxd_rating":4.39,
+    "letterboxd_fans":104000.0,
+    "letterboxd_ok":true,
+    "profit":778368364.0,
+    "roi":8.3695523011
+  },
+  {
+    "tmdb_id":1207162,
+    "title":"Rise of the Conqueror",
+    "original_title":"Rise of the Conqueror",
+    "release_date":"2026-04-09T00:00:00.000",
+    "year":2026,
+    "runtime":119,
+    "genres":[
+      "History",
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "budget":30000000.0,
+    "revenue":null,
+    "tmdb_rating":6.333,
+    "tmdb_vote_count":6,
+    "original_language":"en",
+    "production_companies":[
+      "Mystery Box",
+      "Taurus Film",
+      "Signature Films",
+      "Signature Films",
+      "Signature Entertainment",
+      "Capture",
+      "Well Go USA Entertainment"
+    ],
+    "cast":[
+      "Christian Mortensen",
+      "Mahesh Jadu",
+      "Yulduz Rajabova",
+      "Joshua Jo",
+      "Sanzhar Madi"
+    ],
+    "crew_top":[
+      "Jacob Schwarz (Director)",
+      "Matthew Greene (Writer)",
+      "Matthew Siemers (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/rise-of-the-conqueror\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":122,
+    "title":"The Lord of the Rings: The Return of the King",
+    "original_title":"The Lord of the Rings: The Return of the King",
+    "release_date":"2003-12-17T00:00:00.000",
+    "year":2003,
+    "runtime":201,
+    "genres":[
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "budget":94000000.0,
+    "revenue":1118888979.0,
+    "tmdb_rating":8.496,
+    "tmdb_vote_count":26373,
+    "original_language":"en",
+    "production_companies":[
+      "New Line Cinema",
+      "WingNut Films",
+      "The Saul Zaentz Company"
+    ],
+    "cast":[
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Andy Serkis"
+    ],
+    "crew_top":[
+      "Peter Jackson (Director)",
+      "Peter Jackson (Producer)",
+      "Barrie M. Osborne (Producer)",
+      "Fran Walsh (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-lord-of-the-rings-the-return-of-the-king\/",
+    "letterboxd_rating":4.55,
+    "letterboxd_fans":124000.0,
+    "letterboxd_ok":true,
+    "profit":1024888979.0,
+    "roi":10.9030742447
+  },
+  {
+    "tmdb_id":1226863,
+    "title":"The Super Mario Galaxy Movie",
+    "original_title":"The Super Mario Galaxy Movie",
+    "release_date":"2026-04-01T00:00:00.000",
+    "year":2026,
+    "runtime":98,
+    "genres":[
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "budget":110000000.0,
+    "revenue":831474150.0,
+    "tmdb_rating":6.774,
+    "tmdb_vote_count":642,
+    "original_language":"en",
+    "production_companies":[
+      "Illumination",
+      "Universal Pictures",
+      "Nintendo"
+    ],
+    "cast":[
+      "Chris Pratt",
+      "Charlie Day",
+      "Anya Taylor-Joy",
+      "Jack Black",
+      "Keegan-Michael Key"
+    ],
+    "crew_top":[
+      "Michael Jelenic (Director)",
+      "Aaron Horvath (Director)",
+      "Shigeru Miyamoto (Producer)",
+      "Chris Meledandri (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-super-mario-galaxy-movie\/",
+    "letterboxd_rating":2.92,
+    "letterboxd_fans":734.0,
+    "letterboxd_ok":true,
+    "profit":721474150.0,
+    "roi":6.5588559091
+  },
+  {
+    "tmdb_id":1234731,
+    "title":"Anaconda",
+    "original_title":"Anaconda",
+    "release_date":"2025-12-24T00:00:00.000",
+    "year":2025,
+    "runtime":100,
+    "genres":[
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "budget":45000000.0,
+    "revenue":135148320.0,
+    "tmdb_rating":5.88,
+    "tmdb_vote_count":1059,
+    "original_language":"en",
+    "production_companies":[
+      "Fully Formed Entertainment",
+      "Columbia Pictures",
+      "TSG Entertainment"
+    ],
+    "cast":[
+      "Jack Black",
+      "Paul Rudd",
+      "Steve Zahn",
+      "Thandiwe Newton",
+      "Daniela Melchior"
+    ],
+    "crew_top":[
+      "Tom Gormican (Director)",
+      "Brad Fuller (Producer)",
+      "Andrew Form (Producer)",
+      "Kevin Etten (Producer)",
+      "Tom Gormican (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/anaconda\/",
+    "letterboxd_rating":2.39,
+    "letterboxd_fans":119.0,
+    "letterboxd_ok":true,
+    "profit":90148320.0,
+    "roi":2.003296
+  },
+  {
+    "tmdb_id":1242898,
+    "title":"Predator: Badlands",
+    "original_title":"Predator: Badlands",
+    "release_date":"2025-11-05T00:00:00.000",
+    "year":2025,
+    "runtime":107,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "budget":105000000.0,
+    "revenue":184500000.0,
+    "tmdb_rating":7.689,
+    "tmdb_vote_count":2673,
+    "original_language":"en",
+    "production_companies":[
+      "20th Century Studios",
+      "Lawrence Gordon Productions",
+      "Davis Entertainment",
+      "Toberoff Productions",
+      "TSG Entertainment"
+    ],
+    "cast":[
+      "Elle Fanning",
+      "Dimitrius Schuster-Koloamatangi",
+      "Ravi Narayan",
+      "Michael Homick",
+      "Stefan Grube"
+    ],
+    "crew_top":[
+      "Dan Trachtenberg (Director)",
+      "John Davis (Producer)",
+      "Brent O'Connor (Producer)",
+      "Marc Toberoff (Producer)",
+      "Dan Trachtenberg (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/predator-badlands\/",
+    "letterboxd_rating":3.5,
+    "letterboxd_fans":528.0,
+    "letterboxd_ok":true,
+    "profit":79500000.0,
+    "roi":0.7571428571
+  },
+  {
+    "tmdb_id":1265609,
+    "title":"War Machine",
+    "original_title":"War Machine",
+    "release_date":"2026-02-12T00:00:00.000",
+    "year":2026,
+    "runtime":110,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "budget":73000000.0,
+    "revenue":null,
+    "tmdb_rating":7.231,
+    "tmdb_vote_count":1525,
+    "original_language":"en",
+    "production_companies":[
+      "Lionsgate",
+      "Hidden Pictures",
+      "Huge Film",
+      "Range Media Partners"
+    ],
+    "cast":[
+      "Alan Ritchson",
+      "Dennis Quaid",
+      "Stephan James",
+      "Jai Courtney",
+      "Esai Morales"
+    ],
+    "crew_top":[
+      "Patrick Hughes (Director)",
+      "Todd Lieberman (Producer)",
+      "Patrick Hughes (Producer)",
+      "Alexander Young (Producer)",
+      "Rich Cook (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/war-machine\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1270125,
+    "title":"Monster on a Plane",
+    "original_title":"Monster on a Plane",
+    "release_date":"2024-11-07T00:00:00.000",
+    "year":2024,
+    "runtime":88,
+    "genres":[
+      "Horror",
+      "Comedy"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":3.7,
+    "tmdb_vote_count":25,
+    "original_language":"en",
+    "production_companies":[
+
+    ],
+    "cast":[
+      "Eva Habermann",
+      "Robin Czerny",
+      "Philippe Brenninkmeyer",
+      "Dieter Landuris",
+      "Fred Aaron Blake"
+    ],
+    "crew_top":[
+      "Ezra Tsegaye (Director)",
+      "Ezra Tsegaye (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/monster-on-a-plane\/",
+    "letterboxd_rating":2.12,
+    "letterboxd_fans":1.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1290417,
+    "title":"Thrash",
+    "original_title":"Thrash",
+    "release_date":"2026-04-10T00:00:00.000",
+    "year":2026,
+    "runtime":84,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":5.95,
+    "tmdb_vote_count":454,
+    "original_language":"en",
+    "production_companies":[
+      "Sony Pictures",
+      "Hyperobject Industries"
+    ],
+    "cast":[
+      "Phoebe Dynevor",
+      "Whitney Peak",
+      "Djimon Hounsou",
+      "Alyla Browne",
+      "Stacy Clausen"
+    ],
+    "crew_top":[
+      "Tommy Wirkola (Director)",
+      "Adam McKay (Producer)",
+      "Kevin J. Messick (Producer)",
+      "Tommy Wirkola (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/thrash\/",
+    "letterboxd_rating":1.81,
+    "letterboxd_fans":22.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1290821,
+    "title":"Shelter",
+    "original_title":"Shelter",
+    "release_date":"2026-01-28T00:00:00.000",
+    "year":2026,
+    "runtime":107,
+    "genres":[
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "budget":50000000.0,
+    "revenue":53818282.0,
+    "tmdb_rating":6.785,
+    "tmdb_vote_count":603,
+    "original_language":"en",
+    "production_companies":[
+      "Black Bear Pictures",
+      "Punch Palace Productions",
+      "CineMachine",
+      "Stampede Ventures"
+    ],
+    "cast":[
+      "Jason Statham",
+      "Bodhi Rae Breathnach",
+      "Naomi Ackie",
+      "Daniel Mays",
+      "Harriet Walter"
+    ],
+    "crew_top":[
+      "Ward Parry (Writer)",
+      "Jason Statham (Producer)",
+      "Ric Roman Waugh (Director)",
+      "John Friedberg (Producer)",
+      "Brendon Boyea (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/shelter\/",
+    "letterboxd_rating":3.6,
+    "letterboxd_fans":583.0,
+    "letterboxd_ok":true,
+    "profit":3818282.0,
+    "roi":0.07636564
+  },
+  {
+    "tmdb_id":1297842,
+    "title":"GOAT",
+    "original_title":"GOAT",
+    "release_date":"2026-02-11T00:00:00.000",
+    "year":2026,
+    "runtime":100,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "budget":90000000.0,
+    "revenue":190508904.0,
+    "tmdb_rating":7.918,
+    "tmdb_vote_count":458,
+    "original_language":"en",
+    "production_companies":[
+      "Sony Pictures Animation",
+      "Unanimous Media",
+      "Modern Magic",
+      "Columbia Pictures",
+      "MACRO",
+      "TSG Entertainment"
+    ],
+    "cast":[
+      "Caleb McLaughlin",
+      "Gabrielle Union",
+      "Stephen Curry",
+      "Aaron Pierre",
+      "Nicola Coughlan"
+    ],
+    "crew_top":[
+      "Tyree Dillihay (Director)",
+      "Erick Peyton (Producer)",
+      "Adam Rosenberg (Producer)",
+      "Michelle Raimo Kouyate (Producer)",
+      "Stephen Curry (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/goat\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":100508904.0,
+    "roi":1.1167656
+  },
+  {
+    "tmdb_id":1304313,
+    "title":"Lee Cronin's The Mummy",
+    "original_title":"Lee Cronin's The Mummy",
+    "release_date":"2026-04-15T00:00:00.000",
+    "year":2026,
+    "runtime":133,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "budget":22000000.0,
+    "revenue":65451688.0,
+    "tmdb_rating":6.8,
+    "tmdb_vote_count":150,
+    "original_language":"en",
+    "production_companies":[
+      "Atomic Monster",
+      "Blumhouse Productions",
+      "New Line Cinema",
+      "Domain Entertainment",
+      "Wicked\/Good"
+    ],
+    "cast":[
+      "Jack Reynor",
+      "Laia Costa",
+      "May Calamawy",
+      "Natalie Grace",
+      "Shylo Molina"
+    ],
+    "crew_top":[
+      "Lee Cronin (Writer)",
+      "Lee Cronin (Director)",
+      "James Wan (Producer)",
+      "Jason Blum (Producer)",
+      "John Keville (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/lee-cronins-the-mummy\/",
+    "letterboxd_rating":2.75,
+    "letterboxd_fans":93.0,
+    "letterboxd_ok":true,
+    "profit":43451688.0,
+    "roi":1.9750767273
+  },
+  {
+    "tmdb_id":1311031,
+    "title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "original_title":"\u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765",
+    "release_date":"2025-07-18T00:00:00.000",
+    "year":2025,
+    "runtime":156,
+    "genres":[
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "budget":20000000.0,
+    "revenue":733030221.0,
+    "tmdb_rating":7.7,
+    "tmdb_vote_count":812,
+    "original_language":"ja",
+    "production_companies":[
+      "ufotable",
+      "Aniplex",
+      "Shueisha"
+    ],
+    "cast":[
+      "Natsuki Hanae",
+      "Takahiro Sakurai",
+      "Akira Ishida",
+      "Hiro Shimono",
+      "Yoshimasa Hosoya"
+    ],
+    "crew_top":[
+      "Haruo Sotozaki (Director)",
+      "Masanori Miyake (Producer)",
+      "Yuma Takahashi (Producer)",
+      "Tatsuro Hayashi (Producer)",
+      "Takao Shimazaki (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/demon-slayer-kimetsu-no-yaiba-infinity-castle\/",
+    "letterboxd_rating":4.04,
+    "letterboxd_fans":4900.0,
+    "letterboxd_ok":true,
+    "profit":713030221.0,
+    "roi":35.65151105
+  },
+  {
+    "tmdb_id":1318447,
+    "title":"Apex",
+    "original_title":"Apex",
+    "release_date":"2026-04-24T00:00:00.000",
+    "year":2026,
+    "runtime":96,
+    "genres":[
+      "Thriller",
+      "Action"
+    ],
+    "budget":23.0,
+    "revenue":22.0,
+    "tmdb_rating":6.536,
+    "tmdb_vote_count":320,
+    "original_language":"en",
+    "production_companies":[
+      "Chernin Entertainment",
+      "Ian Bryce Productions",
+      "Secret Menu",
+      "RVK Studios"
+    ],
+    "cast":[
+      "Charlize Theron",
+      "Taron Egerton",
+      "Eric Bana",
+      "Caitlin Stasey",
+      "Bessie Holland"
+    ],
+    "crew_top":[
+      "Baltasar Korm\u00e1kur (Director)",
+      "Charlize Theron (Producer)",
+      "Beth Kono (Producer)",
+      "A.J. Dix (Producer)",
+      "Baltasar Korm\u00e1kur (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/apex\/",
+    "letterboxd_rating":2.83,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":-1.0,
+    "roi":-0.0434782609
+  },
+  {
+    "tmdb_id":1327819,
+    "title":"Hoppers",
+    "original_title":"Hoppers",
+    "release_date":"2026-03-04T00:00:00.000",
+    "year":2026,
+    "runtime":105,
+    "genres":[
+      "Animation",
+      "Family",
+      "Science Fiction",
+      "Comedy",
+      "Adventure"
+    ],
+    "budget":150000000.0,
+    "revenue":370156679.0,
+    "tmdb_rating":7.59,
+    "tmdb_vote_count":527,
+    "original_language":"en",
+    "production_companies":[
+      "Pixar"
+    ],
+    "cast":[
+      "Piper Curda",
+      "Bobby Moynihan",
+      "Jon Hamm",
+      "Kathy Najimy",
+      "Dave Franco"
+    ],
+    "crew_top":[
+      "Nicole Paradis Grindle (Producer)",
+      "Daniel Chong (Director)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/hoppers\/",
+    "letterboxd_rating":3.78,
+    "letterboxd_fans":1500.0,
+    "letterboxd_ok":true,
+    "profit":220156679.0,
+    "roi":1.4677111933
+  },
+  {
+    "tmdb_id":1352874,
+    "title":"The Crucifix: Blood of the Exorcist",
+    "original_title":"The Crucifix: Blood of the Exorcist",
+    "release_date":"2025-01-09T00:00:00.000",
+    "year":2025,
+    "runtime":92,
+    "genres":[
+      "Horror"
+    ],
+    "budget":100000.0,
+    "revenue":82873.0,
+    "tmdb_rating":6.033,
+    "tmdb_vote_count":30,
+    "original_language":"en",
+    "production_companies":[
+      "Equalize Entertainment"
+    ],
+    "cast":[
+      "Hannaj Bang Bendz",
+      "Dean Kilbey",
+      "Nicholas Anscombe",
+      "Tom Carter",
+      "Darren Le Fevre"
+    ],
+    "crew_top":[
+      "Stephen Roach (Director)",
+      "Robert Howgate (Writer)",
+      "Glenn Kendrick Ackermann (Producer)",
+      "Robert Howgate (Producer)",
+      "David Marsh (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-crucifix-blood-of-the-exorcist\/",
+    "letterboxd_rating":2.31,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":-17127.0,
+    "roi":-0.17127
+  },
+  {
+    "tmdb_id":1368166,
+    "title":"The Housemaid",
+    "original_title":"The Housemaid",
+    "release_date":"2025-12-18T00:00:00.000",
+    "year":2025,
+    "runtime":131,
+    "genres":[
+      "Mystery",
+      "Thriller"
+    ],
+    "budget":35000000.0,
+    "revenue":401725460.0,
+    "tmdb_rating":7.227,
+    "tmdb_vote_count":1938,
+    "original_language":"en",
+    "production_companies":[
+      "Lionsgate",
+      "Media Capital Technologies",
+      "Hidden Pictures",
+      "Pretty Dangerous Pictures"
+    ],
+    "cast":[
+      "Sydney Sweeney",
+      "Amanda Seyfried",
+      "Brandon Sklenar",
+      "Michele Morrone",
+      "Elizabeth Perkins"
+    ],
+    "crew_top":[
+      "Paul Feig (Director)",
+      "Paul Feig (Producer)",
+      "Todd Lieberman (Producer)",
+      "Laura Allen Fischer (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-housemaid\/",
+    "letterboxd_rating":3.75,
+    "letterboxd_fans":79.0,
+    "letterboxd_ok":true,
+    "profit":366725460.0,
+    "roi":10.4778702857
+  },
+  {
+    "tmdb_id":1419406,
+    "title":"The Shadow's Edge",
+    "original_title":"\u6355\u98ce\u8ffd\u5f71",
+    "release_date":"2025-08-16T00:00:00.000",
+    "year":2025,
+    "runtime":142,
+    "genres":[
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "budget":null,
+    "revenue":174400000.0,
+    "tmdb_rating":7.213,
+    "tmdb_vote_count":591,
+    "original_language":"zh",
+    "production_companies":[
+      "iQIYI Pictures \uff08\u91cd\u590d \u540c iQiyi Motion Pictures\uff09",
+      "Tao Piao Piao \u6dd8\u7968\u7968",
+      "Hairun Pictures Company",
+      "Dong Fang Chen Xiang"
+    ],
+    "cast":[
+      "Jackie Chan",
+      "Zhang Zifeng",
+      "Tony Leung Ka-fai",
+      "Ci Sha",
+      "Jun"
+    ],
+    "crew_top":[
+      "Larry Yang (Director)",
+      "Larry Yang (Writer)",
+      "Victoria Hon (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-shadows-edge\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1433828,
+    "title":"Carmencita",
+    "original_title":"Carmencita",
+    "release_date":"2019-10-09T00:00:00.000",
+    "year":2019,
+    "runtime":27,
+    "genres":[
+      "Documentary"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":0.0,
+    "tmdb_vote_count":0,
+    "original_language":"es",
+    "production_companies":[
+      "Chav\u00f3n La Escuela de Dise\u00f1o"
+    ],
+    "cast":[
+      "Nayibe Tavares-Abel",
+      "Guillermin Saiz Taveres",
+      "Ram\u00f3n Tavares Cross",
+      "Juan Tavarez Cross",
+      "Ercilia Ortiz"
+    ],
+    "crew_top":[
+      "Nayibe Tavares-Abel (Director)",
+      "Nayibe Tavares-Abel (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/carmencita\/",
+    "letterboxd_rating":3.02,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1470130,
+    "title":"The Mortuary Assistant",
+    "original_title":"The Mortuary Assistant",
+    "release_date":"2026-02-13T00:00:00.000",
+    "year":2026,
+    "runtime":91,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":5.488,
+    "tmdb_vote_count":81,
+    "original_language":"en",
+    "production_companies":[
+      "Epic Pictures Group",
+      "Creativity Capital",
+      "Dread",
+      "Traverse Terror"
+    ],
+    "cast":[
+      "Willa Holland",
+      "Paul Sparks",
+      "John Adams",
+      "Mark Steger",
+      "Shelly Gibson"
+    ],
+    "crew_top":[
+      "Jeremiah Kipp (Director)",
+      "Patrick Ewald (Producer)",
+      "Cole Payne (Producer)",
+      "Brian Clarke (Writer)",
+      "Tracee Beebe (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-mortuary-assistant\/",
+    "letterboxd_rating":1.58,
+    "letterboxd_fans":5.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1480387,
+    "title":"undertone",
+    "original_title":"undertone",
+    "release_date":"2026-03-12T00:00:00.000",
+    "year":2026,
+    "runtime":94,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "budget":500000.0,
+    "revenue":21016308.0,
+    "tmdb_rating":6.517,
+    "tmdb_vote_count":115,
+    "original_language":"en",
+    "production_companies":[
+      "Black Fawn Films",
+      "Slaterverse Pictures",
+      "KINO Studios",
+      "Spooky Pictures",
+      "DimensionGate",
+      "Feel Everything Productions"
+    ],
+    "cast":[
+      "Nina Kiri",
+      "Adam DiMarco",
+      "Mich\u00e8le Duquet",
+      "Keana Bastidas",
+      "Jeff Yung"
+    ],
+    "crew_top":[
+      "Ian Tuason (Director)",
+      "Ian Tuason (Writer)",
+      "Dan Slater (Producer)",
+      "Cody Calahan (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/undertone\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":20516308.0,
+    "roi":41.032616
+  },
+  {
+    "tmdb_id":1499885,
+    "title":"The Red Book Ritual: Gates of Hell",
+    "original_title":"The Red Book Ritual: Gates of Hell",
+    "release_date":"2025-09-18T00:00:00.000",
+    "year":2025,
+    "runtime":0,
+    "genres":[
+      "Horror"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":3.286,
+    "tmdb_vote_count":7,
+    "original_language":"en",
+    "production_companies":[
+      "Black Mandala",
+      "Nightwheel Pictures"
+    ],
+    "cast":[
+      "Mario Gonz\u00e1lez Mart\u00ed",
+      "Lizzie G\u00f3mez",
+      "Matias Miranda",
+      "Tain\u00e1 Lipinski",
+      "Bianca Vacchetta"
+    ],
+    "crew_top":[
+      "Carlos Baena (Director)",
+      "Hugo Cardozo (Director)",
+      "Nathan Crooker (Director)",
+      "Sonny Laguna (Director)",
+      "Hern\u00e1n Moyano (Director)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-red-book-ritual-gates-of-hell\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1523145,
+    "title":"Your Heart Will Be Broken",
+    "original_title":"\u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e",
+    "release_date":"2026-03-26T00:00:00.000",
+    "year":2026,
+    "runtime":134,
+    "genres":[
+      "Romance",
+      "Drama"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":6.9,
+    "tmdb_vote_count":74,
+    "original_language":"ru",
+    "production_companies":[
+      "All Media A Start Company",
+      "START Studio",
+      "Sverdlovsk Film Studio",
+      "Yellow, Black & White",
+      "Premier Studios"
+    ],
+    "cast":[
+      "Daniel Vegas",
+      "Veronika Zhuravleva",
+      "Ivan Trushin",
+      "Maksim Saprykin",
+      "Alya Mayer"
+    ],
+    "crew_top":[
+      "Mikhail Vaynberg (Director)",
+      "Georgy Shabanov (Producer)",
+      "Lusya Dadalyan (Producer)",
+      "Alyona Zvantsova (Producer)",
+      "Viktor Shadrin (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/your-heart-will-be-broken\/",
+    "letterboxd_rating":2.08,
+    "letterboxd_fans":34.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":157336,
+    "title":"Interstellar",
+    "original_title":"Interstellar",
+    "release_date":"2014-11-05T00:00:00.000",
+    "year":2014,
+    "runtime":169,
+    "genres":[
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "budget":165000000.0,
+    "revenue":746606706.0,
+    "tmdb_rating":8.471,
+    "tmdb_vote_count":39491,
+    "original_language":"en",
+    "production_companies":[
+      "Legendary Pictures",
+      "Syncopy",
+      "Lynda Obst Productions"
+    ],
+    "cast":[
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Michael Caine",
+      "Jessica Chastain",
+      "Casey Affleck"
+    ],
+    "crew_top":[
+      "Lynda Obst (Producer)",
+      "Christopher Nolan (Producer)",
+      "Emma Thomas (Producer)",
+      "Jonathan Nolan (Writer)",
+      "Christopher Nolan (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/interstellar\/",
+    "letterboxd_rating":4.44,
+    "letterboxd_fans":512000.0,
+    "letterboxd_ok":true,
+    "profit":581606706.0,
+    "roi":3.5248891273
+  },
+  {
+    "tmdb_id":1601797,
+    "title":"\u00bfQuieres Ser Mi Novia?",
+    "original_title":"\u00bfQuieres Ser Mi Novia?",
+    "release_date":"2026-02-12T00:00:00.000",
+    "year":2026,
+    "runtime":97,
+    "genres":[
+      "Comedy",
+      "Romance"
+    ],
+    "budget":null,
+    "revenue":197388.0,
+    "tmdb_rating":8.459,
+    "tmdb_vote_count":49,
+    "original_language":"es",
+    "production_companies":[
+      "Videocine"
+    ],
+    "cast":[
+      "Ludwika Paleta",
+      "Juanpa Zurita",
+      "Harold Azuara",
+      "Yuriria del Valle",
+      "Mois\u00e9s Arizmendi"
+    ],
+    "crew_top":[
+      "Ihtzi Hurtado (Director)",
+      "Ihtzi Hurtado (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/quieres-ser-mi-novia\/",
+    "letterboxd_rating":2.85,
+    "letterboxd_fans":3.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1613798,
+    "title":"Vengeance",
+    "original_title":"Venganza",
+    "release_date":"2026-02-26T00:00:00.000",
+    "year":2026,
+    "runtime":103,
+    "genres":[
+      "Action",
+      "Thriller"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":6.962,
+    "tmdb_vote_count":91,
+    "original_language":"es",
+    "production_companies":[
+      "El Estudio",
+      "Amazon MGM Studios"
+    ],
+    "cast":[
+      "Omar Chaparro",
+      "Alejandro Speitzer",
+      "Paola Nu\u00f1ez",
+      "Natalia Soli\u00e1n",
+      "Luis Alberti"
+    ],
+    "crew_top":[
+      "Daniel Krauze (Writer)",
+      "Rodrigo Valdes (Director)",
+      "Pablo Cruz (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/vengeance\/",
+    "letterboxd_rating":3.49,
+    "letterboxd_fans":7.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1641319,
+    "title":"Sniper: No Nation",
+    "original_title":"Sniper: No Nation",
+    "release_date":"2026-04-07T00:00:00.000",
+    "year":2026,
+    "runtime":96,
+    "genres":[
+      "Action",
+      "Thriller"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":6.271,
+    "tmdb_vote_count":35,
+    "original_language":"en",
+    "production_companies":[
+      "Destination Films",
+      "Blue Ice Pictures",
+      "Blue Ice Africa"
+    ],
+    "cast":[
+      "Chad Michael Collins",
+      "Ryan Robbins",
+      "Manuel Rodriguez-Saenz",
+      "Josh Brener",
+      "Tom Berenger"
+    ],
+    "crew_top":[
+      "Trevor Calverley (Director)",
+      "Sean Wathen (Writer)",
+      "Lance Samuels (Producer)",
+      "Haley Wiseman (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/sniper-no-nation\/",
+    "letterboxd_rating":3.02,
+    "letterboxd_fans":1.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":1659087,
+    "title":"180",
+    "original_title":"180",
+    "release_date":"2026-04-16T00:00:00.000",
+    "year":2026,
+    "runtime":94,
+    "genres":[
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":5.615,
+    "tmdb_vote_count":65,
+    "original_language":"en",
+    "production_companies":[
+      "Ten30 Pictures"
+    ],
+    "cast":[
+      "Prince Grootboom",
+      "Noxolo Dlamini",
+      "Danica De La Rey",
+      "Warren Masemola",
+      "Desmond Dube"
+    ],
+    "crew_top":[
+      "Alex Yazbek (Director)",
+      "Alex Yazbek (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/180\/",
+    "letterboxd_rating":3.22,
+    "letterboxd_fans":1.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":350,
+    "title":"The Devil Wears Prada",
+    "original_title":"The Devil Wears Prada",
+    "release_date":"2006-06-29T00:00:00.000",
+    "year":2006,
+    "runtime":109,
+    "genres":[
+      "Drama",
+      "Comedy"
+    ],
+    "budget":35000000.0,
+    "revenue":326706115.0,
+    "tmdb_rating":7.39,
+    "tmdb_vote_count":13001,
+    "original_language":"en",
+    "production_companies":[
+      "Fox 2000 Pictures",
+      "Wendy Finerman Productions",
+      "Dune Entertainment",
+      "Major Studio Partners"
+    ],
+    "cast":[
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Simon Baker"
+    ],
+    "crew_top":[
+      "Wendy Finerman (Producer)",
+      "David Frankel (Director)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-devil-wears-prada\/",
+    "letterboxd_rating":3.83,
+    "letterboxd_fans":74000.0,
+    "letterboxd_ok":true,
+    "profit":291706115.0,
+    "roi":8.3344604286
+  },
+  {
+    "tmdb_id":440249,
+    "title":"After Porn Ends 2",
+    "original_title":"After Porn Ends 2",
+    "release_date":"2017-03-28T00:00:00.000",
+    "year":2017,
+    "runtime":90,
+    "genres":[
+      "Documentary"
+    ],
+    "budget":500000.0,
+    "revenue":null,
+    "tmdb_rating":5.335,
+    "tmdb_vote_count":248,
+    "original_language":"en",
+    "production_companies":[
+      "Karbonshark",
+      "WeBros Entertainment"
+    ],
+    "cast":[
+      "Ginger Lynn",
+      "Lisa Ann",
+      "Janine Lindemulder",
+      "Chasey Lain",
+      "Tabitha Stevens"
+    ],
+    "crew_top":[
+      "Bryce Wagoner (Director)",
+      "Billy Sorrentino (Producer)",
+      "Michael Tipps (Producer)",
+      "Bryce Wagoner (Producer)",
+      "Andy Weiss (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/after-porn-ends-2\/",
+    "letterboxd_rating":2.88,
+    "letterboxd_fans":3.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":502356,
+    "title":"The Super Mario Bros. Movie",
+    "original_title":"The Super Mario Bros. Movie",
+    "release_date":"2023-04-05T00:00:00.000",
+    "year":2023,
+    "runtime":93,
+    "genres":[
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "budget":100000000.0,
+    "revenue":1360879735.0,
+    "tmdb_rating":7.589,
+    "tmdb_vote_count":10535,
+    "original_language":"en",
+    "production_companies":[
+      "Universal Pictures",
+      "Illumination",
+      "Nintendo"
+    ],
+    "cast":[
+      "Chris Pratt",
+      "Anya Taylor-Joy",
+      "Charlie Day",
+      "Jack Black",
+      "Keegan-Michael Key"
+    ],
+    "crew_top":[
+      "Chris Meledandri (Producer)",
+      "Shigeru Miyamoto (Producer)",
+      "Aaron Horvath (Director)",
+      "Michael Jelenic (Director)",
+      "Matthew Fogel (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/the-super-mario-bros-movie\/",
+    "letterboxd_rating":3.21,
+    "letterboxd_fans":2600.0,
+    "letterboxd_ok":true,
+    "profit":1260879735.0,
+    "roi":12.60879735
+  },
+  {
+    "tmdb_id":634649,
+    "title":"Spider-Man: No Way Home",
+    "original_title":"Spider-Man: No Way Home",
+    "release_date":"2021-12-15T00:00:00.000",
+    "year":2021,
+    "runtime":148,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "budget":200000000.0,
+    "revenue":1921847111.0,
+    "tmdb_rating":7.933,
+    "tmdb_vote_count":21845,
+    "original_language":"en",
+    "production_companies":[
+      "Marvel Studios",
+      "Pascal Pictures",
+      "Columbia Pictures"
+    ],
+    "cast":[
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch",
+      "Jacob Batalon",
+      "Jon Favreau"
+    ],
+    "crew_top":[
+      "Kevin Feige (Producer)",
+      "Amy Pascal (Producer)",
+      "Jon Watts (Director)",
+      "Chris McKenna (Writer)",
+      "Erik Sommers (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/spider-man-no-way-home\/",
+    "letterboxd_rating":3.83,
+    "letterboxd_fans":35000.0,
+    "letterboxd_ok":true,
+    "profit":1721847111.0,
+    "roi":8.609235555
+  },
+  {
+    "tmdb_id":687163,
+    "title":"Project Hail Mary",
+    "original_title":"Project Hail Mary",
+    "release_date":"2026-03-15T00:00:00.000",
+    "year":2026,
+    "runtime":157,
+    "genres":[
+      "Science Fiction",
+      "Adventure"
+    ],
+    "budget":200000000.0,
+    "revenue":613431522.0,
+    "tmdb_rating":8.207,
+    "tmdb_vote_count":1776,
+    "original_language":"en",
+    "production_companies":[
+      "Lord Miller",
+      "Amazon MGM Studios",
+      "Pascal Pictures",
+      "Open Invite Entertainment",
+      "Waypoint Entertainment"
+    ],
+    "cast":[
+      "Ryan Gosling",
+      "James Ortiz",
+      "Sandra H\u00fcller",
+      "Lionel Boyce",
+      "Milana Vayntrub"
+    ],
+    "crew_top":[
+      "Rachel O'Connor (Producer)",
+      "Ryan Gosling (Producer)",
+      "Phil Lord (Director)",
+      "Christopher Miller (Director)",
+      "Amy Pascal (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/project-hail-mary\/",
+    "letterboxd_rating":4.32,
+    "letterboxd_fans":98000.0,
+    "letterboxd_ok":true,
+    "profit":413431522.0,
+    "roi":2.06715761
+  },
+  {
+    "tmdb_id":7451,
+    "title":"xXx",
+    "original_title":"xXx",
+    "release_date":"2002-08-09T00:00:00.000",
+    "year":2002,
+    "runtime":124,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "budget":70000000.0,
+    "revenue":277448382.0,
+    "tmdb_rating":5.987,
+    "tmdb_vote_count":4871,
+    "original_language":"en",
+    "production_companies":[
+      "Revolution Studios"
+    ],
+    "cast":[
+      "Vin Diesel",
+      "Asia Argento",
+      "Marton Csokas",
+      "Samuel L. Jackson",
+      "Michael Roof"
+    ],
+    "crew_top":[
+      "Rob Cohen (Director)",
+      "Neal H. Moritz (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/xxx\/",
+    "letterboxd_rating":2.54,
+    "letterboxd_fans":108.0,
+    "letterboxd_ok":true,
+    "profit":207448382.0,
+    "roi":2.9635483143
+  },
+  {
+    "tmdb_id":755898,
+    "title":"War of the Worlds",
+    "original_title":"War of the Worlds",
+    "release_date":"2025-07-29T00:00:00.000",
+    "year":2025,
+    "runtime":91,
+    "genres":[
+      "Science Fiction",
+      "Thriller"
+    ],
+    "budget":10000000.0,
+    "revenue":null,
+    "tmdb_rating":4.133,
+    "tmdb_vote_count":966,
+    "original_language":"en",
+    "production_companies":[
+      "Universal Pictures",
+      "Bazelevs",
+      "Patrick Aiello Productions"
+    ],
+    "cast":[
+      "Ice Cube",
+      "Eva Longoria",
+      "Clark Gregg",
+      "Iman Benson",
+      "Henry Hunter Hall"
+    ],
+    "crew_top":[
+      "Patrick Aiello (Producer)",
+      "Timur Bekmambetov (Producer)",
+      "Rich Lee (Director)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/war-of-the-worlds\/",
+    "letterboxd_rating":3.35,
+    "letterboxd_fans":2400.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":83533,
+    "title":"Avatar: Fire and Ash",
+    "original_title":"Avatar: Fire and Ash",
+    "release_date":"2025-12-17T00:00:00.000",
+    "year":2025,
+    "runtime":198,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "budget":350000000.0,
+    "revenue":1490477656.0,
+    "tmdb_rating":7.379,
+    "tmdb_vote_count":2743,
+    "original_language":"en",
+    "production_companies":[
+      "20th Century Studios",
+      "Lightstorm Entertainment",
+      "TSG Entertainment"
+    ],
+    "cast":[
+      "Sam Worthington",
+      "Zoe Salda\u00f1a",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Oona Chaplin"
+    ],
+    "crew_top":[
+      "James Cameron (Director)",
+      "Jon Landau (Producer)",
+      "James Cameron (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/avatar-fire-and-ash\/",
+    "letterboxd_rating":3.56,
+    "letterboxd_fans":8200.0,
+    "letterboxd_ok":true,
+    "profit":1140477656.0,
+    "roi":3.2585075886
+  },
+  {
+    "tmdb_id":840464,
+    "title":"Greenland 2: Migration",
+    "original_title":"Greenland 2: Migration",
+    "release_date":"2026-01-07T00:00:00.000",
+    "year":2026,
+    "runtime":98,
+    "genres":[
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "budget":90000000.0,
+    "revenue":44856736.0,
+    "tmdb_rating":6.425,
+    "tmdb_vote_count":943,
+    "original_language":"en",
+    "production_companies":[
+      "STXfilms",
+      "Anton",
+      "Thunder Road",
+      "G-BASE",
+      "CineMachine",
+      "Lionsgate"
+    ],
+    "cast":[
+      "Gerard Butler",
+      "Morena Baccarin",
+      "Roman Griffin Davis",
+      "Tommie Earl Jenkins",
+      "Trond Fausa Aurv\u00e5g"
+    ],
+    "crew_top":[
+      "Sebastien Raybaud (Producer)",
+      "Ric Roman Waugh (Director)",
+      "Gerard Butler (Producer)",
+      "Brendon Boyea (Producer)",
+      "Alan Siegel (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/greenland-2-migration\/",
+    "letterboxd_rating":2.29,
+    "letterboxd_fans":20.0,
+    "letterboxd_ok":true,
+    "profit":-45143264.0,
+    "roi":-0.5015918222
+  },
+  {
+    "tmdb_id":848116,
+    "title":"Rocky Aur Rani Kii Prem Kahaani",
+    "original_title":"\u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940",
+    "release_date":"2023-07-28T00:00:00.000",
+    "year":2023,
+    "runtime":178,
+    "genres":[
+      "Comedy",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":6.1,
+    "tmdb_vote_count":81,
+    "original_language":"hi",
+    "production_companies":[
+      "Dharma Productions",
+      "Viacom18 Studios"
+    ],
+    "cast":[
+      "Alia Bhatt",
+      "Ranveer Singh",
+      "Jaya Bachchan",
+      "Shabana Azmi",
+      "Dharmendra"
+    ],
+    "crew_top":[
+      "Karan Johar (Director)",
+      "Hiroo Johar (Producer)",
+      "Karan Johar (Producer)",
+      "Ajit Andhare (Producer)",
+      "Ishita Moitra (Writer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/rocky-aur-rani-kii-prem-kahaani\/",
+    "letterboxd_rating":3.61,
+    "letterboxd_fans":260.0,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  },
+  {
+    "tmdb_id":936075,
+    "title":"Michael",
+    "original_title":"Michael",
+    "release_date":"2026-04-22T00:00:00.000",
+    "year":2026,
+    "runtime":128,
+    "genres":[
+      "Music",
+      "Drama"
+    ],
+    "budget":250000000.0,
+    "revenue":217400000.0,
+    "tmdb_rating":7.6,
+    "tmdb_vote_count":287,
+    "original_language":"en",
+    "production_companies":[
+      "Lionsgate",
+      "GK Films",
+      "Optimum Productions"
+    ],
+    "cast":[
+      "Jaafar Jackson",
+      "Colman Domingo",
+      "Nia Long",
+      "Juliano Krue Valdi",
+      "KeiLyn Durrel Jones"
+    ],
+    "crew_top":[
+      "John Branca (Producer)",
+      "John McClain (Producer)",
+      "John Logan (Writer)",
+      "Graham King (Producer)",
+      "Antoine Fuqua (Director)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/michael\/",
+    "letterboxd_rating":3.52,
+    "letterboxd_fans":16.0,
+    "letterboxd_ok":true,
+    "profit":-32600000.0,
+    "roi":-0.1304
+  },
+  {
+    "tmdb_id":980431,
+    "title":"Avatar Aang: The Last Airbender",
+    "original_title":"Avatar Aang: The Last Airbender",
+    "release_date":"2026-10-09T00:00:00.000",
+    "year":2026,
+    "runtime":99,
+    "genres":[
+      "Animation",
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "budget":null,
+    "revenue":null,
+    "tmdb_rating":0.0,
+    "tmdb_vote_count":0,
+    "original_language":"en",
+    "production_companies":[
+      "Nickelodeon Movies",
+      "Paramount Pictures",
+      "Flying Bark Productions",
+      "Studio Mir",
+      "Avatar Studios"
+    ],
+    "cast":[
+      "Eric Nam",
+      "Dave Bautista",
+      "Jessica Matten",
+      "Rom\u00e1n Zaragoza",
+      "Steven Yeun"
+    ],
+    "crew_top":[
+      "Lauren Montgomery (Director)",
+      "Latifa Ouaou (Producer)",
+      "Maryann Garger (Producer)",
+      "Dagan Potter (Producer)",
+      "Bryan Konietzko (Producer)"
+    ],
+    "letterboxd_url":"https:\/\/letterboxd.com\/film\/avatar-aang-the-last-airbender\/",
+    "letterboxd_rating":null,
+    "letterboxd_fans":null,
+    "letterboxd_ok":true,
+    "profit":null,
+    "roi":null
+  }
+]

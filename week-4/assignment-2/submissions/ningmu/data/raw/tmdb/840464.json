@@ -1,0 +1,245 @@
+{
+  "adult": false,
+  "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
+  "belongs_to_collection": {
+    "id": 840465,
+    "name": "Greenland Collection",
+    "poster_path": "/e7nemBrXH4KeNbgT7RMscRz5KZS.jpg",
+    "backdrop_path": "/mW6OyjfXMwXmZj139h4szPcmDyc.jpg"
+  },
+  "budget": 90000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.greenland2.movie",
+  "id": 840464,
+  "imdb_id": "tt14850054",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Greenland 2: Migration",
+  "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+  "popularity": 75.9621,
+  "poster_path": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+  "production_companies": [
+    {
+      "id": 47729,
+      "logo_path": "/bAxh897TGgdR0Py6wdd0UuE147Z.png",
+      "name": "STXfilms",
+      "origin_country": "US"
+    },
+    {
+      "id": 138743,
+      "logo_path": "/abFJGmtPFs6Bq5cBavmrnXDcpf8.png",
+      "name": "Anton",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3528,
+      "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+      "name": "Thunder Road",
+      "origin_country": "US"
+    },
+    {
+      "id": 103331,
+      "logo_path": "/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png",
+      "name": "G-BASE",
+      "origin_country": "US"
+    },
+    {
+      "id": 253186,
+      "logo_path": null,
+      "name": "CineMachine",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-07",
+  "revenue": 44856736,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hope is uncharted territory.",
+  "title": "Greenland 2: Migration",
+  "video": false,
+  "vote_average": 6.425,
+  "vote_count": 943,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 17276,
+      "known_for_department": "Acting",
+      "name": "Gerard Butler",
+      "original_name": "Gerard Butler",
+      "popularity": 6.7894,
+      "profile_path": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg",
+      "cast_id": 9,
+      "character": "John Garrity",
+      "credit_id": "60c7b1f75b4fed00425d4e21",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 54882,
+      "known_for_department": "Acting",
+      "name": "Morena Baccarin",
+      "original_name": "Morena Baccarin",
+      "popularity": 11.7005,
+      "profile_path": "/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg",
+      "cast_id": 10,
+      "character": "Allison Garrity",
+      "credit_id": "60c7b205b6c2640058b08cf4",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2054851,
+      "known_for_department": "Acting",
+      "name": "Roman Griffin Davis",
+      "original_name": "Roman Griffin Davis",
+      "popularity": 1.3165,
+      "profile_path": "/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg",
+      "cast_id": 21,
+      "character": "Nathan Garrity",
+      "credit_id": "66c589393599c6f0c3f73897",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1754784,
+      "known_for_department": "Acting",
+      "name": "Tommie Earl Jenkins",
+      "original_name": "Tommie Earl Jenkins",
+      "popularity": 0.796,
+      "profile_path": "/kl2dzZU3p6pOjuKBi52wOnEGvEp.jpg",
+      "cast_id": 23,
+      "character": "General Sharpe",
+      "credit_id": "66c5896a6d8eef38d7ade2e5",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 85151,
+      "known_for_department": "Acting",
+      "name": "Trond Fausa Aurvåg",
+      "original_name": "Trond Fausa Aurvåg",
+      "popularity": 0.8238,
+      "profile_path": "/rFWC22ZScaQwA85NBo7l1j9XQdo.jpg",
+      "cast_id": 22,
+      "character": "Adam Shaw",
+      "credit_id": "66c5894f125f846f00f7381b",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2858152,
+      "known_for_department": "Production",
+      "name": "Sebastien Raybaud",
+      "original_name": "Sebastien Raybaud",
+      "popularity": 0.173,
+      "profile_path": null,
+      "credit_id": "60c7b15d99259c002a168071",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 76422,
+      "known_for_department": "Directing",
+      "name": "Ric Roman Waugh",
+      "original_name": "Ric Roman Waugh",
+      "popularity": 1.3472,
+      "profile_path": "/cu0MJd4exIgSLgaE0uwMDTFQcpA.jpg",
+      "credit_id": "60c7b0f65b4fed0059e6bc6d",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 17276,
+      "known_for_department": "Acting",
+      "name": "Gerard Butler",
+      "original_name": "Gerard Butler",
+      "popularity": 6.7894,
+      "profile_path": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg",
+      "credit_id": "60c7b13c0372640057e57f3e",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2858140,
+      "known_for_department": "Production",
+      "name": "Brendon Boyea",
+      "original_name": "Brendon Boyea",
+      "popularity": 0.0763,
+      "profile_path": "/3VTXxzCcFU5SS5Eaib6eAHMJtpd.jpg",
+      "credit_id": "60c7b12d18864b006e2c210a",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 582624,
+      "known_for_department": "Production",
+      "name": "Alan Siegel",
+      "original_name": "Alan Siegel",
+      "popularity": 0.1956,
+      "profile_path": null,
+      "credit_id": "60c7b148cf4b8b0077582334",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

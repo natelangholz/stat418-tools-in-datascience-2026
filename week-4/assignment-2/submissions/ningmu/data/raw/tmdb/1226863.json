@@ -1,0 +1,217 @@
+{
+  "adult": false,
+  "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+  "belongs_to_collection": {
+    "id": 1434561,
+    "name": "The Super Mario Collection",
+    "poster_path": "/2LNRY9vZsHZcTH2eIBMkqSUGVFX.jpg",
+    "backdrop_path": "/a3BEU6vPZZ7MGI7cIWY8thW4w9M.jpg"
+  },
+  "budget": 110000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.thesupermariogalaxymovie.com",
+  "id": 1226863,
+  "imdb_id": "tt28650488",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Super Mario Galaxy Movie",
+  "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+  "popularity": 544.8314,
+  "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+  "production_companies": [
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12288,
+      "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+      "name": "Nintendo",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-01",
+  "revenue": 831474150,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The galaxy awaits.",
+  "title": "The Super Mario Galaxy Movie",
+  "video": false,
+  "vote_average": 6.774,
+  "vote_count": 642,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 73457,
+      "known_for_department": "Acting",
+      "name": "Chris Pratt",
+      "original_name": "Chris Pratt",
+      "popularity": 6.5523,
+      "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
+      "cast_id": 8,
+      "character": "Mario (voice)",
+      "credit_id": "682535e3a031e88cc15a3816",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 95101,
+      "known_for_department": "Acting",
+      "name": "Charlie Day",
+      "original_name": "Charlie Day",
+      "popularity": 2.377,
+      "profile_path": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg",
+      "cast_id": 10,
+      "character": "Luigi (voice)",
+      "credit_id": "68c41e9292b33a4dd02a07be",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1397778,
+      "known_for_department": "Acting",
+      "name": "Anya Taylor-Joy",
+      "original_name": "Anya Taylor-Joy",
+      "popularity": 11.5499,
+      "profile_path": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
+      "cast_id": 9,
+      "character": "Princess Peach (voice)",
+      "credit_id": "68c41e888ade3c8fc52a08b0",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 70851,
+      "known_for_department": "Acting",
+      "name": "Jack Black",
+      "original_name": "Jack Black",
+      "popularity": 8.3592,
+      "profile_path": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg",
+      "cast_id": 11,
+      "character": "Bowser (voice)",
+      "credit_id": "68c41ea1811c1ca0113be22e",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 298410,
+      "known_for_department": "Acting",
+      "name": "Keegan-Michael Key",
+      "original_name": "Keegan-Michael Key",
+      "popularity": 5.4876,
+      "profile_path": "/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg",
+      "cast_id": 12,
+      "character": "Toad (voice)",
+      "credit_id": "68c41eb016e75dd3a03be147",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 113901,
+      "known_for_department": "Writing",
+      "name": "Michael Jelenic",
+      "original_name": "Michael Jelenic",
+      "popularity": 1.191,
+      "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+      "credit_id": "65edb325447f9c018760f55e",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1719706,
+      "known_for_department": "Writing",
+      "name": "Aaron Horvath",
+      "original_name": "Aaron Horvath",
+      "popularity": 1.154,
+      "profile_path": "/6AOmWzdJas3xh0xJOk1mHPstNs2.jpg",
+      "credit_id": "65edb330edeb430149c19e7c",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1275812,
+      "known_for_department": "Production",
+      "name": "Shigeru Miyamoto",
+      "original_name": "宮本茂",
+      "popularity": 0.7818,
+      "profile_path": "/kQ5pDmiPCf0muBmvHOrBXa2icYu.jpg",
+      "credit_id": "65edb39d1ac29201866aa204",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 5720,
+      "known_for_department": "Production",
+      "name": "Chris Meledandri",
+      "original_name": "Chris Meledandri",
+      "popularity": 0.529,
+      "profile_path": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
+      "credit_id": "65edb3cd91f0ea01638b38db",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

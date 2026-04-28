@@ -1,0 +1,235 @@
+{
+  "adult": false,
+  "backdrop_path": "/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg",
+  "belongs_to_collection": {
+    "id": 399,
+    "name": "Predator Collection",
+    "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+    "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
+  },
+  "budget": 105000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
+  "id": 1242898,
+  "imdb_id": "tt31227572",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Predator: Badlands",
+  "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+  "popularity": 93.4944,
+  "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+  "production_companies": [
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 840,
+      "logo_path": null,
+      "name": "Lawrence Gordon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1302,
+      "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 185309,
+      "logo_path": null,
+      "name": "Toberoff Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-05",
+  "revenue": 184500000,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "First hunt. Last chance.",
+  "title": "Predator: Badlands",
+  "video": false,
+  "vote_average": 7.689,
+  "vote_count": 2673,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 18050,
+      "known_for_department": "Acting",
+      "name": "Elle Fanning",
+      "original_name": "Elle Fanning",
+      "popularity": 16.6695,
+      "profile_path": "/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg",
+      "cast_id": 8,
+      "character": "Thia / Tessa",
+      "credit_id": "665e084b38c776c595e54834",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3223391,
+      "known_for_department": "Acting",
+      "name": "Dimitrius Schuster-Koloamatangi",
+      "original_name": "Dimitrius Schuster-Koloamatangi",
+      "popularity": 0.2448,
+      "profile_path": "/rmIZTT1AZK3C9fYhEOtGKtSrF8E.jpg",
+      "cast_id": 22,
+      "character": "Dek / Father",
+      "credit_id": "67f6adc67b43bdce20ade29e",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1891826,
+      "known_for_department": "Acting",
+      "name": "Ravi Narayan",
+      "original_name": "Ravi Narayan",
+      "popularity": 0.1654,
+      "profile_path": "/iM9dr3AjXTt7IGpRzZlQVG7hINa.jpg",
+      "cast_id": 76,
+      "character": "Bud",
+      "credit_id": "69013587ce5a5c277ac3e3aa",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2253146,
+      "known_for_department": "Acting",
+      "name": "Michael Homick",
+      "original_name": "Michael Homick",
+      "popularity": 0.2164,
+      "profile_path": "/a7IFYVtmNvBMJ7c20BVMc0LX6PT.jpg",
+      "cast_id": 55,
+      "character": "Kwei (Suit)",
+      "credit_id": "68c8c676758a118d0e804d91",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1636658,
+      "known_for_department": "Editing",
+      "name": "Stefan Grube",
+      "original_name": "Stefan Grube",
+      "popularity": 0.1904,
+      "profile_path": "/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg",
+      "cast_id": 77,
+      "character": "Kwei (voice)",
+      "credit_id": "690135a74b781d18059fbaeb",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 568322,
+      "known_for_department": "Directing",
+      "name": "Dan Trachtenberg",
+      "original_name": "Dan Trachtenberg",
+      "popularity": 0.8129,
+      "profile_path": "/crABZLMi5SAz7rKm0wV6JUOeKs5.jpg",
+      "credit_id": "65c6688594d8a8018312aad1",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2043,
+      "known_for_department": "Production",
+      "name": "John Davis",
+      "original_name": "John Davis",
+      "popularity": 0.8428,
+      "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+      "credit_id": "683770a79f2236b5a7a87ed9",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 60711,
+      "known_for_department": "Production",
+      "name": "Brent O'Connor",
+      "original_name": "Brent O'Connor",
+      "popularity": 0.2832,
+      "profile_path": null,
+      "credit_id": "683770b6f6c8d4483b2b8269",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 102630,
+      "known_for_department": "Production",
+      "name": "Marc Toberoff",
+      "original_name": "Marc Toberoff",
+      "popularity": 0.1906,
+      "profile_path": "/tNgHmElWNYdstPhKqh6P78rDurZ.jpg",
+      "credit_id": "6901343c45bd84222e2769ba",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 568322,
+      "known_for_department": "Directing",
+      "name": "Dan Trachtenberg",
+      "original_name": "Dan Trachtenberg",
+      "popularity": 0.8129,
+      "profile_path": "/crABZLMi5SAz7rKm0wV6JUOeKs5.jpg",
+      "credit_id": "69013446c43d0599e293947f",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

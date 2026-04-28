@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0DMF7MXKT",
+  "id": 755898,
+  "imdb_id": "tt13186306",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "War of the Worlds",
+  "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+  "popularity": 78.4773,
+  "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 109501,
+      "logo_path": "/4dtmZKPLHzIALpGbdeSNX6Rw1p3.png",
+      "name": "Bazelevs",
+      "origin_country": "US"
+    },
+    {
+      "id": 59827,
+      "logo_path": null,
+      "name": "Patrick Aiello Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-29",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Your data is deadly.",
+  "title": "War of the Worlds",
+  "video": false,
+  "vote_average": 4.133,
+  "vote_count": 966,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 9778,
+      "known_for_department": "Acting",
+      "name": "Ice Cube",
+      "original_name": "Ice Cube",
+      "popularity": 2.4327,
+      "profile_path": "/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg",
+      "cast_id": 5,
+      "character": "William Radford",
+      "credit_id": "5f904ffc7614210037899456",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 52605,
+      "known_for_department": "Acting",
+      "name": "Eva Longoria",
+      "original_name": "Eva Longoria",
+      "popularity": 3.5053,
+      "profile_path": "/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg",
+      "cast_id": 6,
+      "character": "NASA Scientist Sandra Salas",
+      "credit_id": "5f905008fed59700384b0724",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 9048,
+      "known_for_department": "Acting",
+      "name": "Clark Gregg",
+      "original_name": "Clark Gregg",
+      "popularity": 1.9867,
+      "profile_path": "/mq686D91XoZpqkzELn0888NOiZW.jpg",
+      "cast_id": 84,
+      "character": "NSA Director Donald Briggs",
+      "credit_id": "688a1b63841955f210a1a63c",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1632530,
+      "known_for_department": "Acting",
+      "name": "Iman Benson",
+      "original_name": "Iman Benson",
+      "popularity": 0.4018,
+      "profile_path": "/6s8Cyc4rxDRpX1vYnczU52RM4IM.jpg",
+      "cast_id": 9,
+      "character": "Faith Radford",
+      "credit_id": "649c86dc091e6200ad53cee4",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 60482,
+      "known_for_department": "Acting",
+      "name": "Henry Hunter Hall",
+      "original_name": "Henry Hunter Hall",
+      "popularity": 0.4246,
+      "profile_path": "/qZEv8RIGC9yLwY29Vo4KQzpO9Dt.jpg",
+      "cast_id": 30,
+      "character": "David Radford",
+      "credit_id": "688542767b01f1092616bf02",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 964093,
+      "known_for_department": "Production",
+      "name": "Patrick Aiello",
+      "original_name": "Patrick Aiello",
+      "popularity": 0.0689,
+      "profile_path": null,
+      "credit_id": "5f904fa34581990033a5bd0f",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 23430,
+      "known_for_department": "Production",
+      "name": "Timur Bekmambetov",
+      "original_name": "Тимур Бекмамбетов",
+      "popularity": 1.6168,
+      "profile_path": "/w4C8qeeWRvD7rbIj3elTvhdxjT.jpg",
+      "credit_id": "5f904f92ac617c0038810d21",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1634181,
+      "known_for_department": "Directing",
+      "name": "Rich Lee",
+      "original_name": "Rich Lee",
+      "popularity": 0.2845,
+      "profile_path": "/r7WIjhtHWcnRJO3nlao6jwsrWG6.jpg",
+      "credit_id": "5f904f83383df20036ad4276",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "adult": false,
+  "backdrop_path": "/mXeINZrLRKbIw51spnruegjmLBS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1499885,
+  "imdb_id": "tt36332085",
+  "origin_country": [
+    "NZ",
+    "PY"
+  ],
+  "original_language": "en",
+  "original_title": "The Red Book Ritual: Gates of Hell",
+  "overview": "Robbie embarks on a dangerous quest to contact his deceased girlfriend through a ritual that summons the dead. He heads to an abandoned house with a group of young people to perform the \"Red Book Ritual.\" But during the summoning, supernatural forces awaken. Now they must face ancient horrors to survive.",
+  "popularity": 74.313,
+  "poster_path": "/dOLRsvnjOB6rCx6olyRsMT92PxI.jpg",
+  "production_companies": [
+    {
+      "id": 97315,
+      "logo_path": null,
+      "name": "Black Mandala",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 111174,
+      "logo_path": null,
+      "name": "Nightwheel Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "PY",
+      "name": "Paraguay"
+    }
+  ],
+  "release_date": "2025-09-18",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Red Book Ritual: Gates of Hell",
+  "video": false,
+  "vote_average": 3.286,
+  "vote_count": 7,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4895164,
+      "known_for_department": "Acting",
+      "name": "Mario González Martí",
+      "original_name": "Mario González Martí",
+      "popularity": 0.0882,
+      "profile_path": null,
+      "cast_id": 1,
+      "character": "Robbie",
+      "credit_id": "6851d18470a511a770bbd976",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5511313,
+      "known_for_department": "Acting",
+      "name": "Lizzie Gómez",
+      "original_name": "Lizzie Gómez",
+      "popularity": 0.0214,
+      "profile_path": null,
+      "cast_id": 2,
+      "character": "Amy",
+      "credit_id": "6851d18bf94045a65e92e183",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 3708154,
+      "known_for_department": "Acting",
+      "name": "Matias Miranda",
+      "original_name": "Matias Miranda",
+      "popularity": 0.0214,
+      "profile_path": null,
+      "cast_id": 3,
+      "character": "Jeff",
+      "credit_id": "6851d19775be389621065f7e",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5511314,
+      "known_for_department": "Acting",
+      "name": "Tainá Lipinski",
+      "original_name": "Tainá Lipinski",
+      "popularity": 0.0214,
+      "profile_path": null,
+      "cast_id": 4,
+      "character": "Stacy",
+      "credit_id": "6851d19e2e22003329b314bc",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5511315,
+      "known_for_department": "Acting",
+      "name": "Bianca Vacchetta",
+      "original_name": "Bianca Vacchetta",
+      "popularity": 0.0071,
+      "profile_path": null,
+      "cast_id": 5,
+      "character": "Jena",
+      "credit_id": "6851d1a5a9df792dcbc41695",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1993326,
+      "known_for_department": "Visual Effects",
+      "name": "Carlos Baena",
+      "original_name": "Carlos Baena",
+      "popularity": 0.2201,
+      "profile_path": null,
+      "credit_id": "6851d1b9971abd7a49c4168d",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1691764,
+      "known_for_department": "Writing",
+      "name": "Hugo Cardozo",
+      "original_name": "Hugo Cardozo",
+      "popularity": 0.2655,
+      "profile_path": "/zRJo98hSaS9bilSELDb3rHvBhX0.jpg",
+      "credit_id": "6851d1cec3e6e8f13ebbd950",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 210827,
+      "known_for_department": "Directing",
+      "name": "Nathan Crooker",
+      "original_name": "Nathan Crooker",
+      "popularity": 0.1711,
+      "profile_path": "/5JOmCTVzLk0JfDY2wLqI3NpTWJ4.jpg",
+      "credit_id": "6851d1d8ce8654cdb7065f79",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 142138,
+      "known_for_department": "Directing",
+      "name": "Sonny Laguna",
+      "original_name": "Sonny Laguna",
+      "popularity": 0.058,
+      "profile_path": "/odjdHO5pVyu1kme1NovwuzrtSbe.jpg",
+      "credit_id": "6851d1e1ec44a876576aeca0",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 557360,
+      "known_for_department": "Editing",
+      "name": "Hernán Moyano",
+      "original_name": "Hernán Moyano",
+      "popularity": 0.1371,
+      "profile_path": "/4iZ8tOOZe5ljxmLY8rnJBywzUqx.jpg",
+      "credit_id": "6851d1e93c4c614816b314c8",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://watch.shudder.com/interstitial/925329",
+  "id": 1470130,
+  "imdb_id": "tt36647890",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Mortuary Assistant",
+  "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+  "popularity": 135.9678,
+  "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+  "production_companies": [
+    {
+      "id": 7662,
+      "logo_path": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+      "name": "Epic Pictures Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 31787,
+      "logo_path": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+      "name": "Creativity Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 153351,
+      "logo_path": "/dMusWUKSqpqXQOh0WiXHSmRBTci.png",
+      "name": "Dread",
+      "origin_country": "US"
+    },
+    {
+      "id": 138068,
+      "logo_path": null,
+      "name": "Traverse Terror",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-02-13",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Alone with the dead.",
+  "title": "The Mortuary Assistant",
+  "video": false,
+  "vote_average": 5.488,
+  "vote_count": 81,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1223171,
+      "known_for_department": "Acting",
+      "name": "Willa Holland",
+      "original_name": "Willa Holland",
+      "popularity": 2.5047,
+      "profile_path": "/1GS8AZcIYHoShxaClaHBIelCMBd.jpg",
+      "cast_id": 1,
+      "character": "Rebecca Owens",
+      "credit_id": "680a6617f3cf6d66d79d1606",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 167564,
+      "known_for_department": "Acting",
+      "name": "Paul Sparks",
+      "original_name": "Paul Sparks",
+      "popularity": 1.4699,
+      "profile_path": "/cQnCJI94lje55gZ7kEQ7YZUQPDb.jpg",
+      "cast_id": 2,
+      "character": "Raymond Delver",
+      "credit_id": "680a664d8bcea66a86aaa664",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1391986,
+      "known_for_department": "Writing",
+      "name": "John Adams",
+      "original_name": "John Adams",
+      "popularity": 0.4222,
+      "profile_path": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg",
+      "cast_id": 15,
+      "character": "",
+      "credit_id": "699147fa48b7f960b82ae9f1",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1052211,
+      "known_for_department": "Acting",
+      "name": "Mark Steger",
+      "original_name": "Mark Steger",
+      "popularity": 0.8087,
+      "profile_path": "/3EeztYq3OfdeHsqjYSwRuNHrvnk.jpg",
+      "cast_id": 10,
+      "character": "The Mimic",
+      "credit_id": "683b1d37dd68624f49ad767c",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1922891,
+      "known_for_department": "Acting",
+      "name": "Shelly Gibson",
+      "original_name": "Shelly Gibson",
+      "popularity": 0.272,
+      "profile_path": "/wPDNeARHJCCc8nyh8i6D8JYr06Y.jpg",
+      "cast_id": 13,
+      "character": "Grandma",
+      "credit_id": "696a90be4428a4a2e283467e",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 88552,
+      "known_for_department": "Directing",
+      "name": "Jeremiah Kipp",
+      "original_name": "Jeremiah Kipp",
+      "popularity": 0.4265,
+      "profile_path": "/r1MjSrWg1pfquAjBzETs8E01KaH.jpg",
+      "credit_id": "680a6723271ecb3ae08a26b5",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 62345,
+      "known_for_department": "Production",
+      "name": "Patrick Ewald",
+      "original_name": "Patrick Ewald",
+      "popularity": 0.0604,
+      "profile_path": null,
+      "credit_id": "680a8b48f3cf6d66d79d1bbd",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1369103,
+      "known_for_department": "Production",
+      "name": "Cole Payne",
+      "original_name": "Cole Payne",
+      "popularity": 0.0688,
+      "profile_path": null,
+      "credit_id": "680a8b68ac02d4407babbb92",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5394172,
+      "known_for_department": "Writing",
+      "name": "Brian Clarke",
+      "original_name": "Brian Clarke",
+      "popularity": 0.5548,
+      "profile_path": null,
+      "credit_id": "6991483219bc3cd2ec6f6579",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2920925,
+      "known_for_department": "Writing",
+      "name": "Tracee Beebe",
+      "original_name": "Tracee Beebe",
+      "popularity": 0.4362,
+      "profile_path": null,
+      "credit_id": "6991483fc509e55c2c123fc3",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
+  "belongs_to_collection": {
+    "id": 2602,
+    "name": "Scream Collection",
+    "poster_path": "/p3EjClFy20jjT0u06dzBs4lvvhi.jpg",
+    "backdrop_path": "/fG6GzZAwtsW3v2mhB4EyQLMRjUV.jpg"
+  },
+  "budget": 45000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.screammovie.com",
+  "id": 1159559,
+  "imdb_id": "tt27047903",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Scream 7",
+  "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+  "popularity": 97.061,
+  "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 143790,
+      "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+      "name": "Spyglass Media Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 130448,
+      "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+      "name": "Project X Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-25",
+  "revenue": 213819468,
+  "runtime": 114,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Burn it all down.",
+  "title": "Scream 7",
+  "video": false,
+  "vote_average": 6.06,
+  "vote_count": 803,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 9206,
+      "known_for_department": "Acting",
+      "name": "Neve Campbell",
+      "original_name": "Neve Campbell",
+      "popularity": 3.5173,
+      "profile_path": "/zQzNg6Kiufj2VCltprI6jilNtl3.jpg",
+      "cast_id": 105,
+      "character": "Sidney Evans",
+      "credit_id": "691728b32f9649b50a4c9e75",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 14405,
+      "known_for_department": "Acting",
+      "name": "Courteney Cox",
+      "original_name": "Courteney Cox",
+      "popularity": 3.2699,
+      "profile_path": "/cSOORhCRPJiwKghozXVXrOBi3Tp.jpg",
+      "cast_id": 125,
+      "character": "Gale Weathers",
+      "credit_id": "691a060da5ef06b8d24ca362",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1972974,
+      "known_for_department": "Acting",
+      "name": "Isabel May",
+      "original_name": "Isabel May",
+      "popularity": 5.0772,
+      "profile_path": "/RJ4djIbfvUHXCCgniiAi0ebhED.jpg",
+      "cast_id": 107,
+      "character": "Tatum Evans",
+      "credit_id": "6919148995aa21afb7a0ecd2",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1508653,
+      "known_for_department": "Acting",
+      "name": "Jasmin Savoy Brown",
+      "original_name": "Jasmin Savoy Brown",
+      "popularity": 1.1639,
+      "profile_path": "/yWaCA2iKmVps20SFxwiB1DvbN6j.jpg",
+      "cast_id": 108,
+      "character": "Mindy Meeks-Martin",
+      "credit_id": "691914913a7b019fa89ae79a",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2174509,
+      "known_for_department": "Acting",
+      "name": "Mason Gooding",
+      "original_name": "Mason Gooding",
+      "popularity": 1.5577,
+      "profile_path": "/bmlry1xqBzNgv8Chm783ss93Cvg.jpg",
+      "cast_id": 109,
+      "character": "Chad Meeks-Martin",
+      "credit_id": "6919149acf0d14c7a49c5ec9",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 61122,
+      "known_for_department": "Production",
+      "name": "William Sherak",
+      "original_name": "William Sherak",
+      "popularity": 0.1779,
+      "profile_path": "/lOh6jL1NKoCbaNZgRF0VMkwT0xb.jpg",
+      "credit_id": "64d70ee1b6c264115959581a",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2564279,
+      "known_for_department": "Production",
+      "name": "Paul Neinstein",
+      "original_name": "Paul Neinstein",
+      "popularity": 0.1963,
+      "profile_path": "/6oVqQswuGkDLFpKIvFXvVThC8Dm.jpg",
+      "credit_id": "64d70ed8b6c2641155f10643",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 26458,
+      "known_for_department": "Writing",
+      "name": "Kevin Williamson",
+      "original_name": "Kevin Williamson",
+      "popularity": 1.1885,
+      "profile_path": "/COwE9mGlyMHy2OWkidCffoyap2.jpg",
+      "credit_id": "675b02365c42a8c6ed8d11f4",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 20204,
+      "known_for_department": "Writing",
+      "name": "James Vanderbilt",
+      "original_name": "James Vanderbilt",
+      "popularity": 1.0039,
+      "profile_path": "/pg4kZ7a3GDoSqmuF8Tmw4jw5L6N.jpg",
+      "credit_id": "698102feb71ad6bc1d382a9f",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

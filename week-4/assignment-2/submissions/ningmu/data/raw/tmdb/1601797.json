@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/1ZruuRXztqC3QQybbgbVxVrdNjv.jpg",
+  "belongs_to_collection": {
+    "id": 1607155,
+    "name": "¿Quieres ser mi... ? - Colección",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1601797,
+  "imdb_id": "tt35979013",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "¿Quieres Ser Mi Novia?",
+  "overview": "Javi and Lu's relationship faces dangerous territory as old and new temptations emerge: a young woman reigniting Javi's chemistry and a mature man pursuing Lu. Through humor, entanglements, and surprises, their love is tested.",
+  "popularity": 129.504,
+  "poster_path": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
+  "production_companies": [
+    {
+      "id": 7570,
+      "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2026-02-12",
+  "revenue": 197388,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love knows no age.",
+  "title": "¿Quieres Ser Mi Novia?",
+  "video": false,
+  "vote_average": 8.459,
+  "vote_count": 49,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 947296,
+      "known_for_department": "Acting",
+      "name": "Ludwika Paleta",
+      "original_name": "Ludwika Paleta",
+      "popularity": 2.3391,
+      "profile_path": "/dcozq8kwFH1XEu547PZ6OpJcznz.jpg",
+      "cast_id": 2,
+      "character": "Lucía",
+      "credit_id": "6947e7a9c0569d5cb3fb0ffc",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2723354,
+      "known_for_department": "Acting",
+      "name": "Juanpa Zurita",
+      "original_name": "Juanpa Zurita",
+      "popularity": 0.6518,
+      "profile_path": "/kVWholhVRM5CwVO1WZ8DRIr8CQV.jpg",
+      "cast_id": 1,
+      "character": "Javier",
+      "credit_id": "6947e7a225905827412fbc86",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1592680,
+      "known_for_department": "Acting",
+      "name": "Harold Azuara",
+      "original_name": "Harold Azuara",
+      "popularity": 0.5093,
+      "profile_path": "/jBZiH0YqASbQZ24PIxu1KGEHUED.jpg",
+      "cast_id": 5,
+      "character": "La Avispa",
+      "credit_id": "698aabbec5435085301e61a1",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1328903,
+      "known_for_department": "Acting",
+      "name": "Yuriria del Valle",
+      "original_name": "Yuriria del Valle",
+      "popularity": 0.2015,
+      "profile_path": "/qf0YEZkYATzdIQtIxTJrLMM61ES.jpg",
+      "cast_id": 6,
+      "character": "Maguis",
+      "credit_id": "698aabe3ac4d894dafb70bfb",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 966638,
+      "known_for_department": "Acting",
+      "name": "Moisés Arizmendi",
+      "original_name": "Moisés Arizmendi",
+      "popularity": 0.4046,
+      "profile_path": "/327RMDJerAG2y2qbXLa0UWsy1IV.jpg",
+      "cast_id": 7,
+      "character": "Tío Gustavo",
+      "credit_id": "698aabf2a6258367a9c73000",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3009489,
+      "known_for_department": "Writing",
+      "name": "Ihtzi Hurtado",
+      "original_name": "Ihtzi Hurtado",
+      "popularity": 0.1261,
+      "profile_path": "/iZ4I41zQfLr6zP2hLWQkawHUhbM.jpg",
+      "credit_id": "6947e9bdbe4fe572397abf16",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3009489,
+      "known_for_department": "Writing",
+      "name": "Ihtzi Hurtado",
+      "original_name": "Ihtzi Hurtado",
+      "popularity": 0.1261,
+      "profile_path": "/iZ4I41zQfLr6zP2hLWQkawHUhbM.jpg",
+      "credit_id": "698aaba3a6258367a9c72ffd",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "adult": false,
+  "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+  "belongs_to_collection": {
+    "id": 14246,
+    "name": "Sniper Collection",
+    "poster_path": "/2NbhXWB5SKRCdMqEpMz9XieQqxU.jpg",
+    "backdrop_path": "/kvuUWjeSFEXmc7DytEFKehlNHo4.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/snipernonation",
+  "id": 1641319,
+  "imdb_id": "tt39538786",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sniper: No Nation",
+  "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+  "popularity": 130.3465,
+  "poster_path": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+  "production_companies": [
+    {
+      "id": 769,
+      "logo_path": "/j8zjbr6CzgiOj4kdtkTkwjdn0b3.png",
+      "name": "Destination Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 82659,
+      "logo_path": "/3mZkZUZUaqXDcIoYnECLb98PSWC.png",
+      "name": "Blue Ice Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 156309,
+      "logo_path": null,
+      "name": "Blue Ice Africa",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "2026-04-07",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No flag, no backup, and no mercy.",
+  "title": "Sniper: No Nation",
+  "video": false,
+  "vote_average": 6.271,
+  "vote_count": 35,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 228371,
+      "known_for_department": "Acting",
+      "name": "Chad Michael Collins",
+      "original_name": "Chad Michael Collins",
+      "popularity": 1.7032,
+      "profile_path": "/9lcEpAYRBCylYIVMZYXHqfmRzfP.jpg",
+      "cast_id": 2,
+      "character": "Brandon Beckett",
+      "credit_id": "699ccbae3a345804a080f910",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 77164,
+      "known_for_department": "Acting",
+      "name": "Ryan Robbins",
+      "original_name": "Ryan Robbins",
+      "popularity": 1.7061,
+      "profile_path": "/kZrq5a760JU1kHuxQ7Q8YCgsOr6.jpg",
+      "cast_id": 3,
+      "character": "Zero",
+      "credit_id": "699ccc071005ca8cd4374c55",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1994213,
+      "known_for_department": "Acting",
+      "name": "Manuel Rodriguez-Saenz",
+      "original_name": "Manuel Rodriguez-Saenz",
+      "popularity": 0.8605,
+      "profile_path": "/7X46IGRRkxEpLnC0r7LDavStSQ2.jpg",
+      "cast_id": 4,
+      "character": "Nova",
+      "credit_id": "699ccc67101f2e8a16b29988",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1180979,
+      "known_for_department": "Acting",
+      "name": "Josh Brener",
+      "original_name": "Josh Brener",
+      "popularity": 1.0401,
+      "profile_path": "/sIyQYq2imu1V2RxRQ1zp70RSqTi.jpg",
+      "cast_id": 10,
+      "character": "Intel Pete",
+      "credit_id": "69d2d78d787f3dc4fa4d90f7",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 13022,
+      "known_for_department": "Acting",
+      "name": "Tom Berenger",
+      "original_name": "Tom Berenger",
+      "popularity": 3.1108,
+      "profile_path": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg",
+      "cast_id": 5,
+      "character": "Thomas Beckett",
+      "credit_id": "69b56450181da5e9383b8b7b",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1181399,
+      "known_for_department": "Camera",
+      "name": "Trevor Calverley",
+      "original_name": "Trevor Calverley",
+      "popularity": 0.3246,
+      "profile_path": null,
+      "credit_id": "699ccb581a47fe27af6a4443",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2765795,
+      "known_for_department": "Writing",
+      "name": "Sean Wathen",
+      "original_name": "Sean Wathen",
+      "popularity": 0.5127,
+      "profile_path": null,
+      "credit_id": "69b889d54de5c720ab21de8d",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1181402,
+      "known_for_department": "Production",
+      "name": "Lance Samuels",
+      "original_name": "Lance Samuels",
+      "popularity": 0.1736,
+      "profile_path": null,
+      "credit_id": "69d2d678241c89664eac7ea5",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5194676,
+      "known_for_department": "Production",
+      "name": "Haley Wiseman",
+      "original_name": "Haley Wiseman",
+      "popularity": 0.0286,
+      "profile_path": null,
+      "credit_id": "69d8277d4e575d1b5b87ba7a",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

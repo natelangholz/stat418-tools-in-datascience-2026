@@ -1,0 +1,16 @@
+# Secrets — never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Combined raw dumps (regenerated each run; the per-movie JSONs are the canonical record)
+data/raw/tmdb/_*.json
+data/raw/letterboxd/_*.json
+
+# Logs (keep the directory via .gitkeep, drop the actual log files)
+logs/*.log

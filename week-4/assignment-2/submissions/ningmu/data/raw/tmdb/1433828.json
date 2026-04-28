@@ -1,0 +1,154 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1433828,
+  "imdb_id": null,
+  "origin_country": [
+    "DO"
+  ],
+  "original_language": "es",
+  "original_title": "Carmencita",
+  "overview": "Documentary short film based on the private diary of Nayibe Tavares-Abel's great-grandmother from 1919. Includes stopmotion animation and a silent fiction film in 16mm.",
+  "popularity": 69.9626,
+  "poster_path": "/elH3g0wSPOdF76QuDbmiTybW7Os.jpg",
+  "production_companies": [
+    {
+      "id": 182835,
+      "logo_path": "/2artGAEV61me2hHi6XU86Bi7mZp.png",
+      "name": "Chavón La Escuela de Diseño",
+      "origin_country": "DO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DO",
+      "name": "Dominican Republic"
+    }
+  ],
+  "release_date": "2019-10-09",
+  "revenue": 0,
+  "runtime": 27,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Carmencita",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5183240,
+      "known_for_department": "Directing",
+      "name": "Nayibe Tavares-Abel",
+      "original_name": "Nayibe Tavares-Abel",
+      "popularity": 0.0071,
+      "profile_path": null,
+      "cast_id": 38,
+      "character": "",
+      "credit_id": "67ae63c2f87b3796279f5a0c",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5245666,
+      "known_for_department": "Acting",
+      "name": "Guillermin Saiz Taveres",
+      "original_name": "Guillermin Saiz Taveres",
+      "popularity": 0.0,
+      "profile_path": null,
+      "cast_id": 37,
+      "character": "",
+      "credit_id": "67ae63b9f28d95adb3d0d90a",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5245667,
+      "known_for_department": "Acting",
+      "name": "Ramón Tavares Cross",
+      "original_name": "Ramón Tavares Cross",
+      "popularity": 0.0,
+      "profile_path": null,
+      "cast_id": 39,
+      "character": "",
+      "credit_id": "67ae63d6f28d95adb3d0d927",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5245668,
+      "known_for_department": "Acting",
+      "name": "Juan Tavarez Cross",
+      "original_name": "Juan Tavarez Cross",
+      "popularity": 0.0,
+      "profile_path": null,
+      "cast_id": 40,
+      "character": "",
+      "credit_id": "67ae63def28d95adb3d0d937",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5245669,
+      "known_for_department": "Acting",
+      "name": "Ercilia Ortiz",
+      "original_name": "Ercilia Ortiz",
+      "popularity": 0.0,
+      "profile_path": null,
+      "cast_id": 41,
+      "character": "",
+      "credit_id": "67ae63e5f28d95adb3d0d947",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5183240,
+      "known_for_department": "Directing",
+      "name": "Nayibe Tavares-Abel",
+      "original_name": "Nayibe Tavares-Abel",
+      "popularity": 0.0071,
+      "profile_path": null,
+      "credit_id": "67ae552bb0e342e8399f3398",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5183240,
+      "known_for_department": "Directing",
+      "name": "Nayibe Tavares-Abel",
+      "original_name": "Nayibe Tavares-Abel",
+      "popularity": 0.0071,
+      "profile_path": null,
+      "credit_id": "67ae55351168deda109f748e",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

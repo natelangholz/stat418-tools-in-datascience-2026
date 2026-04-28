@@ -1,0 +1,218 @@
+{
+  "adult": false,
+  "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+  "belongs_to_collection": {
+    "id": 925155,
+    "name": "Demon Slayer: Kimetsu no Yaiba Collection",
+    "poster_path": "/3exjjYTseefny9nYjSbkIblZZdK.jpg",
+    "backdrop_path": "/oHx043lHsysn8klll1nPvKMBHLf.jpg"
+  },
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.demonslayer-movie.com",
+  "id": 1311031,
+  "imdb_id": "tt32820897",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+  "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+  "popularity": 144.5103,
+  "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+  "production_companies": [
+    {
+      "id": 5887,
+      "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+      "name": "ufotable",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2883,
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-07-18",
+  "revenue": 733030221,
+  "runtime": 156,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's time to have some fun.",
+  "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 812,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1256603,
+      "known_for_department": "Acting",
+      "name": "Natsuki Hanae",
+      "original_name": "花江夏樹",
+      "popularity": 3.3381,
+      "profile_path": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg",
+      "cast_id": 2,
+      "character": "Tanjiro Kamado (voice)",
+      "credit_id": "66e6e105e8211ecd22b08a62",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 9705,
+      "known_for_department": "Acting",
+      "name": "Takahiro Sakurai",
+      "original_name": "櫻井孝宏",
+      "popularity": 3.1744,
+      "profile_path": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg",
+      "cast_id": 25,
+      "character": "Giyu Tomioka (voice)",
+      "credit_id": "67cec4fba8b335257e2aa988",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 81244,
+      "known_for_department": "Acting",
+      "name": "Akira Ishida",
+      "original_name": "石田彰",
+      "popularity": 3.5202,
+      "profile_path": "/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg",
+      "cast_id": 336,
+      "character": "Akaza (voice)",
+      "credit_id": "687d4a14807abd7583d98d45",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 119145,
+      "known_for_department": "Acting",
+      "name": "Hiro Shimono",
+      "original_name": "下野紘",
+      "popularity": 3.823,
+      "profile_path": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg",
+      "cast_id": 1,
+      "character": "Zenitsu Agatsuma (voice)",
+      "credit_id": "66e6e0e8050f14e4fccf8130",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1253008,
+      "known_for_department": "Acting",
+      "name": "Yoshimasa Hosoya",
+      "original_name": "細谷佳正",
+      "popularity": 3.0788,
+      "profile_path": "/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg",
+      "cast_id": 360,
+      "character": "Kaigaku (voice)",
+      "credit_id": "68cb2d1c1901469ad3e4fefe",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1283010,
+      "known_for_department": "Directing",
+      "name": "Haruo Sotozaki",
+      "original_name": "外崎春雄",
+      "popularity": 2.0207,
+      "profile_path": "/ylaWAuJB1PyAzaefqENBDEAKTLI.jpg",
+      "credit_id": "66e6e1483768a73f8d915c4a",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1817520,
+      "known_for_department": "Production",
+      "name": "Masanori Miyake",
+      "original_name": "三宅将典",
+      "popularity": 0.7458,
+      "profile_path": null,
+      "credit_id": "688028ad90c737dad716abad",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2652979,
+      "known_for_department": "Production",
+      "name": "Yuma Takahashi",
+      "original_name": "高橋祐馬",
+      "popularity": 0.5278,
+      "profile_path": "/asdAsIojiSQ0WQ6m315b6YF3rZt.jpg",
+      "credit_id": "688028c328a6b89656d99b07",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3286707,
+      "known_for_department": "Production",
+      "name": "Tatsuro Hayashi",
+      "original_name": "林辰朗",
+      "popularity": 0.5633,
+      "profile_path": null,
+      "credit_id": "688028c92c5aa3134538e494",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3999095,
+      "known_for_department": "Production",
+      "name": "Takao Shimazaki",
+      "original_name": "嶋崎崇夫",
+      "popularity": 0.2471,
+      "profile_path": null,
+      "credit_id": "688028cf2c5aa3134538e497",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "adult": false,
+  "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+  "belongs_to_collection": null,
+  "budget": 23,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81763251",
+  "id": 1318447,
+  "imdb_id": "tt16431404",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Apex",
+  "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+  "popularity": 596.4148,
+  "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+  "production_companies": [
+    {
+      "id": 7076,
+      "logo_path": "/8BFxn9NUWSgp0ndih569Gm62xiC.png",
+      "name": "Chernin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 38833,
+      "logo_path": "/pye6AL28X3u0v2z4V5Eav7BGbMa.png",
+      "name": "Ian Bryce Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 238708,
+      "logo_path": null,
+      "name": "Secret Menu",
+      "origin_country": "US"
+    },
+    {
+      "id": 62693,
+      "logo_path": "/i8mR4YqKiyDvxwmpSqzly9tQ31f.png",
+      "name": "RVK Studios",
+      "origin_country": "IS"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IS",
+      "name": "Iceland"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2026-04-24",
+  "revenue": 22,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hunt. Survive.",
+  "title": "Apex",
+  "video": false,
+  "vote_average": 6.536,
+  "vote_count": 320,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 6885,
+      "known_for_department": "Acting",
+      "name": "Charlize Theron",
+      "original_name": "Charlize Theron",
+      "popularity": 21.2625,
+      "profile_path": "/ie1KbeYFG5E0GVr1QP7tDNuXvga.jpg",
+      "cast_id": 1,
+      "character": "Sasha",
+      "credit_id": "66994f51dd1111337fdd72c7",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1303037,
+      "known_for_department": "Acting",
+      "name": "Taron Egerton",
+      "original_name": "Taron Egerton",
+      "popularity": 13.1327,
+      "profile_path": "/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg",
+      "cast_id": 13,
+      "character": "Ben",
+      "credit_id": "6733cf2fa67e36bb668d74c0",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 8783,
+      "known_for_department": "Acting",
+      "name": "Eric Bana",
+      "original_name": "Eric Bana",
+      "popularity": 5.4122,
+      "profile_path": "/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg",
+      "cast_id": 14,
+      "character": "Tommy",
+      "credit_id": "679d10c0a9b4b128fb4d3b35",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 145245,
+      "known_for_department": "Acting",
+      "name": "Caitlin Stasey",
+      "original_name": "Caitlin Stasey",
+      "popularity": 2.3353,
+      "profile_path": "/uJW62qSjIyI0OP30s5U8KLlDw32.jpg",
+      "cast_id": 30,
+      "character": "Leah",
+      "credit_id": "69cbb00a9b85c1ae70ac4b5f",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2933227,
+      "known_for_department": "Acting",
+      "name": "Bessie Holland",
+      "original_name": "Bessie Holland",
+      "popularity": 0.5592,
+      "profile_path": null,
+      "cast_id": 31,
+      "character": "Cashier",
+      "credit_id": "69cbb0107b2f66de2dca3de7",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 67813,
+      "known_for_department": "Directing",
+      "name": "Baltasar Kormákur",
+      "original_name": "Baltasar Kormákur",
+      "popularity": 2.8862,
+      "profile_path": "/bpWHj7MUtv0bNRuCET69UWQRa0o.jpg",
+      "credit_id": "66994f65ec421a95b378d2dd",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 6885,
+      "known_for_department": "Acting",
+      "name": "Charlize Theron",
+      "original_name": "Charlize Theron",
+      "popularity": 21.2625,
+      "profile_path": "/ie1KbeYFG5E0GVr1QP7tDNuXvga.jpg",
+      "credit_id": "66994fb883d72d0f384cd6f0",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1117873,
+      "known_for_department": "Production",
+      "name": "Beth Kono",
+      "original_name": "Beth Kono",
+      "popularity": 0.3107,
+      "profile_path": null,
+      "credit_id": "66994fcca2c18818363a786c",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 20222,
+      "known_for_department": "Production",
+      "name": "A.J. Dix",
+      "original_name": "A.J. Dix",
+      "popularity": 0.5249,
+      "profile_path": null,
+      "credit_id": "66994fd83e9900c9c14d0dcf",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 67813,
+      "known_for_department": "Directing",
+      "name": "Baltasar Kormákur",
+      "original_name": "Baltasar Kormákur",
+      "popularity": 2.8862,
+      "profile_path": "/bpWHj7MUtv0bNRuCET69UWQRa0o.jpg",
+      "credit_id": "6699501d36ea3db3e93a786c",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

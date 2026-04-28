@@ -1,0 +1,202 @@
+{
+  "adult": false,
+  "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1419406,
+  "imdb_id": "tt34610311",
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_title": "捕风追影",
+  "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+  "popularity": 92.7086,
+  "poster_path": "/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+  "production_companies": [
+    {
+      "id": 122699,
+      "logo_path": "/rNuZaO3S54yNb2inykTHBg8meCe.png",
+      "name": "iQIYI Pictures （重复 同 iQiyi Motion Pictures）",
+      "origin_country": "CN"
+    },
+    {
+      "id": 197030,
+      "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
+      "name": "Tao Piao Piao 淘票票",
+      "origin_country": "CN"
+    },
+    {
+      "id": 25657,
+      "logo_path": "/nR1OM1kwQ1ZrtbUb6sSfV0Ldynk.png",
+      "name": "Hairun Pictures Company",
+      "origin_country": "CN"
+    },
+    {
+      "id": 250765,
+      "logo_path": "/pl14N2WxiYBDNUrPaFBhzyKoO8Z.png",
+      "name": "Dong Fang Chen Xiang",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2025-08-16",
+  "revenue": 174400000,
+  "runtime": 142,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's training a new generation of law enforcers for a dangerous mission to save the world from ruthless criminals.",
+  "title": "The Shadow's Edge",
+  "video": false,
+  "vote_average": 7.213,
+  "vote_count": 591,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 18897,
+      "known_for_department": "Acting",
+      "name": "Jackie Chan",
+      "original_name": "成龍",
+      "popularity": 20.6423,
+      "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+      "cast_id": 3,
+      "character": "Wong Tak Chung",
+      "credit_id": "678b57d08bca661d0542feab",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1173805,
+      "known_for_department": "Acting",
+      "name": "Zhang Zifeng",
+      "original_name": "张子枫",
+      "popularity": 2.047,
+      "profile_path": "/3S8yEnTVqH8T3bTVf9FmtXxWcu2.jpg",
+      "cast_id": 4,
+      "character": "He Qiuguo",
+      "credit_id": "678b57d7e4566399a26dc271",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 56861,
+      "known_for_department": "Acting",
+      "name": "Tony Leung Ka-fai",
+      "original_name": "梁家輝",
+      "popularity": 3.4708,
+      "profile_path": "/il4L0QSp5STfZCB1wsvb6rSCDar.jpg",
+      "cast_id": 5,
+      "character": "Fu Longsheng",
+      "credit_id": "678b57ff1afc34646764e327",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3167855,
+      "known_for_department": "Acting",
+      "name": "Ci Sha",
+      "original_name": "此沙",
+      "popularity": 2.0699,
+      "profile_path": "/eWytg5M0VUCb0aHEKpUDijQ7JxF.jpg",
+      "cast_id": 6,
+      "character": "Xi Meng / Xi Wang",
+      "credit_id": "678b5808859fb4e6a86dc899",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1625880,
+      "known_for_department": "Acting",
+      "name": "Jun",
+      "original_name": "文俊辉",
+      "popularity": 1.5071,
+      "profile_path": "/z1seXrQQWG7nsQVHqSWKefJQ8DO.jpg",
+      "cast_id": 7,
+      "character": "Hu Feng",
+      "credit_id": "678b581842f27c754c64e1d0",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1452270,
+      "known_for_department": "Writing",
+      "name": "Larry Yang",
+      "original_name": "杨子",
+      "popularity": 1.1544,
+      "profile_path": "/qUOe56aOGlFI1eii9mkde0mE4Ds.jpg",
+      "credit_id": "678b5739e4566399a26dc229",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1452270,
+      "known_for_department": "Writing",
+      "name": "Larry Yang",
+      "original_name": "杨子",
+      "popularity": 1.1544,
+      "profile_path": "/qUOe56aOGlFI1eii9mkde0mE4Ds.jpg",
+      "credit_id": "678b5750dbcff33a9c64e88a",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1586112,
+      "known_for_department": "Production",
+      "name": "Victoria Hon",
+      "original_name": "韓肯",
+      "popularity": 0.1138,
+      "profile_path": null,
+      "credit_id": "691864c161f4c08e56ac321b",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

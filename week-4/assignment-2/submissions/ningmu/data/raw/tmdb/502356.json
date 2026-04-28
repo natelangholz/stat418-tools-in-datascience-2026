@@ -1,0 +1,230 @@
+{
+  "adult": false,
+  "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+  "belongs_to_collection": {
+    "id": 1434561,
+    "name": "The Super Mario Collection",
+    "poster_path": "/2LNRY9vZsHZcTH2eIBMkqSUGVFX.jpg",
+    "backdrop_path": "/a3BEU6vPZZ7MGI7cIWY8thW4w9M.jpg"
+  },
+  "budget": 100000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.uphe.com/movies/the-super-mario-bros-movie",
+  "id": 502356,
+  "imdb_id": "tt6718170",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Super Mario Bros. Movie",
+  "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+  "popularity": 77.4212,
+  "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
+      "origin_country": "US"
+    },
+    {
+      "id": 12288,
+      "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+      "name": "Nintendo",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-04-05",
+  "revenue": 1360879735,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Not all heroes wear capes. Some wear overalls.",
+  "title": "The Super Mario Bros. Movie",
+  "video": false,
+  "vote_average": 7.589,
+  "vote_count": 10535,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 73457,
+      "known_for_department": "Acting",
+      "name": "Chris Pratt",
+      "original_name": "Chris Pratt",
+      "popularity": 6.5523,
+      "profile_path": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
+      "cast_id": 11,
+      "character": "Mario (voice)",
+      "credit_id": "614cffe1d55c3d00674af464",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1397778,
+      "known_for_department": "Acting",
+      "name": "Anya Taylor-Joy",
+      "original_name": "Anya Taylor-Joy",
+      "popularity": 11.5499,
+      "profile_path": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
+      "cast_id": 12,
+      "character": "Princess Peach (voice)",
+      "credit_id": "614cffeb9f0e190064897740",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 95101,
+      "known_for_department": "Acting",
+      "name": "Charlie Day",
+      "original_name": "Charlie Day",
+      "popularity": 2.377,
+      "profile_path": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg",
+      "cast_id": 13,
+      "character": "Luigi (voice)",
+      "credit_id": "614cfff45f4b73002695c5aa",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 70851,
+      "known_for_department": "Acting",
+      "name": "Jack Black",
+      "original_name": "Jack Black",
+      "popularity": 8.3592,
+      "profile_path": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg",
+      "cast_id": 14,
+      "character": "Bowser (voice)",
+      "credit_id": "614cfffe69d280004388a952",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 298410,
+      "known_for_department": "Acting",
+      "name": "Keegan-Michael Key",
+      "original_name": "Keegan-Michael Key",
+      "popularity": 5.4876,
+      "profile_path": "/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg",
+      "cast_id": 15,
+      "character": "Toad (voice)",
+      "credit_id": "614d0007c740d9008cb4ee91",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 5720,
+      "known_for_department": "Production",
+      "name": "Chris Meledandri",
+      "original_name": "Chris Meledandri",
+      "popularity": 0.529,
+      "profile_path": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
+      "credit_id": "6112f40a8e8d3000464f738a",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1275812,
+      "known_for_department": "Production",
+      "name": "Shigeru Miyamoto",
+      "original_name": "宮本茂",
+      "popularity": 0.7818,
+      "profile_path": "/kQ5pDmiPCf0muBmvHOrBXa2icYu.jpg",
+      "credit_id": "611336dae24b93005c2e6cf5",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1719706,
+      "known_for_department": "Writing",
+      "name": "Aaron Horvath",
+      "original_name": "Aaron Horvath",
+      "popularity": 1.154,
+      "profile_path": "/6AOmWzdJas3xh0xJOk1mHPstNs2.jpg",
+      "credit_id": "61260b984e6742002a074fcd",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 113901,
+      "known_for_department": "Writing",
+      "name": "Michael Jelenic",
+      "original_name": "Michael Jelenic",
+      "popularity": 1.191,
+      "profile_path": "/rzfpbDQ3S3lDqnyMfcGzDv0QCwZ.jpg",
+      "credit_id": "61260ba84e6742002a074fda",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1777724,
+      "known_for_department": "Writing",
+      "name": "Matthew Fogel",
+      "original_name": "Matthew Fogel",
+      "popularity": 0.8625,
+      "profile_path": "/r4uSyCQhPLlUA4pZyPt5ryoupqz.jpg",
+      "credit_id": "64540e29d48cee0119a162ef",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

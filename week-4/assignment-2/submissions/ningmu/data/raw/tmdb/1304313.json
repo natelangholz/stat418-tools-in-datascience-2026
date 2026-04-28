@@ -1,0 +1,231 @@
+{
+  "adult": false,
+  "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
+  "belongs_to_collection": null,
+  "budget": 22000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/lee-cronins-mummy",
+  "id": 1304313,
+  "imdb_id": "tt32612507",
+  "origin_country": [
+    "IE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lee Cronin's The Mummy",
+  "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+  "popularity": 120.1005,
+  "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+  "production_companies": [
+    {
+      "id": 76907,
+      "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+      "name": "Atomic Monster",
+      "origin_country": "US"
+    },
+    {
+      "id": 3172,
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+      "name": "Blumhouse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 285968,
+      "logo_path": null,
+      "name": "Wicked/Good",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2026-04-15",
+  "revenue": 65451688,
+  "runtime": 133,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What happened to Katie?",
+  "title": "Lee Cronin's The Mummy",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 150,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1007683,
+      "known_for_department": "Acting",
+      "name": "Jack Reynor",
+      "original_name": "Jack Reynor",
+      "popularity": 2.7567,
+      "profile_path": "/1MSZks6afitwdYttLh617G6MBRQ.jpg",
+      "cast_id": 14,
+      "character": "Charlie Cannon",
+      "credit_id": "67e1781d1c3663cb814d8bf5",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1425019,
+      "known_for_department": "Acting",
+      "name": "Laia Costa",
+      "original_name": "Laia Costa",
+      "popularity": 2.2256,
+      "profile_path": "/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg",
+      "cast_id": 17,
+      "character": "Larissa Cannon",
+      "credit_id": "67e2d0f4440f311ace75fb27",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1952051,
+      "known_for_department": "Acting",
+      "name": "May Calamawy",
+      "original_name": "May Calamawy",
+      "popularity": 1.4676,
+      "profile_path": "/5S3nNkH5p85xK7k7AaXBZ0ouyOR.jpg",
+      "cast_id": 19,
+      "character": "Detective Dalia Zaki",
+      "credit_id": "67f7f3191bc639566ad9a03f",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3524429,
+      "known_for_department": "Acting",
+      "name": "Natalie Grace",
+      "original_name": "Natalie Grace",
+      "popularity": 1.1703,
+      "profile_path": "/uoJRUulO6A9By4IhNrDdiKevAOj.jpg",
+      "cast_id": 68,
+      "character": "Katie Cannon",
+      "credit_id": "6906a99ed2914ed67bdd81c0",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2886183,
+      "known_for_department": "Acting",
+      "name": "Shylo Molina",
+      "original_name": "Shylo Molina",
+      "popularity": 3.0066,
+      "profile_path": "/rIhBsRY6c7B4ClLOJbc4qEWter1.jpg",
+      "cast_id": 49,
+      "character": "Sebastián Cannon",
+      "credit_id": "682657a08754011eb24b5600",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1398631,
+      "known_for_department": "Directing",
+      "name": "Lee Cronin",
+      "original_name": "Lee Cronin",
+      "popularity": 3.1874,
+      "profile_path": "/qRJgpkLTXE1EkmmHvmD4AnvrFap.jpg",
+      "credit_id": "666b701352cf84303b761c00",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1398631,
+      "known_for_department": "Directing",
+      "name": "Lee Cronin",
+      "original_name": "Lee Cronin",
+      "popularity": 3.1874,
+      "profile_path": "/qRJgpkLTXE1EkmmHvmD4AnvrFap.jpg",
+      "credit_id": "666b700d50aac2bbe737025b",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2127,
+      "known_for_department": "Directing",
+      "name": "James Wan",
+      "original_name": "James Wan",
+      "popularity": 2.9776,
+      "profile_path": "/bNJccMIKzCtYnndcOKniSKCzo5Y.jpg",
+      "credit_id": "666b73af6b0f23578424795c",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 84348,
+      "known_for_department": "Production",
+      "name": "Jason Blum",
+      "original_name": "Jason Blum",
+      "popularity": 0.8232,
+      "profile_path": "/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg",
+      "credit_id": "666b73b3f819fde319080d54",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1398636,
+      "known_for_department": "Production",
+      "name": "John Keville",
+      "original_name": "John Keville",
+      "popularity": 0.2002,
+      "profile_path": "/bKSybRShQ8T97jhGNwgZleEowcT.jpg",
+      "credit_id": "6765a74df926be03cc74a8c4",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

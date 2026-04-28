@@ -1,0 +1,211 @@
+{
+  "adult": false,
+  "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+  "belongs_to_collection": {
+    "id": 1084247,
+    "name": "Zootopia Collection",
+    "poster_path": "/9Cm0kU0TAcJ6MoWYKWOl2LzN70I.jpg",
+    "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
+  },
+  "budget": 150000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://movies.disney.com/zootopia-2",
+  "id": 1084242,
+  "imdb_id": "tt26443597",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Zootopia 2",
+  "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+  "popularity": 114.8144,
+  "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+  "production_companies": [
+    {
+      "id": 6125,
+      "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png",
+      "name": "Walt Disney Animation Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 158526,
+      "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+      "name": "Walt Disney Animation Studios",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-11-26",
+  "revenue": 1868208796,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're back with a twissst.",
+  "title": "Zootopia 2",
+  "video": false,
+  "vote_average": 7.607,
+  "vote_count": 2619,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 417,
+      "known_for_department": "Acting",
+      "name": "Ginnifer Goodwin",
+      "original_name": "Ginnifer Goodwin",
+      "popularity": 2.9708,
+      "profile_path": "/n8XOnjgyfYvqRUDcnkAckRqSaNN.jpg",
+      "cast_id": 1,
+      "character": "Judy Hopps (voice)",
+      "credit_id": "63e49b7990fca3007b04f19b",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 23532,
+      "known_for_department": "Acting",
+      "name": "Jason Bateman",
+      "original_name": "Jason Bateman",
+      "popularity": 4.3552,
+      "profile_path": "/h6Sl1afuHMwnyqcxannecceIg4K.jpg",
+      "cast_id": 16,
+      "character": "Nick Wilde (voice)",
+      "credit_id": "6448ae740f21c6049827fd5c",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 690,
+      "known_for_department": "Acting",
+      "name": "Ke Huy Quan",
+      "original_name": "Ke Huy Quan",
+      "popularity": 3.1523,
+      "profile_path": "/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg",
+      "cast_id": 39,
+      "character": "Gary De'Snake (voice)",
+      "credit_id": "6835e6bfe4057d9ee0037edc",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1183672,
+      "known_for_department": "Acting",
+      "name": "Fortune Feimster",
+      "original_name": "Fortune Feimster",
+      "popularity": 1.0872,
+      "profile_path": "/aCV6S7Tuh9iUmF9on6EwaXC3rCI.jpg",
+      "cast_id": 45,
+      "character": "Nibbles Maplestick (voice)",
+      "credit_id": "6835e72b6d7078c861414b14",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 62861,
+      "known_for_department": "Acting",
+      "name": "Andy Samberg",
+      "original_name": "Andy Samberg",
+      "popularity": 4.8297,
+      "profile_path": "/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg",
+      "cast_id": 68,
+      "character": "Pawbert Lynxley (voice)",
+      "credit_id": "68c86a79a13549cb19c905cd",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1999218,
+      "known_for_department": "Production",
+      "name": "Yvett Merino",
+      "original_name": "Yvett Merino",
+      "popularity": 0.3998,
+      "profile_path": "/lWDGq9RsYDayXIqdyXz1yHzo2tU.jpg",
+      "credit_id": "66b723807d739ff29e9edafd",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1318201,
+      "known_for_department": "Writing",
+      "name": "Jared Bush",
+      "original_name": "Jared Bush",
+      "popularity": 1.028,
+      "profile_path": "/50XtrC5NMcqiYMXNmuNVY5tUl34.jpg",
+      "credit_id": "66b7237b40901d3fc826206b",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1318201,
+      "known_for_department": "Writing",
+      "name": "Jared Bush",
+      "original_name": "Jared Bush",
+      "popularity": 1.028,
+      "profile_path": "/50XtrC5NMcqiYMXNmuNVY5tUl34.jpg",
+      "credit_id": "66b7237688732302e6261d2a",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 76595,
+      "known_for_department": "Directing",
+      "name": "Byron Howard",
+      "original_name": "Byron Howard",
+      "popularity": 1.2043,
+      "profile_path": "/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg",
+      "credit_id": "66eda00fbeb947a007fe1536",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

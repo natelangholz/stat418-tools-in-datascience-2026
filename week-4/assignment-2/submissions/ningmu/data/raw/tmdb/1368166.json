@@ -1,0 +1,207 @@
+{
+  "adult": false,
+  "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+  "belongs_to_collection": {
+    "id": 1611146,
+    "name": "The Housemaid Collection",
+    "poster_path": "/nzfd4GSmANTyJVVryteFU3Xjuje.jpg",
+    "backdrop_path": "/lu7VARBXX1B5XjwYh3KhcV7WlGW.jpg"
+  },
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://thehousemaid.movie",
+  "id": 1368166,
+  "imdb_id": "tt27543632",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Housemaid",
+  "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+  "popularity": 87.9565,
+  "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 221429,
+      "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+      "name": "Media Capital Technologies",
+      "origin_country": "US"
+    },
+    {
+      "id": 198785,
+      "logo_path": "/oBnMrmwnlAKcACe5h7Vwmk8m1CC.png",
+      "name": "Hidden Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 284257,
+      "logo_path": null,
+      "name": "Pretty Dangerous Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-18",
+  "revenue": 401725460,
+  "runtime": 131,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Discover what lies behind closed doors.",
+  "title": "The Housemaid",
+  "video": false,
+  "vote_average": 7.227,
+  "vote_count": 1938,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 115440,
+      "known_for_department": "Acting",
+      "name": "Sydney Sweeney",
+      "original_name": "Sydney Sweeney",
+      "popularity": 32.7879,
+      "profile_path": "/lkEC9xM133h2f8wmp8CpyLr3JNq.jpg",
+      "cast_id": 1,
+      "character": "Millie Calloway",
+      "credit_id": "67055a48ccbb4e7f1669de8e",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 71070,
+      "known_for_department": "Acting",
+      "name": "Amanda Seyfried",
+      "original_name": "Amanda Seyfried",
+      "popularity": 6.1533,
+      "profile_path": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg",
+      "cast_id": 2,
+      "character": "Nina Winchester",
+      "credit_id": "67055a5b2ae7eb9084c0240a",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1855143,
+      "known_for_department": "Acting",
+      "name": "Brandon Sklenar",
+      "original_name": "Brandon Sklenar",
+      "popularity": 3.8546,
+      "profile_path": "/5J7p5BVgcS8fpwg4tlv7iCOTvTm.jpg",
+      "cast_id": 14,
+      "character": "Andrew Winchester",
+      "credit_id": "671ac4a16d6b705dc8713fe6",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2349355,
+      "known_for_department": "Acting",
+      "name": "Michele Morrone",
+      "original_name": "Michele Morrone",
+      "popularity": 8.531,
+      "profile_path": "/cOWSjiG2CI2PiCx69bCJiQVHyrD.jpg",
+      "cast_id": 15,
+      "character": "Enzo",
+      "credit_id": "6761b017c29ba495edcbe5e1",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 20,
+      "known_for_department": "Acting",
+      "name": "Elizabeth Perkins",
+      "original_name": "Elizabeth Perkins",
+      "popularity": 2.9762,
+      "profile_path": "/vTWYllD9V76rgv9XAbtkkjjeunG.jpg",
+      "cast_id": 37,
+      "character": "Mrs. Winchester",
+      "credit_id": "693be65ea964adc5bffc47d1",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 116805,
+      "known_for_department": "Directing",
+      "name": "Paul Feig",
+      "original_name": "Paul Feig",
+      "popularity": 1.7843,
+      "profile_path": "/mE3eFY3gq1UQ7Rj2He2YbZ7PFya.jpg",
+      "credit_id": "67055a7a98df8ea0151d595d",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 116805,
+      "known_for_department": "Directing",
+      "name": "Paul Feig",
+      "original_name": "Paul Feig",
+      "popularity": 1.7843,
+      "profile_path": "/mE3eFY3gq1UQ7Rj2He2YbZ7PFya.jpg",
+      "credit_id": "6705abe4000000000058614e",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 62758,
+      "known_for_department": "Production",
+      "name": "Todd Lieberman",
+      "original_name": "Todd Lieberman",
+      "popularity": 0.2562,
+      "profile_path": "/mz9J5YIdMUe8i7VoIu5Fy0svgP5.jpg",
+      "credit_id": "6705ac2d0000000000586155",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2754382,
+      "known_for_department": "Production",
+      "name": "Laura Allen Fischer",
+      "original_name": "Laura Allen Fischer",
+      "popularity": 0.0168,
+      "profile_path": null,
+      "credit_id": "694552d506cc792b2ffb0cd3",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

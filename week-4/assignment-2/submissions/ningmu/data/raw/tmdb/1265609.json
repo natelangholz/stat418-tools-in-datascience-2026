@@ -1,0 +1,223 @@
+{
+  "adult": false,
+  "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+  "belongs_to_collection": null,
+  "budget": 73000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81768525",
+  "id": 1265609,
+  "imdb_id": "tt15940132",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "War Machine",
+  "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+  "popularity": 68.4645,
+  "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 198785,
+      "logo_path": "/oBnMrmwnlAKcACe5h7Vwmk8m1CC.png",
+      "name": "Hidden Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 224643,
+      "logo_path": null,
+      "name": "Huge Film",
+      "origin_country": "AU"
+    },
+    {
+      "id": 167684,
+      "logo_path": "/kzQwU2H6woBFti9cqjr9BrVXrst.png",
+      "name": "Range Media Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-12",
+  "revenue": 0,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All grit. No quit.",
+  "title": "War Machine",
+  "video": false,
+  "vote_average": 7.231,
+  "vote_count": 1525,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 64295,
+      "known_for_department": "Acting",
+      "name": "Alan Ritchson",
+      "original_name": "Alan Ritchson",
+      "popularity": 6.9364,
+      "profile_path": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+      "cast_id": 1,
+      "character": "81",
+      "credit_id": "66047a1ed7f4650163db1e85",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 6065,
+      "known_for_department": "Acting",
+      "name": "Dennis Quaid",
+      "original_name": "Dennis Quaid",
+      "popularity": 3.9891,
+      "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+      "cast_id": 11,
+      "character": "Army Sgt Maj Sheridan",
+      "credit_id": "66df56b18a9f03318c49b975",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1388314,
+      "known_for_department": "Acting",
+      "name": "Stephan James",
+      "original_name": "Stephan James",
+      "popularity": 0.8109,
+      "profile_path": "/itWiVFI7uE8s4QQjcQBbVO0hY7K.jpg",
+      "cast_id": 12,
+      "character": "7",
+      "credit_id": "66df56c3e050095491c267bc",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 224181,
+      "known_for_department": "Acting",
+      "name": "Jai Courtney",
+      "original_name": "Jai Courtney",
+      "popularity": 2.7026,
+      "profile_path": "/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg",
+      "cast_id": 13,
+      "character": "Class President",
+      "credit_id": "66df56c88098633ddfee72e2",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 65344,
+      "known_for_department": "Acting",
+      "name": "Esai Morales",
+      "original_name": "Esai Morales",
+      "popularity": 2.3044,
+      "profile_path": "/cNYciYzUzxraGlw0BPql1QePi5H.jpg",
+      "cast_id": 14,
+      "character": "Army Officer Torres",
+      "credit_id": "66df56cd7e9d1f3074493eb7",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 143059,
+      "known_for_department": "Directing",
+      "name": "Patrick Hughes",
+      "original_name": "Patrick Hughes",
+      "popularity": 0.8022,
+      "profile_path": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
+      "credit_id": "66047a47aafebd014816f372",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 62758,
+      "known_for_department": "Production",
+      "name": "Todd Lieberman",
+      "original_name": "Todd Lieberman",
+      "popularity": 0.2562,
+      "profile_path": "/mz9J5YIdMUe8i7VoIu5Fy0svgP5.jpg",
+      "credit_id": "66047a67aafebd0187170122",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 143059,
+      "known_for_department": "Directing",
+      "name": "Patrick Hughes",
+      "original_name": "Patrick Hughes",
+      "popularity": 0.8022,
+      "profile_path": "/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg",
+      "credit_id": "66047ab0d400f301638f7ac7",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1935919,
+      "known_for_department": "Production",
+      "name": "Alexander Young",
+      "original_name": "Alexander Young",
+      "popularity": 0.1358,
+      "profile_path": null,
+      "credit_id": "67af9994f12cec6e301cd316",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 5990067,
+      "known_for_department": "Production",
+      "name": "Rich Cook",
+      "original_name": "Rich Cook",
+      "popularity": 0.0071,
+      "profile_path": null,
+      "credit_id": "6985b1f43e42ba341e48da74",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}
