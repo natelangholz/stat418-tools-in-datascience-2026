@@ -1,0 +1,25 @@
+Movie Data Analysis - Summary Report
+========================================
+
+--- Rating Analysis ---
+TMDB mean rating:            6.468
+Letterboxd mean rating:      3.088
+TMDB std deviation:          1.449
+Letterboxd std deviation:    0.746
+TMDB-Letterboxd correlation: 0.434
+
+--- Genre Analysis ---
+Most common genre: Action (33 movies)
+Top 5 genres by count:
+  Action: 33
+  Thriller: 31
+  Drama: 29
+  Horror: 27
+  Comedy: 23
+Highest rated genre (TMDB avg): Music (7.471)
+Highest rated genre (Letterboxd avg): Fantasy (3.604)
+
+--- Temporal Analysis ---
+Most productive year: 2026
+Highest rated year (TMDB avg): 1994 (8.719)
+Highest rated year (Letterboxd avg): 1994 (4.59)

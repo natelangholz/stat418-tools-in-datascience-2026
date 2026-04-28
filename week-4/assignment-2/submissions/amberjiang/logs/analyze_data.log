@@ -1,0 +1,42 @@
+2026-04-27 17:13:07,491 - INFO - Loaded processed data: 100 records
+2026-04-27 17:13:07,514 - INFO - Successfully analyzed TMDB vs Letterboxd distributions: r=0.434.
+2026-04-27 17:13:07,544 - INFO - Successfully analyzed top genres
+2026-04-27 17:13:07,556 - INFO - Successfully analyzed average ratings by genre
+2026-04-27 17:13:07,562 - INFO - Temporal analysis: 24 years covered
+2026-04-27 17:13:08,865 - INFO - Saved rating distribution visualization: data/analysis/rating_distributions.png
+2026-04-27 17:13:09,577 - INFO - Saved visualization: data/analysis/rating_correlation.png
+2026-04-27 17:13:09,581 - INFO - Successfully analyzed top genres
+2026-04-27 17:13:09,604 - INFO - Successfully analyzed average ratings by genre
+2026-04-27 17:13:10,650 - INFO - Saved visualization: data/analysis/genre_distribution.png
+2026-04-27 17:13:10,652 - INFO - Temporal analysis: 24 years covered
+2026-04-27 17:13:11,411 - INFO - Saved visualization: data/analysis/ratings_by_year.png
+2026-04-27 17:13:11,421 - INFO - Saved summary report to data/analysis/summary_report.txt
+2026-04-27 17:13:11,421 - INFO - Pipeline completed successfully
+2026-04-27 17:18:56,581 - INFO - Loaded processed data: 100 records
+2026-04-27 17:18:56,628 - INFO - Successfully analyzed TMDB vs Letterboxd distributions: r=0.434.
+2026-04-27 17:18:56,659 - INFO - Successfully analyzed top genres
+2026-04-27 17:18:56,675 - INFO - Successfully analyzed average ratings by genre
+2026-04-27 17:18:56,681 - INFO - Temporal analysis: 24 years covered
+2026-04-27 17:18:58,398 - INFO - Saved rating distribution visualization: data/analysis/rating_distributions.png
+2026-04-27 17:18:59,094 - INFO - Saved visualization: data/analysis/rating_correlation.png
+2026-04-27 17:18:59,100 - INFO - Successfully analyzed top genres
+2026-04-27 17:18:59,101 - INFO - Successfully analyzed average ratings by genre
+2026-04-27 17:19:00,079 - INFO - Saved visualization: data/analysis/genre_distribution.png
+2026-04-27 17:19:00,081 - INFO - Temporal analysis: 24 years covered
+2026-04-27 17:19:00,736 - INFO - Saved visualization: data/analysis/ratings_by_year.png
+2026-04-27 17:19:00,743 - INFO - Saved summary report to data/analysis/summary_report.txt
+2026-04-27 17:19:00,743 - INFO - Pipeline completed successfully
+2026-04-27 17:20:20,610 - INFO - Loaded processed data: 100 records
+2026-04-27 17:20:20,630 - INFO - Successfully analyzed TMDB vs Letterboxd distributions: r=0.434.
+2026-04-27 17:20:20,642 - INFO - Successfully analyzed top genres
+2026-04-27 17:20:20,649 - INFO - Successfully analyzed average ratings by genre
+2026-04-27 17:20:20,653 - INFO - Temporal analysis: 24 years covered
+2026-04-27 17:20:21,862 - INFO - Saved rating distribution visualization: data/analysis/rating_distributions.png
+2026-04-27 17:20:22,500 - INFO - Saved visualization: data/analysis/rating_correlation.png
+2026-04-27 17:20:22,505 - INFO - Successfully analyzed top genres
+2026-04-27 17:20:22,506 - INFO - Successfully analyzed average ratings by genre
+2026-04-27 17:20:23,450 - INFO - Saved visualization: data/analysis/genre_distribution.png
+2026-04-27 17:20:23,453 - INFO - Temporal analysis: 24 years covered
+2026-04-27 17:20:24,014 - INFO - Saved visualization: data/analysis/ratings_by_year.png
+2026-04-27 17:20:24,018 - INFO - Saved summary report to data/analysis/summary_report.txt
+2026-04-27 17:20:24,019 - INFO - Pipeline completed successfully

@@ -1,0 +1,154 @@
+2026-04-27 00:36:44,024 - INFO - robots.txt check passed: scraping film pages is allowed
+2026-04-27 00:36:46,389 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 00:36:48,623 - INFO - Successfully scraped Apex
+2026-04-27 00:36:50,802 - INFO - Successfully scraped Your Heart Will Be Broken
+2026-04-27 00:36:50,912 - INFO - Successfully scraped Send Help
+2026-04-27 00:36:53,133 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 00:36:55,392 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 00:36:57,672 - INFO - Successfully scraped Michael
+2026-04-27 00:36:59,925 - INFO - Successfully scraped Vengeance
+2026-04-27 00:37:02,407 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 00:37:04,679 - INFO - Successfully scraped Hoppers
+2026-04-27 00:37:07,045 - INFO - Successfully scraped Shelter
+2026-04-27 00:37:09,297 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 00:37:11,738 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 00:37:13,908 - INFO - Successfully scraped GOAT
+2026-04-27 00:37:16,361 - INFO - Successfully scraped Crime 101
+2026-04-27 00:37:19,040 - INFO - Successfully scraped Demon Slayer: Kimetsu no Yaiba Infinity Castle
+2026-04-27 00:37:21,416 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 00:37:21,226 - INFO - Successfully scraped Thrash
+2026-04-27 00:37:23,411 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 00:37:25,517 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 00:37:27,648 - INFO - Successfully scraped Balls Up
+2026-04-27 00:37:31,257 - INFO - Successfully scraped Zootopia 2
+2026-04-27 00:37:33,413 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 00:37:35,612 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 00:37:37,997 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 00:37:40,196 - INFO - Successfully scraped Scream 7
+2026-04-27 00:37:42,359 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 00:37:44,599 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 00:37:47,086 - INFO - Successfully scraped Rocky Aur Rani Kii Prem Kahaani
+2026-04-27 00:37:49,490 - INFO - Successfully scraped Interstellar
+2026-04-27 00:37:49,239 - INFO - Successfully scraped undertone
+2026-04-27 00:37:51,457 - INFO - Successfully scraped Malena
+2026-04-27 00:37:53,607 - INFO - Successfully scraped The Shadow's Edge
+2026-04-27 00:37:55,737 - INFO - Successfully scraped Psycho Killer
+2026-04-27 00:37:57,915 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 00:38:00,112 - INFO - Successfully scraped War of the Worlds
+2026-04-27 00:38:02,280 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 00:38:04,549 - INFO - Successfully scraped Anaconda
+2026-04-27 00:38:06,722 - INFO - Successfully scraped Whistle
+2026-04-27 00:38:08,976 - INFO - Successfully scraped The Housemaid
+2026-04-27 00:38:11,709 - INFO - Successfully scraped xXx
+2026-04-27 00:38:14,061 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 00:38:16,384 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 00:38:18,489 - INFO - Successfully scraped 180
+2026-04-27 00:38:20,646 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 00:38:20,392 - INFO - Successfully scraped Reminders of Him
+2026-04-27 00:38:22,658 - INFO - Successfully scraped Return to Silent Hill
+2026-04-27 00:38:25,198 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 00:38:27,361 - INFO - Successfully scraped The Yeti
+2026-04-27 00:38:29,508 - INFO - Successfully scraped Roommates
+2026-04-27 00:38:29,624 - INFO - Saved scraped data to data/raw/letterboxd/letterboxd_scraped_data.json: 50 records
+2026-04-27 14:18:13,157 - INFO - robots.txt check passed: scraping film pages is allowed
+2026-04-27 14:18:15,941 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 14:18:18,368 - INFO - Successfully scraped Apex
+2026-04-27 14:18:20,504 - INFO - Successfully scraped Your Heart Will Be Broken
+2026-04-27 14:18:20,189 - INFO - Successfully scraped Send Help
+2026-04-27 14:18:22,318 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 14:18:24,804 - INFO - Successfully scraped Michael
+2026-04-27 14:18:27,135 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 14:18:29,443 - INFO - Successfully scraped Vengeance
+2026-04-27 14:18:31,587 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 14:18:33,847 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 14:18:35,972 - INFO - Successfully scraped Hoppers
+2026-04-27 14:18:38,335 - INFO - Successfully scraped Shelter
+2026-04-27 14:18:40,777 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 14:18:43,471 - INFO - Successfully scraped Crime 101
+2026-04-27 14:18:45,624 - INFO - Successfully scraped GOAT
+2026-04-27 14:18:47,985 - INFO - Successfully scraped Demon Slayer: Kimetsu no Yaiba Infinity Castle
+2026-04-27 14:18:50,344 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 14:18:50,076 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 14:18:52,600 - INFO - Successfully scraped Zootopia 2
+2026-04-27 14:18:55,323 - INFO - Successfully scraped Thrash
+2026-04-27 14:18:57,565 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 14:18:59,807 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 14:19:02,457 - INFO - Successfully scraped Malena
+2026-04-27 14:19:04,597 - INFO - Successfully scraped Balls Up
+2026-04-27 14:19:07,234 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 14:19:09,425 - INFO - Successfully scraped The Shadow's Edge
+2026-04-27 14:19:11,702 - INFO - Successfully scraped Scream 7
+2026-04-27 14:19:14,160 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 14:19:16,348 - INFO - Successfully scraped The Housemaid
+2026-04-27 14:19:18,681 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 14:19:20,976 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 14:19:20,911 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 14:19:23,401 - INFO - Successfully scraped Interstellar
+2026-04-27 14:19:26,032 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 14:19:28,478 - INFO - Successfully scraped undertone
+2026-04-27 14:19:30,639 - INFO - Successfully scraped Psycho Killer
+2026-04-27 14:19:33,299 - INFO - Successfully scraped Anaconda
+2026-04-27 14:19:35,667 - INFO - Successfully scraped War of the Worlds
+2026-04-27 14:19:38,139 - INFO - Successfully scraped Whistle
+2026-04-27 14:19:40,565 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 14:19:42,827 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 14:19:45,202 - INFO - Successfully scraped War Machine
+2026-04-27 14:19:47,673 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 14:19:50,270 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 14:19:50,053 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 14:19:52,809 - INFO - Successfully scraped Carmencita
+2026-04-27 14:19:55,180 - INFO - Successfully scraped Rocky Aur Rani Kii Prem Kahaani
+2026-04-27 14:19:57,801 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 14:20:00,060 - INFO - Successfully scraped 180
+2026-04-27 14:20:02,546 - INFO - Successfully scraped xXx
+2026-04-27 14:20:05,052 - INFO - Successfully scraped Man in the Mirror: The Michael Jackson Story
+2026-04-27 14:20:07,337 - INFO - Successfully scraped Reminders of Him
+2026-04-27 14:20:09,691 - INFO - Successfully scraped Starbright
+2026-04-27 14:20:12,018 - INFO - Successfully scraped The Avengers
+2026-04-27 14:20:14,572 - INFO - Successfully scraped The Yeti
+2026-04-27 14:20:16,784 - INFO - Successfully scraped Night Nurse
+2026-04-27 14:20:19,260 - INFO - Successfully scraped Blind
+2026-04-27 14:20:19,583 - INFO - Successfully scraped A Breed Apart
+2026-04-27 14:20:22,144 - INFO - Successfully scraped Downsizing
+2026-04-27 14:20:25,392 - INFO - Successfully scraped Return to Silent Hill
+2026-04-27 14:20:27,751 - INFO - Successfully scraped Pretty Lethal
+2026-04-27 14:20:30,107 - INFO - Successfully scraped The Divide
+2026-04-27 14:20:32,404 - INFO - Successfully scraped Roommates
+2026-04-27 14:20:34,782 - INFO - Successfully scraped Jurassic World Rebirth
+2026-04-27 14:20:37,298 - INFO - Successfully scraped Avengers: Infinity War
+2026-04-27 14:20:39,683 - INFO - Successfully scraped 28 Years Later: The Bone Temple
+2026-04-27 14:20:41,987 - INFO - Successfully scraped "Wuthering Heights"
+2026-04-27 14:20:44,229 - INFO - Successfully scraped The Devil Wears Prada 2
+2026-04-27 14:20:47,009 - INFO - Successfully scraped Keanu
+2026-04-27 14:20:49,712 - INFO - Successfully scraped From Straight A's to XXX
+2026-04-27 14:20:49,433 - INFO - Successfully scraped Kraken
+2026-04-27 14:20:51,828 - INFO - Successfully scraped Exploits of a Young Don Juan
+2026-04-27 14:20:54,444 - INFO - Successfully scraped Humint
+2026-04-27 14:20:56,783 - INFO - Successfully scraped The Rip
+2026-04-27 14:20:59,197 - INFO - Successfully scraped The Conjuring: Last Rites
+2026-04-27 14:21:01,574 - INFO - Successfully scraped Difret
+2026-04-27 14:21:03,808 - INFO - Successfully scraped The Shawshank Redemption
+2026-04-27 14:21:06,204 - INFO - Successfully scraped The Wrecking Crew
+2026-04-27 14:21:08,496 - INFO - Successfully scraped Subservience
+2026-04-27 14:21:10,744 - INFO - Successfully scraped Fatal Conspiracy
+2026-04-27 14:21:13,340 - INFO - Successfully scraped The Bride!
+2026-04-27 14:21:15,524 - INFO - Successfully scraped Now You See Me: Now You Don't
+2026-04-27 14:21:17,717 - INFO - Successfully scraped Madness
+2026-04-27 14:21:20,181 - INFO - Successfully scraped He Sees You When You're Sleeping
+2026-04-27 14:21:19,953 - INFO - Successfully scraped My Fault
+2026-04-27 14:21:22,529 - INFO - Successfully scraped KPop Demon Hunters
+2026-04-27 14:21:24,772 - INFO - Successfully scraped Balinsasayaw
+2026-04-27 14:21:27,087 - INFO - Successfully scraped Mudborn
+2026-04-27 14:21:29,341 - INFO - Successfully scraped Sundutan
+2026-04-27 14:21:31,646 - INFO - Successfully scraped Deadpool & Wolverine
+2026-04-27 14:21:33,818 - INFO - Successfully scraped Stepdaddy
+2026-04-27 14:21:36,154 - INFO - Successfully scraped Ready or Not 2: Here I Come
+2026-04-27 14:21:38,356 - INFO - Successfully scraped The Godfather
+2026-04-27 14:21:40,512 - INFO - Successfully scraped Protector
+2026-04-27 14:21:42,892 - INFO - Successfully scraped Point Break
+2026-04-27 14:21:45,292 - INFO - Successfully scraped JUJUTSU KAISEN: Execution
+2026-04-27 14:21:47,663 - INFO - Successfully scraped Hellfire
+2026-04-27 14:21:49,985 - INFO - Successfully scraped Michael Jackson: Searching for Neverland
+2026-04-27 14:21:49,794 - INFO - Successfully scraped After We Fell
+2026-04-27 14:21:52,437 - INFO - Successfully scraped F1
+2026-04-27 14:21:52,451 - INFO - Saved scraped data to data/raw/letterboxd/letterboxd_scraped_data.json: 100 records

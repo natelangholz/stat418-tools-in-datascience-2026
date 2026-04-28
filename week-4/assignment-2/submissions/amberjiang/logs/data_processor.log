@@ -1,0 +1,7 @@
+2026-04-27 16:53:08,028 - INFO - Successfully loaded TMDB data: 100 records
+2026-04-27 16:53:08,078 - INFO - Successfully loaded Letterboxd data: 100 records
+2026-04-27 16:53:08,347 - INFO - Merged TMDB and Letterboxd data: 100 records
+2026-04-27 16:53:08,361 - INFO - Removed 0 duplicate records
+2026-04-27 16:53:08,392 - INFO - Cleaned and validated data: 100 records remaining
+2026-04-27 16:53:08,610 - INFO - Saved processed data to data/processed/processed_movies.csv: 100 records
+2026-04-27 16:53:08,654 - INFO - Saved processed data to data/processed/processed_movies.json: 100 records
