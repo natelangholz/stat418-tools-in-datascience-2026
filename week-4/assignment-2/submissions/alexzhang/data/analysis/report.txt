@@ -1,0 +1,28 @@
+============================================================
+MOVIE DATA PIPELINE — ANALYSIS REPORT
+============================================================
+Total movies in dataset: 100
+Date range: 1972-03-14 – 2026-10-09
+Movies with Letterboxd ratings: 79
+
+1. RATING ANALYSIS
+----------------------------------------
+TMDB and Letterboxd ratings have a Pearson correlation of 0.44 (n=79).
+  → data/analysis/rating_correlation.png
+
+2. GENRE ANALYSIS
+----------------------------------------
+The most common genre is 'Action' (33 films). Top-rated genre: 'Science Fiction' (avg 7.01).
+  → data/analysis/genre_analysis.png
+
+3. FINANCIAL ANALYSIS
+----------------------------------------
+Among 55 films with known budget/revenue, the highest ROI is 'undertone' at 41.0x. Budget-revenue Pearson r = 0.73.
+  → data/analysis/financial_analysis.png
+
+4. TEMPORAL ANALYSIS
+----------------------------------------
+Best-rated release year in dataset: 1972 (avg 8.70).
+  → data/analysis/temporal_analysis.png
+
+============================================================
