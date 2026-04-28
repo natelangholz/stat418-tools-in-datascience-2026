@@ -1,0 +1,18 @@
+Movie Dataset Summary Report
+========================================
+
+Total movies collected    : 100
+Date range                : 1972-03-14 to 2026-10-09
+Average TMDB rating       : 6.47
+Average Letterboxd rating : 3.10
+Rating correlation (r)    : 0.5243
+TMDB normalization        : vote_average / 2 (maps 0-10 to 0-5 for comparison)
+Most common genre         : Action
+
+Top 5 Most Profitable Movies
+----------------------------------------
+  1. Avengers: Infinity War — profit: $1,752,415,039
+  2. Spider-Man: No Way Home — profit: $1,721,847,111
+  3. Zootopia 2 — profit: $1,718,208,796
+  4. The Avengers — profit: $1,298,815,515
+  5. The Super Mario Bros. Movie — profit: $1,260,879,735
