@@ -1,0 +1,1441 @@
+2026-04-25 15:32:52,998 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2026-04-25 15:32:52,999 - WARNING - Rating not found, returning None
+2026-04-25 15:32:52,999 - WARNING - Review count not found, returning None
+2026-04-25 15:32:52,999 - WARNING - Metascore not found, returning None
+2026-04-25 15:32:53,000 - INFO - Successfully scraped tt1226863
+2026-04-25 15:32:57,172 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2026-04-25 15:32:57,173 - WARNING - Rating not found, returning None
+2026-04-25 15:32:57,173 - WARNING - Review count not found, returning None
+2026-04-25 15:32:57,176 - WARNING - Metascore not found, returning None
+2026-04-25 15:32:57,176 - INFO - Successfully scraped tt1226863
+2026-04-25 15:33:51,899 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2026-04-25 15:33:51,900 - WARNING - Rating not found, returning None
+2026-04-25 15:33:51,901 - WARNING - Review count not found, returning None
+2026-04-25 15:33:51,901 - WARNING - Metascore not found, returning None
+2026-04-25 15:33:51,901 - INFO - Successfully scraped 1226863
+2026-04-25 15:35:19,506 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2026-04-25 15:35:19,508 - WARNING - Rating not found, returning None
+2026-04-25 15:35:19,509 - WARNING - Review count not found, returning None
+2026-04-25 15:35:19,509 - WARNING - Metascore not found, returning None
+2026-04-25 15:35:19,509 - INFO - Successfully scraped tt12042730
+2026-04-25 15:41:56,937 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2026-04-25 15:41:56,940 - WARNING - Rating not found, returning None
+2026-04-25 15:41:56,940 - WARNING - Review count not found, returning None
+2026-04-25 15:41:56,940 - WARNING - Metascore not found, returning None
+2026-04-25 15:41:56,940 - INFO - Successfully scraped tt12042730
+2026-04-27 16:39:01,229 - WARNING - Scraping The Shawshank Redemption is not allowed by robots.txt
+2026-04-27 16:45:04,006 - WARNING - Scraping The Shawshank Redemption is not allowed by robots.txt
+2026-04-27 16:55:07,383 - WARNING - Scraping The Shawshank Redemption is not allowed by robots.txt
+2026-04-27 16:57:31,420 - WARNING - Scraping The Shawshank Redemption is not allowed by robots.txt
+2026-04-27 17:00:40,998 - ERROR - Failed to convert fan count to int
+2026-04-27 17:00:40,999 - INFO - Successfully scraped The Shawshank Redemption
+2026-04-27 17:07:48,338 - INFO - Successfully scraped The Shawshank Redemption
+2026-04-27 17:10:46,192 - INFO - Successfully scraped The Shawshank Redemption
+2026-04-27 17:12:32,220 - INFO - Successfully scraped The Shawshank Redemption
+2026-04-27 19:59:52,453 - ERROR - Error scraping The Super Mario Galaxy Movie: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 19:59:53,077 - WARNING - Fan count not found, returning None
+2026-04-27 19:59:53,077 - INFO - Successfully scraped Apex
+2026-04-27 19:59:54,378 - ERROR - Error scraping \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e: 404 Client Error: Not Found for url: https://letterboxd.com/film//
+2026-04-27 19:59:55,895 - ERROR - Error scraping Send Help: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 19:59:57,284 - WARNING - Rating not found, returning None
+2026-04-27 19:59:57,285 - WARNING - Fan count not found, returning None
+2026-04-27 19:59:57,285 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 19:59:58,962 - ERROR - Error scraping Michael: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 20:00:00,574 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 20:00:02,181 - WARNING - Rating not found, returning None
+2026-04-27 20:00:02,182 - WARNING - Fan count not found, returning None
+2026-04-27 20:00:02,182 - INFO - Successfully scraped Venganza
+2026-04-27 20:00:03,802 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 20:00:05,037 - WARNING - Fan count not found, returning None
+2026-04-27 20:00:05,038 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 20:00:06,546 - INFO - Successfully scraped Hoppers
+2026-04-27 20:00:07,847 - ERROR - Error scraping Shelter: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 20:00:09,306 - ERROR - Error scraping The Mortuary Assistant: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 20:00:11,105 - ERROR - Error scraping Crime 101: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 20:00:12,394 - WARNING - Rating not found, returning None
+2026-04-27 20:00:12,396 - WARNING - Fan count not found, returning None
+2026-04-27 20:00:12,396 - INFO - Successfully scraped GOAT
+2026-04-27 20:00:13,730 - ERROR - Error scraping \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765: 404 Client Error: Not Found for url: https://letterboxd.com/film//
+2026-04-27 20:00:15,500 - ERROR - Error scraping Sniper: No Nation: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 20:00:17,227 - ERROR - Error scraping ¿Quieres Ser Mi Novia?: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 20:00:18,526 - INFO - Successfully scraped Zootopia 2
+2026-04-27 20:00:19,808 - ERROR - Error scraping Thrash: replace() takes at least 2 positional arguments (1 given)
+2026-04-27 20:08:15,692 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 20:08:16,360 - WARNING - Fan count not found, returning None
+2026-04-27 20:08:16,360 - INFO - Successfully scraped Apex
+2026-04-27 20:08:17,795 - ERROR - Error scraping \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e: 404 Client Error: Not Found for url: https://letterboxd.com/film//
+2026-04-27 20:08:19,595 - INFO - Successfully scraped Send Help
+2026-04-27 20:08:21,066 - WARNING - Rating not found, returning None
+2026-04-27 20:08:21,068 - WARNING - Fan count not found, returning None
+2026-04-27 20:08:21,068 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 20:08:22,903 - INFO - Successfully scraped Michael
+2026-04-27 20:08:24,417 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 20:08:25,790 - WARNING - Rating not found, returning None
+2026-04-27 20:08:25,791 - WARNING - Fan count not found, returning None
+2026-04-27 20:08:25,791 - INFO - Successfully scraped Venganza
+2026-04-27 20:08:27,456 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 20:08:28,871 - WARNING - Fan count not found, returning None
+2026-04-27 20:08:28,871 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 20:08:30,501 - INFO - Successfully scraped Hoppers
+2026-04-27 20:08:32,075 - INFO - Successfully scraped Shelter
+2026-04-27 20:08:33,361 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 20:08:34,739 - INFO - Successfully scraped Crime 101
+2026-04-27 20:08:36,267 - WARNING - Rating not found, returning None
+2026-04-27 20:08:36,268 - WARNING - Fan count not found, returning None
+2026-04-27 20:08:36,268 - INFO - Successfully scraped GOAT
+2026-04-27 20:08:37,761 - ERROR - Error scraping \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765: 404 Client Error: Not Found for url: https://letterboxd.com/film//
+2026-04-27 20:08:39,499 - ERROR - Failed to convert fan count to int
+2026-04-27 20:08:39,499 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 20:08:40,495 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 20:08:42,269 - INFO - Successfully scraped Zootopia 2
+2026-04-27 20:08:43,823 - INFO - Successfully scraped Thrash
+2026-04-27 20:48:14,734 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 20:48:15,868 - WARNING - Fan count not found, returning None
+2026-04-27 20:48:15,871 - INFO - Successfully scraped Apex
+2026-04-27 20:48:18,661 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 20:48:20,647 - INFO - Successfully scraped Send Help
+2026-04-27 20:48:21,726 - WARNING - Rating not found, returning None
+2026-04-27 20:48:21,728 - WARNING - Fan count not found, returning None
+2026-04-27 20:48:21,728 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 20:48:23,585 - INFO - Successfully scraped Michael
+2026-04-27 20:48:24,971 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 20:48:26,394 - WARNING - Rating not found, returning None
+2026-04-27 20:48:26,396 - WARNING - Fan count not found, returning None
+2026-04-27 20:48:26,396 - INFO - Successfully scraped Venganza
+2026-04-27 20:48:28,245 - WARNING - Fan count not found, returning None
+2026-04-27 20:48:28,245 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 20:48:29,617 - INFO - Successfully scraped Hoppers
+2026-04-27 20:48:31,315 - INFO - Successfully scraped Shelter
+2026-04-27 20:48:32,860 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 20:48:34,202 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 20:48:35,548 - INFO - Successfully scraped Crime 101
+2026-04-27 20:48:36,830 - WARNING - Rating not found, returning None
+2026-04-27 20:48:36,831 - WARNING - Fan count not found, returning None
+2026-04-27 20:48:36,831 - INFO - Successfully scraped GOAT
+2026-04-27 20:48:39,964 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 20:48:42,175 - ERROR - Failed to convert fan count to int
+2026-04-27 20:48:42,175 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 20:48:43,089 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 20:48:44,670 - INFO - Successfully scraped Zootopia 2
+2026-04-27 20:48:46,047 - INFO - Successfully scraped Thrash
+2026-04-27 20:48:47,973 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 20:48:49,294 - ERROR - Error scraping Lee Cronin's The Mummy: 404 Client Error: Not Found for url: https://letterboxd.com/film/lee-cronin-s-the-mummy/
+2026-04-27 20:48:50,842 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 20:48:52,551 - WARNING - Rating not found, returning None
+2026-04-27 20:48:52,552 - WARNING - Fan count not found, returning None
+2026-04-27 20:48:52,552 - INFO - Successfully scraped Balls Up
+2026-04-27 20:48:54,387 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 20:48:57,241 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 20:48:59,321 - INFO - Successfully scraped Scream 7
+2026-04-27 20:49:00,584 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 20:49:01,563 - INFO - Successfully scraped The Housemaid
+2026-04-27 20:49:03,320 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 20:49:04,878 - WARNING - Rating not found, returning None
+2026-04-27 20:49:04,881 - WARNING - Fan count not found, returning None
+2026-04-27 20:49:04,881 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 20:49:06,437 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 20:49:08,014 - INFO - Successfully scraped Interstellar
+2026-04-27 20:49:09,201 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 20:49:10,473 - WARNING - Rating not found, returning None
+2026-04-27 20:49:10,474 - WARNING - Fan count not found, returning None
+2026-04-27 20:49:10,474 - INFO - Successfully scraped undertone
+2026-04-27 20:49:11,982 - WARNING - Rating not found, returning None
+2026-04-27 20:49:11,983 - WARNING - Fan count not found, returning None
+2026-04-27 20:49:11,983 - INFO - Successfully scraped Psycho Killer
+2026-04-27 20:49:13,864 - INFO - Successfully scraped Anaconda
+2026-04-27 20:49:15,659 - INFO - Successfully scraped War of the Worlds
+2026-04-27 20:49:17,135 - WARNING - Fan count not found, returning None
+2026-04-27 20:49:17,135 - INFO - Successfully scraped Whistle
+2026-04-27 20:49:18,725 - WARNING - Rating not found, returning None
+2026-04-27 20:49:18,727 - WARNING - Fan count not found, returning None
+2026-04-27 20:49:18,727 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 20:49:20,496 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 20:49:21,499 - WARNING - Rating not found, returning None
+2026-04-27 20:49:21,500 - WARNING - Fan count not found, returning None
+2026-04-27 20:49:21,500 - INFO - Successfully scraped War Machine
+2026-04-27 20:49:22,757 - ERROR - Failed to convert fan count to int
+2026-04-27 20:49:22,757 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 20:49:24,387 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 20:49:25,735 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 20:49:26,818 - WARNING - Fan count not found, returning None
+2026-04-27 20:49:26,818 - INFO - Successfully scraped Carmencita
+2026-04-27 20:49:29,025 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 20:49:31,449 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 20:49:31,842 - ERROR - Failed to convert fan count to int
+2026-04-27 20:49:31,842 - INFO - Successfully scraped 180
+2026-04-27 20:49:33,382 - INFO - Successfully scraped xXx
+2026-04-27 20:54:22,963 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 20:54:23,781 - WARNING - Fan count not found, returning None
+2026-04-27 20:54:23,781 - INFO - Successfully scraped Apex
+2026-04-27 20:54:25,979 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 20:54:28,098 - INFO - Successfully scraped Send Help
+2026-04-27 20:54:29,134 - WARNING - Rating not found, returning None
+2026-04-27 20:54:29,136 - WARNING - Fan count not found, returning None
+2026-04-27 20:54:29,137 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 20:54:30,831 - INFO - Successfully scraped Michael
+2026-04-27 20:54:32,678 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 20:54:33,795 - WARNING - Rating not found, returning None
+2026-04-27 20:54:33,796 - WARNING - Fan count not found, returning None
+2026-04-27 20:54:33,796 - INFO - Successfully scraped Venganza
+2026-04-27 20:54:35,343 - WARNING - Fan count not found, returning None
+2026-04-27 20:54:35,343 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 20:54:36,998 - INFO - Successfully scraped Hoppers
+2026-04-27 20:54:38,526 - INFO - Successfully scraped Shelter
+2026-04-27 20:54:39,578 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 20:54:41,097 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 20:54:42,294 - INFO - Successfully scraped Crime 101
+2026-04-27 20:54:43,326 - WARNING - Rating not found, returning None
+2026-04-27 20:54:43,328 - WARNING - Fan count not found, returning None
+2026-04-27 20:54:43,328 - INFO - Successfully scraped GOAT
+2026-04-27 20:54:46,452 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 20:54:50,409 - ERROR - Failed to convert fan count to int
+2026-04-27 20:54:50,409 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 20:54:51,726 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 20:54:56,797 - INFO - Successfully scraped Zootopia 2
+2026-04-27 20:54:58,214 - INFO - Successfully scraped Thrash
+2026-04-27 20:54:59,979 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 20:55:00,226 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 20:55:01,657 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 20:55:04,710 - WARNING - Rating not found, returning None
+2026-04-27 20:55:04,711 - WARNING - Fan count not found, returning None
+2026-04-27 20:55:04,711 - INFO - Successfully scraped Balls Up
+2026-04-27 20:55:07,979 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 20:55:09,296 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 20:55:11,605 - INFO - Successfully scraped Scream 7
+2026-04-27 20:55:13,046 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 20:55:14,260 - INFO - Successfully scraped The Housemaid
+2026-04-27 20:55:15,997 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 20:55:17,366 - WARNING - Rating not found, returning None
+2026-04-27 20:55:17,372 - WARNING - Fan count not found, returning None
+2026-04-27 20:55:17,373 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 20:55:18,756 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 20:55:20,365 - INFO - Successfully scraped Interstellar
+2026-04-27 20:55:21,634 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 20:55:23,241 - WARNING - Rating not found, returning None
+2026-04-27 20:55:23,243 - WARNING - Fan count not found, returning None
+2026-04-27 20:55:23,243 - INFO - Successfully scraped undertone
+2026-04-27 20:55:24,872 - WARNING - Rating not found, returning None
+2026-04-27 20:55:24,874 - WARNING - Fan count not found, returning None
+2026-04-27 20:55:24,874 - INFO - Successfully scraped Psycho Killer
+2026-04-27 20:55:26,712 - INFO - Successfully scraped Anaconda
+2026-04-27 20:55:28,306 - INFO - Successfully scraped War of the Worlds
+2026-04-27 20:55:29,200 - WARNING - Fan count not found, returning None
+2026-04-27 20:55:29,200 - INFO - Successfully scraped Whistle
+2026-04-27 20:55:30,930 - WARNING - Rating not found, returning None
+2026-04-27 20:55:30,932 - WARNING - Fan count not found, returning None
+2026-04-27 20:55:30,932 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 20:55:32,854 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 20:55:34,055 - WARNING - Rating not found, returning None
+2026-04-27 20:55:34,056 - WARNING - Fan count not found, returning None
+2026-04-27 20:55:34,057 - INFO - Successfully scraped War Machine
+2026-04-27 20:55:35,759 - ERROR - Failed to convert fan count to int
+2026-04-27 20:55:35,759 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 20:55:37,201 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 20:55:38,619 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 20:55:40,338 - WARNING - Fan count not found, returning None
+2026-04-27 20:55:40,338 - INFO - Successfully scraped Carmencita
+2026-04-27 20:55:42,878 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 20:55:45,108 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 20:55:45,781 - ERROR - Failed to convert fan count to int
+2026-04-27 20:55:45,781 - INFO - Successfully scraped 180
+2026-04-27 20:55:47,726 - INFO - Successfully scraped xXx
+2026-04-27 21:05:46,479 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 21:05:47,289 - WARNING - Fan count not found, returning None
+2026-04-27 21:05:47,289 - INFO - Successfully scraped Apex
+2026-04-27 21:05:50,131 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 21:05:52,345 - INFO - Successfully scraped Send Help
+2026-04-27 21:05:53,174 - WARNING - Rating not found, returning None
+2026-04-27 21:05:53,176 - WARNING - Fan count not found, returning None
+2026-04-27 21:05:53,176 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 21:05:54,508 - INFO - Successfully scraped Michael
+2026-04-27 21:05:56,406 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 21:05:57,703 - WARNING - Rating not found, returning None
+2026-04-27 21:05:57,704 - WARNING - Fan count not found, returning None
+2026-04-27 21:05:57,705 - INFO - Successfully scraped Venganza
+2026-04-27 21:05:59,276 - WARNING - Fan count not found, returning None
+2026-04-27 21:05:59,276 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 21:06:00,890 - INFO - Successfully scraped Hoppers
+2026-04-27 21:06:02,391 - INFO - Successfully scraped Shelter
+2026-04-27 21:06:03,754 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 21:06:05,280 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 21:06:07,020 - INFO - Successfully scraped Crime 101
+2026-04-27 21:06:08,262 - WARNING - Rating not found, returning None
+2026-04-27 21:06:08,264 - WARNING - Fan count not found, returning None
+2026-04-27 21:06:08,264 - INFO - Successfully scraped GOAT
+2026-04-27 21:06:11,423 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 21:06:14,345 - ERROR - Failed to convert fan count to int
+2026-04-27 21:06:14,346 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 21:06:16,549 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 21:06:17,732 - INFO - Successfully scraped Zootopia 2
+2026-04-27 21:06:20,695 - INFO - Successfully scraped Thrash
+2026-04-27 21:06:21,878 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 21:06:25,761 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 21:06:26,119 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 21:06:28,170 - WARNING - Rating not found, returning None
+2026-04-27 21:06:28,172 - WARNING - Fan count not found, returning None
+2026-04-27 21:06:28,172 - INFO - Successfully scraped Balls Up
+2026-04-27 21:06:30,639 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 21:06:32,209 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 21:06:34,266 - INFO - Successfully scraped Scream 7
+2026-04-27 21:06:35,600 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 21:06:36,775 - INFO - Successfully scraped The Housemaid
+2026-04-27 21:06:38,233 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 21:06:39,660 - WARNING - Rating not found, returning None
+2026-04-27 21:06:39,662 - WARNING - Fan count not found, returning None
+2026-04-27 21:06:39,662 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 21:06:41,253 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 21:06:42,722 - INFO - Successfully scraped Interstellar
+2026-04-27 21:06:44,005 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 21:06:45,213 - WARNING - Rating not found, returning None
+2026-04-27 21:06:45,216 - WARNING - Fan count not found, returning None
+2026-04-27 21:06:45,216 - INFO - Successfully scraped undertone
+2026-04-27 21:06:46,593 - WARNING - Rating not found, returning None
+2026-04-27 21:06:46,594 - WARNING - Fan count not found, returning None
+2026-04-27 21:06:46,595 - INFO - Successfully scraped Psycho Killer
+2026-04-27 21:06:48,019 - INFO - Successfully scraped Anaconda
+2026-04-27 21:06:49,954 - INFO - Successfully scraped War of the Worlds
+2026-04-27 21:06:50,974 - WARNING - Fan count not found, returning None
+2026-04-27 21:06:50,974 - INFO - Successfully scraped Whistle
+2026-04-27 21:06:52,180 - WARNING - Rating not found, returning None
+2026-04-27 21:06:52,183 - WARNING - Fan count not found, returning None
+2026-04-27 21:06:52,183 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 21:06:54,066 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 21:06:55,586 - WARNING - Rating not found, returning None
+2026-04-27 21:06:55,587 - WARNING - Fan count not found, returning None
+2026-04-27 21:06:55,587 - INFO - Successfully scraped War Machine
+2026-04-27 21:06:56,865 - ERROR - Failed to convert fan count to int
+2026-04-27 21:06:56,865 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 21:06:58,795 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 21:07:00,424 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 21:07:01,754 - WARNING - Fan count not found, returning None
+2026-04-27 21:07:01,754 - INFO - Successfully scraped Carmencita
+2026-04-27 21:07:04,940 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 21:07:07,176 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 21:07:07,837 - ERROR - Failed to convert fan count to int
+2026-04-27 21:07:07,837 - INFO - Successfully scraped 180
+2026-04-27 21:07:09,602 - INFO - Successfully scraped xXx
+2026-04-27 21:27:48,494 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 21:27:49,011 - WARNING - Fan count not found, returning None
+2026-04-27 21:27:49,011 - INFO - Successfully scraped Apex
+2026-04-27 21:27:49,708 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 21:27:51,254 - INFO - Successfully scraped Send Help
+2026-04-27 21:27:52,444 - WARNING - Rating not found, returning None
+2026-04-27 21:27:52,445 - WARNING - Fan count not found, returning None
+2026-04-27 21:27:52,445 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 21:27:54,006 - INFO - Successfully scraped Michael
+2026-04-27 21:27:56,052 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 21:27:57,315 - WARNING - Rating not found, returning None
+2026-04-27 21:27:57,318 - WARNING - Fan count not found, returning None
+2026-04-27 21:27:57,318 - INFO - Successfully scraped Venganza
+2026-04-27 21:27:59,910 - WARNING - Fan count not found, returning None
+2026-04-27 21:27:59,910 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 21:28:01,524 - INFO - Successfully scraped Hoppers
+2026-04-27 21:28:01,981 - INFO - Successfully scraped Shelter
+2026-04-27 21:28:04,559 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 21:28:05,376 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 21:28:09,562 - INFO - Successfully scraped Crime 101
+2026-04-27 21:28:10,118 - WARNING - Rating not found, returning None
+2026-04-27 21:28:10,120 - WARNING - Fan count not found, returning None
+2026-04-27 21:28:10,120 - INFO - Successfully scraped GOAT
+2026-04-27 21:28:11,263 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 21:28:13,511 - ERROR - Failed to convert fan count to int
+2026-04-27 21:28:13,511 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 21:28:14,876 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 21:28:16,253 - INFO - Successfully scraped Zootopia 2
+2026-04-27 21:28:19,379 - INFO - Successfully scraped Thrash
+2026-04-27 21:28:20,656 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 21:28:21,599 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 21:28:22,554 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 21:28:24,050 - WARNING - Rating not found, returning None
+2026-04-27 21:28:24,051 - WARNING - Fan count not found, returning None
+2026-04-27 21:28:24,051 - INFO - Successfully scraped Balls Up
+2026-04-27 21:28:26,389 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 21:28:26,485 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 21:28:28,763 - INFO - Successfully scraped Scream 7
+2026-04-27 21:28:30,329 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 21:28:32,579 - INFO - Successfully scraped The Housemaid
+2026-04-27 21:28:33,678 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 21:28:34,461 - WARNING - Rating not found, returning None
+2026-04-27 21:28:34,463 - WARNING - Fan count not found, returning None
+2026-04-27 21:28:34,464 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 21:28:35,712 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 21:28:39,762 - INFO - Successfully scraped Interstellar
+2026-04-27 21:28:41,699 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 21:28:42,984 - WARNING - Rating not found, returning None
+2026-04-27 21:28:42,985 - WARNING - Fan count not found, returning None
+2026-04-27 21:28:42,985 - INFO - Successfully scraped undertone
+2026-04-27 21:28:44,527 - WARNING - Rating not found, returning None
+2026-04-27 21:28:44,529 - WARNING - Fan count not found, returning None
+2026-04-27 21:28:44,529 - INFO - Successfully scraped Psycho Killer
+2026-04-27 21:28:47,366 - INFO - Successfully scraped Anaconda
+2026-04-27 21:28:48,648 - INFO - Successfully scraped War of the Worlds
+2026-04-27 21:28:50,083 - WARNING - Fan count not found, returning None
+2026-04-27 21:28:50,083 - INFO - Successfully scraped Whistle
+2026-04-27 21:28:51,020 - WARNING - Rating not found, returning None
+2026-04-27 21:28:51,023 - WARNING - Fan count not found, returning None
+2026-04-27 21:28:51,023 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 21:28:53,770 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 21:28:54,087 - WARNING - Rating not found, returning None
+2026-04-27 21:28:54,089 - WARNING - Fan count not found, returning None
+2026-04-27 21:28:54,089 - INFO - Successfully scraped War Machine
+2026-04-27 21:28:56,341 - ERROR - Failed to convert fan count to int
+2026-04-27 21:28:56,341 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 21:28:57,683 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 21:29:01,790 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 21:29:02,491 - WARNING - Fan count not found, returning None
+2026-04-27 21:29:02,491 - INFO - Successfully scraped Carmencita
+2026-04-27 21:29:03,059 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 21:29:05,663 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 21:29:06,734 - ERROR - Failed to convert fan count to int
+2026-04-27 21:29:06,734 - INFO - Successfully scraped 180
+2026-04-27 21:29:08,416 - INFO - Successfully scraped xXx
+2026-04-27 22:21:13,904 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 22:21:15,746 - WARNING - Fan count not found, returning None
+2026-04-27 22:21:15,746 - INFO - Successfully scraped Apex
+2026-04-27 22:21:18,106 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 22:21:22,412 - INFO - Successfully scraped Send Help
+2026-04-27 22:21:27,214 - WARNING - Rating not found, returning None
+2026-04-27 22:21:27,215 - WARNING - Fan count not found, returning None
+2026-04-27 22:21:27,215 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 22:21:29,065 - INFO - Successfully scraped Michael
+2026-04-27 22:21:32,343 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 22:21:35,244 - WARNING - Rating not found, returning None
+2026-04-27 22:21:35,245 - WARNING - Fan count not found, returning None
+2026-04-27 22:21:35,246 - INFO - Successfully scraped Venganza
+2026-04-27 22:21:38,816 - WARNING - Fan count not found, returning None
+2026-04-27 22:21:38,816 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 22:21:42,014 - INFO - Successfully scraped Hoppers
+2026-04-27 22:21:45,374 - INFO - Successfully scraped Shelter
+2026-04-27 22:21:48,596 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 22:21:51,536 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 22:21:54,793 - INFO - Successfully scraped Crime 101
+2026-04-27 22:21:57,932 - WARNING - Rating not found, returning None
+2026-04-27 22:21:57,934 - WARNING - Fan count not found, returning None
+2026-04-27 22:21:57,934 - INFO - Successfully scraped GOAT
+2026-04-27 22:22:00,614 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 22:22:05,141 - ERROR - Failed to convert fan count to int
+2026-04-27 22:22:05,141 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 22:22:08,085 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 22:22:11,227 - INFO - Successfully scraped Zootopia 2
+2026-04-27 22:22:13,875 - INFO - Successfully scraped Thrash
+2026-04-27 22:22:16,583 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 22:22:19,769 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 22:22:22,387 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 22:22:26,594 - WARNING - Rating not found, returning None
+2026-04-27 22:22:26,596 - WARNING - Fan count not found, returning None
+2026-04-27 22:22:26,596 - INFO - Successfully scraped Balls Up
+2026-04-27 22:22:28,721 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 22:22:30,896 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 22:22:34,576 - INFO - Successfully scraped Scream 7
+2026-04-27 22:22:37,452 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 22:22:40,484 - INFO - Successfully scraped The Housemaid
+2026-04-27 22:22:43,227 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 22:22:46,382 - WARNING - Rating not found, returning None
+2026-04-27 22:22:46,384 - WARNING - Fan count not found, returning None
+2026-04-27 22:22:46,384 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 22:22:48,966 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 22:22:53,278 - INFO - Successfully scraped Interstellar
+2026-04-27 22:22:55,494 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 22:22:58,132 - WARNING - Rating not found, returning None
+2026-04-27 22:22:58,133 - WARNING - Fan count not found, returning None
+2026-04-27 22:22:58,133 - INFO - Successfully scraped undertone
+2026-04-27 22:23:01,017 - WARNING - Rating not found, returning None
+2026-04-27 22:23:01,019 - WARNING - Fan count not found, returning None
+2026-04-27 22:23:01,019 - INFO - Successfully scraped Psycho Killer
+2026-04-27 22:23:04,254 - INFO - Successfully scraped Anaconda
+2026-04-27 22:23:06,876 - INFO - Successfully scraped War of the Worlds
+2026-04-27 22:23:09,875 - WARNING - Fan count not found, returning None
+2026-04-27 22:23:09,875 - INFO - Successfully scraped Whistle
+2026-04-27 22:23:13,101 - WARNING - Rating not found, returning None
+2026-04-27 22:23:13,103 - WARNING - Fan count not found, returning None
+2026-04-27 22:23:13,103 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 22:23:16,013 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 22:23:19,030 - WARNING - Rating not found, returning None
+2026-04-27 22:23:19,031 - WARNING - Fan count not found, returning None
+2026-04-27 22:23:19,031 - INFO - Successfully scraped War Machine
+2026-04-27 22:23:22,123 - ERROR - Failed to convert fan count to int
+2026-04-27 22:23:22,124 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 22:23:24,604 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 22:23:27,901 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 22:23:30,565 - WARNING - Fan count not found, returning None
+2026-04-27 22:23:30,565 - INFO - Successfully scraped Carmencita
+2026-04-27 22:23:33,013 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 22:23:37,322 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 22:23:40,007 - ERROR - Failed to convert fan count to int
+2026-04-27 22:23:40,007 - INFO - Successfully scraped 180
+2026-04-27 22:23:43,247 - INFO - Successfully scraped xXx
+2026-04-27 22:23:45,742 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 22:23:48,204 - WARNING - Fan count not found, returning None
+2026-04-27 22:23:48,204 - INFO - Successfully scraped Apex
+2026-04-27 22:23:50,421 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 22:23:54,719 - INFO - Successfully scraped Send Help
+2026-04-27 22:23:56,878 - WARNING - Rating not found, returning None
+2026-04-27 22:23:56,879 - WARNING - Fan count not found, returning None
+2026-04-27 22:23:56,879 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 22:24:00,147 - INFO - Successfully scraped Michael
+2026-04-27 22:24:03,314 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 22:24:05,901 - WARNING - Rating not found, returning None
+2026-04-27 22:24:05,902 - WARNING - Fan count not found, returning None
+2026-04-27 22:24:05,902 - INFO - Successfully scraped Venganza
+2026-04-27 22:24:09,038 - WARNING - Fan count not found, returning None
+2026-04-27 22:24:09,039 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 22:24:11,643 - INFO - Successfully scraped Hoppers
+2026-04-27 22:24:14,522 - INFO - Successfully scraped Shelter
+2026-04-27 22:24:18,329 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 22:24:21,050 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 22:24:23,937 - INFO - Successfully scraped Crime 101
+2026-04-27 22:24:27,249 - WARNING - Rating not found, returning None
+2026-04-27 22:24:27,250 - WARNING - Fan count not found, returning None
+2026-04-27 22:24:27,250 - INFO - Successfully scraped GOAT
+2026-04-27 22:24:29,152 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 22:24:33,440 - ERROR - Failed to convert fan count to int
+2026-04-27 22:24:33,440 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 22:24:36,165 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 22:24:39,405 - INFO - Successfully scraped Zootopia 2
+2026-04-27 22:24:42,243 - INFO - Successfully scraped Thrash
+2026-04-27 22:24:45,644 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 22:24:48,518 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 22:24:51,018 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 22:24:53,942 - WARNING - Rating not found, returning None
+2026-04-27 22:24:53,943 - WARNING - Fan count not found, returning None
+2026-04-27 22:24:53,943 - INFO - Successfully scraped Balls Up
+2026-04-27 22:24:57,113 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 22:24:59,597 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 22:25:03,158 - INFO - Successfully scraped Scream 7
+2026-04-27 22:25:05,812 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 22:25:08,599 - INFO - Successfully scraped The Housemaid
+2026-04-27 22:25:11,943 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 22:25:14,709 - WARNING - Rating not found, returning None
+2026-04-27 22:25:14,711 - WARNING - Fan count not found, returning None
+2026-04-27 22:25:14,711 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 22:25:17,968 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 22:25:20,427 - INFO - Successfully scraped Interstellar
+2026-04-27 22:25:23,374 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 22:25:26,433 - WARNING - Rating not found, returning None
+2026-04-27 22:25:26,435 - WARNING - Fan count not found, returning None
+2026-04-27 22:25:26,435 - INFO - Successfully scraped undertone
+2026-04-27 22:25:29,304 - WARNING - Rating not found, returning None
+2026-04-27 22:25:29,305 - WARNING - Fan count not found, returning None
+2026-04-27 22:25:29,305 - INFO - Successfully scraped Psycho Killer
+2026-04-27 22:25:32,364 - INFO - Successfully scraped Anaconda
+2026-04-27 22:25:35,351 - INFO - Successfully scraped War of the Worlds
+2026-04-27 22:25:38,384 - WARNING - Fan count not found, returning None
+2026-04-27 22:25:38,384 - INFO - Successfully scraped Whistle
+2026-04-27 22:25:41,256 - WARNING - Rating not found, returning None
+2026-04-27 22:25:41,258 - WARNING - Fan count not found, returning None
+2026-04-27 22:25:41,258 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 22:25:44,378 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 22:25:47,217 - WARNING - Rating not found, returning None
+2026-04-27 22:25:47,219 - WARNING - Fan count not found, returning None
+2026-04-27 22:25:47,219 - INFO - Successfully scraped War Machine
+2026-04-27 22:25:51,973 - ERROR - Failed to convert fan count to int
+2026-04-27 22:25:51,973 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 22:25:56,852 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 22:26:00,980 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 22:26:03,181 - WARNING - Fan count not found, returning None
+2026-04-27 22:26:03,181 - INFO - Successfully scraped Carmencita
+2026-04-27 22:26:04,868 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 22:26:10,258 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 22:26:12,804 - ERROR - Failed to convert fan count to int
+2026-04-27 22:26:12,804 - INFO - Successfully scraped 180
+2026-04-27 22:26:15,984 - INFO - Successfully scraped xXx
+2026-04-27 22:31:11,034 - WARNING - No slug found via TMDB for The Super Mario Galaxy Movie
+2026-04-27 22:31:14,301 - WARNING - No slug found via TMDB for Apex
+2026-04-27 22:31:17,342 - WARNING - No slug found via TMDB for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e
+2026-04-27 22:31:20,785 - WARNING - No slug found via TMDB for Send Help
+2026-04-27 22:31:24,134 - WARNING - No slug found via TMDB for Avatar Aang: The Last Airbender
+2026-04-27 22:31:27,107 - WARNING - No slug found via TMDB for Michael
+2026-04-27 22:31:29,684 - WARNING - No slug found via TMDB for Avatar: Fire and Ash
+2026-04-27 22:31:32,686 - WARNING - No slug found via TMDB for Venganza
+2026-04-27 22:31:35,512 - WARNING - No slug found via TMDB for The Crucifix: Blood of the Exorcist
+2026-04-27 22:31:38,051 - WARNING - No slug found via TMDB for Hoppers
+2026-04-27 22:31:41,158 - WARNING - No slug found via TMDB for Shelter
+2026-04-27 22:31:44,098 - WARNING - No slug found via TMDB for Project Hail Mary
+2026-04-27 22:31:46,897 - WARNING - No slug found via TMDB for The Mortuary Assistant
+2026-04-27 22:31:50,225 - WARNING - No slug found via TMDB for Crime 101
+2026-04-27 22:31:53,033 - WARNING - No slug found via TMDB for GOAT
+2026-04-27 22:31:56,255 - WARNING - No slug found via TMDB for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765
+2026-04-27 22:31:59,123 - WARNING - No slug found via TMDB for Sniper: No Nation
+2026-04-27 22:32:02,043 - WARNING - No slug found via TMDB for ¿Quieres Ser Mi Novia?
+2026-04-27 22:32:05,204 - WARNING - No slug found via TMDB for Zootopia 2
+2026-04-27 22:32:08,147 - WARNING - No slug found via TMDB for Thrash
+2026-04-27 22:32:11,036 - WARNING - No slug found via TMDB for The Devil Wears Prada
+2026-04-27 22:32:13,891 - WARNING - No slug found via TMDB for Lee Cronin's The Mummy
+2026-04-27 22:32:16,519 - WARNING - No slug found via TMDB for Malèna
+2026-04-27 22:32:19,698 - WARNING - No slug found via TMDB for Balls Up
+2026-04-27 22:32:22,683 - WARNING - No slug found via TMDB for The Strangers: Chapter 3
+2026-04-27 22:32:25,728 - WARNING - No slug found via TMDB for \u6355\u98ce\u8ffd\u5f71
+2026-04-27 22:32:28,812 - WARNING - No slug found via TMDB for Scream 7
+2026-04-27 22:32:31,923 - WARNING - No slug found via TMDB for Greenland 2: Migration
+2026-04-27 22:32:34,828 - WARNING - No slug found via TMDB for The Housemaid
+2026-04-27 22:32:37,730 - WARNING - No slug found via TMDB for Predator: Badlands
+2026-04-27 22:32:40,860 - WARNING - No slug found via TMDB for Rise of the Conqueror
+2026-04-27 22:32:43,598 - WARNING - No slug found via TMDB for The Super Mario Bros. Movie
+2026-04-27 22:32:46,653 - WARNING - No slug found via TMDB for Interstellar
+2026-04-27 22:32:50,132 - WARNING - No slug found via TMDB for After Porn Ends 2
+2026-04-27 22:32:53,002 - WARNING - No slug found via TMDB for undertone
+2026-04-27 22:32:56,150 - WARNING - No slug found via TMDB for Psycho Killer
+2026-04-27 22:32:59,102 - WARNING - No slug found via TMDB for Anaconda
+2026-04-27 22:33:02,013 - WARNING - No slug found via TMDB for War of the Worlds
+2026-04-27 22:33:04,854 - WARNING - No slug found via TMDB for Whistle
+2026-04-27 22:33:07,939 - WARNING - No slug found via TMDB for The Red Book Ritual: Gates of Hell
+2026-04-27 22:33:11,339 - WARNING - No slug found via TMDB for The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 22:33:13,957 - WARNING - No slug found via TMDB for War Machine
+2026-04-27 22:33:17,005 - WARNING - No slug found via TMDB for Monster on a Plane
+2026-04-27 22:33:19,793 - WARNING - No slug found via TMDB for Mike & Nick & Nick & Alice
+2026-04-27 22:33:22,706 - WARNING - No slug found via TMDB for The Lord of the Rings: The Return of the King
+2026-04-27 22:33:25,613 - WARNING - No slug found via TMDB for Carmencita
+2026-04-27 22:33:28,562 - WARNING - No slug found via TMDB for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940
+2026-04-27 22:33:31,735 - WARNING - No slug found via TMDB for Spider-Man: No Way Home
+2026-04-27 22:33:34,778 - WARNING - No slug found via TMDB for 180
+2026-04-27 22:33:37,489 - WARNING - No slug found via TMDB for xXx
+2026-04-27 22:33:39,720 - WARNING - No slug found via TMDB for The Super Mario Galaxy Movie
+2026-04-27 22:33:42,832 - WARNING - No slug found via TMDB for Apex
+2026-04-27 22:33:45,735 - WARNING - No slug found via TMDB for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e
+2026-04-27 22:33:49,205 - WARNING - No slug found via TMDB for Send Help
+2026-04-27 22:33:52,232 - WARNING - No slug found via TMDB for Avatar Aang: The Last Airbender
+2026-04-27 22:33:55,249 - WARNING - No slug found via TMDB for Michael
+2026-04-27 22:33:58,206 - WARNING - No slug found via TMDB for Avatar: Fire and Ash
+2026-04-27 22:34:01,427 - WARNING - No slug found via TMDB for Venganza
+2026-04-27 22:34:03,941 - WARNING - No slug found via TMDB for The Crucifix: Blood of the Exorcist
+2026-04-27 22:34:07,201 - WARNING - No slug found via TMDB for Hoppers
+2026-04-27 22:34:10,424 - WARNING - No slug found via TMDB for Shelter
+2026-04-27 22:34:13,130 - WARNING - No slug found via TMDB for Project Hail Mary
+2026-04-27 22:34:15,908 - WARNING - No slug found via TMDB for The Mortuary Assistant
+2026-04-27 22:34:19,140 - WARNING - No slug found via TMDB for Crime 101
+2026-04-27 22:34:22,037 - WARNING - No slug found via TMDB for GOAT
+2026-04-27 22:34:25,233 - WARNING - No slug found via TMDB for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765
+2026-04-27 22:34:28,257 - WARNING - No slug found via TMDB for Sniper: No Nation
+2026-04-27 22:34:30,821 - WARNING - No slug found via TMDB for ¿Quieres Ser Mi Novia?
+2026-04-27 22:34:33,850 - WARNING - No slug found via TMDB for Zootopia 2
+2026-04-27 22:34:36,908 - WARNING - No slug found via TMDB for Thrash
+2026-04-27 22:34:39,625 - WARNING - No slug found via TMDB for The Devil Wears Prada
+2026-04-27 22:34:42,581 - WARNING - No slug found via TMDB for Lee Cronin's The Mummy
+2026-04-27 22:34:45,298 - WARNING - No slug found via TMDB for Malèna
+2026-04-27 22:34:48,188 - WARNING - No slug found via TMDB for Balls Up
+2026-04-27 22:34:51,400 - WARNING - No slug found via TMDB for The Strangers: Chapter 3
+2026-04-27 22:34:54,796 - WARNING - No slug found via TMDB for \u6355\u98ce\u8ffd\u5f71
+2026-04-27 22:34:57,621 - WARNING - No slug found via TMDB for Scream 7
+2026-04-27 22:35:00,651 - WARNING - No slug found via TMDB for Greenland 2: Migration
+2026-04-27 22:35:04,177 - WARNING - No slug found via TMDB for The Housemaid
+2026-04-27 22:35:07,390 - WARNING - No slug found via TMDB for Predator: Badlands
+2026-04-27 22:35:10,478 - WARNING - No slug found via TMDB for Rise of the Conqueror
+2026-04-27 22:35:13,946 - WARNING - No slug found via TMDB for The Super Mario Bros. Movie
+2026-04-27 22:35:16,917 - WARNING - No slug found via TMDB for Interstellar
+2026-04-27 22:35:19,607 - WARNING - No slug found via TMDB for After Porn Ends 2
+2026-04-27 22:35:22,849 - WARNING - No slug found via TMDB for undertone
+2026-04-27 22:35:25,429 - WARNING - No slug found via TMDB for Psycho Killer
+2026-04-27 22:35:28,073 - WARNING - No slug found via TMDB for Anaconda
+2026-04-27 22:35:31,040 - WARNING - No slug found via TMDB for War of the Worlds
+2026-04-27 22:35:33,749 - WARNING - No slug found via TMDB for Whistle
+2026-04-27 22:35:36,553 - WARNING - No slug found via TMDB for The Red Book Ritual: Gates of Hell
+2026-04-27 22:35:39,881 - WARNING - No slug found via TMDB for The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 22:35:42,707 - WARNING - No slug found via TMDB for War Machine
+2026-04-27 22:35:45,440 - WARNING - No slug found via TMDB for Monster on a Plane
+2026-04-27 22:35:48,569 - WARNING - No slug found via TMDB for Mike & Nick & Nick & Alice
+2026-04-27 22:35:51,987 - WARNING - No slug found via TMDB for The Lord of the Rings: The Return of the King
+2026-04-27 22:35:54,564 - WARNING - No slug found via TMDB for Carmencita
+2026-04-27 22:35:57,931 - WARNING - No slug found via TMDB for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940
+2026-04-27 22:36:01,028 - WARNING - No slug found via TMDB for Spider-Man: No Way Home
+2026-04-27 22:36:04,542 - WARNING - No slug found via TMDB for 180
+2026-04-27 22:36:07,222 - WARNING - No slug found via TMDB for xXx
+2026-04-27 22:41:35,976 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 22:41:38,972 - WARNING - Fan count not found, returning None
+2026-04-27 22:41:38,972 - INFO - Successfully scraped Apex
+2026-04-27 22:41:41,269 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 22:41:45,799 - INFO - Successfully scraped Send Help
+2026-04-27 22:41:48,567 - WARNING - Rating not found, returning None
+2026-04-27 22:41:48,569 - WARNING - Fan count not found, returning None
+2026-04-27 22:41:48,569 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 22:41:51,792 - INFO - Successfully scraped Michael
+2026-04-27 22:41:54,722 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 22:41:58,009 - WARNING - Rating not found, returning None
+2026-04-27 22:41:58,010 - WARNING - Fan count not found, returning None
+2026-04-27 22:41:58,011 - INFO - Successfully scraped Venganza
+2026-04-27 22:42:00,821 - WARNING - Fan count not found, returning None
+2026-04-27 22:42:00,821 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 22:42:04,635 - INFO - Successfully scraped Hoppers
+2026-04-27 22:42:07,574 - INFO - Successfully scraped Shelter
+2026-04-27 22:42:10,130 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 22:42:12,848 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 22:42:16,060 - INFO - Successfully scraped Crime 101
+2026-04-27 22:42:19,030 - WARNING - Rating not found, returning None
+2026-04-27 22:42:19,032 - WARNING - Fan count not found, returning None
+2026-04-27 22:42:19,033 - INFO - Successfully scraped GOAT
+2026-04-27 22:42:21,069 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 22:42:26,626 - ERROR - Failed to convert fan count to int
+2026-04-27 22:42:26,627 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 22:42:29,369 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 22:42:32,303 - INFO - Successfully scraped Zootopia 2
+2026-04-27 22:42:35,658 - INFO - Successfully scraped Thrash
+2026-04-27 22:42:37,789 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 22:42:41,109 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 22:42:44,289 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 22:42:47,800 - WARNING - Rating not found, returning None
+2026-04-27 22:42:47,801 - WARNING - Fan count not found, returning None
+2026-04-27 22:42:47,801 - INFO - Successfully scraped Balls Up
+2026-04-27 22:42:51,139 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 22:42:53,614 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 22:42:57,749 - INFO - Successfully scraped Scream 7
+2026-04-27 22:43:00,204 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 22:43:03,632 - INFO - Successfully scraped The Housemaid
+2026-04-27 22:43:06,758 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 22:43:10,018 - WARNING - Rating not found, returning None
+2026-04-27 22:43:10,021 - WARNING - Fan count not found, returning None
+2026-04-27 22:43:10,021 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 22:43:13,126 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 22:43:16,094 - INFO - Successfully scraped Interstellar
+2026-04-27 22:43:18,573 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 22:43:21,896 - WARNING - Rating not found, returning None
+2026-04-27 22:43:21,898 - WARNING - Fan count not found, returning None
+2026-04-27 22:43:21,898 - INFO - Successfully scraped undertone
+2026-04-27 22:43:24,426 - WARNING - Rating not found, returning None
+2026-04-27 22:43:24,428 - WARNING - Fan count not found, returning None
+2026-04-27 22:43:24,428 - INFO - Successfully scraped Psycho Killer
+2026-04-27 22:43:28,107 - INFO - Successfully scraped Anaconda
+2026-04-27 22:43:31,342 - INFO - Successfully scraped War of the Worlds
+2026-04-27 22:43:33,689 - WARNING - Fan count not found, returning None
+2026-04-27 22:43:33,690 - INFO - Successfully scraped Whistle
+2026-04-27 22:43:36,241 - WARNING - Rating not found, returning None
+2026-04-27 22:43:36,243 - WARNING - Fan count not found, returning None
+2026-04-27 22:43:36,243 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 22:43:39,452 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 22:43:42,313 - WARNING - Rating not found, returning None
+2026-04-27 22:43:42,314 - WARNING - Fan count not found, returning None
+2026-04-27 22:43:42,315 - INFO - Successfully scraped War Machine
+2026-04-27 22:43:45,761 - ERROR - Failed to convert fan count to int
+2026-04-27 22:43:45,761 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 22:43:49,004 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 22:43:51,916 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 22:43:55,262 - WARNING - Fan count not found, returning None
+2026-04-27 22:43:55,262 - INFO - Successfully scraped Carmencita
+2026-04-27 22:43:57,232 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 22:44:01,373 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 22:44:03,327 - ERROR - Failed to convert fan count to int
+2026-04-27 22:44:03,328 - INFO - Successfully scraped 180
+2026-04-27 22:44:06,535 - INFO - Successfully scraped xXx
+2026-04-27 22:59:54,688 - WARNING - Could not resolve Letterboxd slug for The Super Mario Galaxy Movie 
+2026-04-27 22:59:59,044 - WARNING - Could not resolve Letterboxd slug for Apex 
+2026-04-27 23:00:03,461 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 23:00:07,986 - WARNING - Could not resolve Letterboxd slug for Send Help 
+2026-04-27 23:00:13,124 - WARNING - Could not resolve Letterboxd slug for Avatar Aang: The Last Airbender 
+2026-04-27 23:00:16,422 - WARNING - Could not resolve Letterboxd slug for Michael 
+2026-04-27 23:00:20,507 - WARNING - Could not resolve Letterboxd slug for Avatar: Fire and Ash 
+2026-04-27 23:00:25,286 - WARNING - Could not resolve Letterboxd slug for Venganza 
+2026-04-27 23:00:29,923 - WARNING - Could not resolve Letterboxd slug for The Crucifix: Blood of the Exorcist 
+2026-04-27 23:00:34,673 - WARNING - Could not resolve Letterboxd slug for Hoppers 
+2026-04-27 23:00:39,653 - WARNING - Could not resolve Letterboxd slug for Shelter 
+2026-04-27 23:00:43,780 - WARNING - Could not resolve Letterboxd slug for Project Hail Mary 
+2026-04-27 23:00:48,289 - WARNING - Could not resolve Letterboxd slug for The Mortuary Assistant 
+2026-04-27 23:00:53,074 - WARNING - Could not resolve Letterboxd slug for Crime 101 
+2026-04-27 23:00:57,516 - WARNING - Could not resolve Letterboxd slug for GOAT 
+2026-04-27 23:01:01,882 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 23:01:06,095 - WARNING - Could not resolve Letterboxd slug for Sniper: No Nation 
+2026-04-27 23:01:10,677 - WARNING - Could not resolve Letterboxd slug for ¿Quieres Ser Mi Novia? 
+2026-04-27 23:01:15,381 - WARNING - Could not resolve Letterboxd slug for Zootopia 2 
+2026-04-27 23:01:20,389 - WARNING - Could not resolve Letterboxd slug for Thrash 
+2026-04-27 23:01:24,964 - WARNING - Could not resolve Letterboxd slug for The Devil Wears Prada 
+2026-04-27 23:01:29,702 - WARNING - Could not resolve Letterboxd slug for Lee Cronin's The Mummy 
+2026-04-27 23:01:34,338 - WARNING - Could not resolve Letterboxd slug for Malèna 
+2026-04-27 23:01:38,382 - WARNING - Could not resolve Letterboxd slug for Balls Up 
+2026-04-27 23:01:43,357 - WARNING - Could not resolve Letterboxd slug for The Strangers: Chapter 3 
+2026-04-27 23:01:47,739 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 23:01:52,631 - WARNING - Could not resolve Letterboxd slug for Scream 7 
+2026-04-27 23:01:56,786 - WARNING - Could not resolve Letterboxd slug for Greenland 2: Migration 
+2026-04-27 23:02:01,388 - WARNING - Could not resolve Letterboxd slug for The Housemaid 
+2026-04-27 23:02:05,949 - WARNING - Could not resolve Letterboxd slug for Predator: Badlands 
+2026-04-27 23:02:10,347 - WARNING - Could not resolve Letterboxd slug for Rise of the Conqueror 
+2026-04-27 23:02:14,825 - WARNING - Could not resolve Letterboxd slug for The Super Mario Bros. Movie 
+2026-04-27 23:02:19,375 - WARNING - Could not resolve Letterboxd slug for Interstellar 
+2026-04-27 23:02:23,896 - WARNING - Could not resolve Letterboxd slug for After Porn Ends 2 
+2026-04-27 23:02:28,902 - WARNING - Could not resolve Letterboxd slug for undertone 
+2026-04-27 23:02:33,677 - WARNING - Could not resolve Letterboxd slug for Psycho Killer 
+2026-04-27 23:02:38,471 - WARNING - Could not resolve Letterboxd slug for Anaconda 
+2026-04-27 23:02:42,809 - WARNING - Could not resolve Letterboxd slug for War of the Worlds 
+2026-04-27 23:02:47,236 - WARNING - Could not resolve Letterboxd slug for Whistle 
+2026-04-27 23:02:52,233 - WARNING - Could not resolve Letterboxd slug for The Red Book Ritual: Gates of Hell 
+2026-04-27 23:02:56,892 - WARNING - Could not resolve Letterboxd slug for The Lord of the Rings: The Fellowship of the Ring 
+2026-04-27 23:03:01,399 - WARNING - Could not resolve Letterboxd slug for War Machine 
+2026-04-27 23:03:05,509 - WARNING - Could not resolve Letterboxd slug for Monster on a Plane 
+2026-04-27 23:03:09,464 - WARNING - Could not resolve Letterboxd slug for Mike & Nick & Nick & Alice 
+2026-04-27 23:03:14,264 - WARNING - Could not resolve Letterboxd slug for The Lord of the Rings: The Return of the King 
+2026-04-27 23:03:19,063 - WARNING - Could not resolve Letterboxd slug for Carmencita 
+2026-04-27 23:03:23,326 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 23:03:28,149 - WARNING - Could not resolve Letterboxd slug for Spider-Man: No Way Home 
+2026-04-27 23:03:32,556 - WARNING - Could not resolve Letterboxd slug for 180 
+2026-04-27 23:03:37,141 - WARNING - Could not resolve Letterboxd slug for xXx 
+2026-04-27 23:15:50,581 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 23:15:55,169 - WARNING - Fan count not found, returning None
+2026-04-27 23:15:55,169 - INFO - Successfully scraped Apex
+2026-04-27 23:15:58,814 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 23:16:03,665 - INFO - Successfully scraped Send Help
+2026-04-27 23:16:08,388 - WARNING - Rating not found, returning None
+2026-04-27 23:16:08,390 - WARNING - Fan count not found, returning None
+2026-04-27 23:16:08,390 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 23:16:12,597 - INFO - Successfully scraped Michael
+2026-04-27 23:16:17,750 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 23:16:21,791 - WARNING - Rating not found, returning None
+2026-04-27 23:16:21,792 - WARNING - Fan count not found, returning None
+2026-04-27 23:16:21,792 - INFO - Successfully scraped Venganza
+2026-04-27 23:16:27,034 - WARNING - Fan count not found, returning None
+2026-04-27 23:16:27,034 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 23:16:30,826 - INFO - Successfully scraped Hoppers
+2026-04-27 23:16:35,227 - INFO - Successfully scraped Shelter
+2026-04-27 23:16:39,280 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 23:16:44,008 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 23:16:48,532 - INFO - Successfully scraped Crime 101
+2026-04-27 23:16:52,097 - WARNING - Rating not found, returning None
+2026-04-27 23:16:52,098 - WARNING - Fan count not found, returning None
+2026-04-27 23:16:52,098 - INFO - Successfully scraped GOAT
+2026-04-27 23:16:56,103 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 23:17:01,405 - ERROR - Failed to convert fan count to int
+2026-04-27 23:17:01,405 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 23:17:05,744 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 23:17:10,265 - INFO - Successfully scraped Zootopia 2
+2026-04-27 23:17:15,009 - INFO - Successfully scraped Thrash
+2026-04-27 23:17:19,656 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 23:17:24,287 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 23:17:28,158 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 23:17:32,809 - WARNING - Rating not found, returning None
+2026-04-27 23:17:32,810 - WARNING - Fan count not found, returning None
+2026-04-27 23:17:32,810 - INFO - Successfully scraped Balls Up
+2026-04-27 23:17:38,198 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 23:17:42,168 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 23:17:47,066 - INFO - Successfully scraped Scream 7
+2026-04-27 23:17:51,965 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 23:17:56,408 - INFO - Successfully scraped The Housemaid
+2026-04-27 23:18:00,937 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 23:18:05,103 - WARNING - Rating not found, returning None
+2026-04-27 23:18:05,105 - WARNING - Fan count not found, returning None
+2026-04-27 23:18:05,105 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 23:18:08,809 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 23:18:14,052 - INFO - Successfully scraped Interstellar
+2026-04-27 23:18:18,368 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 23:18:22,575 - WARNING - Rating not found, returning None
+2026-04-27 23:18:22,577 - WARNING - Fan count not found, returning None
+2026-04-27 23:18:22,577 - INFO - Successfully scraped undertone
+2026-04-27 23:18:26,848 - WARNING - Rating not found, returning None
+2026-04-27 23:18:26,849 - WARNING - Fan count not found, returning None
+2026-04-27 23:18:26,850 - INFO - Successfully scraped Psycho Killer
+2026-04-27 23:18:31,176 - INFO - Successfully scraped Anaconda
+2026-04-27 23:18:36,444 - INFO - Successfully scraped War of the Worlds
+2026-04-27 23:18:40,743 - WARNING - Fan count not found, returning None
+2026-04-27 23:18:40,743 - INFO - Successfully scraped Whistle
+2026-04-27 23:18:45,440 - WARNING - Rating not found, returning None
+2026-04-27 23:18:45,442 - WARNING - Fan count not found, returning None
+2026-04-27 23:18:45,442 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 23:18:49,545 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 23:18:53,681 - WARNING - Rating not found, returning None
+2026-04-27 23:18:53,683 - WARNING - Fan count not found, returning None
+2026-04-27 23:18:53,684 - INFO - Successfully scraped War Machine
+2026-04-27 23:18:58,769 - ERROR - Failed to convert fan count to int
+2026-04-27 23:18:58,769 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 23:19:03,338 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 23:19:07,894 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 23:19:12,351 - WARNING - Fan count not found, returning None
+2026-04-27 23:19:12,351 - INFO - Successfully scraped Carmencita
+2026-04-27 23:19:16,234 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 23:19:21,936 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 23:19:26,072 - ERROR - Failed to convert fan count to int
+2026-04-27 23:19:26,072 - INFO - Successfully scraped 180
+2026-04-27 23:19:30,894 - INFO - Successfully scraped xXx
+2026-04-27 23:33:49,681 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 23:33:53,930 - WARNING - Fan count not found, returning None
+2026-04-27 23:33:53,930 - INFO - Successfully scraped Apex
+2026-04-27 23:33:58,143 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 23:34:03,589 - INFO - Successfully scraped Send Help
+2026-04-27 23:34:07,831 - WARNING - Rating not found, returning None
+2026-04-27 23:34:07,833 - WARNING - Fan count not found, returning None
+2026-04-27 23:34:07,833 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 23:34:12,321 - INFO - Successfully scraped Michael
+2026-04-27 23:34:17,141 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 23:34:22,116 - WARNING - Rating not found, returning None
+2026-04-27 23:34:22,117 - WARNING - Fan count not found, returning None
+2026-04-27 23:34:22,117 - INFO - Successfully scraped Venganza
+2026-04-27 23:34:26,516 - WARNING - Fan count not found, returning None
+2026-04-27 23:34:26,516 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 23:34:31,298 - INFO - Successfully scraped Hoppers
+2026-04-27 23:34:36,069 - INFO - Successfully scraped Shelter
+2026-04-27 23:34:39,799 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 23:34:44,476 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 23:34:49,481 - INFO - Successfully scraped Crime 101
+2026-04-27 23:34:53,881 - WARNING - Rating not found, returning None
+2026-04-27 23:34:53,882 - WARNING - Fan count not found, returning None
+2026-04-27 23:34:53,883 - INFO - Successfully scraped GOAT
+2026-04-27 23:34:57,982 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 23:35:03,032 - ERROR - Failed to convert fan count to int
+2026-04-27 23:35:03,032 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 23:35:07,051 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 23:35:11,503 - INFO - Successfully scraped Zootopia 2
+2026-04-27 23:35:15,462 - INFO - Successfully scraped Thrash
+2026-04-27 23:35:20,286 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 23:35:24,697 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 23:35:28,731 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 23:35:33,741 - WARNING - Rating not found, returning None
+2026-04-27 23:35:33,742 - WARNING - Fan count not found, returning None
+2026-04-27 23:35:33,742 - INFO - Successfully scraped Balls Up
+2026-04-27 23:35:39,024 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 23:35:42,473 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 23:35:47,452 - INFO - Successfully scraped Scream 7
+2026-04-27 23:35:52,225 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 23:35:57,163 - INFO - Successfully scraped The Housemaid
+2026-04-27 23:36:01,483 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 23:36:06,074 - WARNING - Rating not found, returning None
+2026-04-27 23:36:06,076 - WARNING - Fan count not found, returning None
+2026-04-27 23:36:06,076 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 23:36:10,768 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 23:36:14,893 - INFO - Successfully scraped Interstellar
+2026-04-27 23:36:19,452 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 23:36:24,652 - WARNING - Rating not found, returning None
+2026-04-27 23:36:24,653 - WARNING - Fan count not found, returning None
+2026-04-27 23:36:24,653 - INFO - Successfully scraped undertone
+2026-04-27 23:36:29,346 - WARNING - Rating not found, returning None
+2026-04-27 23:36:29,347 - WARNING - Fan count not found, returning None
+2026-04-27 23:36:29,348 - INFO - Successfully scraped Psycho Killer
+2026-04-27 23:36:33,867 - INFO - Successfully scraped Anaconda
+2026-04-27 23:36:38,737 - INFO - Successfully scraped War of the Worlds
+2026-04-27 23:36:42,590 - WARNING - Fan count not found, returning None
+2026-04-27 23:36:42,590 - INFO - Successfully scraped Whistle
+2026-04-27 23:36:47,446 - WARNING - Rating not found, returning None
+2026-04-27 23:36:47,448 - WARNING - Fan count not found, returning None
+2026-04-27 23:36:47,448 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 23:36:52,280 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 23:36:56,675 - WARNING - Rating not found, returning None
+2026-04-27 23:36:56,676 - WARNING - Fan count not found, returning None
+2026-04-27 23:36:56,676 - INFO - Successfully scraped War Machine
+2026-04-27 23:37:01,174 - ERROR - Failed to convert fan count to int
+2026-04-27 23:37:01,174 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 23:37:05,499 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 23:37:10,392 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 23:37:14,385 - WARNING - Fan count not found, returning None
+2026-04-27 23:37:14,385 - INFO - Successfully scraped Carmencita
+2026-04-27 23:37:18,453 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 23:37:23,507 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 23:37:27,553 - ERROR - Failed to convert fan count to int
+2026-04-27 23:37:27,554 - INFO - Successfully scraped 180
+2026-04-27 23:37:32,767 - INFO - Successfully scraped xXx
+2026-04-27 23:43:07,516 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-27 23:43:12,348 - WARNING - Fan count not found, returning None
+2026-04-27 23:43:12,348 - INFO - Successfully scraped Apex
+2026-04-27 23:43:15,862 - WARNING - Could not resolve Letterboxd slug for \u0422\u0432\u043e\u0451 \u0441\u0435\u0440\u0434\u0446\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u0431\u0438\u0442\u043e 
+2026-04-27 23:43:20,597 - INFO - Successfully scraped Send Help
+2026-04-27 23:43:25,320 - WARNING - Rating not found, returning None
+2026-04-27 23:43:25,322 - WARNING - Fan count not found, returning None
+2026-04-27 23:43:25,322 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-27 23:43:29,546 - INFO - Successfully scraped Michael
+2026-04-27 23:43:34,165 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-27 23:43:39,159 - WARNING - Rating not found, returning None
+2026-04-27 23:43:39,161 - WARNING - Fan count not found, returning None
+2026-04-27 23:43:39,161 - INFO - Successfully scraped Venganza
+2026-04-27 23:43:44,180 - WARNING - Fan count not found, returning None
+2026-04-27 23:43:44,180 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-27 23:43:48,703 - INFO - Successfully scraped Hoppers
+2026-04-27 23:43:53,004 - INFO - Successfully scraped Shelter
+2026-04-27 23:43:57,077 - INFO - Successfully scraped Project Hail Mary
+2026-04-27 23:44:00,988 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-27 23:44:06,050 - INFO - Successfully scraped Crime 101
+2026-04-27 23:44:10,744 - WARNING - Rating not found, returning None
+2026-04-27 23:44:10,746 - WARNING - Fan count not found, returning None
+2026-04-27 23:44:10,746 - INFO - Successfully scraped GOAT
+2026-04-27 23:44:14,956 - WARNING - Could not resolve Letterboxd slug for \u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765 
+2026-04-27 23:44:20,135 - ERROR - Failed to convert fan count to int
+2026-04-27 23:44:20,136 - INFO - Successfully scraped Sniper: No Nation
+2026-04-27 23:44:24,568 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-27 23:44:29,119 - INFO - Successfully scraped Zootopia 2
+2026-04-27 23:44:33,474 - INFO - Successfully scraped Thrash
+2026-04-27 23:44:37,756 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-27 23:44:42,418 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-27 23:44:46,496 - ERROR - Error scraping Malèna: 404 Client Error: Not Found for url: https://letterboxd.com/film/mal-na/
+2026-04-27 23:44:51,361 - WARNING - Rating not found, returning None
+2026-04-27 23:44:51,362 - WARNING - Fan count not found, returning None
+2026-04-27 23:44:51,363 - INFO - Successfully scraped Balls Up
+2026-04-27 23:44:55,892 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-27 23:45:00,363 - WARNING - Could not resolve Letterboxd slug for \u6355\u98ce\u8ffd\u5f71 
+2026-04-27 23:45:05,142 - INFO - Successfully scraped Scream 7
+2026-04-27 23:45:09,848 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-27 23:45:14,354 - INFO - Successfully scraped The Housemaid
+2026-04-27 23:45:19,149 - INFO - Successfully scraped Predator: Badlands
+2026-04-27 23:45:23,871 - WARNING - Rating not found, returning None
+2026-04-27 23:45:23,874 - WARNING - Fan count not found, returning None
+2026-04-27 23:45:23,874 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-27 23:45:27,865 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-27 23:45:32,747 - INFO - Successfully scraped Interstellar
+2026-04-27 23:45:36,472 - INFO - Successfully scraped After Porn Ends 2
+2026-04-27 23:45:41,467 - WARNING - Rating not found, returning None
+2026-04-27 23:45:41,468 - WARNING - Fan count not found, returning None
+2026-04-27 23:45:41,468 - INFO - Successfully scraped undertone
+2026-04-27 23:45:45,971 - WARNING - Rating not found, returning None
+2026-04-27 23:45:45,972 - WARNING - Fan count not found, returning None
+2026-04-27 23:45:45,972 - INFO - Successfully scraped Psycho Killer
+2026-04-27 23:45:50,218 - INFO - Successfully scraped Anaconda
+2026-04-27 23:45:54,921 - INFO - Successfully scraped War of the Worlds
+2026-04-27 23:45:59,227 - WARNING - Fan count not found, returning None
+2026-04-27 23:45:59,227 - INFO - Successfully scraped Whistle
+2026-04-27 23:46:03,211 - WARNING - Rating not found, returning None
+2026-04-27 23:46:03,213 - WARNING - Fan count not found, returning None
+2026-04-27 23:46:03,213 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-27 23:46:08,460 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-27 23:46:12,551 - WARNING - Rating not found, returning None
+2026-04-27 23:46:12,552 - WARNING - Fan count not found, returning None
+2026-04-27 23:46:12,552 - INFO - Successfully scraped War Machine
+2026-04-27 23:46:16,680 - ERROR - Failed to convert fan count to int
+2026-04-27 23:46:16,680 - INFO - Successfully scraped Monster on a Plane
+2026-04-27 23:46:21,238 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-27 23:46:25,619 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-27 23:46:30,539 - WARNING - Fan count not found, returning None
+2026-04-27 23:46:30,539 - INFO - Successfully scraped Carmencita
+2026-04-27 23:46:33,907 - WARNING - Could not resolve Letterboxd slug for \u0930\u0949\u0915\u0940 \u0914\u0930 \u0930\u093e\u0928\u0940 \u0915\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u093e\u0928\u0940 
+2026-04-27 23:46:39,184 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-27 23:46:43,667 - ERROR - Failed to convert fan count to int
+2026-04-27 23:46:43,668 - INFO - Successfully scraped 180
+2026-04-27 23:46:47,588 - INFO - Successfully scraped xXx
+2026-04-28 00:21:48,741 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-28 00:21:53,012 - WARNING - Fan count not found, returning None
+2026-04-28 00:21:53,012 - INFO - Successfully scraped Apex
+2026-04-28 00:21:57,378 - INFO - Successfully scraped Your Heart Will Be Broken
+2026-04-28 00:22:01,583 - INFO - Successfully scraped Send Help
+2026-04-28 00:22:05,949 - WARNING - Rating not found, returning None
+2026-04-28 00:22:05,951 - WARNING - Fan count not found, returning None
+2026-04-28 00:22:05,951 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-28 00:22:10,865 - INFO - Successfully scraped Michael
+2026-04-28 00:22:15,510 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-28 00:22:20,541 - INFO - Successfully scraped Vengeance
+2026-04-28 00:22:25,133 - WARNING - Fan count not found, returning None
+2026-04-28 00:22:25,133 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-28 00:22:29,456 - INFO - Successfully scraped Hoppers
+2026-04-28 00:22:34,038 - INFO - Successfully scraped Shelter
+2026-04-28 00:22:38,894 - INFO - Successfully scraped Project Hail Mary
+2026-04-28 00:22:43,571 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-28 00:22:48,220 - INFO - Successfully scraped Crime 101
+2026-04-28 00:22:52,471 - WARNING - Rating not found, returning None
+2026-04-28 00:22:52,472 - WARNING - Fan count not found, returning None
+2026-04-28 00:22:52,472 - INFO - Successfully scraped GOAT
+2026-04-28 00:22:57,071 - INFO - Successfully scraped Demon Slayer: Kimetsu no Yaiba Infinity Castle
+2026-04-28 00:23:02,011 - ERROR - Failed to convert fan count to int
+2026-04-28 00:23:02,012 - INFO - Successfully scraped Sniper: No Nation
+2026-04-28 00:23:06,594 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-28 00:23:10,368 - INFO - Successfully scraped Zootopia 2
+2026-04-28 00:23:14,543 - INFO - Successfully scraped Thrash
+2026-04-28 00:23:19,474 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-28 00:23:23,740 - INFO - Successfully scraped Malena
+2026-04-28 00:23:28,003 - WARNING - Rating not found, returning None
+2026-04-28 00:23:28,005 - WARNING - Fan count not found, returning None
+2026-04-28 00:23:28,005 - INFO - Successfully scraped Balls Up
+2026-04-28 00:23:32,973 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-28 00:23:36,939 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-28 00:23:41,112 - WARNING - Rating not found, returning None
+2026-04-28 00:23:41,113 - WARNING - Fan count not found, returning None
+2026-04-28 00:23:41,113 - INFO - Successfully scraped The Shadow's Edge
+2026-04-28 00:23:45,368 - INFO - Successfully scraped Scream 7
+2026-04-28 00:23:49,986 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-28 00:23:54,536 - INFO - Successfully scraped The Housemaid
+2026-04-28 00:23:58,746 - INFO - Successfully scraped Predator: Badlands
+2026-04-28 00:24:03,840 - WARNING - Rating not found, returning None
+2026-04-28 00:24:03,844 - WARNING - Fan count not found, returning None
+2026-04-28 00:24:03,844 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-28 00:24:08,359 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-28 00:24:13,299 - INFO - Successfully scraped Interstellar
+2026-04-28 00:24:17,062 - INFO - Successfully scraped After Porn Ends 2
+2026-04-28 00:24:21,668 - WARNING - Rating not found, returning None
+2026-04-28 00:24:21,670 - WARNING - Fan count not found, returning None
+2026-04-28 00:24:21,670 - INFO - Successfully scraped undertone
+2026-04-28 00:24:26,019 - WARNING - Rating not found, returning None
+2026-04-28 00:24:26,020 - WARNING - Fan count not found, returning None
+2026-04-28 00:24:26,020 - INFO - Successfully scraped Psycho Killer
+2026-04-28 00:24:30,521 - INFO - Successfully scraped Anaconda
+2026-04-28 00:24:36,113 - INFO - Successfully scraped War of the Worlds
+2026-04-28 00:24:40,404 - WARNING - Fan count not found, returning None
+2026-04-28 00:24:40,404 - INFO - Successfully scraped Whistle
+2026-04-28 00:24:45,097 - WARNING - Rating not found, returning None
+2026-04-28 00:24:45,099 - WARNING - Fan count not found, returning None
+2026-04-28 00:24:45,099 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-28 00:24:49,751 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-28 00:24:53,773 - WARNING - Rating not found, returning None
+2026-04-28 00:24:53,774 - WARNING - Fan count not found, returning None
+2026-04-28 00:24:53,774 - INFO - Successfully scraped War Machine
+2026-04-28 00:24:58,218 - ERROR - Failed to convert fan count to int
+2026-04-28 00:24:58,218 - INFO - Successfully scraped Monster on a Plane
+2026-04-28 00:25:02,402 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-28 00:25:06,653 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-28 00:25:11,027 - WARNING - Fan count not found, returning None
+2026-04-28 00:25:11,027 - INFO - Successfully scraped Carmencita
+2026-04-28 00:25:16,137 - INFO - Successfully scraped Rocky Aur Rani Kii Prem Kahaani
+2026-04-28 00:25:20,365 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-28 00:25:24,710 - ERROR - Failed to convert fan count to int
+2026-04-28 00:25:24,710 - INFO - Successfully scraped 180
+2026-04-28 00:25:30,147 - INFO - Successfully scraped xXx
+2026-04-28 00:27:09,806 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-28 00:27:12,528 - WARNING - Fan count not found, returning None
+2026-04-28 00:27:12,528 - INFO - Successfully scraped Apex
+2026-04-28 00:27:15,374 - INFO - Successfully scraped Your Heart Will Be Broken
+2026-04-28 00:27:18,427 - INFO - Successfully scraped Send Help
+2026-04-28 00:27:21,228 - WARNING - Rating not found, returning None
+2026-04-28 00:27:21,230 - WARNING - Fan count not found, returning None
+2026-04-28 00:27:21,230 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-28 00:27:24,211 - INFO - Successfully scraped Michael
+2026-04-28 00:27:27,204 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-28 00:27:29,891 - INFO - Successfully scraped Vengeance
+2026-04-28 00:27:32,732 - WARNING - Fan count not found, returning None
+2026-04-28 00:27:32,733 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-28 00:27:35,614 - INFO - Successfully scraped Hoppers
+2026-04-28 00:27:38,752 - INFO - Successfully scraped Shelter
+2026-04-28 00:27:41,671 - INFO - Successfully scraped Project Hail Mary
+2026-04-28 00:27:44,560 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-28 00:27:47,550 - INFO - Successfully scraped Crime 101
+2026-04-28 00:27:50,474 - WARNING - Rating not found, returning None
+2026-04-28 00:27:50,476 - WARNING - Fan count not found, returning None
+2026-04-28 00:27:50,476 - INFO - Successfully scraped GOAT
+2026-04-28 00:27:53,368 - INFO - Successfully scraped Demon Slayer: Kimetsu no Yaiba Infinity Castle
+2026-04-28 00:27:56,002 - ERROR - Failed to convert fan count to int
+2026-04-28 00:27:56,002 - INFO - Successfully scraped Sniper: No Nation
+2026-04-28 00:27:58,694 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-28 00:28:01,949 - INFO - Successfully scraped Zootopia 2
+2026-04-28 00:28:04,932 - INFO - Successfully scraped Thrash
+2026-04-28 00:28:08,130 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-28 00:28:11,086 - INFO - Successfully scraped Malena
+2026-04-28 00:28:13,743 - WARNING - Rating not found, returning None
+2026-04-28 00:28:13,744 - WARNING - Fan count not found, returning None
+2026-04-28 00:28:13,744 - INFO - Successfully scraped Balls Up
+2026-04-28 00:28:16,573 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-28 00:28:19,508 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-28 00:28:22,219 - WARNING - Rating not found, returning None
+2026-04-28 00:28:22,221 - WARNING - Fan count not found, returning None
+2026-04-28 00:28:22,221 - INFO - Successfully scraped The Shadow's Edge
+2026-04-28 00:28:25,133 - INFO - Successfully scraped Scream 7
+2026-04-28 00:28:27,848 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-28 00:28:31,310 - INFO - Successfully scraped The Housemaid
+2026-04-28 00:28:34,182 - INFO - Successfully scraped Predator: Badlands
+2026-04-28 00:28:37,236 - WARNING - Rating not found, returning None
+2026-04-28 00:28:37,238 - WARNING - Fan count not found, returning None
+2026-04-28 00:28:37,238 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-28 00:28:39,861 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-28 00:28:43,215 - INFO - Successfully scraped Interstellar
+2026-04-28 00:28:45,953 - INFO - Successfully scraped After Porn Ends 2
+2026-04-28 00:28:48,457 - WARNING - Rating not found, returning None
+2026-04-28 00:28:48,459 - WARNING - Fan count not found, returning None
+2026-04-28 00:28:48,459 - INFO - Successfully scraped undertone
+2026-04-28 00:28:51,374 - WARNING - Rating not found, returning None
+2026-04-28 00:28:51,376 - WARNING - Fan count not found, returning None
+2026-04-28 00:28:51,376 - INFO - Successfully scraped Psycho Killer
+2026-04-28 00:28:54,824 - INFO - Successfully scraped Anaconda
+2026-04-28 00:28:57,956 - INFO - Successfully scraped War of the Worlds
+2026-04-28 00:29:00,801 - WARNING - Fan count not found, returning None
+2026-04-28 00:29:00,801 - INFO - Successfully scraped Whistle
+2026-04-28 00:29:03,759 - WARNING - Rating not found, returning None
+2026-04-28 00:29:03,760 - WARNING - Fan count not found, returning None
+2026-04-28 00:29:03,761 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-28 00:29:07,075 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-28 00:29:09,553 - WARNING - Rating not found, returning None
+2026-04-28 00:29:09,555 - WARNING - Fan count not found, returning None
+2026-04-28 00:29:09,555 - INFO - Successfully scraped War Machine
+2026-04-28 00:29:12,591 - ERROR - Failed to convert fan count to int
+2026-04-28 00:29:12,591 - INFO - Successfully scraped Monster on a Plane
+2026-04-28 00:29:15,619 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-28 00:29:19,062 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-28 00:29:22,214 - WARNING - Fan count not found, returning None
+2026-04-28 00:29:22,214 - INFO - Successfully scraped Carmencita
+2026-04-28 00:29:25,149 - INFO - Successfully scraped Rocky Aur Rani Kii Prem Kahaani
+2026-04-28 00:29:28,139 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-28 00:29:31,163 - ERROR - Failed to convert fan count to int
+2026-04-28 00:29:31,163 - INFO - Successfully scraped 180
+2026-04-28 00:29:34,674 - INFO - Successfully scraped xXx
+2026-04-28 00:34:01,890 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-28 00:34:02,944 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:02,944 - INFO - Successfully scraped Apex
+2026-04-28 00:34:04,508 - INFO - Successfully scraped Your Heart Will Be Broken
+2026-04-28 00:34:05,600 - INFO - Successfully scraped Send Help
+2026-04-28 00:34:07,093 - WARNING - Rating not found, returning None
+2026-04-28 00:34:07,095 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:07,095 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-28 00:34:08,399 - INFO - Successfully scraped Michael
+2026-04-28 00:34:10,125 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-28 00:34:11,792 - INFO - Successfully scraped Vengeance
+2026-04-28 00:34:13,425 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:13,425 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-28 00:34:14,796 - INFO - Successfully scraped Hoppers
+2026-04-28 00:34:16,518 - INFO - Successfully scraped Shelter
+2026-04-28 00:34:17,959 - INFO - Successfully scraped Project Hail Mary
+2026-04-28 00:34:19,541 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-28 00:34:20,950 - INFO - Successfully scraped Crime 101
+2026-04-28 00:34:22,251 - WARNING - Rating not found, returning None
+2026-04-28 00:34:22,252 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:22,253 - INFO - Successfully scraped GOAT
+2026-04-28 00:34:23,733 - INFO - Successfully scraped Demon Slayer: Kimetsu no Yaiba Infinity Castle
+2026-04-28 00:34:25,511 - ERROR - Failed to convert fan count to int
+2026-04-28 00:34:25,511 - INFO - Successfully scraped Sniper: No Nation
+2026-04-28 00:34:26,334 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-28 00:34:27,885 - INFO - Successfully scraped Zootopia 2
+2026-04-28 00:34:29,630 - INFO - Successfully scraped Thrash
+2026-04-28 00:34:31,226 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-28 00:34:32,597 - INFO - Successfully scraped Malena
+2026-04-28 00:34:33,805 - WARNING - Rating not found, returning None
+2026-04-28 00:34:33,807 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:33,807 - INFO - Successfully scraped Balls Up
+2026-04-28 00:34:35,254 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-28 00:34:36,970 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-28 00:34:38,525 - WARNING - Rating not found, returning None
+2026-04-28 00:34:38,527 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:38,527 - INFO - Successfully scraped The Shadow's Edge
+2026-04-28 00:34:40,174 - INFO - Successfully scraped Scream 7
+2026-04-28 00:34:41,971 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-28 00:34:43,087 - INFO - Successfully scraped The Housemaid
+2026-04-28 00:34:44,663 - INFO - Successfully scraped Predator: Badlands
+2026-04-28 00:34:46,005 - WARNING - Rating not found, returning None
+2026-04-28 00:34:46,008 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:46,008 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-28 00:34:47,746 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-28 00:34:48,990 - INFO - Successfully scraped Interstellar
+2026-04-28 00:34:50,071 - INFO - Successfully scraped After Porn Ends 2
+2026-04-28 00:34:51,224 - WARNING - Rating not found, returning None
+2026-04-28 00:34:51,226 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:51,226 - INFO - Successfully scraped undertone
+2026-04-28 00:34:52,714 - WARNING - Rating not found, returning None
+2026-04-28 00:34:52,715 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:52,715 - INFO - Successfully scraped Psycho Killer
+2026-04-28 00:34:54,428 - INFO - Successfully scraped Anaconda
+2026-04-28 00:34:56,118 - INFO - Successfully scraped War of the Worlds
+2026-04-28 00:34:57,240 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:57,240 - INFO - Successfully scraped Whistle
+2026-04-28 00:34:58,446 - WARNING - Rating not found, returning None
+2026-04-28 00:34:58,448 - WARNING - Fan count not found, returning None
+2026-04-28 00:34:58,448 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-28 00:35:00,053 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-28 00:35:01,432 - WARNING - Rating not found, returning None
+2026-04-28 00:35:01,433 - WARNING - Fan count not found, returning None
+2026-04-28 00:35:01,433 - INFO - Successfully scraped War Machine
+2026-04-28 00:35:02,683 - ERROR - Failed to convert fan count to int
+2026-04-28 00:35:02,683 - INFO - Successfully scraped Monster on a Plane
+2026-04-28 00:35:04,096 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-28 00:35:05,870 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-28 00:35:07,070 - WARNING - Fan count not found, returning None
+2026-04-28 00:35:07,070 - INFO - Successfully scraped Carmencita
+2026-04-28 00:35:08,745 - INFO - Successfully scraped Rocky Aur Rani Kii Prem Kahaani
+2026-04-28 00:35:09,883 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-28 00:35:11,183 - ERROR - Failed to convert fan count to int
+2026-04-28 00:35:11,183 - INFO - Successfully scraped 180
+2026-04-28 00:35:13,106 - INFO - Successfully scraped xXx
+2026-04-28 01:06:09,215 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-28 01:06:10,445 - WARNING - Fan count not found, returning None
+2026-04-28 01:06:10,445 - INFO - Successfully scraped Apex
+2026-04-28 01:06:11,539 - INFO - Successfully scraped Your Heart Will Be Broken
+2026-04-28 01:06:13,056 - INFO - Successfully scraped Send Help
+2026-04-28 01:06:14,630 - WARNING - Rating not found, returning None
+2026-04-28 01:06:14,632 - WARNING - Fan count not found, returning None
+2026-04-28 01:06:14,632 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-28 01:06:16,227 - INFO - Successfully scraped Michael
+2026-04-28 01:06:17,907 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-28 01:06:19,666 - INFO - Successfully scraped Vengeance
+2026-04-28 01:06:20,988 - WARNING - Fan count not found, returning None
+2026-04-28 01:06:20,988 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-28 01:06:22,307 - INFO - Successfully scraped Hoppers
+2026-04-28 01:06:23,632 - INFO - Successfully scraped Shelter
+2026-04-28 01:06:24,965 - INFO - Successfully scraped Project Hail Mary
+2026-04-28 01:06:26,372 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-28 01:06:27,956 - INFO - Successfully scraped Crime 101
+2026-04-28 01:06:29,522 - WARNING - Rating not found, returning None
+2026-04-28 01:06:29,524 - WARNING - Fan count not found, returning None
+2026-04-28 01:06:29,524 - INFO - Successfully scraped GOAT
+2026-04-28 01:06:31,521 - INFO - Successfully scraped Demon Slayer: Kimetsu no Yaiba Infinity Castle
+2026-04-28 01:06:33,492 - ERROR - Failed to convert fan count to int
+2026-04-28 01:06:33,493 - INFO - Successfully scraped Sniper: No Nation
+2026-04-28 01:06:34,709 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-28 01:06:36,475 - INFO - Successfully scraped Zootopia 2
+2026-04-28 01:06:37,801 - INFO - Successfully scraped Thrash
+2026-04-28 01:06:39,114 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-28 01:06:40,728 - INFO - Successfully scraped Malena
+2026-04-28 01:06:42,355 - WARNING - Rating not found, returning None
+2026-04-28 01:06:42,356 - WARNING - Fan count not found, returning None
+2026-04-28 01:06:42,356 - INFO - Successfully scraped Balls Up
+2026-04-28 01:06:44,047 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-28 01:06:45,620 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-28 01:06:47,218 - WARNING - Rating not found, returning None
+2026-04-28 01:06:47,220 - WARNING - Fan count not found, returning None
+2026-04-28 01:06:47,220 - INFO - Successfully scraped The Shadow's Edge
+2026-04-28 01:06:49,067 - INFO - Successfully scraped Scream 7
+2026-04-28 01:06:50,630 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-28 01:06:51,727 - INFO - Successfully scraped The Housemaid
+2026-04-28 01:06:53,524 - INFO - Successfully scraped Predator: Badlands
+2026-04-28 01:06:54,986 - WARNING - Rating not found, returning None
+2026-04-28 01:06:54,988 - WARNING - Fan count not found, returning None
+2026-04-28 01:06:54,988 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-28 01:06:56,390 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-28 01:06:57,942 - INFO - Successfully scraped Interstellar
+2026-04-28 01:06:59,721 - INFO - Successfully scraped After Porn Ends 2
+2026-04-28 01:07:00,782 - WARNING - Rating not found, returning None
+2026-04-28 01:07:00,783 - WARNING - Fan count not found, returning None
+2026-04-28 01:07:00,783 - INFO - Successfully scraped undertone
+2026-04-28 01:07:02,420 - WARNING - Rating not found, returning None
+2026-04-28 01:07:02,422 - WARNING - Fan count not found, returning None
+2026-04-28 01:07:02,422 - INFO - Successfully scraped Psycho Killer
+2026-04-28 01:07:03,865 - INFO - Successfully scraped Anaconda
+2026-04-28 01:07:05,638 - INFO - Successfully scraped War of the Worlds
+2026-04-28 01:07:06,682 - WARNING - Fan count not found, returning None
+2026-04-28 01:07:06,682 - INFO - Successfully scraped Whistle
+2026-04-28 01:07:08,077 - WARNING - Rating not found, returning None
+2026-04-28 01:07:08,079 - WARNING - Fan count not found, returning None
+2026-04-28 01:07:08,079 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-28 01:07:09,852 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-28 01:07:11,340 - WARNING - Rating not found, returning None
+2026-04-28 01:07:11,342 - WARNING - Fan count not found, returning None
+2026-04-28 01:07:11,342 - INFO - Successfully scraped War Machine
+2026-04-28 01:07:13,302 - ERROR - Failed to convert fan count to int
+2026-04-28 01:07:13,302 - INFO - Successfully scraped Monster on a Plane
+2026-04-28 01:07:14,486 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-28 01:07:16,393 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-28 01:07:17,714 - WARNING - Fan count not found, returning None
+2026-04-28 01:07:17,715 - INFO - Successfully scraped Carmencita
+2026-04-28 01:07:19,266 - INFO - Successfully scraped Rocky Aur Rani Kii Prem Kahaani
+2026-04-28 01:07:21,104 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-28 01:07:22,410 - ERROR - Failed to convert fan count to int
+2026-04-28 01:07:22,410 - INFO - Successfully scraped 180
+2026-04-28 01:07:23,722 - INFO - Successfully scraped xXx
+2026-04-28 01:45:38,889 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-28 01:45:39,965 - WARNING - Fan count not found, returning None
+2026-04-28 01:45:39,965 - INFO - Successfully scraped Apex
+2026-04-28 01:45:41,897 - INFO - Successfully scraped Your Heart Will Be Broken
+2026-04-28 01:45:42,937 - INFO - Successfully scraped Send Help
+2026-04-28 01:45:44,040 - WARNING - Rating not found, returning None
+2026-04-28 01:45:44,042 - WARNING - Fan count not found, returning None
+2026-04-28 01:45:44,042 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-28 01:45:45,799 - INFO - Successfully scraped Michael
+2026-04-28 01:45:47,483 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-28 01:45:49,271 - INFO - Successfully scraped Vengeance
+2026-04-28 01:45:50,606 - WARNING - Fan count not found, returning None
+2026-04-28 01:45:50,606 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-28 01:45:51,944 - INFO - Successfully scraped Hoppers
+2026-04-28 01:45:53,514 - INFO - Successfully scraped Shelter
+2026-04-28 01:45:55,016 - INFO - Successfully scraped Project Hail Mary
+2026-04-28 01:45:56,526 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-28 01:45:58,081 - INFO - Successfully scraped Crime 101
+2026-04-28 01:45:59,464 - WARNING - Rating not found, returning None
+2026-04-28 01:45:59,465 - WARNING - Fan count not found, returning None
+2026-04-28 01:45:59,465 - INFO - Successfully scraped GOAT
+2026-04-28 01:46:01,245 - INFO - Successfully scraped Demon Slayer: Kimetsu no Yaiba Infinity Castle
+2026-04-28 01:46:02,159 - ERROR - Failed to convert fan count to int
+2026-04-28 01:46:02,159 - INFO - Successfully scraped Sniper: No Nation
+2026-04-28 01:46:03,471 - INFO - Successfully scraped ¿Quieres Ser Mi Novia?
+2026-04-28 01:46:05,005 - INFO - Successfully scraped Zootopia 2
+2026-04-28 01:46:06,533 - INFO - Successfully scraped Thrash
+2026-04-28 01:46:07,561 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-28 01:46:09,109 - INFO - Successfully scraped Malena
+2026-04-28 01:46:10,100 - WARNING - Rating not found, returning None
+2026-04-28 01:46:10,103 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:10,103 - INFO - Successfully scraped Balls Up
+2026-04-28 01:46:11,913 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-28 01:46:13,319 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-28 01:46:14,811 - WARNING - Rating not found, returning None
+2026-04-28 01:46:14,812 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:14,812 - INFO - Successfully scraped The Shadow's Edge
+2026-04-28 01:46:16,523 - INFO - Successfully scraped Scream 7
+2026-04-28 01:46:17,713 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-28 01:46:18,924 - INFO - Successfully scraped The Housemaid
+2026-04-28 01:46:20,632 - INFO - Successfully scraped Predator: Badlands
+2026-04-28 01:46:21,992 - WARNING - Rating not found, returning None
+2026-04-28 01:46:21,995 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:21,995 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-28 01:46:23,894 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-28 01:46:25,425 - INFO - Successfully scraped Interstellar
+2026-04-28 01:46:26,948 - INFO - Successfully scraped After Porn Ends 2
+2026-04-28 01:46:28,109 - WARNING - Rating not found, returning None
+2026-04-28 01:46:28,112 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:28,112 - INFO - Successfully scraped undertone
+2026-04-28 01:46:29,621 - WARNING - Rating not found, returning None
+2026-04-28 01:46:29,622 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:29,622 - INFO - Successfully scraped Psycho Killer
+2026-04-28 01:46:31,559 - INFO - Successfully scraped Anaconda
+2026-04-28 01:46:32,865 - INFO - Successfully scraped War of the Worlds
+2026-04-28 01:46:34,131 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:34,131 - INFO - Successfully scraped Whistle
+2026-04-28 01:46:35,370 - WARNING - Rating not found, returning None
+2026-04-28 01:46:35,373 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:35,373 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-28 01:46:37,397 - INFO - Successfully scraped The Lord of the Rings: The Fellowship of the Ring
+2026-04-28 01:46:38,852 - WARNING - Rating not found, returning None
+2026-04-28 01:46:38,854 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:38,854 - INFO - Successfully scraped War Machine
+2026-04-28 01:46:40,860 - ERROR - Failed to convert fan count to int
+2026-04-28 01:46:40,860 - INFO - Successfully scraped Monster on a Plane
+2026-04-28 01:46:41,953 - INFO - Successfully scraped Mike & Nick & Nick & Alice
+2026-04-28 01:46:43,545 - INFO - Successfully scraped The Lord of the Rings: The Return of the King
+2026-04-28 01:46:44,731 - WARNING - Fan count not found, returning None
+2026-04-28 01:46:44,731 - INFO - Successfully scraped Carmencita
+2026-04-28 01:46:46,099 - INFO - Successfully scraped Rocky Aur Rani Kii Prem Kahaani
+2026-04-28 01:46:47,381 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-28 01:46:48,897 - ERROR - Failed to convert fan count to int
+2026-04-28 01:46:48,897 - INFO - Successfully scraped 180
+2026-04-28 01:46:50,364 - INFO - Successfully scraped xXx
+2026-04-28 13:32:54,038 - WARNING - Fan count not found, returning None
+2026-04-28 13:32:54,040 - INFO - Successfully scraped Apex
+2026-04-28 13:32:54,965 - INFO - Successfully scraped The Super Mario Galaxy Movie
+2026-04-28 13:32:56,274 - INFO - Successfully scraped Send Help
+2026-04-28 13:32:57,512 - INFO - Successfully scraped Your Heart Will Be Broken
+2026-04-28 13:32:58,767 - INFO - Successfully scraped Michael
+2026-04-28 13:33:00,239 - WARNING - Rating not found, returning None
+2026-04-28 13:33:00,240 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:00,240 - INFO - Successfully scraped Avatar Aang: The Last Airbender
+2026-04-28 13:33:01,926 - INFO - Successfully scraped Avatar: Fire and Ash
+2026-04-28 13:33:03,390 - INFO - Successfully scraped Vengeance
+2026-04-28 13:33:05,015 - INFO - Successfully scraped Project Hail Mary
+2026-04-28 13:33:06,470 - INFO - Successfully scraped Hoppers
+2026-04-28 13:33:07,955 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:07,955 - INFO - Successfully scraped The Crucifix: Blood of the Exorcist
+2026-04-28 13:33:09,177 - INFO - Successfully scraped Shelter
+2026-04-28 13:33:10,382 - WARNING - Rating not found, returning None
+2026-04-28 13:33:10,383 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:10,383 - INFO - Successfully scraped GOAT
+2026-04-28 13:33:11,828 - INFO - Successfully scraped Crime 101
+2026-04-28 13:33:13,268 - INFO - Successfully scraped The Mortuary Assistant
+2026-04-28 13:33:14,647 - INFO - Successfully scraped Demon Slayer: Kimetsu no Yaiba Infinity Castle
+2026-04-28 13:33:15,734 - INFO - Successfully scraped They Will Kill You
+2026-04-28 13:33:17,191 - INFO - Successfully scraped Malena
+2026-04-28 13:33:18,485 - INFO - Successfully scraped ¿Quieres ser mi novia?
+2026-04-28 13:33:19,758 - INFO - Successfully scraped The Devil Wears Prada
+2026-04-28 13:33:21,579 - ERROR - Failed to convert fan count to int
+2026-04-28 13:33:21,579 - INFO - Successfully scraped Sniper: No Nation
+2026-04-28 13:33:23,004 - INFO - Successfully scraped Zootopia 2
+2026-04-28 13:33:24,470 - INFO - Successfully scraped Thrash
+2026-04-28 13:33:25,628 - INFO - Successfully scraped Lee Cronin's The Mummy
+2026-04-28 13:33:26,816 - WARNING - Rating not found, returning None
+2026-04-28 13:33:26,818 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:26,818 - INFO - Successfully scraped Balls Up
+2026-04-28 13:33:28,316 - WARNING - Rating not found, returning None
+2026-04-28 13:33:28,318 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:28,318 - INFO - Successfully scraped Rise of the Conqueror
+2026-04-28 13:33:29,601 - INFO - Successfully scraped Scream 7
+2026-04-28 13:33:30,961 - WARNING - Rating not found, returning None
+2026-04-28 13:33:30,963 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:30,963 - INFO - Successfully scraped The Shadow's Edge
+2026-04-28 13:33:32,587 - INFO - Successfully scraped Predator: Badlands
+2026-04-28 13:33:34,363 - INFO - Successfully scraped The Housemaid
+2026-04-28 13:33:35,583 - INFO - Successfully scraped The Strangers: Chapter 3
+2026-04-28 13:33:37,025 - INFO - Successfully scraped After Porn Ends 2
+2026-04-28 13:33:38,591 - INFO - Successfully scraped The Super Mario Bros. Movie
+2026-04-28 13:33:40,053 - INFO - Successfully scraped Greenland 2: Migration
+2026-04-28 13:33:41,507 - WARNING - Rating not found, returning None
+2026-04-28 13:33:41,508 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:41,509 - INFO - Successfully scraped Psycho Killer
+2026-04-28 13:33:43,315 - INFO - Successfully scraped Interstellar
+2026-04-28 13:33:44,480 - WARNING - Rating not found, returning None
+2026-04-28 13:33:44,482 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:44,482 - INFO - Successfully scraped The Red Book Ritual: Gates of Hell
+2026-04-28 13:33:46,348 - INFO - Successfully scraped War of the Worlds
+2026-04-28 13:33:47,928 - INFO - Successfully scraped Anaconda
+2026-04-28 13:33:49,206 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:49,207 - INFO - Successfully scraped Whistle
+2026-04-28 13:33:50,619 - WARNING - Rating not found, returning None
+2026-04-28 13:33:50,621 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:50,621 - INFO - Successfully scraped War Machine
+2026-04-28 13:33:52,390 - ERROR - Failed to convert fan count to int
+2026-04-28 13:33:52,390 - INFO - Successfully scraped Monster on a Plane
+2026-04-28 13:33:53,938 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:53,938 - INFO - Successfully scraped Carmencita
+2026-04-28 13:33:55,441 - WARNING - Fan count not found, returning None
+2026-04-28 13:33:55,441 - INFO - Successfully scraped Whistle
+2026-04-28 13:33:57,207 - INFO - Successfully scraped Rocky Aur Rani Kii Prem Kahaani
+2026-04-28 13:33:58,764 - INFO - Successfully scraped Spider-Man: No Way Home
+2026-04-28 13:33:59,852 - ERROR - Failed to convert fan count to int
+2026-04-28 13:33:59,852 - INFO - Successfully scraped 180
+2026-04-28 13:34:01,253 - INFO - Successfully scraped xXx
+2026-04-28 13:34:03,447 - WARNING - Fan count not found, returning None
+2026-04-28 13:34:03,447 - INFO - Successfully scraped Man in the Mirror: The Michael Jackson Story
+2026-04-28 13:34:04,719 - INFO - Successfully scraped Reminders of Him

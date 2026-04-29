@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1318447,
+    "title": "Apex",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/apex/",
+    "rating": 2.83,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1226863,
+    "title": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/the-super-mario-galaxy-movie/",
+    "rating": 2.92,
+    "num_fans": 738,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1198994,
+    "title": "Send Help",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/send-help/",
+    "rating": 3.4,
+    "num_fans": 754,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1523145,
+    "title": "Your Heart Will Be Broken",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/your-heart-will-be-broken/",
+    "rating": 2.08,
+    "num_fans": 34,
+    "scraped_successfully": true
+  },
+  {
+    "id": 936075,
+    "title": "Michael",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/michael/",
+    "rating": 3.52,
+    "num_fans": 16,
+    "scraped_successfully": true
+  },
+  {
+    "id": 980431,
+    "title": "Avatar Aang: The Last Airbender",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/avatar-aang-the-last-airbender/",
+    "rating": null,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/avatar-fire-and-ash/",
+    "rating": 3.56,
+    "num_fans": 8200,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1613798,
+    "title": "Vengeance",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/vengeance/",
+    "rating": 3.49,
+    "num_fans": 7,
+    "scraped_successfully": true
+  },
+  {
+    "id": 687163,
+    "title": "Project Hail Mary",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/project-hail-mary/",
+    "rating": 4.32,
+    "num_fans": 99000,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1327819,
+    "title": "Hoppers",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/hoppers/",
+    "rating": 3.78,
+    "num_fans": 1500,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1352874,
+    "title": "The Crucifix: Blood of the Exorcist",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/the-crucifix-blood-of-the-exorcist/",
+    "rating": 2.31,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1290821,
+    "title": "Shelter",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/shelter/",
+    "rating": 3.6,
+    "num_fans": 582,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1297842,
+    "title": "GOAT",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/goat/",
+    "rating": null,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1171145,
+    "title": "Crime 101",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/crime-101/",
+    "rating": 3.11,
+    "num_fans": 110,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1470130,
+    "title": "The Mortuary Assistant",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/the-mortuary-assistant/",
+    "rating": 1.58,
+    "num_fans": 5,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1311031,
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/demon-slayer-kimetsu-no-yaiba-infinity-castle/",
+    "rating": 4.04,
+    "num_fans": 4900,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1292695,
+    "title": "They Will Kill You",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/they-will-kill-you/",
+    "rating": 2.97,
+    "num_fans": 124,
+    "scraped_successfully": true
+  },
+  {
+    "id": 10867,
+    "title": "Malena",
+    "year": 2000,
+    "url": "https://letterboxd.com/film/malena/",
+    "rating": 3.58,
+    "num_fans": 2400,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1601797,
+    "title": "¿Quieres ser mi novia?",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/quieres-ser-mi-novia/",
+    "rating": 2.84,
+    "num_fans": 3,
+    "scraped_successfully": true
+  },
+  {
+    "id": 350,
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "url": "https://letterboxd.com/film/the-devil-wears-prada/",
+    "rating": 3.83,
+    "num_fans": 74000,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1641319,
+    "title": "Sniper: No Nation",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/sniper-no-nation/",
+    "rating": 3.02,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1084242,
+    "title": "Zootopia 2",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/zootopia-2/",
+    "rating": 3.69,
+    "num_fans": 4300,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1290417,
+    "title": "Thrash",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/thrash/",
+    "rating": 1.8,
+    "num_fans": 24,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1304313,
+    "title": "Lee Cronin's The Mummy",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/lee-cronins-the-mummy/",
+    "rating": 2.75,
+    "num_fans": 96,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1084577,
+    "title": "Balls Up",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/balls-up/",
+    "rating": null,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1207162,
+    "title": "Rise of the Conqueror",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/rise-of-the-conqueror/",
+    "rating": null,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1159559,
+    "title": "Scream 7",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/scream-7/",
+    "rating": 2.24,
+    "num_fans": 260,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1419406,
+    "title": "The Shadow's Edge",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/the-shadows-edge/",
+    "rating": null,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1242898,
+    "title": "Predator: Badlands",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/predator-badlands/",
+    "rating": 3.5,
+    "num_fans": 527,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1368166,
+    "title": "The Housemaid",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/the-housemaid/",
+    "rating": 3.75,
+    "num_fans": 79,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1010755,
+    "title": "The Strangers: Chapter 3",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/the-strangers-chapter-3/",
+    "rating": 1.57,
+    "num_fans": 23,
+    "scraped_successfully": true
+  },
+  {
+    "id": 440249,
+    "title": "After Porn Ends 2",
+    "year": 2017,
+    "url": "https://letterboxd.com/film/after-porn-ends-2/",
+    "rating": 2.88,
+    "num_fans": 3,
+    "scraped_successfully": true
+  },
+  {
+    "id": 502356,
+    "title": "The Super Mario Bros. Movie",
+    "year": 2023,
+    "url": "https://letterboxd.com/film/the-super-mario-bros-movie/",
+    "rating": 3.21,
+    "num_fans": 2600,
+    "scraped_successfully": true
+  },
+  {
+    "id": 840464,
+    "title": "Greenland 2: Migration",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/greenland-2-migration/",
+    "rating": 2.29,
+    "num_fans": 20,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1107166,
+    "title": "Psycho Killer",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/psycho-killer/",
+    "rating": null,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 157336,
+    "title": "Interstellar",
+    "year": 2014,
+    "url": "https://letterboxd.com/film/interstellar/",
+    "rating": 4.44,
+    "num_fans": 512000,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1499885,
+    "title": "The Red Book Ritual: Gates of Hell",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/the-red-book-ritual-gates-of-hell/",
+    "rating": null,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 755898,
+    "title": "War of the Worlds",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/war-of-the-worlds/",
+    "rating": 3.35,
+    "num_fans": 2400,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1234731,
+    "title": "Anaconda",
+    "year": 2025,
+    "url": "https://letterboxd.com/film/anaconda/",
+    "rating": 2.39,
+    "num_fans": 119,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1193501,
+    "title": "Whistle",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/whistle/",
+    "rating": 3.16,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1265609,
+    "title": "War Machine",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/war-machine/",
+    "rating": null,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1270125,
+    "title": "Monster on a Plane",
+    "year": 2024,
+    "url": "https://letterboxd.com/film/monster-on-a-plane/",
+    "rating": 2.12,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1433828,
+    "title": "Carmencita",
+    "year": 2019,
+    "url": "https://letterboxd.com/film/carmencita/",
+    "rating": 3.02,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1193501,
+    "title": "Whistle",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/whistle/",
+    "rating": 3.16,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 848116,
+    "title": "Rocky Aur Rani Kii Prem Kahaani",
+    "year": 2023,
+    "url": "https://letterboxd.com/film/rocky-aur-rani-kii-prem-kahaani/",
+    "rating": 3.61,
+    "num_fans": 260,
+    "scraped_successfully": true
+  },
+  {
+    "id": 634649,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "url": "https://letterboxd.com/film/spider-man-no-way-home/",
+    "rating": 3.83,
+    "num_fans": 35000,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1659087,
+    "title": "180",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/180/",
+    "rating": 3.22,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 7451,
+    "title": "xXx",
+    "year": 2002,
+    "url": "https://letterboxd.com/film/xxx/",
+    "rating": 2.54,
+    "num_fans": 108,
+    "scraped_successfully": true
+  },
+  {
+    "id": 73353,
+    "title": "Man in the Mirror: The Michael Jackson Story",
+    "year": 2004,
+    "url": "https://letterboxd.com/film/man-in-the-mirror-the-michael-jackson-story/",
+    "rating": 2.52,
+    "num_fans": null,
+    "scraped_successfully": true
+  },
+  {
+    "id": 1367642,
+    "title": "Reminders of Him",
+    "year": 2026,
+    "url": "https://letterboxd.com/film/reminders-of-him/",
+    "rating": 2.51,
+    "num_fans": 170,
+    "scraped_successfully": true
+  }
+]
