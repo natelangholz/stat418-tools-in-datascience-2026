@@ -109,3 +109,6 @@ temp/
 slides-*.pptx
 slides-*.md
 ~$*.pptx
+
+# bak files
+echo "*.bak" >> .gitignore

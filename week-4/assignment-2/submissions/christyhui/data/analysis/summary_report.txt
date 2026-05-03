@@ -1,0 +1,32 @@
+============================================================
+MOVIE DATA ANALYSIS — SUMMARY REPORT
+Generated: 2026-05-02 16:43:34
+============================================================
+
+DATASET
+  Total movies analyzed:       48
+  Date range:                  2000 – 2026
+
+RATING CORRELATION
+  TMDB vs Letterboxd (r):      0.687
+  Avg TMDB rating:             6.55 / 10
+  Avg Letterboxd rating:       3.07 / 5
+
+GENRES
+  Most common genre:           Action
+
+FINANCIALS
+  Movies with financial data:  24
+  Most profitable movie:       Zootopia 2
+  Profit:                      $1,718,208,796
+
+VISUALIZATIONS SAVED
+  - rating_correlation.png
+  - rating_distributions.png
+  - genre_counts.png
+  - genre_avg_ratings.png
+  - budget_vs_revenue.png
+  - rating_trends_over_time.png
+  - movies_by_year.png
+
+============================================================
