@@ -1,0 +1,229 @@
+{
+  "adult": false,
+  "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+  "belongs_to_collection": null,
+  "budget": 50000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://blackbearpictures.com/film-and-tv/shelter",
+  "id": 1290821,
+  "imdb_id": "tt32357218",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shelter",
+  "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+  "popularity": 155.8428,
+  "poster_path": "/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+  "production_companies": [
+    {
+      "id": 22146,
+      "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+      "name": "Black Bear Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 218150,
+      "logo_path": null,
+      "name": "Punch Palace Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 253186,
+      "logo_path": null,
+      "name": "CineMachine",
+      "origin_country": "US"
+    },
+    {
+      "id": 118472,
+      "logo_path": "/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png",
+      "name": "Stampede Ventures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-01-28",
+  "revenue": 53818282,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Occitan",
+      "iso_639_1": "oc",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her safety. His mission.",
+  "title": "Shelter",
+  "video": false,
+  "vote_average": 6.785,
+  "vote_count": 603,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 976,
+      "known_for_department": "Acting",
+      "name": "Jason Statham",
+      "original_name": "Jason Statham",
+      "popularity": 14.2028,
+      "profile_path": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
+      "cast_id": 2,
+      "character": "Mason",
+      "credit_id": "6644bfb8184f8262732423ef",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 4088089,
+      "known_for_department": "Acting",
+      "name": "Bodhi Rae Breathnach",
+      "original_name": "Bodhi Rae Breathnach",
+      "popularity": 2.0421,
+      "profile_path": "/sONxErk3r0xfoESAmU3GVTxoPDe.jpg",
+      "cast_id": 7,
+      "character": "Jesse",
+      "credit_id": "67ab6ab9b274e6a7d1bb2835",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1537686,
+      "known_for_department": "Acting",
+      "name": "Naomi Ackie",
+      "original_name": "Naomi Ackie",
+      "popularity": 1.9997,
+      "profile_path": "/dijwuTAEZUzQtoJfK49S4X80fQw.jpg",
+      "cast_id": 9,
+      "character": "Roberta",
+      "credit_id": "67ab6ac6b274e6a7d1bb2847",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1670,
+      "known_for_department": "Acting",
+      "name": "Daniel Mays",
+      "original_name": "Daniel Mays",
+      "popularity": 1.2711,
+      "profile_path": "/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg",
+      "cast_id": 17,
+      "character": "Booth",
+      "credit_id": "67ab82cf09b8551a04b0a859",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 17477,
+      "known_for_department": "Acting",
+      "name": "Harriet Walter",
+      "original_name": "Harriet Walter",
+      "popularity": 1.5916,
+      "profile_path": "/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg",
+      "cast_id": 34,
+      "character": "Prime Minister Fordham",
+      "credit_id": "6904866308f8da6b684c79f0",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1486804,
+      "known_for_department": "Writing",
+      "name": "Ward Parry",
+      "original_name": "Ward Parry",
+      "popularity": 0.2976,
+      "profile_path": null,
+      "credit_id": "6644c03c0140c1ef13c53643",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 976,
+      "known_for_department": "Acting",
+      "name": "Jason Statham",
+      "original_name": "Jason Statham",
+      "popularity": 14.2028,
+      "profile_path": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
+      "credit_id": "6644c0757509698a011c7e29",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 76422,
+      "known_for_department": "Directing",
+      "name": "Ric Roman Waugh",
+      "original_name": "Ric Roman Waugh",
+      "popularity": 1.1399,
+      "profile_path": "/cu0MJd4exIgSLgaE0uwMDTFQcpA.jpg",
+      "credit_id": "67ab6aa847051c54beb0b80e",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1533678,
+      "known_for_department": "Production",
+      "name": "John Friedberg",
+      "original_name": "John Friedberg",
+      "popularity": 0.1263,
+      "profile_path": null,
+      "credit_id": "67ab6afc9d346d3ef49bb0bf",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2858140,
+      "known_for_department": "Production",
+      "name": "Brendon Boyea",
+      "original_name": "Brendon Boyea",
+      "popularity": 0.0673,
+      "profile_path": "/3VTXxzCcFU5SS5Eaib6eAHMJtpd.jpg",
+      "credit_id": "67ab6b10a2e2f99ed4bb4233",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

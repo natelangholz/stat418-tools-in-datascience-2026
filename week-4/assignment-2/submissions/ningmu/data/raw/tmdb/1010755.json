@@ -1,0 +1,230 @@
+{
+  "adult": false,
+  "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+  "belongs_to_collection": {
+    "id": 1172926,
+    "name": "The Strangers (Remake) Collection",
+    "poster_path": "/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg",
+    "backdrop_path": "/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
+  },
+  "budget": 8500000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1010755,
+  "imdb_id": "tt28682323",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Strangers: Chapter 3",
+  "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+  "popularity": 87.5376,
+  "poster_path": "/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 200342,
+      "logo_path": null,
+      "name": "Fifth Element Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9987,
+      "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 175756,
+      "logo_path": null,
+      "name": "Sherbone Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 229418,
+      "logo_path": null,
+      "name": "Stream Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-05",
+  "revenue": 9191988,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Embrace your fears.",
+  "title": "The Strangers: Chapter 3",
+  "video": false,
+  "vote_average": 5.574,
+  "vote_count": 122,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1592855,
+      "known_for_department": "Acting",
+      "name": "Madelaine Petsch",
+      "original_name": "Madelaine Petsch",
+      "popularity": 2.2924,
+      "profile_path": "/mfZo30YgMx7vhAUajM8OG6I6VM8.jpg",
+      "cast_id": 4,
+      "character": "Maya",
+      "credit_id": "64fd12e3f8595800adc9ba49",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3901,
+      "known_for_department": "Acting",
+      "name": "Richard Brake",
+      "original_name": "Richard Brake",
+      "popularity": 1.9221,
+      "profile_path": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg",
+      "cast_id": 14,
+      "character": "Sheriff Rotter",
+      "credit_id": "6858fda01d2da78bb3b33eea",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1921268,
+      "known_for_department": "Acting",
+      "name": "Ema Horvath",
+      "original_name": "Ema Horvath",
+      "popularity": 0.6626,
+      "profile_path": "/4YindT5cKhekpAilc6q0scQeUQx.jpg",
+      "cast_id": 26,
+      "character": "Shelly / Pinup",
+      "credit_id": "691f26cf6676dcc718fa2c15",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 222122,
+      "known_for_department": "Acting",
+      "name": "Gabriel Basso",
+      "original_name": "Gabriel Basso",
+      "popularity": 2.3007,
+      "profile_path": "/6jHYQf6Y37BEouavp03WWpWpFyR.jpg",
+      "cast_id": 22,
+      "character": "Gregory / Scarecrow",
+      "credit_id": "68fcf822b8ca44be772759b5",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3188261,
+      "known_for_department": "Acting",
+      "name": "Pedro Leandro",
+      "original_name": "Pedro Leandro",
+      "popularity": 0.3958,
+      "profile_path": "/2mqNYfAKoazh2cWwPmSKLUuqzuV.jpg",
+      "cast_id": 48,
+      "character": "Deputy Walters",
+      "credit_id": "698f9c2f62cca448a637e1a6",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 127146,
+      "known_for_department": "Writing",
+      "name": "Alan R. Cohen",
+      "original_name": "Alan R. Cohen",
+      "popularity": 0.6459,
+      "profile_path": "/xlJoaaVnrcfo8f4HAaDvxWc5Q1t.jpg",
+      "credit_id": "64fdfd2e4557a000e36831bb",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 127148,
+      "known_for_department": "Writing",
+      "name": "Alan Freedland",
+      "original_name": "Alan Freedland",
+      "popularity": 1.0051,
+      "profile_path": "/96eZLUm3VvtPC4hpYfPlngfItoO.jpg",
+      "credit_id": "64fdfd43fa404600fe846698",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 16938,
+      "known_for_department": "Directing",
+      "name": "Renny Harlin",
+      "original_name": "Renny Harlin",
+      "popularity": 1.3924,
+      "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg",
+      "credit_id": "632a78ea39b6c3009e9a638e",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 61921,
+      "known_for_department": "Production",
+      "name": "Courtney Solomon",
+      "original_name": "Courtney Solomon",
+      "popularity": 0.3077,
+      "profile_path": "/xujLAPgpM1JXLqE0X4mWVrPTmqd.jpg",
+      "credit_id": "632a7b3566a7c300822ac42c",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 46088,
+      "known_for_department": "Production",
+      "name": "Mark Canton",
+      "original_name": "Mark Canton",
+      "popularity": 0.2922,
+      "profile_path": "/7OiY4eak3DztX0lSj4cbmKLQuaj.jpg",
+      "credit_id": "69abab06af3b7025325266eb",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

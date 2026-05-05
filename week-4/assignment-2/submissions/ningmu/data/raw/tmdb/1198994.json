@@ -1,0 +1,187 @@
+{
+  "adult": false,
+  "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/send-help",
+  "id": 1198994,
+  "imdb_id": "tt8036976",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Send Help",
+  "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+  "popularity": 330.49,
+  "poster_path": "/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+  "production_companies": [
+    {
+      "id": 122323,
+      "logo_path": "/gWiaDcDxt0AkSE9hxsUn5naFGRT.png",
+      "name": "Raimi Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-22",
+  "revenue": 94041481,
+  "runtime": 113,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet Linda Liddle... She's from strategy and planning. She's the boss now.",
+  "title": "Send Help",
+  "video": false,
+  "vote_average": 7.025,
+  "vote_count": 1103,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 53714,
+      "known_for_department": "Acting",
+      "name": "Rachel McAdams",
+      "original_name": "Rachel McAdams",
+      "popularity": 5.1327,
+      "profile_path": "/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg",
+      "cast_id": 18,
+      "character": "Linda Liddle",
+      "credit_id": "6735b8a0d4ffba1e8b2addff",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 527393,
+      "known_for_department": "Acting",
+      "name": "Dylan O'Brien",
+      "original_name": "Dylan O'Brien",
+      "popularity": 4.3223,
+      "profile_path": "/xN3GdvIlqsR838gDoblhPH0numP.jpg",
+      "cast_id": 23,
+      "character": "Bradley Preston",
+      "credit_id": "678fe8bf437589f3865b4060",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 4477127,
+      "known_for_department": "Acting",
+      "name": "Edyll Ismail",
+      "original_name": "Edyll Ismail",
+      "popularity": 0.4755,
+      "profile_path": "/4JNIAlJXlw1HTF2log6GUeErDcT.jpg",
+      "cast_id": 50,
+      "character": "Zuri",
+      "credit_id": "68ee7b2fbc8329d7a7d6988c",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 352,
+      "known_for_department": "Acting",
+      "name": "Dennis Haysbert",
+      "original_name": "Dennis Haysbert",
+      "popularity": 1.6475,
+      "profile_path": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg",
+      "cast_id": 29,
+      "character": "Franklin",
+      "credit_id": "67ab7f12984e1e22179b9fc0",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 109438,
+      "known_for_department": "Acting",
+      "name": "Xavier Samuel",
+      "original_name": "Xavier Samuel",
+      "popularity": 1.0511,
+      "profile_path": "/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg",
+      "cast_id": 51,
+      "character": "Donovan",
+      "credit_id": "68ee7b355117b951705eeea3",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 7623,
+      "known_for_department": "Directing",
+      "name": "Sam Raimi",
+      "original_name": "Sam Raimi",
+      "popularity": 2.3947,
+      "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+      "credit_id": "65415285d7a70a00ac7ba568",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2626037,
+      "known_for_department": "Production",
+      "name": "Zainab Azizi",
+      "original_name": "Zainab Azizi",
+      "popularity": 0.1598,
+      "profile_path": "/yBU2NGSBDO1DoMYN66JSBXnWFdT.jpg",
+      "credit_id": "6541527bc048a900c62cf12f",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 7623,
+      "known_for_department": "Directing",
+      "name": "Sam Raimi",
+      "original_name": "Sam Raimi",
+      "popularity": 2.3947,
+      "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+      "credit_id": "654151d26517d6014d0394db",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

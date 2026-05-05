@@ -1,0 +1,207 @@
+{
+  "adult": false,
+  "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.whistle.movie/",
+  "id": 1193501,
+  "imdb_id": "tt29550683",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Whistle",
+  "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
+  "popularity": 77.889,
+  "poster_path": "/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
+  "production_companies": [
+    {
+      "id": 35846,
+      "logo_path": "/tOJlsgZNRdMurnJgSiuRFIUz0te.png",
+      "name": "No Trace Camping",
+      "origin_country": "US"
+    },
+    {
+      "id": 129815,
+      "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+      "name": "Wild Atlantic Pictures",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-20",
+  "revenue": 4633854,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't blow it.",
+  "title": "Whistle",
+  "video": false,
+  "vote_average": 6.093,
+  "vote_count": 273,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1464650,
+      "known_for_department": "Acting",
+      "name": "Dafne Keen",
+      "original_name": "Dafne Keen",
+      "popularity": 3.2459,
+      "profile_path": "/34BhddK5z2YHjfppOleezVrQ7Jt.jpg",
+      "cast_id": 2,
+      "character": "Chrys Willet",
+      "credit_id": "65316f3a6d9fe800e1ac043c",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1008607,
+      "known_for_department": "Acting",
+      "name": "Sophie Nélisse",
+      "original_name": "Sophie Nélisse",
+      "popularity": 3.2679,
+      "profile_path": "/1ScgAuQ4XFslWxjvHN6TGlg5ql9.jpg",
+      "cast_id": 3,
+      "character": "Ellie Gains",
+      "credit_id": "65316f416f8d9500ea58b65b",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 117995,
+      "known_for_department": "Acting",
+      "name": "Alissa Skovbye",
+      "original_name": "Alissa Skovbye",
+      "popularity": 1.2678,
+      "profile_path": "/smnFa3aKNJyzwtYmGQThBsXHG4J.jpg",
+      "cast_id": 11,
+      "character": "Grace Friedkin",
+      "credit_id": "662f5676f6fd18012b23305b",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1993743,
+      "known_for_department": "Acting",
+      "name": "Jhaleil Swaby",
+      "original_name": "Jhaleil Swaby",
+      "popularity": 0.6102,
+      "profile_path": "/5mgVhVMYtfTkvyK38OQ98n0Xs34.jpg",
+      "cast_id": 27,
+      "character": "Dean",
+      "credit_id": "6887a98c3d8d9dfd9038ffe2",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2388828,
+      "known_for_department": "Acting",
+      "name": "Sky Yang",
+      "original_name": "Sky Yang",
+      "popularity": 0.3545,
+      "profile_path": "/vOkkOgn7CrSHY1pecVr5p8ZHIcB.jpg",
+      "cast_id": 4,
+      "character": "Rel Taylor",
+      "credit_id": "65316f498d22fc014d7c3cc1",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1507651,
+      "known_for_department": "Writing",
+      "name": "Owen Egerton",
+      "original_name": "Owen Egerton",
+      "popularity": 0.1332,
+      "profile_path": "/23DnDSHSh6ThzFob8ScJCkHnitv.jpg",
+      "credit_id": "65316f846d9fe800fea8f179",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1375896,
+      "known_for_department": "Production",
+      "name": "David Gross",
+      "original_name": "David Gross",
+      "popularity": 0.0999,
+      "profile_path": null,
+      "credit_id": "65316f9b6905fb00ad506d88",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 983674,
+      "known_for_department": "Production",
+      "name": "Macdara Kelleher",
+      "original_name": "Macdara Kelleher",
+      "popularity": 0.2103,
+      "profile_path": "/aX67wsbmLvbz0D1qvFyT0jwhmLw.jpg",
+      "credit_id": "65316faa6905fb00c9f05b1b",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1401474,
+      "known_for_department": "Directing",
+      "name": "Corin Hardy",
+      "original_name": "Corin Hardy",
+      "popularity": 0.5314,
+      "profile_path": "/zFDndGEhMk0ah8daKr080gNqSZ.jpg",
+      "credit_id": "65316f2cefe37c00c7eb88a2",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 961166,
+      "known_for_department": "Production",
+      "name": "Whitney Brown",
+      "original_name": "Whitney Brown",
+      "popularity": 0.151,
+      "profile_path": null,
+      "credit_id": "676babf6162fa5e33a64ab2c",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

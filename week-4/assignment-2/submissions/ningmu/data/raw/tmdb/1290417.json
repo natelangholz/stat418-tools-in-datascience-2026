@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82650122",
+  "id": 1290417,
+  "imdb_id": "tt32362890",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Thrash",
+  "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+  "popularity": 105.0118,
+  "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+  "production_companies": [
+    {
+      "id": 34,
+      "logo_path": "/mtp1fvZbe4H991Ka1HOORl572VH.png",
+      "name": "Sony Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 125055,
+      "logo_path": "/8iY66HqRqdQdwOjoS3sNvokcH9r.png",
+      "name": "Hyperobject Industries",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2026-04-10",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If the flood doesn't kill you...",
+  "title": "Thrash",
+  "video": false,
+  "vote_average": 5.95,
+  "vote_count": 454,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1232756,
+      "known_for_department": "Acting",
+      "name": "Phoebe Dynevor",
+      "original_name": "Phoebe Dynevor",
+      "popularity": 3.8826,
+      "profile_path": "/cviluUTn94TaPy9rlVSkHpgGxRR.jpg",
+      "cast_id": 1,
+      "character": "Lisa Fields",
+      "credit_id": "66439ba984b08df4fcbab20a",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1842860,
+      "known_for_department": "Acting",
+      "name": "Whitney Peak",
+      "original_name": "Whitney Peak",
+      "popularity": 1.4886,
+      "profile_path": "/qjWZGTjaMcRm8lzHXvlryTH3TxG.jpg",
+      "cast_id": 3,
+      "character": "Dakota",
+      "credit_id": "666382ac4b147d996fdd44df",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 938,
+      "known_for_department": "Acting",
+      "name": "Djimon Hounsou",
+      "original_name": "Djimon Hounsou",
+      "popularity": 2.8043,
+      "profile_path": "/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg",
+      "cast_id": 4,
+      "character": "Dr. Dale Edwards",
+      "credit_id": "66a146138fe9d2761a35fad1",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2431565,
+      "known_for_department": "Acting",
+      "name": "Alyla Browne",
+      "original_name": "Alyla Browne",
+      "popularity": 1.3303,
+      "profile_path": "/aCNuhm0nbl90FGPCpOMHW5QCFfb.jpg",
+      "cast_id": 30,
+      "character": "Dee",
+      "credit_id": "699a157bcd3f13dbbcc59dfe",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3291945,
+      "known_for_department": "Acting",
+      "name": "Stacy Clausen",
+      "original_name": "Stacy Clausen",
+      "popularity": 2.0924,
+      "profile_path": "/2lJGolkOjsE7ElRX4GiD2HfKt1H.jpg",
+      "cast_id": 32,
+      "character": "Ron",
+      "credit_id": "69b1bcfe66056a9f6b02ba03",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 76927,
+      "known_for_department": "Directing",
+      "name": "Tommy Wirkola",
+      "original_name": "Tommy Wirkola",
+      "popularity": 0.9943,
+      "profile_path": "/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg",
+      "credit_id": "66439bc1f6d810a9ff34c062",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 55710,
+      "known_for_department": "Directing",
+      "name": "Adam McKay",
+      "original_name": "Adam McKay",
+      "popularity": 1.5126,
+      "profile_path": "/vOyZXNJq7Oo01LPtSD5AZHjctgH.jpg",
+      "credit_id": "66bd496842cd85abb489046b",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 56461,
+      "known_for_department": "Production",
+      "name": "Kevin J. Messick",
+      "original_name": "Kevin J. Messick",
+      "popularity": 0.3477,
+      "profile_path": "/pz8NSCCp146P4MxDXdtBcgX2DxD.jpg",
+      "credit_id": "66bd4977fefafaeeed3ebe9d",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 76927,
+      "known_for_department": "Directing",
+      "name": "Tommy Wirkola",
+      "original_name": "Tommy Wirkola",
+      "popularity": 0.9943,
+      "profile_path": "/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg",
+      "credit_id": "67e2117916a3c5c224f04a9b",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

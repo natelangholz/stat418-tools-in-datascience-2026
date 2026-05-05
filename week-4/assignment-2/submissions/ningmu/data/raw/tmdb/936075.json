@@ -1,0 +1,209 @@
+{
+  "adult": false,
+  "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+  "belongs_to_collection": null,
+  "budget": 250000000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://michael.movie",
+  "id": 936075,
+  "imdb_id": "tt11378946",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Michael",
+  "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+  "popularity": 273.1355,
+  "poster_path": "/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 3281,
+      "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
+      "name": "GK Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 19222,
+      "logo_path": null,
+      "name": "Optimum Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-22",
+  "revenue": 217400000,
+  "runtime": 128,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Discover the making of a king.",
+  "title": "Michael",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 287,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3898497,
+      "known_for_department": "Acting",
+      "name": "Jaafar Jackson",
+      "original_name": "Jaafar Jackson",
+      "popularity": 9.9057,
+      "profile_path": "/tVSzFjQxOrLOcvnzFto0772Q9Bw.jpg",
+      "cast_id": 6,
+      "character": "Michael Jackson",
+      "credit_id": "63d7f86812b10e007fdc00af",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 91671,
+      "known_for_department": "Acting",
+      "name": "Colman Domingo",
+      "original_name": "Colman Domingo",
+      "popularity": 8.0067,
+      "profile_path": "/t0cgfvtA7Thxnrtj5baRi656zlc.jpg",
+      "cast_id": 11,
+      "character": "Joseph Jackson",
+      "credit_id": "65b2a61b2866fa0162e3dbb1",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 9781,
+      "known_for_department": "Acting",
+      "name": "Nia Long",
+      "original_name": "Nia Long",
+      "popularity": 5.0532,
+      "profile_path": "/heVQkCGKUuKKRjRJaZIBrEKGhYA.jpg",
+      "cast_id": 12,
+      "character": "Katherine Jackson",
+      "credit_id": "65b9721746e75f0183bbf44a",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4487890,
+      "known_for_department": "Acting",
+      "name": "Juliano Krue Valdi",
+      "original_name": "Juliano Krue Valdi",
+      "popularity": 1.2713,
+      "profile_path": "/1rQYmcxdPD1IwHpa78DcfVEu1EN.jpg",
+      "cast_id": 9,
+      "character": "Young Michael Jackson",
+      "credit_id": "65a97b45357c0000c2d66dea",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1990676,
+      "known_for_department": "Acting",
+      "name": "KeiLyn Durrel Jones",
+      "original_name": "KeiLyn Durrel Jones",
+      "popularity": 13.4493,
+      "profile_path": "/4wDO3Zt9KJg9CARCEgjuVdhWa8x.jpg",
+      "cast_id": 36,
+      "character": "Bill Bray",
+      "credit_id": "6601a58d3520e8017ed9e035",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 967937,
+      "known_for_department": "Production",
+      "name": "John Branca",
+      "original_name": "John Branca",
+      "popularity": 0.3055,
+      "profile_path": "/wkp2yxOYFg6rn7aJZysnGuztfFF.jpg",
+      "credit_id": "6548416f1ac2927b2ebcad35",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2801928,
+      "known_for_department": "Production",
+      "name": "John McClain",
+      "original_name": "John McClain",
+      "popularity": 0.0466,
+      "profile_path": null,
+      "credit_id": "62018b091e92250068ecf5bc",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 932,
+      "known_for_department": "Writing",
+      "name": "John Logan",
+      "original_name": "John Logan",
+      "popularity": 1.9536,
+      "profile_path": "/vmbTV6vbI5wyDlZL7bneC6QhDCb.jpg",
+      "credit_id": "62018ab99d592c01187f48c9",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 16729,
+      "known_for_department": "Production",
+      "name": "Graham King",
+      "original_name": "Graham King",
+      "popularity": 0.6378,
+      "profile_path": "/pscp8CgdCEWwIWwj8iil0B45LD7.jpg",
+      "credit_id": "62018aa511386c01075171f7",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 20907,
+      "known_for_department": "Directing",
+      "name": "Antoine Fuqua",
+      "original_name": "Antoine Fuqua",
+      "popularity": 4.4269,
+      "profile_path": "/h58HRBCQOtWIR8zMqOIVgkHjssU.jpg",
+      "credit_id": "63c83dc7142ef1007d870944",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

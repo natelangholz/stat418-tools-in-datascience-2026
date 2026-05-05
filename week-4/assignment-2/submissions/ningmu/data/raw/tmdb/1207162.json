@@ -1,0 +1,225 @@
+{
+  "adult": false,
+  "backdrop_path": "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "https://wellgousa.com/films/rise-conqueror",
+  "id": 1207162,
+  "imdb_id": "tt25868520",
+  "origin_country": [
+    "KZ",
+    "US",
+    "UZ"
+  ],
+  "original_language": "en",
+  "original_title": "Rise of the Conqueror",
+  "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+  "popularity": 92.7191,
+  "poster_path": "/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+  "production_companies": [
+    {
+      "id": 213859,
+      "logo_path": "/lc3sHLuxiCZ377N904A1KwcrZGv.png",
+      "name": "Mystery Box",
+      "origin_country": "US"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 206783,
+      "logo_path": "/mVo5Ir4gatRa1U94v4p9Mr15OPJ.png",
+      "name": "Signature Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 122034,
+      "logo_path": "/kmZNR0LSuhSkEAje0v20Tn6WOt9.png",
+      "name": "Signature Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 114874,
+      "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+      "name": "Signature Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 74435,
+      "logo_path": "/jZYDf9z2fjjXlZkwfwR4QPwMNtm.png",
+      "name": "Capture",
+      "origin_country": "GB"
+    },
+    {
+      "id": 92394,
+      "logo_path": "/xnsTWHinFaR4oQuHFdxe6JNhfrI.png",
+      "name": "Well Go USA Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "UZ",
+      "name": "Uzbekistan"
+    },
+    {
+      "iso_3166_1": "KZ",
+      "name": "Kazakhstan"
+    }
+  ],
+  "release_date": "2026-04-09",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rise of the Conqueror",
+  "video": false,
+  "vote_average": 6.333,
+  "vote_count": 6,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1442711,
+      "known_for_department": "Acting",
+      "name": "Christian Mortensen",
+      "original_name": "Christian Mortensen",
+      "popularity": 1.3612,
+      "profile_path": "/pnfuWeC87kitRnrfL8dtRmumWLM.jpg",
+      "cast_id": 6,
+      "character": "Timur",
+      "credit_id": "6559cb89ea84c710940255a4",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1386458,
+      "known_for_department": "Acting",
+      "name": "Mahesh Jadu",
+      "original_name": "Mahesh Jadu",
+      "popularity": 0.7617,
+      "profile_path": "/pugsskE62XbyYRruJk8KGk3JVdC.jpg",
+      "cast_id": 7,
+      "character": "Hussayn",
+      "credit_id": "6559cb95d4fe0400ac384c0d",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2858892,
+      "known_for_department": "Acting",
+      "name": "Yulduz Rajabova",
+      "original_name": "Yulduz Rajabova",
+      "popularity": 1.0152,
+      "profile_path": "/buxpR0bMxIQvtpSEbly13P6Skc4.jpg",
+      "cast_id": 12,
+      "character": "Aljai",
+      "credit_id": "6559cbcb0816c70137eadfd0",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 3555968,
+      "known_for_department": "Acting",
+      "name": "Joshua Jo",
+      "original_name": "Joshua Jo",
+      "popularity": 0.131,
+      "profile_path": "/6bl1Enijour22IzSCCmrK4Un7k1.jpg",
+      "cast_id": 8,
+      "character": "Elias",
+      "credit_id": "6559cb9eea84c710959f8209",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1602696,
+      "known_for_department": "Acting",
+      "name": "Sanzhar Madi",
+      "original_name": "Sanjar Madi",
+      "popularity": 0.3205,
+      "profile_path": "/bBaJZKfoDyNgEGChmRLB4M69ISg.jpg",
+      "cast_id": 9,
+      "character": "Jasur",
+      "credit_id": "6559cba9b5400214d07028b5",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1372427,
+      "known_for_department": "Camera",
+      "name": "Jacob Schwarz",
+      "original_name": "Jacob Schwarz",
+      "popularity": 0.1785,
+      "profile_path": null,
+      "credit_id": "6559cb07ea84c71096df3e56",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4385376,
+      "known_for_department": "Writing",
+      "name": "Matthew Greene",
+      "original_name": "Matthew Greene",
+      "popularity": 0.0143,
+      "profile_path": null,
+      "credit_id": "6559cb2553866e00abad5c51",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2115850,
+      "known_for_department": "Directing",
+      "name": "Matthew Siemers",
+      "original_name": "Matthew Siemers",
+      "popularity": 0.0,
+      "profile_path": null,
+      "credit_id": "6559cb3d53866e00ff0930a0",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

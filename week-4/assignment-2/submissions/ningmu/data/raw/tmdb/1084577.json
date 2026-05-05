@@ -1,0 +1,213 @@
+{
+  "adult": false,
+  "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0GRCS8C45",
+  "id": 1084577,
+  "imdb_id": "tt26735622",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Balls Up",
+  "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+  "popularity": 99.5876,
+  "poster_path": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+  "production_companies": [
+    {
+      "id": 82819,
+      "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+      "name": "Skydance Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 114336,
+      "logo_path": null,
+      "name": "Reese Wernick Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-15",
+  "revenue": 0,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Their survival takes a big pair.",
+  "title": "Balls Up",
+  "video": false,
+  "vote_average": 5.67,
+  "vote_count": 141,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 13240,
+      "known_for_department": "Acting",
+      "name": "Mark Wahlberg",
+      "original_name": "Mark Wahlberg",
+      "popularity": 8.9356,
+      "profile_path": "/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg",
+      "cast_id": 13,
+      "character": "Brad",
+      "credit_id": "66745c40c2431e8dcafc5fbc",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1294982,
+      "known_for_department": "Acting",
+      "name": "Paul Walter Hauser",
+      "original_name": "Paul Walter Hauser",
+      "popularity": 3.4204,
+      "profile_path": "/nmBdzJpfHMRHsT3VrjyXAxMFLZA.jpg",
+      "cast_id": 14,
+      "character": "Elijah",
+      "credit_id": "66745c4dca802807ff25039e",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 6730,
+      "known_for_department": "Acting",
+      "name": "Sacha Baron Cohen",
+      "original_name": "Sacha Baron Cohen",
+      "popularity": 5.4781,
+      "profile_path": "/irirhgOX0siCyqvMrt2hoJpXfOG.jpg",
+      "cast_id": 52,
+      "character": "Pavio Curto",
+      "credit_id": "69df6b499bf9f4cfd0f93c6e",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4589,
+      "known_for_department": "Acting",
+      "name": "Benjamin Bratt",
+      "original_name": "Benjamin Bratt",
+      "popularity": 6.0965,
+      "profile_path": "/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg",
+      "cast_id": 15,
+      "character": "Santos",
+      "credit_id": "669959afa2dd7a8ba26fd497",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 91588,
+      "known_for_department": "Acting",
+      "name": "Luciano Szafir",
+      "original_name": "Luciano Szafir",
+      "popularity": 0.5572,
+      "profile_path": "/k3TkQpOS9jmtfGyOJYMHSIRoa5F.jpg",
+      "cast_id": 53,
+      "character": "Cristos",
+      "credit_id": "69df6b56ba3666808bb4c98c",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 7396,
+      "known_for_department": "Directing",
+      "name": "Peter Farrelly",
+      "original_name": "Peter Farrelly",
+      "popularity": 1.3029,
+      "profile_path": "/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg",
+      "credit_id": "63e55563d29bdd007ca6f3be",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 58433,
+      "known_for_department": "Production",
+      "name": "David Ellison",
+      "original_name": "David Ellison",
+      "popularity": 0.9709,
+      "profile_path": "/gaT9cIEJPm7nWxpJyZWMy4Ayv6y.jpg",
+      "credit_id": "63e5559b9512e1007f16cc4e",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 29018,
+      "known_for_department": "Production",
+      "name": "Dana Goldberg",
+      "original_name": "Dana Goldberg",
+      "popularity": 0.2588,
+      "profile_path": "/AtiT0HTrrrvVVjZgOXpxKxVFyAb.jpg",
+      "credit_id": "63e555a8a3d027009f3adaf7",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 56737,
+      "known_for_department": "Production",
+      "name": "Don Granger",
+      "original_name": "Don Granger",
+      "popularity": 0.2371,
+      "profile_path": "/xoNLvv80bmhqGs8o4u03ZIE3EgT.jpg",
+      "credit_id": "63e555b2c2ff3d00c3dafce3",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 91269,
+      "known_for_department": "Writing",
+      "name": "Paul Wernick",
+      "original_name": "Paul Wernick",
+      "popularity": 1.2619,
+      "profile_path": "/eEJBp1R3kmVKYq8IT0xUGUMUKim.jpg",
+      "credit_id": "63e555c5f48b34008428858a",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "adult": false,
+  "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+  "belongs_to_collection": {
+    "id": 531241,
+    "name": "Spider-Man (MCU) Collection",
+    "poster_path": "/yeba3Y820OjApZO9aJevDsNeMEd.jpg",
+    "backdrop_path": "/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
+  },
+  "budget": 200000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/spidermannowayhome",
+  "id": 634649,
+  "imdb_id": "tt10872600",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Spider-Man: No Way Home",
+  "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+  "popularity": 68.0811,
+  "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-12-15",
+  "revenue": 1921847111,
+  "runtime": 148,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Multiverse unleashed.",
+  "title": "Spider-Man: No Way Home",
+  "video": false,
+  "vote_average": 7.933,
+  "vote_count": 21845,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1136406,
+      "known_for_department": "Acting",
+      "name": "Tom Holland",
+      "original_name": "Tom Holland",
+      "popularity": 6.7474,
+      "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg",
+      "cast_id": 1,
+      "character": "Peter Parker / Spider-Man",
+      "credit_id": "5d8e28d38289a0000fcc32f9",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 505710,
+      "known_for_department": "Acting",
+      "name": "Zendaya",
+      "original_name": "Zendaya",
+      "popularity": 7.7001,
+      "profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+      "cast_id": 54,
+      "character": "MJ",
+      "credit_id": "5fd968c09408ec003cdd0557",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 71580,
+      "known_for_department": "Acting",
+      "name": "Benedict Cumberbatch",
+      "original_name": "Benedict Cumberbatch",
+      "popularity": 5.2841,
+      "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+      "cast_id": 33,
+      "character": "Doctor Strange",
+      "credit_id": "5f7f51e42f3b170035f3a821",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1649152,
+      "known_for_department": "Acting",
+      "name": "Jacob Batalon",
+      "original_name": "Jacob Batalon",
+      "popularity": 2.0166,
+      "profile_path": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg",
+      "cast_id": 69,
+      "character": "Ned Leeds",
+      "credit_id": "6124200e4a52f8005dd04318",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 15277,
+      "known_for_department": "Acting",
+      "name": "Jon Favreau",
+      "original_name": "Jon Favreau",
+      "popularity": 4.3269,
+      "profile_path": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg",
+      "cast_id": 82,
+      "character": "Happy Hogan",
+      "credit_id": "612450fa2dc44e0045c8df84",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 10850,
+      "known_for_department": "Production",
+      "name": "Kevin Feige",
+      "original_name": "Kevin Feige",
+      "popularity": 1.8804,
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg",
+      "credit_id": "5d8e28e38289a0000fcc3342",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1425616,
+      "known_for_department": "Production",
+      "name": "Amy Pascal",
+      "original_name": "Amy Pascal",
+      "popularity": 0.4997,
+      "profile_path": "/texxoBV4naFHyuSii6jyxlfuEvK.jpg",
+      "credit_id": "5d8e333b8289a00029cc4377",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1293994,
+      "known_for_department": "Directing",
+      "name": "Jon Watts",
+      "original_name": "Jon Watts",
+      "popularity": 1.2687,
+      "profile_path": "/l0t4YtvyRAj35R5hoIp8cs8maCr.jpg",
+      "credit_id": "5d8e630d109cd0002941162e",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1246890,
+      "known_for_department": "Writing",
+      "name": "Chris McKenna",
+      "original_name": "Chris McKenna",
+      "popularity": 0.879,
+      "profile_path": "/2yzbdhnpLdJg8NIh4SWqy6wGbZV.jpg",
+      "credit_id": "5f7133dc1f748b003725c63c",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1350918,
+      "known_for_department": "Writing",
+      "name": "Erik Sommers",
+      "original_name": "Erik Sommers",
+      "popularity": 0.632,
+      "profile_path": "/fvg1OA7xdYu7z44HdY5IA9lSqYl.jpg",
+      "credit_id": "5f7133ec3dd1260035658dab",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

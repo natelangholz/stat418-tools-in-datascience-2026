@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/apMl96DIrewME0s87rP733yb37Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1270125,
+  "imdb_id": "tt27811009",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "en",
+  "original_title": "Monster on a Plane",
+  "overview": "An exotic animal turns into a monster and becomes a deadly danger for all passengers.",
+  "popularity": 71.1446,
+  "poster_path": "/9fBcq5WiH3z4YGjS2iVESRKxcW4.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2024-11-07",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Monster on a Plane",
+  "video": false,
+  "vote_average": 3.7,
+  "vote_count": 25,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 50683,
+      "known_for_department": "Acting",
+      "name": "Eva Habermann",
+      "original_name": "Eva Habermann",
+      "popularity": 1.0023,
+      "profile_path": "/mdkozijZooNyg2K8Dg26zAAJoYh.jpg",
+      "cast_id": 1,
+      "character": "Nathalie",
+      "credit_id": "66106468b3390301486dab57",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1595254,
+      "known_for_department": "Acting",
+      "name": "Robin Czerny",
+      "original_name": "Robin Czerny",
+      "popularity": 0.0361,
+      "profile_path": "/wxP5i5e4Ll2D0n8EIkl5iv0hI6P.jpg",
+      "cast_id": 2,
+      "character": "Ben",
+      "credit_id": "661064771108a8014a8bb261",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 49201,
+      "known_for_department": "Acting",
+      "name": "Philippe Brenninkmeyer",
+      "original_name": "Philippe Brenninkmeyer",
+      "popularity": 0.3596,
+      "profile_path": "/cfYuU75rDWr5xnpodR7FLbzvv4o.jpg",
+      "cast_id": 3,
+      "character": "Captain James Pillow",
+      "credit_id": "661064885b370d014a632e1e",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 17544,
+      "known_for_department": "Acting",
+      "name": "Dieter Landuris",
+      "original_name": "Dieter Landuris",
+      "popularity": 0.2738,
+      "profile_path": "/5bEiLjBk73T03NqsYJI8ZoSASYM.jpg",
+      "cast_id": 9,
+      "character": "Dr Singh",
+      "credit_id": "661064f21fa1c80149d0fc51",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1787116,
+      "known_for_department": "Acting",
+      "name": "Fred Aaron Blake",
+      "original_name": "Fred Aaron Blake",
+      "popularity": 0.0701,
+      "profile_path": null,
+      "cast_id": 14,
+      "character": "Helmut",
+      "credit_id": "686643aecba47c74bfc116ab",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1643057,
+      "known_for_department": "Writing",
+      "name": "Ezra Tsegaye",
+      "original_name": "Ezra Tsegaye",
+      "popularity": 0.1037,
+      "profile_path": null,
+      "credit_id": "66106539df86a8017e52b171",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4636410,
+      "known_for_department": "Writing",
+      "name": "Ezra Tsegaye",
+      "original_name": "Ezra Tsegaye",
+      "popularity": 0.0143,
+      "profile_path": null,
+      "credit_id": "6610654767dcc9017c9ace24",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

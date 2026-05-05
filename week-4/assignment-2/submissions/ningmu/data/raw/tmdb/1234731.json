@@ -1,0 +1,213 @@
+{
+  "adult": false,
+  "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+  "belongs_to_collection": null,
+  "budget": 45000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://anacondamovie.com",
+  "id": 1234731,
+  "imdb_id": "tt33244668",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Anaconda",
+  "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+  "popularity": 78.8092,
+  "poster_path": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+  "production_companies": [
+    {
+      "id": 134756,
+      "logo_path": "/saCxMqh2hFSbDeojykvP2qc6zNX.png",
+      "name": "Fully Formed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-24",
+  "revenue": 135148320,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A comedy so big it'll leave you breathless.",
+  "title": "Anaconda",
+  "video": false,
+  "vote_average": 5.88,
+  "vote_count": 1059,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 70851,
+      "known_for_department": "Acting",
+      "name": "Jack Black",
+      "original_name": "Jack Black",
+      "popularity": 8.3592,
+      "profile_path": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg",
+      "cast_id": 2,
+      "character": "Doug McCallister",
+      "credit_id": "66c67259c42459ace0651a7e",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 22226,
+      "known_for_department": "Acting",
+      "name": "Paul Rudd",
+      "original_name": "Paul Rudd",
+      "popularity": 3.8886,
+      "profile_path": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg",
+      "cast_id": 3,
+      "character": "Ronald Griffin Jr.",
+      "credit_id": "66c67261c42459ace0651a82",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 18324,
+      "known_for_department": "Acting",
+      "name": "Steve Zahn",
+      "original_name": "Steve Zahn",
+      "popularity": 3.4267,
+      "profile_path": "/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg",
+      "cast_id": 12,
+      "character": "Kenny Trent",
+      "credit_id": "678accd7704299ac12864970",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 9030,
+      "known_for_department": "Acting",
+      "name": "Thandiwe Newton",
+      "original_name": "Thandiwe Newton",
+      "popularity": 3.294,
+      "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg",
+      "cast_id": 11,
+      "character": "Claire Simons",
+      "credit_id": "678acccfccfbfb1e0e8647c0",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1784612,
+      "known_for_department": "Acting",
+      "name": "Daniela Melchior",
+      "original_name": "Daniela Melchior",
+      "popularity": 4.6613,
+      "profile_path": "/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg",
+      "cast_id": 8,
+      "character": "Ana Almeida",
+      "credit_id": "66fb040cf906b98958f1a276",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1211000,
+      "known_for_department": "Writing",
+      "name": "Tom Gormican",
+      "original_name": "Tom Gormican",
+      "popularity": 0.5115,
+      "profile_path": "/3OIo7pq87kh7Zg03szRuKFvLRSR.jpg",
+      "credit_id": "65ae7e7825cd8500cb4e6fa3",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 54844,
+      "known_for_department": "Production",
+      "name": "Brad Fuller",
+      "original_name": "Brad Fuller",
+      "popularity": 0.33,
+      "profile_path": "/qlJSn1kbOe6jZwJAkJGuyNh5tGi.jpg",
+      "credit_id": "66c6a198f9e5711dd9f29271",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 54843,
+      "known_for_department": "Production",
+      "name": "Andrew Form",
+      "original_name": "Andrew Form",
+      "popularity": 0.536,
+      "profile_path": "/yo3V5C3RUm43NaLhKISU9UIIFjm.jpg",
+      "credit_id": "66c6a19e6e6beef562eaaf6e",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1219572,
+      "known_for_department": "Writing",
+      "name": "Kevin Etten",
+      "original_name": "Kevin Etten",
+      "popularity": 0.471,
+      "profile_path": null,
+      "credit_id": "694eda0ca46bee867eb1c5de",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1211000,
+      "known_for_department": "Writing",
+      "name": "Tom Gormican",
+      "original_name": "Tom Gormican",
+      "popularity": 0.5115,
+      "profile_path": "/3OIo7pq87kh7Zg03szRuKFvLRSR.jpg",
+      "credit_id": "694eda130764ddda658eb397",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

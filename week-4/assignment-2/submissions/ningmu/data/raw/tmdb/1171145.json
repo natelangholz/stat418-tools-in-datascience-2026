@@ -1,0 +1,225 @@
+{
+  "adult": false,
+  "backdrop_path": "/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
+  "belongs_to_collection": null,
+  "budget": 90000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.amazon.com/salp/crime101?hhf",
+  "id": 1171145,
+  "imdb_id": "tt32430579",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Crime 101",
+  "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+  "popularity": 161.6193,
+  "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+  "production_companies": [
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 122772,
+      "logo_path": null,
+      "name": "The Story Factory",
+      "origin_country": "US"
+    },
+    {
+      "id": 23949,
+      "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+      "name": "RAW",
+      "origin_country": "GB"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 183787,
+      "logo_path": "/8G6CbTenzORJdoep1AaghtSEQrY.png",
+      "name": "Wild State",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-11",
+  "revenue": 72824188,
+  "runtime": 141,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Always have an exit.",
+  "title": "Crime 101",
+  "video": false,
+  "vote_average": 6.94,
+  "vote_count": 794,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 74568,
+      "known_for_department": "Acting",
+      "name": "Chris Hemsworth",
+      "original_name": "Chris Hemsworth",
+      "popularity": 9.5314,
+      "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
+      "cast_id": 1,
+      "character": "Davis",
+      "credit_id": "64edbfe5e2bca8011c26b3d7",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 103,
+      "known_for_department": "Acting",
+      "name": "Mark Ruffalo",
+      "original_name": "Mark Ruffalo",
+      "popularity": 4.5012,
+      "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
+      "cast_id": 5,
+      "character": "Lou",
+      "credit_id": "664d3342e9b4172c3413c0a9",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 4587,
+      "known_for_department": "Acting",
+      "name": "Halle Berry",
+      "original_name": "Halle Berry",
+      "popularity": 7.7536,
+      "profile_path": "/wtFetpWV8kjBsvzYKN9uEEmPdpy.jpg",
+      "cast_id": 17,
+      "character": "Sharon",
+      "credit_id": "66fd6d42b146282f7b84a8b4",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1290466,
+      "known_for_department": "Acting",
+      "name": "Barry Keoghan",
+      "original_name": "Barry Keoghan",
+      "popularity": 3.2981,
+      "profile_path": "/ngoitknM6hw8fffLywyvjzy6Iti.jpg",
+      "cast_id": 16,
+      "character": "Ormon",
+      "credit_id": "6659139d2f924e740093f33b",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1525043,
+      "known_for_department": "Acting",
+      "name": "Monica Barbaro",
+      "original_name": "Monica Barbaro",
+      "popularity": 2.887,
+      "profile_path": "/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg",
+      "cast_id": 24,
+      "character": "Maya",
+      "credit_id": "671a789a4be15469e70d8f7e",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 859754,
+      "known_for_department": "Directing",
+      "name": "Bart Layton",
+      "original_name": "Bart Layton",
+      "popularity": 0.7803,
+      "profile_path": "/zAc9d3PUZmgls9Xu0lRF9Etw1Mc.jpg",
+      "credit_id": "64edbffe83901800af826bf9",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 74568,
+      "known_for_department": "Acting",
+      "name": "Chris Hemsworth",
+      "original_name": "Chris Hemsworth",
+      "popularity": 9.5314,
+      "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
+      "credit_id": "664d33e54c2316e988964774",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1104904,
+      "known_for_department": "Production",
+      "name": "Ben Grayson",
+      "original_name": "Ben Grayson",
+      "popularity": 0.266,
+      "profile_path": null,
+      "credit_id": "664d341661c3cfb5b0635e97",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2238,
+      "known_for_department": "Production",
+      "name": "Eric Fellner",
+      "original_name": "Eric Fellner",
+      "popularity": 0.652,
+      "profile_path": "/8fEalki5uMWg97FVDk3l2kvf2Dt.jpg",
+      "credit_id": "664d34438adae46dbc635ee5",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1231665,
+      "known_for_department": "Production",
+      "name": "Derrin Schlesinger",
+      "original_name": "Derrin Schlesinger",
+      "popularity": 0.0546,
+      "profile_path": null,
+      "credit_id": "664d3494196730608c01a562",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

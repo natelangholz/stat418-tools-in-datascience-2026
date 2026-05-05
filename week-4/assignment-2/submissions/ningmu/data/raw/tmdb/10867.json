@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10867,
+  "imdb_id": "tt0213847",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Malèna",
+  "overview": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
+  "popularity": 116.3459,
+  "poster_path": "/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
+  "production_companies": [
+    {
+      "id": 6246,
+      "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+      "name": "Medusa Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 12897,
+      "logo_path": null,
+      "name": "Pacific Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 15139,
+      "logo_path": "/pDMWjx8DQZ7joB5Yd5lieixKUAp.png",
+      "name": "Tele+",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-10-27",
+  "revenue": 14493284,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Too young to be a widow, too beautiful to be alone.",
+  "title": "Malena",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 2478,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 28782,
+      "known_for_department": "Acting",
+      "name": "Monica Bellucci",
+      "original_name": "Monica Bellucci",
+      "popularity": 10.5404,
+      "profile_path": "/7g3k3u2gZpE7XU8GRYwHDuN1jlM.jpg",
+      "cast_id": 1,
+      "character": "Malèna Scordia",
+      "credit_id": "52fe43c69251416c7501dba3",
+      "order": 0
+    },
+    {
+      "adult": true,
+      "gender": 2,
+      "id": 67612,
+      "known_for_department": "Acting",
+      "name": "Giuseppe Sulfaro",
+      "original_name": "Giuseppe Sulfaro",
+      "popularity": 0.0,
+      "profile_path": "/n2dGRXym6gJwwwkDt5IUjTnAHVt.jpg",
+      "cast_id": 2,
+      "character": "Renato Amoroso",
+      "credit_id": "52fe43c69251416c7501dba7",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 67613,
+      "known_for_department": "Acting",
+      "name": "Luciano Federico",
+      "original_name": "Luciano Federico",
+      "popularity": 0.3391,
+      "profile_path": "/tkZN8uWDtnoMkjaJ1GCQoBKc7eo.jpg",
+      "cast_id": 74,
+      "character": "Renato's Father",
+      "credit_id": "5abfa4500e0a264a5a02c5f4",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 67614,
+      "known_for_department": "Acting",
+      "name": "Matilde Piana",
+      "original_name": "Matilde Piana",
+      "popularity": 0.3333,
+      "profile_path": "/1lf6Y61wEuUC8yovTpRXSW73Np2.jpg",
+      "cast_id": 50,
+      "character": "Renato's Mother",
+      "credit_id": "59e8de5ec3a3681a1f002142",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 15134,
+      "known_for_department": "Production",
+      "name": "Pietro Notarianni",
+      "original_name": "Pietro Notarianni",
+      "popularity": 0.2087,
+      "profile_path": "/nlIWno3nXt2E6qk9EHNeKC3Pd56.jpg",
+      "cast_id": 69,
+      "character": "Prof. Bonsignore",
+      "credit_id": "59e8e0e292514156d30025ef",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 65314,
+      "known_for_department": "Directing",
+      "name": "Giuseppe Tornatore",
+      "original_name": "Giuseppe Tornatore",
+      "popularity": 1.0262,
+      "profile_path": "/t5PurTT9QuvV5Xs9Q2JzVui5oqF.jpg",
+      "credit_id": "52fe43c79251416c7501dbb5",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 59839,
+      "known_for_department": "Production",
+      "name": "Harvey Weinstein",
+      "original_name": "Harvey Weinstein",
+      "popularity": 1.4827,
+      "profile_path": "/yUeo7hPc6fdHB2vy2zkGqg3bJyv.jpg",
+      "credit_id": "52fe43c79251416c7501dbbb",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4599512,
+      "known_for_department": "Production",
+      "name": "Carlo Bernasconi",
+      "original_name": "Carlo Bernasconi",
+      "popularity": 0.0503,
+      "profile_path": null,
+      "credit_id": "65f75ce781da390186638477",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

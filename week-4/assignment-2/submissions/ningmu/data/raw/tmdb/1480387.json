@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": "/qXxFWyur7jFkg2aQgENcXuyYeHF.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://a24films.com/films/undertone",
+  "id": 1480387,
+  "imdb_id": "tt35892608",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "undertone",
+  "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+  "popularity": 85.465,
+  "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+  "production_companies": [
+    {
+      "id": 9315,
+      "logo_path": "/uKmSLeRvSmbf156Q6mRl81qWf9D.png",
+      "name": "Black Fawn Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 262195,
+      "logo_path": null,
+      "name": "Slaterverse Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 262196,
+      "logo_path": null,
+      "name": "KINO Studios",
+      "origin_country": "CA"
+    },
+    {
+      "id": 169906,
+      "logo_path": "/zcjActhEXaYww1JSvx2OtCd8jTG.png",
+      "name": "Spooky Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 270846,
+      "logo_path": "/oBxigI3CRctXSwtiyKrqUjlT4od.png",
+      "name": "DimensionGate",
+      "origin_country": "CA"
+    },
+    {
+      "id": 270848,
+      "logo_path": null,
+      "name": "Feel Everything Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-12",
+  "revenue": 21016308,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It wants to be heard.",
+  "title": "undertone",
+  "video": false,
+  "vote_average": 6.517,
+  "vote_count": 115,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1603514,
+      "known_for_department": "Acting",
+      "name": "Nina Kiri",
+      "original_name": "Nina Kiri",
+      "popularity": 1.5008,
+      "profile_path": "/hCELEsasRGhIsS7oRfdhfK3d1Jc.jpg",
+      "cast_id": 1,
+      "character": "Evy Babic",
+      "credit_id": "68232a8e555633850ead980a",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 936932,
+      "known_for_department": "Acting",
+      "name": "Adam DiMarco",
+      "original_name": "Adam DiMarco",
+      "popularity": 3.2591,
+      "profile_path": "/eYEgtlwO7aelRf8PqCh50YEAZU2.jpg",
+      "cast_id": 55,
+      "character": "Justin (voice)",
+      "credit_id": "6972f3222f3fdb13879d065d",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1239352,
+      "known_for_department": "Acting",
+      "name": "Michèle Duquet",
+      "original_name": "Michèle Duquet",
+      "popularity": 0.4466,
+      "profile_path": "/pZh47lOJ93xGk6UqoP7ZedWhXZ5.jpg",
+      "cast_id": 27,
+      "character": "Mama",
+      "credit_id": "68232e9eacdd4e2fe373980c",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2137834,
+      "known_for_department": "Acting",
+      "name": "Keana Bastidas",
+      "original_name": "Keana Bastidas",
+      "popularity": 0.7399,
+      "profile_path": "/ez4KWMizo89ig9zikLqYh9gwrlO.jpg",
+      "cast_id": 26,
+      "character": "Jessa (voice)",
+      "credit_id": "68232e8d0e00cf26f46ee99a",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1793739,
+      "known_for_department": "Acting",
+      "name": "Jeff Yung",
+      "original_name": "Jeff Yung",
+      "popularity": 0.3542,
+      "profile_path": "/9iZFECLtqhoNiXfzWYwbDz9o7Ux.jpg",
+      "cast_id": 28,
+      "character": "Mike (voice)",
+      "credit_id": "68232eb13eeec88274ad9860",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 5435491,
+      "known_for_department": "Directing",
+      "name": "Ian Tuason",
+      "original_name": "Ian Tuason",
+      "popularity": 0.6758,
+      "profile_path": "/5nsagSoITyBovBp6vqwCtz0y3fW.jpg",
+      "credit_id": "68232b13d65149990bad9770",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 5435491,
+      "known_for_department": "Directing",
+      "name": "Ian Tuason",
+      "original_name": "Ian Tuason",
+      "popularity": 0.6758,
+      "profile_path": "/5nsagSoITyBovBp6vqwCtz0y3fW.jpg",
+      "credit_id": "68232b1b10285256852d20e1",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1938156,
+      "known_for_department": "Directing",
+      "name": "Dan Slater",
+      "original_name": "Dan Slater",
+      "popularity": 0.1374,
+      "profile_path": null,
+      "credit_id": "68232b63ce81a3a9f16eea07",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1195181,
+      "known_for_department": "Writing",
+      "name": "Cody Calahan",
+      "original_name": "Cody Calahan",
+      "popularity": 0.1984,
+      "profile_path": "/tUUFWdqsGjMT8HLkRWwW3XrxA0z.jpg",
+      "credit_id": "68232b74ce81a3a9f16eea0e",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

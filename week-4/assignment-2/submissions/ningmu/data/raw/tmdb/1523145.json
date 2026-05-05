@@ -1,0 +1,221 @@
+{
+  "adult": false,
+  "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1523145,
+  "imdb_id": "tt38190257",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Твоё сердце будет разбито",
+  "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+  "popularity": 332.9411,
+  "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+  "production_companies": [
+    {
+      "id": 71928,
+      "logo_path": "/7M6z2jX570P3HzNQULCTjlZcXkB.png",
+      "name": "All Media A Start Company",
+      "origin_country": "RU"
+    },
+    {
+      "id": 114676,
+      "logo_path": "/aVsos0RDN9Ib7H8nW5Vv5kHKykz.png",
+      "name": "START Studio",
+      "origin_country": "RU"
+    },
+    {
+      "id": 13850,
+      "logo_path": "/6KsdcnTIpQ47NHad4EtxOCkB94K.png",
+      "name": "Sverdlovsk Film Studio",
+      "origin_country": "RU"
+    },
+    {
+      "id": 42877,
+      "logo_path": "/15THT1W3NROsbDXPbrcmWFVkrSv.png",
+      "name": "Yellow, Black & White",
+      "origin_country": "RU"
+    },
+    {
+      "id": 119813,
+      "logo_path": "/iyGJzcnWXZoNxYLzZu4jKzxIoFw.png",
+      "name": "Premier Studios",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2026-03-26",
+  "revenue": 0,
+  "runtime": 134,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Your Heart Will Be Broken",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 74,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 5598110,
+      "known_for_department": "Acting",
+      "name": "Daniel Vegas",
+      "original_name": "Даниэль Вегас",
+      "popularity": 4.3835,
+      "profile_path": "/t9AFZX1rpTt59npITX2GY3JgySd.jpg",
+      "cast_id": 2,
+      "character": "Bars",
+      "credit_id": "688b9cc6b5470c1740948c64",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 5037367,
+      "known_for_department": "Acting",
+      "name": "Veronika Zhuravleva",
+      "original_name": "Вероника Журавлёва",
+      "popularity": 4.3788,
+      "profile_path": "/bvlry6DeiYkm0onAZhonlpl4J7.jpg",
+      "cast_id": 1,
+      "character": "Polina",
+      "credit_id": "688b9c6006851bb0a7948e31",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4508505,
+      "known_for_department": "Acting",
+      "name": "Ivan Trushin",
+      "original_name": "Иван Трушин",
+      "popularity": 1.0084,
+      "profile_path": "/8DWSEUJnxlr7kTP0O8iOSnsqbcs.jpg",
+      "cast_id": 15,
+      "character": "Laym",
+      "credit_id": "68af80b0e3253447084ebfef",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2007622,
+      "known_for_department": "Acting",
+      "name": "Maksim Saprykin",
+      "original_name": "Максим Сапрыкин",
+      "popularity": 1.2016,
+      "profile_path": "/u6c2wEvtqhXHyYRqd2LXKsyHr5a.jpg",
+      "cast_id": 12,
+      "character": "Lyokha",
+      "credit_id": "68af809bb763b169df3908d2",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 5654199,
+      "known_for_department": "Acting",
+      "name": "Alya Mayer",
+      "original_name": "Аля Майер",
+      "popularity": 0.4569,
+      "profile_path": null,
+      "cast_id": 11,
+      "character": "",
+      "credit_id": "68af8093d242e00c0b624c8b",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1547457,
+      "known_for_department": "Directing",
+      "name": "Mikhail Vaynberg",
+      "original_name": "Михаил Вайнберг",
+      "popularity": 0.8418,
+      "profile_path": "/m2gtdkNGGMkE6LUevQpA7xvYq6p.jpg",
+      "credit_id": "688ba3c37ce6d7d12b948a46",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1650368,
+      "known_for_department": "Production",
+      "name": "Georgy Shabanov",
+      "original_name": "Георгий Шабанов",
+      "popularity": 0.0577,
+      "profile_path": "/tXp1N4sr281y9PeF9k7CrDlrTr3.jpg",
+      "credit_id": "688ba3dbce7b372afc51d5c8",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 5038055,
+      "known_for_department": "Production",
+      "name": "Lusya Dadalyan",
+      "original_name": "Люся Дадальян",
+      "popularity": 0.0071,
+      "profile_path": null,
+      "credit_id": "688ba3ec4cf2373ea1767fac",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 557960,
+      "known_for_department": "Directing",
+      "name": "Alyona Zvantsova",
+      "original_name": "Алёна Званцова",
+      "popularity": 0.2621,
+      "profile_path": "/z3mAtNGYnR7fJDSgkdaprDX1cDj.jpg",
+      "credit_id": "688ba4003c88a0676d768176",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4200349,
+      "known_for_department": "Production",
+      "name": "Viktor Shadrin",
+      "original_name": "Виктор Шадрин",
+      "popularity": 0.0261,
+      "profile_path": null,
+      "credit_id": "688ba41abc5af0c058b5b534",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

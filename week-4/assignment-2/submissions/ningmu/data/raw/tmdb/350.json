@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": "/CpLAfXgSNeNRRbRzPrTuzKmIHO.jpg",
+  "belongs_to_collection": {
+    "id": 1314623,
+    "name": "The Devil Wears Prada Collection",
+    "poster_path": "/rxzd0UeVgErb4r736NdxbCMdvlV.jpg",
+    "backdrop_path": "/mtefhDkoYsJ8NtguqAdQBh2e91i.jpg"
+  },
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/the-devil-wears-prada",
+  "id": 350,
+  "imdb_id": "tt0458352",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Devil Wears Prada",
+  "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+  "popularity": 121.8012,
+  "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+  "production_companies": [
+    {
+      "id": 711,
+      "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 412,
+      "logo_path": null,
+      "name": "Wendy Finerman Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 444,
+      "logo_path": null,
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 445,
+      "logo_path": null,
+      "name": "Major Studio Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-06-29",
+  "revenue": 326706115,
+  "runtime": 109,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.",
+  "title": "The Devil Wears Prada",
+  "video": false,
+  "vote_average": 7.39,
+  "vote_count": 13001,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 5064,
+      "known_for_department": "Acting",
+      "name": "Meryl Streep",
+      "original_name": "Meryl Streep",
+      "popularity": 5.6378,
+      "profile_path": "/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg",
+      "cast_id": 25,
+      "character": "Miranda Priestly",
+      "credit_id": "5301f30492514121a7269b59",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1813,
+      "known_for_department": "Acting",
+      "name": "Anne Hathaway",
+      "original_name": "Anne Hathaway",
+      "popularity": 24.2895,
+      "profile_path": "/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg",
+      "cast_id": 26,
+      "character": "Andy Sachs",
+      "credit_id": "5301f31a925141219b257c3c",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 5081,
+      "known_for_department": "Acting",
+      "name": "Emily Blunt",
+      "original_name": "Emily Blunt",
+      "popularity": 8.414,
+      "profile_path": "/zpJ7pupuNF3W0zTxm6yioGIoxbd.jpg",
+      "cast_id": 44,
+      "character": "Emily",
+      "credit_id": "53b520c90e0a2676cb001fc0",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2283,
+      "known_for_department": "Acting",
+      "name": "Stanley Tucci",
+      "original_name": "Stanley Tucci",
+      "popularity": 5.3538,
+      "profile_path": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg",
+      "cast_id": 28,
+      "character": "Nigel",
+      "credit_id": "5301f34192514121a127c44a",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1284159,
+      "known_for_department": "Acting",
+      "name": "Simon Baker",
+      "original_name": "Simon Baker",
+      "popularity": 5.7046,
+      "profile_path": "/8RPbdwSOJ3DEQDQaj05zBFaUu5f.jpg",
+      "cast_id": 29,
+      "character": "Christian Thompson",
+      "credit_id": "5301f35e92514121a726a907",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 28,
+      "known_for_department": "Production",
+      "name": "Wendy Finerman",
+      "original_name": "Wendy Finerman",
+      "popularity": 0.2806,
+      "profile_path": "/hHtIO8eapQ20cP3UfxhjjPnsz23.jpg",
+      "credit_id": "52fe423bc3a36847f800e2e3",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 5065,
+      "known_for_department": "Directing",
+      "name": "David Frankel",
+      "original_name": "David Frankel",
+      "popularity": 1.1264,
+      "profile_path": "/ouq2ODK5MbbnCC72B8x29tJpKC7.jpg",
+      "credit_id": "52fe423bc3a36847f800e2c5",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "adult": false,
+  "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+  "belongs_to_collection": null,
+  "budget": 90000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://goat.movie",
+  "id": 1297842,
+  "imdb_id": "tt27613895",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "GOAT",
+  "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+  "popularity": 157.6021,
+  "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+  "production_companies": [
+    {
+      "id": 2251,
+      "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+      "name": "Sony Pictures Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 120524,
+      "logo_path": "/6G31NBE33avSwnSw9OGiFhCOpkS.png",
+      "name": "Unanimous Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 184287,
+      "logo_path": "/yH5Zbs5SaOiXCazdQwrt00vK9Pj.png",
+      "name": "Modern Magic",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 79426,
+      "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+      "name": "MACRO",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-11",
+  "revenue": 190508904,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You're never too small to dream big.",
+  "title": "GOAT",
+  "video": false,
+  "vote_average": 7.918,
+  "vote_count": 458,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1474123,
+      "known_for_department": "Acting",
+      "name": "Caleb McLaughlin",
+      "original_name": "Caleb McLaughlin",
+      "popularity": 3.2281,
+      "profile_path": "/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg",
+      "cast_id": 17,
+      "character": "Will Harris (voice)",
+      "credit_id": "6846d3e49c6c3c75a62063ee",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 17773,
+      "known_for_department": "Acting",
+      "name": "Gabrielle Union",
+      "original_name": "Gabrielle Union",
+      "popularity": 2.2637,
+      "profile_path": "/toeSCybsYufRKfgz77AKy4C8axD.jpg",
+      "cast_id": 18,
+      "character": "Jett Fillmore (voice)",
+      "credit_id": "6846d3f238f4780fae301a5f",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1718307,
+      "known_for_department": "Acting",
+      "name": "Stephen Curry",
+      "original_name": "Stephen Curry",
+      "popularity": 0.8886,
+      "profile_path": "/dmLZdGhZkCYktooIp8iqXhAvoWz.jpg",
+      "cast_id": 23,
+      "character": "Lenny Williamson (voice)",
+      "credit_id": "6846d49058216a1685fd5f41",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1763709,
+      "known_for_department": "Acting",
+      "name": "Aaron Pierre",
+      "original_name": "Aaron Pierre",
+      "popularity": 1.4534,
+      "profile_path": "/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg",
+      "cast_id": 27,
+      "character": "Mane Attraction (voice)",
+      "credit_id": "6889094c46e05180f0a7d0c5",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1267240,
+      "known_for_department": "Acting",
+      "name": "Nicola Coughlan",
+      "original_name": "Nicola Coughlan",
+      "popularity": 3.2142,
+      "profile_path": "/shSN86O3qckxcO7YXVtaNy9ksSU.jpg",
+      "cast_id": 22,
+      "character": "Olivia Burke (voice)",
+      "credit_id": "6846d47ab6a9aac54e1ea848",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2122835,
+      "known_for_department": "Directing",
+      "name": "Tyree Dillihay",
+      "original_name": "Tyree Dillihay",
+      "popularity": 0.5009,
+      "profile_path": "/cA4rfx4HwDYmmxpJoBclTZTjcEN.jpg",
+      "credit_id": "6658dba097b7c5247574eebb",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2266453,
+      "known_for_department": "Production",
+      "name": "Erick Peyton",
+      "original_name": "Erick Peyton",
+      "popularity": 0.0782,
+      "profile_path": null,
+      "credit_id": "6658dd22490f2235251d20a8",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3544025,
+      "known_for_department": "Production",
+      "name": "Adam Rosenberg",
+      "original_name": "Adam Rosenberg",
+      "popularity": 0.0807,
+      "profile_path": "/8xat2G5Z2IvdnZPMqc8vau6F1am.jpg",
+      "credit_id": "6658dd659ef4718ae693efa4",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1743063,
+      "known_for_department": "Production",
+      "name": "Michelle Raimo Kouyate",
+      "original_name": "Michelle Raimo Kouyate",
+      "popularity": 0.0944,
+      "profile_path": "/4P1eg0mhXPN8aDTqFuih0Cj0vSb.jpg",
+      "credit_id": "6658dd3e9ef4718ae693efa1",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1718307,
+      "known_for_department": "Acting",
+      "name": "Stephen Curry",
+      "original_name": "Stephen Curry",
+      "popularity": 0.8886,
+      "profile_path": "/dmLZdGhZkCYktooIp8iqXhAvoWz.jpg",
+      "credit_id": "665932314446eef9fa750a6c",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

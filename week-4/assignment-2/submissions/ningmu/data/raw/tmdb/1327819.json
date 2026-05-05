@@ -1,0 +1,175 @@
+{
+  "adult": false,
+  "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+  "belongs_to_collection": null,
+  "budget": 150000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.pixar.com/hoppers",
+  "id": 1327819,
+  "imdb_id": "tt26443616",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hoppers",
+  "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+  "popularity": 162.5408,
+  "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-04",
+  "revenue": 370156679,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Act natural.",
+  "title": "Hoppers",
+  "video": false,
+  "vote_average": 7.59,
+  "vote_count": 527,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1308818,
+      "known_for_department": "Acting",
+      "name": "Piper Curda",
+      "original_name": "Piper Curda",
+      "popularity": 1.3344,
+      "profile_path": "/oyitEBcracNWMuF8Frhsqkjgzuc.jpg",
+      "cast_id": 5,
+      "character": "Mabel (voice)",
+      "credit_id": "66b6eb3872dc523b6bd77478",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 452205,
+      "known_for_department": "Acting",
+      "name": "Bobby Moynihan",
+      "original_name": "Bobby Moynihan",
+      "popularity": 1.8629,
+      "profile_path": "/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg",
+      "cast_id": 2,
+      "character": "King George (voice)",
+      "credit_id": "66b6e1ac3cf09373bce5ed90",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 65717,
+      "known_for_department": "Acting",
+      "name": "Jon Hamm",
+      "original_name": "Jon Hamm",
+      "popularity": 5.0097,
+      "profile_path": "/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg",
+      "cast_id": 1,
+      "character": "Mayor Jerry Generazzo (voice)",
+      "credit_id": "66b6d76bb0f75eab16c60953",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 11074,
+      "known_for_department": "Acting",
+      "name": "Kathy Najimy",
+      "original_name": "Kathy Najimy",
+      "popularity": 1.567,
+      "profile_path": "/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg",
+      "cast_id": 64,
+      "character": "Dr. Sam (voice)",
+      "credit_id": "691f57cb5cbec5bcc2c2cfdf",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 54697,
+      "known_for_department": "Acting",
+      "name": "Dave Franco",
+      "original_name": "Dave Franco",
+      "popularity": 3.8339,
+      "profile_path": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg",
+      "cast_id": 85,
+      "character": "Insect King (voice)",
+      "credit_id": "698637caae21e1754f6918af",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1485788,
+      "known_for_department": "Production",
+      "name": "Nicole Paradis Grindle",
+      "original_name": "Nicole Paradis Grindle",
+      "popularity": 0.1423,
+      "profile_path": null,
+      "credit_id": "66b6f297013f50b977a8c197",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1491592,
+      "known_for_department": "Writing",
+      "name": "Daniel Chong",
+      "original_name": "Daniel Chong",
+      "popularity": 0.9302,
+      "profile_path": "/gMYqVwLdoaPhIFyWUAQrRlGGjkE.jpg",
+      "credit_id": "66b6eb109b1e34fbd9595f5a",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "adult": false,
+  "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0CH1Y9VX4/ref=atv_dp_share_cu_r",
+  "id": 848116,
+  "imdb_id": "tt14993250",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "रॉकी और रानी की प्रेम कहानी",
+  "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+  "popularity": 55.2032,
+  "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
+  "production_companies": [
+    {
+      "id": 19146,
+      "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+      "name": "Dharma Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 6808,
+      "logo_path": "/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png",
+      "name": "Viacom18 Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2023-07-28",
+  "revenue": 0,
+  "runtime": 178,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The power of family will decide the fate of love",
+  "title": "Rocky Aur Rani Kii Prem Kahaani",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 81,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1108120,
+      "known_for_department": "Acting",
+      "name": "Alia Bhatt",
+      "original_name": "Alia Bhatt",
+      "popularity": 1.4136,
+      "profile_path": "/RBnTJPegPFLBS4VPsNLbf6iAoD.jpg",
+      "cast_id": 2,
+      "character": "Rani Chatterji",
+      "credit_id": "60e3f5159974ee0026bdb6f4",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 224223,
+      "known_for_department": "Acting",
+      "name": "Ranveer Singh",
+      "original_name": "Ranveer Singh",
+      "popularity": 2.1182,
+      "profile_path": "/sRiwLmhduFghJo8U2coUafnDD4C.jpg",
+      "cast_id": 1,
+      "character": "Rocky Randhawa",
+      "credit_id": "60e3f50a6bdec30046070f59",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 35743,
+      "known_for_department": "Acting",
+      "name": "Jaya Bachchan",
+      "original_name": "Jaya Bachchan",
+      "popularity": 0.6422,
+      "profile_path": "/gXmIdkOhJN7pa8XDR7KQJXgtXni.jpg",
+      "cast_id": 14,
+      "character": "Dhanlakshmi Randhawa",
+      "credit_id": "60e424b927ff99005dfb4487",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 85672,
+      "known_for_department": "Acting",
+      "name": "Shabana Azmi",
+      "original_name": "शबाना आज़मी",
+      "popularity": 2.5256,
+      "profile_path": "/gy7DpFaZnpU4XOwBc8jhhE8rYYj.jpg",
+      "cast_id": 13,
+      "character": "Jamini Chatterji",
+      "credit_id": "60e424af6bdec3004607b00e",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 85655,
+      "known_for_department": "Acting",
+      "name": "Dharmendra",
+      "original_name": "Dharmendra",
+      "popularity": 1.3087,
+      "profile_path": "/aagrv7LIDWq0GxZelUPqubCg7sH.jpg",
+      "cast_id": 12,
+      "character": "Kanwal Lund",
+      "credit_id": "60e424a183ee67005de387ce",
+      "order": 4
+    }
+  ],
+  "crew_top": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 35736,
+      "known_for_department": "Production",
+      "name": "Karan Johar",
+      "original_name": "Karan Johar",
+      "popularity": 1.8149,
+      "profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+      "credit_id": "60e3f5246ee3d70075412579",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 85699,
+      "known_for_department": "Production",
+      "name": "Hiroo Johar",
+      "original_name": "Hiroo Johar",
+      "popularity": 0.1748,
+      "profile_path": "/sUiSreZyXRj9raYlISB1eGVQ5LR.jpg",
+      "credit_id": "60e3f54983ee670027c2f145",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 35736,
+      "known_for_department": "Production",
+      "name": "Karan Johar",
+      "original_name": "Karan Johar",
+      "popularity": 1.8149,
+      "profile_path": "/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+      "credit_id": "60e3f53383ee670027c2f121",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1414644,
+      "known_for_department": "Production",
+      "name": "Ajit Andhare",
+      "original_name": "Ajit Andhare",
+      "popularity": 0.2265,
+      "profile_path": "/fATWhhH7OHhV2HILOJCBpmYt0tM.jpg",
+      "credit_id": "60e3f568b3f6f5002c46ed22",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1758582,
+      "known_for_department": "Writing",
+      "name": "Ishita Moitra",
+      "original_name": "Ishita Moitra",
+      "popularity": 0.2864,
+      "profile_path": null,
+      "credit_id": "60e3f57622e480002defbdff",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}
