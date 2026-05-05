@@ -1,0 +1,1 @@
+derec - - [07/Jul/1995:14:03:32 -0400] "GET /shuttle/countdown/video/livevideo.jpeg HTTP/1.0" 200 6823936
