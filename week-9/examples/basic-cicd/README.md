@@ -25,7 +25,7 @@ This example demonstrates:
 # Clone and install
 git clone <your-repo>
 cd basic-cicd
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 
 # Run tests locally
 pytest
@@ -54,8 +54,8 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-          cache: 'pip'
-      - run: pip install -r requirements.txt
+      - run: pip install uv
+      - run: uv pip install --system -r requirements.txt
       - run: pytest --cov=. --cov-report=xml
       
   lint:
@@ -63,7 +63,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
-      - run: pip install ruff black
+      - run: pip install uv
+      - run: uv pip install --system ruff black
       - run: ruff check .
       - run: black --check .
 ```

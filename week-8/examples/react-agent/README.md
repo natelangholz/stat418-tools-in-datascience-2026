@@ -22,7 +22,7 @@ This example demonstrates:
 
 ```bash
 # Install dependencies
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 
 # Set your API key (use free tier)
 export GOOGLE_API_KEY="your-free-gemini-key"

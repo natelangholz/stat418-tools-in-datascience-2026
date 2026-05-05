@@ -22,9 +22,9 @@ This example demonstrates:
 
 ```bash
 # Install dependencies
-pip install google-generativeai mcp
+uv pip install google-generativeai mcp
 # OR
-pip install openai mcp  # for OpenRouter
+uv pip install openai mcp  # for OpenRouter
 
 # Set your API key (use free tier)
 export GOOGLE_API_KEY="your-free-gemini-key"

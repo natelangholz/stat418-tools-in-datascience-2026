@@ -145,12 +145,16 @@ AI Assistant (Claude) <-> MCP Client <-> MCP Server <-> Your Tools
 # Build stage
 FROM python:3.11-slim as builder
 WORKDIR /app
+
+# Install uv
+RUN pip install --no-cache-dir uv
+
 COPY requirements.txt .
-RUN pip install --user -r requirements.txt
+RUN uv pip install --system -r requirements.txt
 
 # Runtime stage
 FROM python:3.11-slim
-COPY --from=builder /root/.local /root/.local
+COPY --from=builder /usr/local /usr/local
 COPY . /app
 WORKDIR /app
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]

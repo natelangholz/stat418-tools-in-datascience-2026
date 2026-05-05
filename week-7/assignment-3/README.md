@@ -145,8 +145,11 @@ FROM python:3.11-slim as builder
 
 WORKDIR /app
 
+# Install uv
+RUN pip install --no-cache-dir uv
+
 COPY requirements.txt .
-RUN pip install --user --no-cache-dir -r requirements.txt
+RUN uv pip install --system --no-cache-dir -r requirements.txt
 
 # Runtime stage
 FROM python:3.11-slim

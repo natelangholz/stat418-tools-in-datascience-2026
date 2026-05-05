@@ -235,7 +235,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
-      - run: pip install -r backend/requirements.txt
+      - run: pip install uv
+      - run: uv pip install --system -r backend/requirements.txt
       - run: pytest backend/tests/
   
   test-frontend:
@@ -243,7 +244,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
-      - run: pip install -r frontend/requirements.txt
+      - run: pip install uv
+      - run: uv pip install --system -r frontend/requirements.txt
       - run: pytest frontend/tests/
 ```
 
