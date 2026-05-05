@@ -1,0 +1,602 @@
+[
+  {
+    "name":"The Shining",
+    "score":8.4,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"The Blue Lagoon",
+    "score":5.8,
+    "genre":"Adventure",
+    "year":1980
+  },
+  {
+    "name":"Star Wars: Episode V - The Empire Strikes Back",
+    "score":8.7,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Airplane!",
+    "score":7.7,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Caddyshack",
+    "score":7.3,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Friday the 13th",
+    "score":6.4,
+    "genre":"Horror",
+    "year":1980
+  },
+  {
+    "name":"The Blues Brothers",
+    "score":7.9,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Raging Bull",
+    "score":8.2,
+    "genre":"Biography",
+    "year":1980
+  },
+  {
+    "name":"Superman II",
+    "score":6.8,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"The Long Riders",
+    "score":7.0,
+    "genre":"Biography",
+    "year":1980
+  },
+  {
+    "name":"Any Which Way You Can",
+    "score":6.1,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"The Gods Must Be Crazy",
+    "score":7.3,
+    "genre":"Adventure",
+    "year":1980
+  },
+  {
+    "name":"Popeye",
+    "score":5.3,
+    "genre":"Adventure",
+    "year":1980
+  },
+  {
+    "name":"Ordinary People",
+    "score":7.7,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Dressed to Kill",
+    "score":7.1,
+    "genre":"Crime",
+    "year":1980
+  },
+  {
+    "name":"Somewhere in Time",
+    "score":7.2,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Fame",
+    "score":6.6,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"9 to 5",
+    "score":6.9,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Fog",
+    "score":6.8,
+    "genre":"Horror",
+    "year":1980
+  },
+  {
+    "name":"Stir Crazy",
+    "score":6.8,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Cruising",
+    "score":6.5,
+    "genre":"Crime",
+    "year":1980
+  },
+  {
+    "name":"Heaven's Gate",
+    "score":6.8,
+    "genre":"Adventure",
+    "year":1980
+  },
+  {
+    "name":"The Final Countdown",
+    "score":6.7,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Xanadu",
+    "score":5.3,
+    "genre":"Fantasy",
+    "year":1980
+  },
+  {
+    "name":"Urban Cowboy",
+    "score":6.4,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Altered States",
+    "score":6.9,
+    "genre":"Horror",
+    "year":1980
+  },
+  {
+    "name":"Little Darlings",
+    "score":6.5,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Raise the Titanic",
+    "score":5.0,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Brubaker",
+    "score":7.2,
+    "genre":"Crime",
+    "year":1980
+  },
+  {
+    "name":"American Gigolo",
+    "score":6.2,
+    "genre":"Crime",
+    "year":1980
+  },
+  {
+    "name":"My Bodyguard",
+    "score":7.1,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Prom Night",
+    "score":5.4,
+    "genre":"Horror",
+    "year":1980
+  },
+  {
+    "name":"Smokey and the Bandit II",
+    "score":5.3,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Cattle Annie and Little Britches",
+    "score":6.1,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Seems Like Old Times",
+    "score":6.7,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Private Benjamin",
+    "score":6.2,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Hollywood Knights",
+    "score":6.3,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Motel Hell",
+    "score":6.0,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Jazz Singer",
+    "score":5.9,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Coal Miner's Daughter",
+    "score":7.5,
+    "genre":"Biography",
+    "year":1980
+  },
+  {
+    "name":"The Watcher in the Woods",
+    "score":6.3,
+    "genre":"Family",
+    "year":1980
+  },
+  {
+    "name":"Breaker Morant",
+    "score":7.9,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"The Stunt Man",
+    "score":7.1,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Where the Buffalo Roam",
+    "score":6.6,
+    "genre":"Biography",
+    "year":1980
+  },
+  {
+    "name":"The Awakening",
+    "score":4.8,
+    "genre":"Horror",
+    "year":1980
+  },
+  {
+    "name":"Cheech and Chong's Next Movie",
+    "score":6.1,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Island",
+    "score":5.3,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"The Boogey Man",
+    "score":4.6,
+    "genre":"Horror",
+    "year":1980
+  },
+  {
+    "name":"The Nude Bomb",
+    "score":5.1,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Lion of the Desert",
+    "score":8.3,
+    "genre":"Biography",
+    "year":1980
+  },
+  {
+    "name":"Stardust Memories",
+    "score":7.3,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Melvin and Howard",
+    "score":6.8,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Can't Stop the Music",
+    "score":4.2,
+    "genre":"Biography",
+    "year":1980
+  },
+  {
+    "name":"Bronco Billy",
+    "score":6.1,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"City of Women",
+    "score":7.0,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Private Eyes",
+    "score":6.7,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"When Time Ran Out...",
+    "score":4.6,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Oh Heavenly Dog",
+    "score":5.4,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Octagon",
+    "score":5.1,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Hangar 18",
+    "score":5.3,
+    "genre":"Sci-Fi",
+    "year":1980
+  },
+  {
+    "name":"Herbie Goes Bananas",
+    "score":5.0,
+    "genre":"Adventure",
+    "year":1980
+  },
+  {
+    "name":"The Competition",
+    "score":6.7,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"It's My Turn",
+    "score":5.5,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Honeysuckle Rose",
+    "score":6.3,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Resurrection",
+    "score":7.3,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Fatso",
+    "score":6.3,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Moscow Does Not Believe in Tears",
+    "score":8.1,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Fiendish Plot of Dr. Fu Manchu",
+    "score":5.1,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Serial",
+    "score":6.6,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Hero at Large",
+    "score":6.0,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Wholly Moses!",
+    "score":4.7,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Bon Voyage, Charlie Brown (and Don't Come Back!!)",
+    "score":7.3,
+    "genre":"Animation",
+    "year":1980
+  },
+  {
+    "name":"In God We Trust (or Gimme That Prime Time Religion)",
+    "score":5.5,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Roadie",
+    "score":5.2,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Just Tell Me What You Want",
+    "score":5.5,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Last Flight of Noah's Ark",
+    "score":5.8,
+    "genre":"Adventure",
+    "year":1980
+  },
+  {
+    "name":"Little Miss Marker",
+    "score":6.3,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Willie & Phil",
+    "score":5.9,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Babylon",
+    "score":7.4,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Windwalker",
+    "score":6.9,
+    "genre":"Adventure",
+    "year":1980
+  },
+  {
+    "name":"Phobia",
+    "score":4.0,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Windows",
+    "score":4.8,
+    "genre":"Drama",
+    "year":1980
+  },
+  {
+    "name":"Loving Couples",
+    "score":5.2,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The King and the Mockingbird",
+    "score":7.9,
+    "genre":"Animation",
+    "year":1980
+  },
+  {
+    "name":"Oh, God! Book II",
+    "score":5.2,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Those Lips, Those Eyes",
+    "score":6.5,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"La Cage aux Folles II",
+    "score":5.8,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"The Gong Show Movie",
+    "score":4.3,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Gilda Live",
+    "score":6.8,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Why Would I Lie?",
+    "score":6.5,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"First Family",
+    "score":4.3,
+    "genre":"Comedy",
+    "year":1980
+  },
+  {
+    "name":"Mantis Fist Fighter",
+    "score":6.7,
+    "genre":"Action",
+    "year":1980
+  },
+  {
+    "name":"Indiana Jones and the Raiders of the Lost Ark",
+    "score":8.4,
+    "genre":"Action",
+    "year":1981
+  },
+  {
+    "name":"Body Heat",
+    "score":7.4,
+    "genre":"Crime",
+    "year":1981
+  },
+  {
+    "name":"An American Werewolf in London",
+    "score":7.5,
+    "genre":"Comedy",
+    "year":1981
+  },
+  {
+    "name":"Escape from New York",
+    "score":7.2,
+    "genre":"Action",
+    "year":1981
+  },
+  {
+    "name":"The Evil Dead",
+    "score":7.5,
+    "genre":"Horror",
+    "year":1981
+  },
+  {
+    "name":"Porky's",
+    "score":6.2,
+    "genre":"Comedy",
+    "year":1981
+  },
+  {
+    "name":"Blow Out",
+    "score":7.4,
+    "genre":"Crime",
+    "year":1981
+  },
+  {
+    "name":"Clash of the Titans",
+    "score":6.9,
+    "genre":"Action",
+    "year":1981
+  }
+]
