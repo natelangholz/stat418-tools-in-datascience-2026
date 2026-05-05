@@ -1,0 +1,3064 @@
+[
+  {
+    "tmdb_id": 1226863,
+    "imdb_id": "tt28650488",
+    "title": "The Super Mario Galaxy Movie",
+    "release_date": "2026-04-01",
+    "runtime": 98,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "budget": 110000000,
+    "revenue": 894200000,
+    "tmdb_rating": 6.7,
+    "tmdb_vote_count": 723,
+    "production_companies": [
+      "Illumination",
+      "Universal Pictures",
+      "Nintendo"
+    ],
+    "original_language": "en",
+    "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Mario (voice)"
+      },
+      {
+        "name": "Charlie Day",
+        "character": "Luigi (voice)"
+      },
+      {
+        "name": "Anya Taylor-Joy",
+        "character": "Princess Peach (voice)"
+      },
+      {
+        "name": "Jack Black",
+        "character": "Bowser (voice)"
+      },
+      {
+        "name": "Keegan-Michael Key",
+        "character": "Toad (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Chris Meledandri",
+        "job": "Producer"
+      },
+      {
+        "name": "Shigeru Miyamoto",
+        "job": "Producer"
+      },
+      {
+        "name": "Michael Jelenic",
+        "job": "Director"
+      },
+      {
+        "name": "Aaron Horvath",
+        "job": "Director"
+      },
+      {
+        "name": "Matthew Fogel",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1318447,
+    "imdb_id": "tt16431404",
+    "title": "Apex",
+    "release_date": "2026-04-24",
+    "runtime": 96,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.458,
+    "tmdb_vote_count": 670,
+    "production_companies": [
+      "Chernin Entertainment",
+      "Ian Bryce Productions",
+      "Secret Menu",
+      "RVK Studios"
+    ],
+    "original_language": "en",
+    "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+    "cast": [
+      {
+        "name": "Charlize Theron",
+        "character": "Sasha"
+      },
+      {
+        "name": "Taron Egerton",
+        "character": "Ben"
+      },
+      {
+        "name": "Eric Bana",
+        "character": "Tommy"
+      },
+      {
+        "name": "Caitlin Stasey",
+        "character": "Leah"
+      },
+      {
+        "name": "Bessie Holland",
+        "character": "Cashier"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ian Bryce",
+        "job": "Producer"
+      },
+      {
+        "name": "Baltasar Korm\u00e1kur",
+        "job": "Director"
+      },
+      {
+        "name": "Peter Chernin",
+        "job": "Producer"
+      },
+      {
+        "name": "Beth Kono",
+        "job": "Producer"
+      },
+      {
+        "name": "Jenno Topping",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1007757,
+    "imdb_id": "tt29552248",
+    "title": "Swapped",
+    "release_date": "2026-05-01",
+    "runtime": 102,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Adventure",
+      "Comedy"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 8.167,
+    "tmdb_vote_count": 57,
+    "production_companies": [
+      "Skydance Animation",
+      "Skydance Animation"
+    ],
+    "original_language": "en",
+    "overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+    "cast": [
+      {
+        "name": "Michael B. Jordan",
+        "character": "Ollie (voice)"
+      },
+      {
+        "name": "Juno Temple",
+        "character": "Ivy (voice)"
+      },
+      {
+        "name": "Tracy Morgan",
+        "character": "Boogle / Firewolf (voice)"
+      },
+      {
+        "name": "Cedric the Entertainer",
+        "character": "Caloo (voice)"
+      },
+      {
+        "name": "Justina Machado",
+        "character": "Calli (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Nathan Greno",
+        "job": "Director"
+      },
+      {
+        "name": "David Ellison",
+        "job": "Producer"
+      },
+      {
+        "name": "John Lasseter",
+        "job": "Producer"
+      },
+      {
+        "name": "Dana Goldberg",
+        "job": "Producer"
+      },
+      {
+        "name": "Mary Ellen Bauder",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 10867,
+    "imdb_id": "tt0213847",
+    "title": "Malena",
+    "release_date": "2000-10-27",
+    "runtime": 108,
+    "genres": [
+      "Drama"
+    ],
+    "budget": 0,
+    "revenue": 14493284,
+    "tmdb_rating": 7.429,
+    "tmdb_vote_count": 2493,
+    "production_companies": [
+      "Medusa Film",
+      "Miramax",
+      "Pacific Pictures",
+      "Tele+"
+    ],
+    "original_language": "it",
+    "overview": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Mal\u00e8na. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
+    "cast": [
+      {
+        "name": "Monica Bellucci",
+        "character": "Mal\u00e8na Scordia"
+      },
+      {
+        "name": "Giuseppe Sulfaro",
+        "character": "Renato Amoroso"
+      },
+      {
+        "name": "Luciano Federico",
+        "character": "Renato's Father"
+      },
+      {
+        "name": "Matilde Piana",
+        "character": "Renato's Mother"
+      },
+      {
+        "name": "Pietro Notarianni",
+        "character": "Prof. Bonsignore"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Giuseppe Tornatore",
+        "job": "Director"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "job": "Producer"
+      },
+      {
+        "name": "Giuseppe Tornatore",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Carlo Bernasconi",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1198994,
+    "imdb_id": "tt8036976",
+    "title": "Send Help",
+    "release_date": "2026-01-22",
+    "runtime": 113,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Comedy"
+    ],
+    "budget": 40000000,
+    "revenue": 94041481,
+    "tmdb_rating": 6.997,
+    "tmdb_vote_count": 1184,
+    "production_companies": [
+      "Raimi Productions",
+      "20th Century Studios",
+      "TSG Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+    "cast": [
+      {
+        "name": "Rachel McAdams",
+        "character": "Linda Liddle"
+      },
+      {
+        "name": "Dylan O'Brien",
+        "character": "Bradley Preston"
+      },
+      {
+        "name": "Edyll Ismail",
+        "character": "Zuri"
+      },
+      {
+        "name": "Dennis Haysbert",
+        "character": "Franklin"
+      },
+      {
+        "name": "Xavier Samuel",
+        "character": "Donovan"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sam Raimi",
+        "job": "Producer"
+      },
+      {
+        "name": "Zainab Azizi",
+        "job": "Producer"
+      },
+      {
+        "name": "Sam Raimi",
+        "job": "Director"
+      },
+      {
+        "name": "Damian Shannon",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Mark Swift",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 350,
+    "imdb_id": "tt0458352",
+    "title": "The Devil Wears Prada",
+    "release_date": "2006-06-29",
+    "runtime": 109,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "budget": 35000000,
+    "revenue": 326588371,
+    "tmdb_rating": 7.4,
+    "tmdb_vote_count": 13159,
+    "production_companies": [
+      "Fox 2000 Pictures",
+      "Wendy Finerman Productions",
+      "Dune Entertainment",
+      "Major Studio Partners"
+    ],
+    "original_language": "en",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "cast": [
+      {
+        "name": "Meryl Streep",
+        "character": "Miranda Priestly"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Andy Sachs"
+      },
+      {
+        "name": "Emily Blunt",
+        "character": "Emily"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Nigel"
+      },
+      {
+        "name": "Simon Baker",
+        "character": "Christian Thompson"
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Frankel",
+        "job": "Director"
+      },
+      {
+        "name": "Wendy Finerman",
+        "job": "Producer"
+      },
+      {
+        "name": "Aline Brosh McKenna",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 936075,
+    "imdb_id": "tt11378946",
+    "title": "Michael",
+    "release_date": "2026-04-22",
+    "runtime": 128,
+    "genres": [
+      "Music",
+      "Drama"
+    ],
+    "budget": 250000000,
+    "revenue": 430326000,
+    "tmdb_rating": 7.538,
+    "tmdb_vote_count": 489,
+    "production_companies": [
+      "Lionsgate",
+      "GK Films",
+      "Optimum Productions"
+    ],
+    "original_language": "en",
+    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+    "cast": [
+      {
+        "name": "Jaafar Jackson",
+        "character": "Michael Jackson"
+      },
+      {
+        "name": "Colman Domingo",
+        "character": "Joseph Jackson"
+      },
+      {
+        "name": "Nia Long",
+        "character": "Katherine Jackson"
+      },
+      {
+        "name": "Juliano Krue Valdi",
+        "character": "Young Michael Jackson"
+      },
+      {
+        "name": "KeiLyn Durrel Jones",
+        "character": "Bill Bray"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Branca",
+        "job": "Producer"
+      },
+      {
+        "name": "John McClain",
+        "job": "Producer"
+      },
+      {
+        "name": "Graham King",
+        "job": "Producer"
+      },
+      {
+        "name": "Antoine Fuqua",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1523145,
+    "imdb_id": "tt38190257",
+    "title": "Your Heart Will Be Broken",
+    "release_date": "2026-03-26",
+    "runtime": 134,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.9,
+    "tmdb_vote_count": 75,
+    "production_companies": [
+      "All Media A Start Company",
+      "START Studio",
+      "Sverdlovsk Film Studio",
+      "Yellow, Black & White",
+      "Premier Studios"
+    ],
+    "original_language": "ru",
+    "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+    "cast": [
+      {
+        "name": "Daniel Vegas",
+        "character": "Bars"
+      },
+      {
+        "name": "Veronika Zhuravleva",
+        "character": "Polina"
+      },
+      {
+        "name": "Ivan Trushin",
+        "character": "Laym"
+      },
+      {
+        "name": "Maksim Saprykin",
+        "character": "Lyokha"
+      },
+      {
+        "name": "Alya Mayer",
+        "character": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mikhail Vaynberg",
+        "job": "Director"
+      },
+      {
+        "name": "Georgy Shabanov",
+        "job": "Producer"
+      },
+      {
+        "name": "Lusya Dadalyan",
+        "job": "Producer"
+      },
+      {
+        "name": "Alyona Zvantsova",
+        "job": "Producer"
+      },
+      {
+        "name": "Viktor Shadrin",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1314481,
+    "imdb_id": "tt33612209",
+    "title": "The Devil Wears Prada 2",
+    "release_date": "2026-04-29",
+    "runtime": 119,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "budget": 100000000,
+    "revenue": 233600000,
+    "tmdb_rating": 6.781,
+    "tmdb_vote_count": 272,
+    "production_companies": [
+      "20th Century Studios",
+      "Wendy Finerman Productions"
+    ],
+    "original_language": "en",
+    "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+    "cast": [
+      {
+        "name": "Meryl Streep",
+        "character": "Miranda Priestly"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Andy Sachs"
+      },
+      {
+        "name": "Emily Blunt",
+        "character": "Emily Charlton"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Nigel Kipling"
+      },
+      {
+        "name": "Justin Theroux",
+        "character": "Benji Barnes"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Wendy Finerman",
+        "job": "Producer"
+      },
+      {
+        "name": "David Frankel",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1292695,
+    "imdb_id": "tt31728330",
+    "title": "They Will Kill You",
+    "release_date": "2026-03-25",
+    "runtime": 95,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "budget": 20000000,
+    "revenue": 18982152,
+    "tmdb_rating": 6.675,
+    "tmdb_vote_count": 352,
+    "production_companies": [
+      "Nocturna",
+      "New Line Cinema",
+      "Domain Entertainment",
+      "Film Afrika"
+    ],
+    "original_language": "en",
+    "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "cast": [
+      {
+        "name": "Zazie Beetz",
+        "character": "Asia Reaves"
+      },
+      {
+        "name": "Myha'la",
+        "character": "Maria Reaves"
+      },
+      {
+        "name": "Patricia Arquette",
+        "character": "Lily Woodhouse"
+      },
+      {
+        "name": "Paterson Joseph",
+        "character": "Ray Woodhouse"
+      },
+      {
+        "name": "Heather Graham",
+        "character": "Sharon"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Andy Muschietti",
+        "job": "Producer"
+      },
+      {
+        "name": "Dan Kagan",
+        "job": "Producer"
+      },
+      {
+        "name": "Barbara Muschietti",
+        "job": "Producer"
+      },
+      {
+        "name": "Kirill Sokolov",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1327819,
+    "imdb_id": "tt26443616",
+    "title": "Hoppers",
+    "release_date": "2026-03-04",
+    "runtime": 105,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "budget": 150000000,
+    "revenue": 371329450,
+    "tmdb_rating": 7.7,
+    "tmdb_vote_count": 728,
+    "production_companies": [
+      "Pixar"
+    ],
+    "original_language": "en",
+    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "cast": [
+      {
+        "name": "Piper Curda",
+        "character": "Mabel (voice)"
+      },
+      {
+        "name": "Bobby Moynihan",
+        "character": "King George (voice)"
+      },
+      {
+        "name": "Jon Hamm",
+        "character": "Mayor Jerry Generazzo (voice)"
+      },
+      {
+        "name": "Kathy Najimy",
+        "character": "Dr. Sam (voice)"
+      },
+      {
+        "name": "Dave Franco",
+        "character": "Insect King (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Daniel Chong",
+        "job": "Director"
+      },
+      {
+        "name": "Nicole Paradis Grindle",
+        "job": "Producer"
+      },
+      {
+        "name": "Jesse Andrews",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 83533,
+    "imdb_id": "tt1757678",
+    "title": "Avatar: Fire and Ash",
+    "release_date": "2025-12-17",
+    "runtime": 198,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "budget": 350000000,
+    "revenue": 1490477656,
+    "tmdb_rating": 7.366,
+    "tmdb_vote_count": 2810,
+    "production_companies": [
+      "20th Century Studios",
+      "Lightstorm Entertainment",
+      "TSG Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "cast": [
+      {
+        "name": "Sam Worthington",
+        "character": "Jake"
+      },
+      {
+        "name": "Zoe Salda\u00f1a",
+        "character": "Neytiri"
+      },
+      {
+        "name": "Sigourney Weaver",
+        "character": "Kiri"
+      },
+      {
+        "name": "Stephen Lang",
+        "character": "Quaritch"
+      },
+      {
+        "name": "Oona Chaplin",
+        "character": "Varang"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Cameron",
+        "job": "Screenplay"
+      },
+      {
+        "name": "James Cameron",
+        "job": "Director"
+      },
+      {
+        "name": "Rick Jaffa",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Amanda Silver",
+        "job": "Screenplay"
+      },
+      {
+        "name": "James Cameron",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1613798,
+    "imdb_id": "tt37989803",
+    "title": "Vengeance",
+    "release_date": "2026-02-26",
+    "runtime": 103,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 7.147,
+    "tmdb_vote_count": 129,
+    "production_companies": [
+      "El Estudio",
+      "Amazon MGM Studios"
+    ],
+    "original_language": "es",
+    "overview": "The brutal murder of the wife of \u201cToro,\u201d a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+    "cast": [
+      {
+        "name": "Omar Chaparro",
+        "character": "Carlos Estrada"
+      },
+      {
+        "name": "Alejandro Speitzer",
+        "character": "Miguel D\u00edaz"
+      },
+      {
+        "name": "Paola Nu\u00f1ez",
+        "character": "Cnel. Gabriela Rangel"
+      },
+      {
+        "name": "Natalia Soli\u00e1n",
+        "character": "Dolores Ramirez 'Lola'"
+      },
+      {
+        "name": "Luis Alberti",
+        "character": "Aurelio Salazar 'Chunco'"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rodrigo Valdes",
+        "job": "Director"
+      },
+      {
+        "name": "Pablo Cruz",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 980431,
+    "imdb_id": "tt18259538",
+    "title": "Avatar Aang: The Last Airbender",
+    "release_date": "2026-10-09",
+    "runtime": 99,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 0.0,
+    "tmdb_vote_count": 0,
+    "production_companies": [
+      "Nickelodeon Movies",
+      "Paramount Pictures",
+      "Flying Bark Productions",
+      "Studio Mir",
+      "Avatar Studios"
+    ],
+    "original_language": "en",
+    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+    "cast": [
+      {
+        "name": "Eric Nam",
+        "character": "Aang (voice)"
+      },
+      {
+        "name": "Dave Bautista",
+        "character": "Tagah (voice)"
+      },
+      {
+        "name": "Jessica Matten",
+        "character": "Katara (voice)"
+      },
+      {
+        "name": "Rom\u00e1n Zaragoza",
+        "character": "Sokka (voice)"
+      },
+      {
+        "name": "Steven Yeun",
+        "character": "Zuko (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Lauren Montgomery",
+        "job": "Director"
+      },
+      {
+        "name": "Maryann Garger",
+        "job": "Producer"
+      },
+      {
+        "name": "Latifa Ouaou",
+        "job": "Producer"
+      },
+      {
+        "name": "Dagan Potter",
+        "job": "Producer"
+      },
+      {
+        "name": "Bryan Konietzko",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1297842,
+    "imdb_id": "tt27613895",
+    "title": "GOAT",
+    "release_date": "2026-02-11",
+    "runtime": 100,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "budget": 90000000,
+    "revenue": 190564590,
+    "tmdb_rating": 7.9,
+    "tmdb_vote_count": 484,
+    "production_companies": [
+      "Sony Pictures Animation",
+      "Unanimous Media",
+      "Modern Magic",
+      "Columbia Pictures",
+      "MACRO",
+      "TSG Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+    "cast": [
+      {
+        "name": "Caleb McLaughlin",
+        "character": "Will Harris (voice)"
+      },
+      {
+        "name": "Gabrielle Union",
+        "character": "Jett Fillmore (voice)"
+      },
+      {
+        "name": "Stephen Curry",
+        "character": "Lenny Williamson (voice)"
+      },
+      {
+        "name": "Aaron Pierre",
+        "character": "Mane Attraction (voice)"
+      },
+      {
+        "name": "Nicola Coughlan",
+        "character": "Olivia Burke (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tyree Dillihay",
+        "job": "Director"
+      },
+      {
+        "name": "Erick Peyton",
+        "job": "Producer"
+      },
+      {
+        "name": "Michelle Raimo Kouyate",
+        "job": "Producer"
+      },
+      {
+        "name": "Adam Rosenberg",
+        "job": "Producer"
+      },
+      {
+        "name": "Stephen Curry",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 687163,
+    "imdb_id": "tt12042730",
+    "title": "Project Hail Mary",
+    "release_date": "2026-03-15",
+    "runtime": 157,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "budget": 200000000,
+    "revenue": 638443000,
+    "tmdb_rating": 8.2,
+    "tmdb_vote_count": 1918,
+    "production_companies": [
+      "Lord Miller",
+      "Amazon MGM Studios",
+      "Pascal Pictures",
+      "Open Invite Entertainment",
+      "Waypoint Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Ryland Grace"
+      },
+      {
+        "name": "Sandra H\u00fcller",
+        "character": "Eva Stratt"
+      },
+      {
+        "name": "James Ortiz",
+        "character": "Rocky (voice)"
+      },
+      {
+        "name": "Lionel Boyce",
+        "character": "Carl"
+      },
+      {
+        "name": "Milana Vayntrub",
+        "character": "Olesya Ilyukhina"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rachel O'Connor",
+        "job": "Producer"
+      },
+      {
+        "name": "Ryan Gosling",
+        "job": "Producer"
+      },
+      {
+        "name": "Phil Lord",
+        "job": "Director"
+      },
+      {
+        "name": "Christopher Miller",
+        "job": "Director"
+      },
+      {
+        "name": "Amy Pascal",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1669050,
+    "imdb_id": "tt40541183",
+    "title": "Tayuan 2",
+    "release_date": "2026-04-17",
+    "runtime": 71,
+    "genres": [
+      "Drama"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 5.0,
+    "tmdb_vote_count": 1,
+    "production_companies": [
+      "Vivamax"
+    ],
+    "original_language": "tl",
+    "overview": "A charming bus conductor drawn to both men and women who feels an unexpected spark with a shy commuter. On crowded bus rides where bodies brush, desire grows and love becomes messy.",
+    "cast": [
+      {
+        "name": "Ashley Lopez",
+        "character": "Rhea"
+      },
+      {
+        "name": "Marco Mora",
+        "character": "Marco"
+      },
+      {
+        "name": "Chester Grecia",
+        "character": "Rico"
+      },
+      {
+        "name": "Dara Lima",
+        "character": "Arlene"
+      },
+      {
+        "name": "Adriana Roces",
+        "character": "Len"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Topel Lee",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1290821,
+    "imdb_id": "tt32357218",
+    "title": "Shelter",
+    "release_date": "2026-01-28",
+    "runtime": 107,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "budget": 50000000,
+    "revenue": 53899517,
+    "tmdb_rating": 6.818,
+    "tmdb_vote_count": 639,
+    "production_companies": [
+      "Black Bear Pictures",
+      "Punch Palace Productions",
+      "CineMachine",
+      "Stampede Ventures"
+    ],
+    "original_language": "en",
+    "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+    "cast": [
+      {
+        "name": "Jason Statham",
+        "character": "Mason"
+      },
+      {
+        "name": "Bodhi Rae Breathnach",
+        "character": "Jesse"
+      },
+      {
+        "name": "Naomi Ackie",
+        "character": "Roberta"
+      },
+      {
+        "name": "Daniel Mays",
+        "character": "Booth"
+      },
+      {
+        "name": "Harriet Walter",
+        "character": "Prime Minister Fordham"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jason Statham",
+        "job": "Producer"
+      },
+      {
+        "name": "Ric Roman Waugh",
+        "job": "Director"
+      },
+      {
+        "name": "John Friedberg",
+        "job": "Producer"
+      },
+      {
+        "name": "Brendon Boyea",
+        "job": "Producer"
+      },
+      {
+        "name": "Jon Berg",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1311031,
+    "imdb_id": "tt32820897",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "release_date": "2025-07-18",
+    "runtime": 156,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "budget": 20000000,
+    "revenue": 733030221,
+    "tmdb_rating": 7.701,
+    "tmdb_vote_count": 816,
+    "production_companies": [
+      "ufotable",
+      "Aniplex",
+      "Shueisha"
+    ],
+    "original_language": "ja",
+    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "cast": [
+      {
+        "name": "Natsuki Hanae",
+        "character": "Tanjiro Kamado (voice)"
+      },
+      {
+        "name": "Takahiro Sakurai",
+        "character": "Giyu Tomioka (voice)"
+      },
+      {
+        "name": "Akira Ishida",
+        "character": "Akaza (voice)"
+      },
+      {
+        "name": "Hiro Shimono",
+        "character": "Zenitsu Agatsuma (voice)"
+      },
+      {
+        "name": "Yoshimasa Hosoya",
+        "character": "Kaigaku (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Haruo Sotozaki",
+        "job": "Director"
+      },
+      {
+        "name": "Masanori Miyake",
+        "job": "Producer"
+      },
+      {
+        "name": "Yuma Takahashi",
+        "job": "Producer"
+      },
+      {
+        "name": "Tatsuro Hayashi",
+        "job": "Producer"
+      },
+      {
+        "name": "Takao Shimazaki",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1510745,
+    "imdb_id": "tt37538172",
+    "title": "Bodycam",
+    "release_date": "2026-03-12",
+    "runtime": 75,
+    "genres": [
+      "Horror"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 5.145,
+    "tmdb_vote_count": 38,
+    "production_companies": [
+      "Superchill",
+      "Essential Film Group"
+    ],
+    "original_language": "en",
+    "overview": "A call to a quiet suburban home unleashes unthinkable carnage when two officers mistakenly shoot a man and his infant child, spiraling the tragedy into a fierce, unrelenting fall into the unknown.",
+    "cast": [
+      {
+        "name": "Jaime M. Callica",
+        "character": "Officer Jackson"
+      },
+      {
+        "name": "Sean Rogerson",
+        "character": "Officer Bryce"
+      },
+      {
+        "name": "Catherine Lough Haggquist",
+        "character": "Ally Jackson"
+      },
+      {
+        "name": "Angel Prater",
+        "character": "Esposito"
+      },
+      {
+        "name": "Keegan Connor Tracy",
+        "character": "The Mother"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brandon Christensen",
+        "job": "Director"
+      },
+      {
+        "name": "Chris Ball",
+        "job": "Producer"
+      },
+      {
+        "name": "Brandon Christensen",
+        "job": "Producer"
+      },
+      {
+        "name": "Kurtis David Harder",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1414413,
+    "imdb_id": "tt32394984",
+    "title": "Brothers Under Fire",
+    "release_date": "2026-04-15",
+    "runtime": 99,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.382,
+    "tmdb_vote_count": 17,
+    "production_companies": [
+      "Highland Film Group",
+      "Align"
+    ],
+    "original_language": "en",
+    "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+    "cast": [
+      {
+        "name": "Kiefer Sutherland",
+        "character": "Capt. Jordan Wright"
+      },
+      {
+        "name": "Tommy Martinez",
+        "character": "Alberto"
+      },
+      {
+        "name": "Ashton Sanders",
+        "character": "Carson"
+      },
+      {
+        "name": "Solly McLeod",
+        "character": "Danny"
+      },
+      {
+        "name": "Laura Osma",
+        "character": "Isabella"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Justin Chadwick",
+        "job": "Director"
+      },
+      {
+        "name": "Griff Furst",
+        "job": "Producer"
+      },
+      {
+        "name": "James Keach",
+        "job": "Producer"
+      },
+      {
+        "name": "Nik Bower",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Stein",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1352874,
+    "imdb_id": "tt32059878",
+    "title": "The Crucifix: Blood of the Exorcist",
+    "release_date": "2025-01-09",
+    "runtime": 92,
+    "genres": [
+      "Horror"
+    ],
+    "budget": 100000,
+    "revenue": 82873,
+    "tmdb_rating": 5.686,
+    "tmdb_vote_count": 35,
+    "production_companies": [
+      "Equalize Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "A gruesome discovery in the grounds of their new home plunges a young couple into a maelstrom of spiritual possession, pagan rituals, Viking battles, and violent revenge.",
+    "cast": [
+      {
+        "name": "Hannaj Bang Bendz",
+        "character": "Sara"
+      },
+      {
+        "name": "Dean Kilbey",
+        "character": "Mungo"
+      },
+      {
+        "name": "Nicholas Anscombe",
+        "character": "Father Stewart"
+      },
+      {
+        "name": "Tom Carter",
+        "character": "Doctor Byrne"
+      },
+      {
+        "name": "Darren Le Fevre",
+        "character": "Thorvald Ironside"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stephen Roach",
+        "job": "Director"
+      },
+      {
+        "name": "Glenn Kendrick Ackermann",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Howgate",
+        "job": "Producer"
+      },
+      {
+        "name": "David Marsh",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1084242,
+    "imdb_id": "tt26443597",
+    "title": "Zootopia 2",
+    "release_date": "2025-11-26",
+    "runtime": 108,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Mystery"
+    ],
+    "budget": 150000000,
+    "revenue": 1868208796,
+    "tmdb_rating": 7.61,
+    "tmdb_vote_count": 2659,
+    "production_companies": [
+      "Walt Disney Animation Studios",
+      "Walt Disney Animation Studios"
+    ],
+    "original_language": "en",
+    "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "cast": [
+      {
+        "name": "Ginnifer Goodwin",
+        "character": "Judy Hopps (voice)"
+      },
+      {
+        "name": "Jason Bateman",
+        "character": "Nick Wilde (voice)"
+      },
+      {
+        "name": "Ke Huy Quan",
+        "character": "Gary De'Snake (voice)"
+      },
+      {
+        "name": "Fortune Feimster",
+        "character": "Nibbles Maplestick (voice)"
+      },
+      {
+        "name": "Andy Samberg",
+        "character": "Pawbert Lynxley (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jared Bush",
+        "job": "Director"
+      },
+      {
+        "name": "Yvett Merino",
+        "job": "Producer"
+      },
+      {
+        "name": "Byron Howard",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 440249,
+    "imdb_id": "tt5168832",
+    "title": "After Porn Ends 2",
+    "release_date": "2017-03-28",
+    "runtime": 90,
+    "genres": [
+      "Documentary"
+    ],
+    "budget": 500000,
+    "revenue": 0,
+    "tmdb_rating": 5.355,
+    "tmdb_vote_count": 251,
+    "production_companies": [
+      "Karbonshark",
+      "WeBros Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "After Porn Ends 2 picks up where its predecessor left off and not only turns back the clock to meet the oldest living stars in adult film's history, but goes in depth with some of Its most current retirees and juxtaposes their experiences in a life after porn. Delving deeper into society's ongoing stigmas of race, misogyny, and the reality of decreasing opportunities for these former VHS box cover stars. For some, their careers in adult entertainment is accepted proudly and without regret. In fact, it seems to have proven to be the pathway to their current happiness and inner peace. For others, however, a career in porn has proven to be a conduit to certain despair as they struggle to find a way to bury their past and emerge with a new career or calling.",
+    "cast": [
+      {
+        "name": "Ginger Lynn",
+        "character": "Self - Former Porn Star"
+      },
+      {
+        "name": "Lisa Ann",
+        "character": "Self - Former Porn Star"
+      },
+      {
+        "name": "Janine Lindemulder",
+        "character": "Self - Former Porn Star"
+      },
+      {
+        "name": "Chasey Lain",
+        "character": "Self - Former Porn Star"
+      },
+      {
+        "name": "Tabitha Stevens",
+        "character": "Self - Former Porn Star"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bryce Wagoner",
+        "job": "Director"
+      },
+      {
+        "name": "Michael Tipps",
+        "job": "Producer"
+      },
+      {
+        "name": "Bryce Wagoner",
+        "job": "Producer"
+      },
+      {
+        "name": "Billy Sorrentino",
+        "job": "Producer"
+      },
+      {
+        "name": "Andy Weiss",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1242898,
+    "imdb_id": "tt31227572",
+    "title": "Predator: Badlands",
+    "release_date": "2025-11-05",
+    "runtime": 107,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "budget": 105000000,
+    "revenue": 184500000,
+    "tmdb_rating": 7.686,
+    "tmdb_vote_count": 2722,
+    "production_companies": [
+      "20th Century Studios",
+      "Lawrence Gordon Productions",
+      "Davis Entertainment",
+      "Toberoff Productions",
+      "TSG Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+    "cast": [
+      {
+        "name": "Elle Fanning",
+        "character": "Thia / Tessa"
+      },
+      {
+        "name": "Dimitrius Schuster-Koloamatangi",
+        "character": "Dek / Father"
+      },
+      {
+        "name": "Ravi Narayan",
+        "character": "Bud"
+      },
+      {
+        "name": "Michael Homick",
+        "character": "Kwei (Suit)"
+      },
+      {
+        "name": "Stefan Grube",
+        "character": "Kwei (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Dan Trachtenberg",
+        "job": "Director"
+      },
+      {
+        "name": "Patrick Aison",
+        "job": "Screenplay"
+      },
+      {
+        "name": "John Davis",
+        "job": "Producer"
+      },
+      {
+        "name": "Brent O'Connor",
+        "job": "Producer"
+      },
+      {
+        "name": "Marc Toberoff",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1171145,
+    "imdb_id": "tt32430579",
+    "title": "Crime 101",
+    "release_date": "2026-02-11",
+    "runtime": 141,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "budget": 90000000,
+    "revenue": 72824188,
+    "tmdb_rating": 6.946,
+    "tmdb_vote_count": 854,
+    "production_companies": [
+      "Working Title Films",
+      "The Story Factory",
+      "RAW",
+      "Amazon MGM Studios",
+      "Wild State"
+    ],
+    "original_language": "en",
+    "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+    "cast": [
+      {
+        "name": "Chris Hemsworth",
+        "character": "Davis"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Lou"
+      },
+      {
+        "name": "Halle Berry",
+        "character": "Sharon"
+      },
+      {
+        "name": "Barry Keoghan",
+        "character": "Ormon"
+      },
+      {
+        "name": "Monica Barbaro",
+        "character": "Maya"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bart Layton",
+        "job": "Director"
+      },
+      {
+        "name": "Ben Grayson",
+        "job": "Producer"
+      },
+      {
+        "name": "Derrin Schlesinger",
+        "job": "Producer"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "job": "Producer"
+      },
+      {
+        "name": "Bart Layton",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1207162,
+    "imdb_id": "tt25868520",
+    "title": "Rise of the Conqueror",
+    "release_date": "2026-04-09",
+    "runtime": 119,
+    "genres": [
+      "History",
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "budget": 30000000,
+    "revenue": 0,
+    "tmdb_rating": 5.7,
+    "tmdb_vote_count": 7,
+    "production_companies": [
+      "Mystery Box",
+      "Taurus Film",
+      "Signature Films",
+      "Signature Films",
+      "Signature Entertainment",
+      "Capture",
+      "Well Go USA Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history\u2019s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+    "cast": [
+      {
+        "name": "Christian Mortensen",
+        "character": "Timur"
+      },
+      {
+        "name": "Mahesh Jadu",
+        "character": "Hussayn"
+      },
+      {
+        "name": "Joshua Jo",
+        "character": "Ilias"
+      },
+      {
+        "name": "Sayed Badreya",
+        "character": "Kay Khusrau"
+      },
+      {
+        "name": "Yulduz Rajabova",
+        "character": "Aljai"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jacob Schwarz",
+        "job": "Director"
+      },
+      {
+        "name": "Matthew Siemers",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 318256,
+    "imdb_id": "tt4382552",
+    "title": "Hot Girls Wanted",
+    "release_date": "2015-01-24",
+    "runtime": 84,
+    "genres": [
+      "Documentary"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.078,
+    "tmdb_vote_count": 705,
+    "production_companies": [
+      "Two to Tangle Productions"
+    ],
+    "original_language": "en",
+    "overview": "A first-ever look at the realities of the professional \u201camateur\u201d porn world and the steady stream of 18-to-19-year old girls entering into it.",
+    "cast": [
+      {
+        "name": "Stella May",
+        "character": "Self"
+      },
+      {
+        "name": "Brian Omally",
+        "character": "Self - Founder of Hussie Models"
+      },
+      {
+        "name": "Ava Taylor",
+        "character": "Self"
+      },
+      {
+        "name": "John Anthony",
+        "character": "Self"
+      },
+      {
+        "name": "Kelly Silguero",
+        "character": "Self - Tressa's Mother"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rashida Jones",
+        "job": "Producer"
+      },
+      {
+        "name": "Brittany Huckabee",
+        "job": "Producer"
+      },
+      {
+        "name": "Ronna Gradus",
+        "job": "Producer"
+      },
+      {
+        "name": "Ronna Gradus",
+        "job": "Director"
+      },
+      {
+        "name": "Jill Bauer",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1470130,
+    "imdb_id": "tt36647890",
+    "title": "The Mortuary Assistant",
+    "release_date": "2026-02-13",
+    "runtime": 91,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 5.483,
+    "tmdb_vote_count": 86,
+    "production_companies": [
+      "Epic Pictures Group",
+      "Creativity Capital",
+      "Dread",
+      "Traverse Terror"
+    ],
+    "original_language": "en",
+    "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward \u2014 embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+    "cast": [
+      {
+        "name": "Willa Holland",
+        "character": "Rebecca Owens"
+      },
+      {
+        "name": "Paul Sparks",
+        "character": "Raymond Delver"
+      },
+      {
+        "name": "John Adams",
+        "character": ""
+      },
+      {
+        "name": "Mark Steger",
+        "character": "The Mimic"
+      },
+      {
+        "name": "Shelly Gibson",
+        "character": "Grandma"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jeremiah Kipp",
+        "job": "Director"
+      },
+      {
+        "name": "Patrick Ewald",
+        "job": "Producer"
+      },
+      {
+        "name": "Cole Payne",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1173559,
+    "imdb_id": "tt26349732",
+    "title": "Insidious Inferno",
+    "release_date": "2024-11-29",
+    "runtime": 97,
+    "genres": [
+      "Horror"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.5,
+    "tmdb_vote_count": 11,
+    "production_companies": [
+      "Raptor FX Studio"
+    ],
+    "original_language": "en",
+    "overview": "A secluded cottage is plagued by gruesome murders and unbeknownst to the inhabitants something other worldly lurks within the halls. Can the couple solve the mystery of the cursed grounds in time or will they open the door to the inferno?",
+    "cast": [
+      {
+        "name": "Stephanie Leet",
+        "character": "Monica Duvalier"
+      },
+      {
+        "name": "Neil Green",
+        "character": "Andre Duvalier"
+      },
+      {
+        "name": "Chynna Rae Shurts",
+        "character": "Mary"
+      },
+      {
+        "name": "Steve Larkin",
+        "character": "Dorian Tobin Ryan III"
+      },
+      {
+        "name": "Erik Skybak",
+        "character": "Cameron"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Calvin Morie McCarthy",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 755898,
+    "imdb_id": "tt13186306",
+    "title": "War of the Worlds",
+    "release_date": "2025-07-29",
+    "runtime": 91,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "budget": 10000000,
+    "revenue": 0,
+    "tmdb_rating": 4.141,
+    "tmdb_vote_count": 971,
+    "production_companies": [
+      "Universal Pictures",
+      "Bazelevs",
+      "Patrick Aiello Productions"
+    ],
+    "original_language": "en",
+    "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+    "cast": [
+      {
+        "name": "Ice Cube",
+        "character": "William Radford"
+      },
+      {
+        "name": "Eva Longoria",
+        "character": "NASA Scientist Sandra Salas"
+      },
+      {
+        "name": "Clark Gregg",
+        "character": "NSA Director Donald Briggs"
+      },
+      {
+        "name": "Iman Benson",
+        "character": "Faith Radford"
+      },
+      {
+        "name": "Henry Hunter Hall",
+        "character": "David Radford"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rich Lee",
+        "job": "Director"
+      },
+      {
+        "name": "Timur Bekmambetov",
+        "job": "Producer"
+      },
+      {
+        "name": "Patrick Aiello",
+        "job": "Producer"
+      },
+      {
+        "name": "Marc Hyman",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Kenny Golde",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1419406,
+    "imdb_id": "tt34610311",
+    "title": "The Shadow's Edge",
+    "release_date": "2025-08-16",
+    "runtime": 142,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "budget": 0,
+    "revenue": 174400000,
+    "tmdb_rating": 7.233,
+    "tmdb_vote_count": 604,
+    "production_companies": [
+      "iQIYI Pictures \uff08\u91cd\u590d \u540c iQiyi Motion Pictures\uff09",
+      "Tao Piao Piao \u6dd8\u7968\u7968",
+      "Hairun Pictures Company",
+      "Dong Fang Chen Xiang"
+    ],
+    "original_language": "zh",
+    "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+    "cast": [
+      {
+        "name": "Jackie Chan",
+        "character": "Wong Tak Chung"
+      },
+      {
+        "name": "Zhang Zifeng",
+        "character": "He Qiuguo"
+      },
+      {
+        "name": "Tony Leung Ka-fai",
+        "character": "Fu Longsheng"
+      },
+      {
+        "name": "Ci Sha",
+        "character": "Xi Meng / Xi Wang"
+      },
+      {
+        "name": "Jun",
+        "character": "Hu Feng"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Larry Yang",
+        "job": "Director"
+      },
+      {
+        "name": "Victoria Hon",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1368166,
+    "imdb_id": "tt27543632",
+    "title": "The Housemaid",
+    "release_date": "2025-12-18",
+    "runtime": 131,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "budget": 35000000,
+    "revenue": 401725460,
+    "tmdb_rating": 7.232,
+    "tmdb_vote_count": 1983,
+    "production_companies": [
+      "Lionsgate",
+      "Media Capital Technologies",
+      "Hidden Pictures",
+      "Pretty Dangerous Pictures"
+    ],
+    "original_language": "en",
+    "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous\u2014a sexy, seductive game of secrets, scandal, and power.",
+    "cast": [
+      {
+        "name": "Sydney Sweeney",
+        "character": "Millie Calloway"
+      },
+      {
+        "name": "Amanda Seyfried",
+        "character": "Nina Winchester"
+      },
+      {
+        "name": "Brandon Sklenar",
+        "character": "Andrew Winchester"
+      },
+      {
+        "name": "Michele Morrone",
+        "character": "Enzo"
+      },
+      {
+        "name": "Elizabeth Perkins",
+        "character": "Mrs. Winchester"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul Feig",
+        "job": "Director"
+      },
+      {
+        "name": "Rebecca Sonnenshine",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Paul Feig",
+        "job": "Producer"
+      },
+      {
+        "name": "Todd Lieberman",
+        "job": "Producer"
+      },
+      {
+        "name": "Laura Allen Fischer",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1292662,
+    "imdb_id": "tt31323350",
+    "title": "Slaughterhouse On The Hill",
+    "release_date": "2024-05-03",
+    "runtime": 72,
+    "genres": [
+      "Horror"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 5.375,
+    "tmdb_vote_count": 8,
+    "production_companies": [],
+    "original_language": "en",
+    "overview": "A night of terror ensues when a group of friends party at an abandoned slaughterhouse.",
+    "cast": [
+      {
+        "name": "Kristy Adams",
+        "character": "Tracy"
+      },
+      {
+        "name": "Steve Hansen",
+        "character": "Chuck"
+      },
+      {
+        "name": "Ashley Ballou",
+        "character": "Cici"
+      },
+      {
+        "name": "Kiki Daire",
+        "character": "Becky"
+      },
+      {
+        "name": "Chris Arredondo",
+        "character": "Bo"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tom Devlin",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 73353,
+    "imdb_id": "tt0411377",
+    "title": "Man in the Mirror: The Michael Jackson Story",
+    "release_date": "2004-08-06",
+    "runtime": 85,
+    "genres": [
+      "Drama",
+      "TV Movie"
+    ],
+    "budget": 1200000,
+    "revenue": 0,
+    "tmdb_rating": 6.3,
+    "tmdb_vote_count": 13,
+    "production_companies": [
+      "VH1 Productions"
+    ],
+    "original_language": "en",
+    "overview": "Chronicles the rise and fall of pop king Michael Jackson.",
+    "cast": [
+      {
+        "name": "Flex Alexander",
+        "character": "Michael Jackson"
+      },
+      {
+        "name": "Krista Rae",
+        "character": "Lisa Marie"
+      },
+      {
+        "name": "Eugene Clark",
+        "character": "Bobby"
+      },
+      {
+        "name": "Peter Onorati",
+        "character": "Ziggy"
+      },
+      {
+        "name": "Lynne Cormack",
+        "character": "Elizabeth Taylor"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Allan Moyle",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1579,
+    "imdb_id": "tt0472043",
+    "title": "Apocalypto",
+    "release_date": "2006-12-07",
+    "runtime": 138,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "budget": 40000000,
+    "revenue": 120654337,
+    "tmdb_rating": 7.6,
+    "tmdb_vote_count": 6219,
+    "production_companies": [
+      "Icon Entertainment International",
+      "Icon Productions",
+      "Touchstone Pictures"
+    ],
+    "original_language": "en",
+    "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+    "cast": [
+      {
+        "name": "Rudy Youngblood",
+        "character": "Jaguar Paw"
+      },
+      {
+        "name": "Raoul Max Trujillo",
+        "character": "Zero Wolf"
+      },
+      {
+        "name": "Gerardo Taracena",
+        "character": "Middle Eye"
+      },
+      {
+        "name": "Iazua Larios",
+        "character": "Sky Flower"
+      },
+      {
+        "name": "Antonio Monroy",
+        "character": "Chilam"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mel Gibson",
+        "job": "Director"
+      },
+      {
+        "name": "Mel Gibson",
+        "job": "Producer"
+      },
+      {
+        "name": "Bruce Davey",
+        "job": "Producer"
+      },
+      {
+        "name": "Sergio Miranda",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1641319,
+    "imdb_id": "tt39538786",
+    "title": "Sniper: No Nation",
+    "release_date": "2026-04-07",
+    "runtime": 96,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.4,
+    "tmdb_vote_count": 37,
+    "production_companies": [
+      "Destination Films",
+      "Blue Ice Pictures",
+      "Blue Ice Africa"
+    ],
+    "original_language": "en",
+    "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+    "cast": [
+      {
+        "name": "Chad Michael Collins",
+        "character": "Brandon Beckett"
+      },
+      {
+        "name": "Ryan Robbins",
+        "character": "Zero"
+      },
+      {
+        "name": "Manuel Rodriguez-Saenz",
+        "character": "Nova"
+      },
+      {
+        "name": "Josh Brener",
+        "character": "Intel Pete"
+      },
+      {
+        "name": "Tom Berenger",
+        "character": "Thomas Beckett"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Trevor Calverley",
+        "job": "Director"
+      },
+      {
+        "name": "Lance Samuels",
+        "job": "Producer"
+      },
+      {
+        "name": "Haley Wiseman",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1241752,
+    "imdb_id": "tt31589922",
+    "title": "Rita",
+    "release_date": "2024-03-22",
+    "runtime": 113,
+    "genres": [
+      "Drama"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.143,
+    "tmdb_vote_count": 21,
+    "production_companies": [
+      "Vivamax"
+    ],
+    "original_language": "tl",
+    "overview": "Rita, who finds herself alone when husband Ariel works abroad. They both find solace and sexual satisfaction in other people. When Ariel comes back, they both act like nothing happened. But will this keep their marriage from falling apart?",
+    "cast": [
+      {
+        "name": "Christine Bermas",
+        "character": "Rita"
+      },
+      {
+        "name": "Gold Aceron",
+        "character": "Marlon"
+      },
+      {
+        "name": "VR Relosa",
+        "character": "Ariel"
+      },
+      {
+        "name": "Josh Ivan Morales",
+        "character": "Royce"
+      },
+      {
+        "name": "Sahil Khan",
+        "character": "Arabo"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jerry Lopez Sineneng",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1159559,
+    "imdb_id": "tt27047903",
+    "title": "Scream 7",
+    "release_date": "2026-02-25",
+    "runtime": 114,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Crime"
+    ],
+    "budget": 45000000,
+    "revenue": 213833014,
+    "tmdb_rating": 6.05,
+    "tmdb_vote_count": 837,
+    "production_companies": [
+      "Paramount Pictures",
+      "Spyglass Media Group",
+      "Project X Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+    "cast": [
+      {
+        "name": "Neve Campbell",
+        "character": "Sidney Evans"
+      },
+      {
+        "name": "Courteney Cox",
+        "character": "Gale Weathers"
+      },
+      {
+        "name": "Isabel May",
+        "character": "Tatum Evans"
+      },
+      {
+        "name": "Jasmin Savoy Brown",
+        "character": "Mindy Meeks-Martin"
+      },
+      {
+        "name": "Mason Gooding",
+        "character": "Chad Meeks-Martin"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul Neinstein",
+        "job": "Producer"
+      },
+      {
+        "name": "William Sherak",
+        "job": "Producer"
+      },
+      {
+        "name": "Guy Busick",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Kevin Williamson",
+        "job": "Director"
+      },
+      {
+        "name": "Kevin Williamson",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1270125,
+    "imdb_id": "tt27811009",
+    "title": "Monster on a Plane",
+    "release_date": "2024-11-07",
+    "runtime": 88,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 4.625,
+    "tmdb_vote_count": 40,
+    "production_companies": [],
+    "original_language": "en",
+    "overview": "An exotic animal turns into a monster and becomes a deadly danger for all passengers.",
+    "cast": [
+      {
+        "name": "Eva Habermann",
+        "character": "Nathalie"
+      },
+      {
+        "name": "Robin Czerny",
+        "character": "Ben"
+      },
+      {
+        "name": "Philippe Brenninkmeyer",
+        "character": "Captain James Pillow"
+      },
+      {
+        "name": "Dieter Landuris",
+        "character": "Dr Singh"
+      },
+      {
+        "name": "Fred Aaron Blake",
+        "character": "Helmut"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ezra Tsegaye",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1084577,
+    "imdb_id": "tt26735622",
+    "title": "Balls Up",
+    "release_date": "2026-04-15",
+    "runtime": 104,
+    "genres": [
+      "Comedy",
+      "Action",
+      "Adventure"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 5.718,
+    "tmdb_vote_count": 179,
+    "production_companies": [
+      "Skydance Media",
+      "Reese Wernick Productions",
+      "Amazon MGM Studios"
+    ],
+    "original_language": "en",
+    "overview": "Two marketing executives go \"balls out\" and pitch a bold full\u2011coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+    "cast": [
+      {
+        "name": "Mark Wahlberg",
+        "character": "Brad"
+      },
+      {
+        "name": "Paul Walter Hauser",
+        "character": "Elijah"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "character": "Pavio Curto"
+      },
+      {
+        "name": "Benjamin Bratt",
+        "character": "Santos"
+      },
+      {
+        "name": "Luciano Szafir",
+        "character": "Cristos"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Peter Farrelly",
+        "job": "Director"
+      },
+      {
+        "name": "David Ellison",
+        "job": "Producer"
+      },
+      {
+        "name": "Dana Goldberg",
+        "job": "Producer"
+      },
+      {
+        "name": "Don Granger",
+        "job": "Producer"
+      },
+      {
+        "name": "Paul Wernick",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1087040,
+    "imdb_id": "tt26739529",
+    "title": "Money Shot: The Pornhub Story",
+    "release_date": "2023-03-15",
+    "runtime": 95,
+    "genres": [
+      "Documentary"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 5.8,
+    "tmdb_vote_count": 351,
+    "production_companies": [
+      "Jigsaw Productions"
+    ],
+    "original_language": "en",
+    "overview": "Featuring interviews with performers, activists and past employees, this documentary offers a deep dive into the successes and scandals of Pornhub.",
+    "cast": [
+      {
+        "name": "Noelle Perdue",
+        "character": "Self - Porn Industry Professional"
+      },
+      {
+        "name": "Michael Stabile",
+        "character": "Self - Porn Industry Advocate / Director of Public Affairs, FSC"
+      },
+      {
+        "name": "Siri Dahl",
+        "character": "Self - Porn Performer"
+      },
+      {
+        "name": "Wolf Hudson",
+        "character": "Self - Porn Performer"
+      },
+      {
+        "name": "Martin Patriquin",
+        "character": "Self - Journalist, The Logic"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Nicki Carrico",
+        "job": "Producer"
+      },
+      {
+        "name": "Suzanne Hillinger",
+        "job": "Producer"
+      },
+      {
+        "name": "Suzanne Hillinger",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1499885,
+    "imdb_id": "tt36332085",
+    "title": "The Red Book Ritual: Gates of Hell",
+    "release_date": "2025-09-18",
+    "runtime": 0,
+    "genres": [
+      "Horror"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.458,
+    "tmdb_vote_count": 24,
+    "production_companies": [
+      "Black Mandala",
+      "Nightwheel Pictures"
+    ],
+    "original_language": "en",
+    "overview": "Robbie embarks on a dangerous quest to contact his deceased girlfriend through a ritual that summons the dead. He heads to an abandoned house with a group of young people to perform the \"Red Book Ritual.\" But during the summoning, supernatural forces awaken. Now they must face ancient horrors to survive.",
+    "cast": [
+      {
+        "name": "Mario Gonz\u00e1lez Mart\u00ed",
+        "character": "Robbie"
+      },
+      {
+        "name": "Lizzie G\u00f3mez",
+        "character": "Amy"
+      },
+      {
+        "name": "Matias Miranda",
+        "character": "Jeff"
+      },
+      {
+        "name": "Tain\u00e1 Lipinski",
+        "character": "Stacy"
+      },
+      {
+        "name": "Bianca Vacchetta",
+        "character": "Jena"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Carlos Baena",
+        "job": "Director"
+      },
+      {
+        "name": "Hugo Cardozo",
+        "job": "Director"
+      },
+      {
+        "name": "Nathan Crooker",
+        "job": "Director"
+      },
+      {
+        "name": "Sonny Laguna",
+        "job": "Director"
+      },
+      {
+        "name": "Hern\u00e1n Moyano",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 840464,
+    "imdb_id": "tt14850054",
+    "title": "Greenland 2: Migration",
+    "release_date": "2026-01-07",
+    "runtime": 98,
+    "genres": [
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "budget": 90000000,
+    "revenue": 44856736,
+    "tmdb_rating": 6.419,
+    "tmdb_vote_count": 980,
+    "production_companies": [
+      "STXfilms",
+      "Anton",
+      "Thunder Road",
+      "G-BASE",
+      "CineMachine",
+      "Lionsgate"
+    ],
+    "original_language": "en",
+    "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+    "cast": [
+      {
+        "name": "Gerard Butler",
+        "character": "John Garrity"
+      },
+      {
+        "name": "Morena Baccarin",
+        "character": "Allison Garrity"
+      },
+      {
+        "name": "Roman Griffin Davis",
+        "character": "Nathan Garrity"
+      },
+      {
+        "name": "Tommie Earl Jenkins",
+        "character": "General Sharpe"
+      },
+      {
+        "name": "Trond Fausa Aurv\u00e5g",
+        "character": "Adam Shaw"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ric Roman Waugh",
+        "job": "Director"
+      },
+      {
+        "name": "Basil Iwanyk",
+        "job": "Producer"
+      },
+      {
+        "name": "Brendon Boyea",
+        "job": "Producer"
+      },
+      {
+        "name": "Gerard Butler",
+        "job": "Producer"
+      },
+      {
+        "name": "Alan Siegel",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 157336,
+    "imdb_id": "tt0816692",
+    "title": "Interstellar",
+    "release_date": "2014-11-05",
+    "runtime": 169,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "budget": 165000000,
+    "revenue": 746606706,
+    "tmdb_rating": 8.471,
+    "tmdb_vote_count": 39554,
+    "production_companies": [
+      "Legendary Pictures",
+      "Syncopy",
+      "Lynda Obst Productions"
+    ],
+    "original_language": "en",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "cast": [
+      {
+        "name": "Matthew McConaughey",
+        "character": "Cooper"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Brand"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Professor Brand"
+      },
+      {
+        "name": "Jessica Chastain",
+        "character": "Murph"
+      },
+      {
+        "name": "Casey Affleck",
+        "character": "Tom"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Christopher Nolan",
+        "job": "Producer"
+      },
+      {
+        "name": "Lynda Obst",
+        "job": "Producer"
+      },
+      {
+        "name": "Emma Thomas",
+        "job": "Producer"
+      },
+      {
+        "name": "Christopher Nolan",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 458293,
+    "imdb_id": "tt6428912",
+    "title": "Michael Jackson: Searching for Neverland",
+    "release_date": "2017-05-29",
+    "runtime": 102,
+    "genres": [
+      "Drama",
+      "TV Movie"
+    ],
+    "budget": 2000000,
+    "revenue": 0,
+    "tmdb_rating": 6.5,
+    "tmdb_vote_count": 111,
+    "production_companies": [
+      "Lifetime"
+    ],
+    "original_language": "en",
+    "overview": "Based on the best-selling book, Remember the Time: Protecting Michael Jackson in His Final Days, and told through the eyes of Jackson's trusted bodyguards, Bill Whitfield and Javon Beard. The movie will reveal firsthand the devotion Michael Jackson had to his children, and the hidden drama that took place during the last two years of his life.",
+    "cast": [
+      {
+        "name": "Navi",
+        "character": "Michael Jackson"
+      },
+      {
+        "name": "Chad L. Coleman",
+        "character": "Bill Whitfield"
+      },
+      {
+        "name": "Sam Adegoke",
+        "character": "Javon Beard"
+      },
+      {
+        "name": "Aidan Hanlon Smith",
+        "character": "Prince Jackson"
+      },
+      {
+        "name": "Taegen Burns",
+        "character": "Paris Jackson"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Dianne Houston",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1215106,
+    "imdb_id": "tt35020020",
+    "title": "Ko Ga Loak Village",
+    "release_date": "2025-11-06",
+    "runtime": 99,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 5.143,
+    "tmdb_vote_count": 7,
+    "production_companies": [
+      "M Studio",
+      "Film Guru",
+      "Mono Film"
+    ],
+    "original_language": "th",
+    "overview": "A wave of chilling serial murders emerges, marked by the gruesome decay of male victims' secret part. As the police investigate, they confront eerie local myths and dark secrets.",
+    "cast": [
+      {
+        "name": "Padung Songsang",
+        "character": "Yan"
+      },
+      {
+        "name": "Yotsawat Tawapee",
+        "character": "Get"
+      },
+      {
+        "name": "Noppavee Meesrisuk",
+        "character": "Mike"
+      },
+      {
+        "name": "Nachat Juntapun",
+        "character": "Nicky"
+      },
+      {
+        "name": "Kapon Thongphlap",
+        "character": "Pong"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Poj Arnon",
+        "job": "Producer"
+      },
+      {
+        "name": "Poj Arnon",
+        "job": "Director"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 848116,
+    "imdb_id": "tt14993250",
+    "title": "Rocky Aur Rani Kii Prem Kahaani",
+    "release_date": "2023-07-28",
+    "runtime": 178,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "budget": 0,
+    "revenue": 0,
+    "tmdb_rating": 6.1,
+    "tmdb_vote_count": 83,
+    "production_companies": [
+      "Dharma Productions",
+      "Viacom18 Studios"
+    ],
+    "original_language": "hi",
+    "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+    "cast": [
+      {
+        "name": "Alia Bhatt",
+        "character": "Rani Chatterji"
+      },
+      {
+        "name": "Ranveer Singh",
+        "character": "Rocky Randhawa"
+      },
+      {
+        "name": "Jaya Bachchan",
+        "character": "Dhanlakshmi Randhawa"
+      },
+      {
+        "name": "Shabana Azmi",
+        "character": "Jamini Chatterji"
+      },
+      {
+        "name": "Dharmendra",
+        "character": "Kanwal Lund"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Karan Johar",
+        "job": "Director"
+      },
+      {
+        "name": "Ajit Andhare",
+        "job": "Producer"
+      },
+      {
+        "name": "Apoorva Mehta",
+        "job": "Producer"
+      },
+      {
+        "name": "Hiroo Johar",
+        "job": "Producer"
+      },
+      {
+        "name": "Karan Johar",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 7451,
+    "imdb_id": "tt0295701",
+    "title": "xXx",
+    "release_date": "2002-08-09",
+    "runtime": 124,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "budget": 70000000,
+    "revenue": 277448382,
+    "tmdb_rating": 5.987,
+    "tmdb_vote_count": 4879,
+    "production_companies": [
+      "Revolution Studios"
+    ],
+    "original_language": "en",
+    "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+    "cast": [
+      {
+        "name": "Vin Diesel",
+        "character": "Xander Cage"
+      },
+      {
+        "name": "Asia Argento",
+        "character": "Yelena"
+      },
+      {
+        "name": "Marton Csokas",
+        "character": "Yorgi"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Agent Augustus Gibbons"
+      },
+      {
+        "name": "Michael Roof",
+        "character": "Agent Toby Lee Shavers"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rob Cohen",
+        "job": "Director"
+      },
+      {
+        "name": "Rich Wilkes",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Neal H. Moritz",
+        "job": "Producer"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1234731,
+    "imdb_id": "tt33244668",
+    "title": "Anaconda",
+    "release_date": "2025-12-24",
+    "runtime": 100,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "budget": 45000000,
+    "revenue": 135148320,
+    "tmdb_rating": 5.869,
+    "tmdb_vote_count": 1094,
+    "production_companies": [
+      "Fully Formed Entertainment",
+      "Columbia Pictures",
+      "TSG Entertainment"
+    ],
+    "original_language": "en",
+    "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+    "cast": [
+      {
+        "name": "Jack Black",
+        "character": "Doug McCallister"
+      },
+      {
+        "name": "Paul Rudd",
+        "character": "Ronald Griffin Jr."
+      },
+      {
+        "name": "Steve Zahn",
+        "character": "Kenny Trent"
+      },
+      {
+        "name": "Thandiwe Newton",
+        "character": "Claire Simons"
+      },
+      {
+        "name": "Daniela Melchior",
+        "character": "Ana Almeida"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tom Gormican",
+        "job": "Director"
+      },
+      {
+        "name": "Andrew Form",
+        "job": "Producer"
+      },
+      {
+        "name": "Brad Fuller",
+        "job": "Producer"
+      },
+      {
+        "name": "Tom Gormican",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Kevin Etten",
+        "job": "Screenplay"
+      }
+    ]
+  }
+]

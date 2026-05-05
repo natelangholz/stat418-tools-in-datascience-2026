@@ -1,0 +1,462 @@
+2026-04-25 20:16:42,779 - INFO - GET movie/popular -> 200
+2026-04-25 20:16:42,961 - INFO - GET movie/popular -> 200
+2026-04-25 20:16:43,277 - INFO - GET movie/popular -> 200
+2026-04-25 20:16:43,529 - INFO - GET movie/1226863 -> 200
+2026-04-25 20:16:43,789 - INFO - GET movie/1226863/credits -> 200
+2026-04-25 20:16:43,789 - INFO - Collected: The Super Mario Galaxy Movie (id=1226863)
+2026-04-25 20:16:43,964 - INFO - GET movie/1523145 -> 200
+2026-04-25 20:16:44,225 - INFO - GET movie/1523145/credits -> 200
+2026-04-25 20:16:44,225 - INFO - Collected: Your Heart Will Be Broken (id=1523145)
+2026-04-25 20:16:44,503 - INFO - GET movie/1198994 -> 200
+2026-04-25 20:16:44,810 - INFO - GET movie/1198994/credits -> 200
+2026-04-25 20:16:44,811 - INFO - Collected: Send Help (id=1198994)
+2026-04-25 20:16:44,982 - INFO - GET movie/980431 -> 200
+2026-04-25 20:16:45,324 - INFO - GET movie/980431/credits -> 200
+2026-04-25 20:16:45,324 - INFO - Collected: Avatar Aang: The Last Airbender (id=980431)
+2026-04-25 20:16:45,480 - INFO - GET movie/83533 -> 200
+2026-04-25 20:16:45,837 - INFO - GET movie/83533/credits -> 200
+2026-04-25 20:16:45,838 - INFO - Collected: Avatar: Fire and Ash (id=83533)
+2026-04-25 20:16:45,995 - INFO - GET movie/1613798 -> 200
+2026-04-25 20:16:46,346 - INFO - GET movie/1613798/credits -> 200
+2026-04-25 20:16:46,347 - INFO - Collected: Vengeance (id=1613798)
+2026-04-25 20:16:46,501 - INFO - GET movie/1318447 -> 200
+2026-04-25 20:16:46,858 - INFO - GET movie/1318447/credits -> 200
+2026-04-25 20:16:46,859 - INFO - Collected: Apex (id=1318447)
+2026-04-25 20:16:47,008 - INFO - GET movie/687163 -> 200
+2026-04-25 20:16:47,373 - INFO - GET movie/687163/credits -> 200
+2026-04-25 20:16:47,374 - INFO - Collected: Project Hail Mary (id=687163)
+2026-04-25 20:16:47,515 - INFO - GET movie/936075 -> 200
+2026-04-25 20:16:47,782 - INFO - GET movie/936075/credits -> 200
+2026-04-25 20:16:47,783 - INFO - Collected: Michael (id=936075)
+2026-04-25 20:16:48,018 - INFO - GET movie/1470130 -> 200
+2026-04-25 20:16:48,273 - INFO - GET movie/1470130/credits -> 200
+2026-04-25 20:16:48,273 - INFO - Collected: The Mortuary Assistant (id=1470130)
+2026-04-25 20:16:48,600 - INFO - GET movie/1290821 -> 200
+2026-04-25 20:16:48,805 - INFO - GET movie/1290821/credits -> 200
+2026-04-25 20:16:48,805 - INFO - Collected: Shelter (id=1290821)
+2026-04-25 20:16:49,028 - INFO - GET movie/1327819 -> 200
+2026-04-25 20:16:49,419 - INFO - GET movie/1327819/credits -> 200
+2026-04-25 20:16:49,420 - INFO - Collected: Hoppers (id=1327819)
+2026-04-25 20:16:49,545 - INFO - GET movie/1352874 -> 200
+2026-04-25 20:16:49,828 - INFO - GET movie/1352874/credits -> 200
+2026-04-25 20:16:49,828 - INFO - Collected: The Crucifix: Blood of the Exorcist (id=1352874)
+2026-04-25 20:16:50,135 - INFO - GET movie/1297842 -> 200
+2026-04-25 20:16:50,445 - INFO - GET movie/1297842/credits -> 200
+2026-04-25 20:16:50,446 - INFO - Collected: GOAT (id=1297842)
+2026-04-25 20:16:50,555 - INFO - GET movie/1171145 -> 200
+2026-04-25 20:16:50,855 - INFO - GET movie/1171145/credits -> 200
+2026-04-25 20:16:50,856 - INFO - Collected: Crime 101 (id=1171145)
+2026-04-25 20:16:51,067 - INFO - GET movie/1304313 -> 200
+2026-04-25 20:16:51,433 - INFO - GET movie/1304313/credits -> 200
+2026-04-25 20:16:51,434 - INFO - Collected: Lee Cronin's The Mummy (id=1304313)
+2026-04-25 20:16:51,566 - INFO - GET movie/1641319 -> 200
+2026-04-25 20:16:51,981 - INFO - GET movie/1641319/credits -> 200
+2026-04-25 20:16:51,982 - INFO - Collected: Sniper: No Nation (id=1641319)
+2026-04-25 20:16:52,085 - INFO - GET movie/840464 -> 200
+2026-04-25 20:16:52,391 - INFO - GET movie/840464/credits -> 200
+2026-04-25 20:16:52,392 - INFO - Collected: Greenland 2: Migration (id=840464)
+2026-04-25 20:16:52,602 - INFO - GET movie/1311031 -> 200
+2026-04-25 20:16:52,861 - INFO - GET movie/1311031/credits -> 200
+2026-04-25 20:16:52,863 - INFO - Collected: Demon Slayer: Kimetsu no Yaiba Infinity Castle (id=1311031)
+2026-04-25 20:16:53,115 - INFO - GET movie/1084577 -> 200
+2026-04-25 20:16:53,415 - INFO - GET movie/1084577/credits -> 200
+2026-04-25 20:16:53,416 - INFO - Collected: Balls Up (id=1084577)
+2026-04-25 20:16:53,606 - INFO - GET movie/1290417 -> 200
+2026-04-25 20:16:53,924 - INFO - GET movie/1290417/credits -> 200
+2026-04-25 20:16:53,924 - INFO - Collected: Thrash (id=1290417)
+2026-04-25 20:16:54,120 - INFO - GET movie/848116 -> 200
+2026-04-25 20:16:54,440 - INFO - GET movie/848116/credits -> 200
+2026-04-25 20:16:54,441 - INFO - Collected: Rocky Aur Rani Kii Prem Kahaani (id=848116)
+2026-04-25 20:16:54,620 - INFO - GET movie/1010755 -> 200
+2026-04-25 20:16:54,949 - INFO - GET movie/1010755/credits -> 200
+2026-04-25 20:16:54,950 - INFO - Collected: The Strangers: Chapter 3 (id=1010755)
+2026-04-25 20:16:55,138 - INFO - GET movie/350 -> 200
+2026-04-25 20:16:55,462 - INFO - GET movie/350/credits -> 200
+2026-04-25 20:16:55,463 - INFO - Collected: The Devil Wears Prada (id=350)
+2026-04-25 20:16:55,632 - INFO - GET movie/1601797 -> 200
+2026-04-25 20:16:55,973 - INFO - GET movie/1601797/credits -> 200
+2026-04-25 20:16:55,973 - INFO - Collected: ¿Quieres Ser Mi Novia? (id=1601797)
+2026-04-25 20:16:56,178 - INFO - GET movie/1084242 -> 200
+2026-04-25 20:16:56,487 - INFO - GET movie/1084242/credits -> 200
+2026-04-25 20:16:56,489 - INFO - Collected: Zootopia 2 (id=1084242)
+2026-04-25 20:16:56,652 - INFO - GET movie/502356 -> 200
+2026-04-25 20:16:56,997 - INFO - GET movie/502356/credits -> 200
+2026-04-25 20:16:56,998 - INFO - Collected: The Super Mario Bros. Movie (id=502356)
+2026-04-25 20:16:57,160 - INFO - GET movie/1159559 -> 200
+2026-04-25 20:16:57,465 - INFO - GET movie/1159559/credits -> 200
+2026-04-25 20:16:57,466 - INFO - Collected: Scream 7 (id=1159559)
+2026-04-25 20:16:57,657 - INFO - GET movie/1480387 -> 200
+2026-04-25 20:16:57,911 - INFO - GET movie/1480387/credits -> 200
+2026-04-25 20:16:57,912 - INFO - Collected: undertone (id=1480387)
+2026-04-25 20:16:58,226 - INFO - GET movie/1368166 -> 200
+2026-04-25 20:16:58,533 - INFO - GET movie/1368166/credits -> 200
+2026-04-25 20:16:58,534 - INFO - Collected: The Housemaid (id=1368166)
+2026-04-25 20:16:58,676 - INFO - GET movie/1419406 -> 200
+2026-04-25 20:16:58,944 - INFO - GET movie/1419406/credits -> 200
+2026-04-25 20:16:58,945 - INFO - Collected: The Shadow's Edge (id=1419406)
+2026-04-25 20:16:59,178 - INFO - GET movie/1107166 -> 200
+2026-04-25 20:16:59,558 - INFO - GET movie/1107166/credits -> 200
+2026-04-25 20:16:59,559 - INFO - Collected: Psycho Killer (id=1107166)
+2026-04-25 20:16:59,694 - INFO - GET movie/1193501 -> 200
+2026-04-25 20:17:00,070 - INFO - GET movie/1193501/credits -> 200
+2026-04-25 20:17:00,070 - INFO - Collected: Whistle (id=1193501)
+2026-04-25 20:17:00,205 - INFO - GET movie/755898 -> 200
+2026-04-25 20:17:00,481 - INFO - GET movie/755898/credits -> 200
+2026-04-25 20:17:00,482 - INFO - Collected: War of the Worlds (id=755898)
+2026-04-25 20:17:00,710 - INFO - GET movie/1234731 -> 200
+2026-04-25 20:17:00,993 - INFO - GET movie/1234731/credits -> 200
+2026-04-25 20:17:00,994 - INFO - Collected: Anaconda (id=1234731)
+2026-04-25 20:17:01,218 - INFO - GET movie/1265609 -> 200
+2026-04-25 20:17:01,502 - INFO - GET movie/1265609/credits -> 200
+2026-04-25 20:17:01,503 - INFO - Collected: War Machine (id=1265609)
+2026-04-25 20:17:01,723 - INFO - GET movie/1659087 -> 200
+2026-04-25 20:17:02,014 - INFO - GET movie/1659087/credits -> 200
+2026-04-25 20:17:02,014 - INFO - Collected: 180 (id=1659087)
+2026-04-25 20:17:02,320 - INFO - GET movie/634649 -> 200
+2026-04-25 20:17:02,491 - INFO - GET movie/634649/credits -> 200
+2026-04-25 20:17:02,492 - INFO - Collected: Spider-Man: No Way Home (id=634649)
+2026-04-25 20:17:02,747 - INFO - GET movie/1242898 -> 200
+2026-04-25 20:17:02,991 - INFO - GET movie/1242898/credits -> 200
+2026-04-25 20:17:02,992 - INFO - Collected: Predator: Badlands (id=1242898)
+2026-04-25 20:17:03,284 - INFO - GET movie/10867 -> 200
+2026-04-25 20:17:03,552 - INFO - GET movie/10867/credits -> 200
+2026-04-25 20:17:03,553 - INFO - Collected: Malena (id=10867)
+2026-04-25 20:17:03,754 - INFO - GET movie/1511057 -> 200
+2026-04-25 20:17:04,013 - INFO - GET movie/1511057/credits -> 200
+2026-04-25 20:17:04,014 - INFO - Collected: Roommates (id=1511057)
+2026-04-25 20:17:04,264 - INFO - GET movie/1418657 -> 200
+2026-04-25 20:17:04,575 - INFO - GET movie/1418657/credits -> 200
+2026-04-25 20:17:04,575 - INFO - Collected: The Yeti (id=1418657)
+2026-04-25 20:17:04,763 - INFO - GET movie/440249 -> 200
+2026-04-25 20:17:05,086 - INFO - GET movie/440249/credits -> 200
+2026-04-25 20:17:05,086 - INFO - Collected: After Porn Ends 2 (id=440249)
+2026-04-25 20:17:05,271 - INFO - GET movie/7451 -> 200
+2026-04-25 20:17:05,601 - INFO - GET movie/7451/credits -> 200
+2026-04-25 20:17:05,603 - INFO - Collected: xXx (id=7451)
+2026-04-25 20:17:05,778 - INFO - GET movie/680493 -> 200
+2026-04-25 20:17:06,112 - INFO - GET movie/680493/credits -> 200
+2026-04-25 20:17:06,113 - INFO - Collected: Return to Silent Hill (id=680493)
+2026-04-25 20:17:06,336 - INFO - GET movie/662707 -> 200
+2026-04-25 20:17:06,623 - INFO - GET movie/662707/credits -> 200
+2026-04-25 20:17:06,623 - INFO - Collected: Starbright (id=662707)
+2026-04-25 20:17:06,792 - INFO - GET movie/1367642 -> 200
+2026-04-25 20:17:07,134 - INFO - GET movie/1367642/credits -> 200
+2026-04-25 20:17:07,134 - INFO - Collected: Reminders of Him (id=1367642)
+2026-04-25 20:17:07,302 - INFO - GET movie/157336 -> 200
+2026-04-25 20:17:07,648 - INFO - GET movie/157336/credits -> 200
+2026-04-25 20:17:07,651 - INFO - Collected: Interstellar (id=157336)
+2026-04-25 20:17:07,808 - INFO - GET movie/1084187 -> 200
+2026-04-25 20:17:08,160 - INFO - GET movie/1084187/credits -> 200
+2026-04-25 20:17:08,162 - INFO - Collected: Pretty Lethal (id=1084187)
+2026-04-25 20:17:08,332 - INFO - GET movie/1115544 -> 200
+2026-04-25 20:17:08,670 - INFO - GET movie/1115544/credits -> 200
+2026-04-25 20:17:08,671 - INFO - Collected: Mike & Nick & Nick & Alice (id=1115544)
+2026-04-25 20:17:08,675 - INFO - Saved 50 records to data/raw/tmdb/movies.json
+2026-04-26 20:39:51,456 - INFO - GET movie/popular -> 200
+2026-04-26 20:39:51,641 - INFO - GET movie/popular -> 200
+2026-04-26 20:39:51,893 - INFO - GET movie/popular -> 200
+2026-04-26 20:39:52,146 - INFO - GET movie/1226863 -> 200
+2026-04-26 20:39:52,393 - INFO - GET movie/1226863/credits -> 200
+2026-04-26 20:39:52,394 - INFO - Collected: The Super Mario Galaxy Movie (id=1226863)
+2026-04-26 20:39:52,650 - INFO - GET movie/1318447 -> 200
+2026-04-26 20:39:52,905 - INFO - GET movie/1318447/credits -> 200
+2026-04-26 20:39:52,906 - INFO - Collected: Apex (id=1318447)
+2026-04-26 20:39:53,209 - INFO - GET movie/1523145 -> 200
+2026-04-26 20:39:53,411 - INFO - GET movie/1523145/credits -> 200
+2026-04-26 20:39:53,411 - INFO - Collected: Your Heart Will Be Broken (id=1523145)
+2026-04-26 20:39:53,667 - INFO - GET movie/1198994 -> 200
+2026-04-26 20:39:53,930 - INFO - GET movie/1198994/credits -> 200
+2026-04-26 20:39:53,930 - INFO - Collected: Send Help (id=1198994)
+2026-04-26 20:39:54,206 - INFO - GET movie/980431 -> 200
+2026-04-26 20:39:54,420 - INFO - GET movie/980431/credits -> 200
+2026-04-26 20:39:54,421 - INFO - Collected: Avatar Aang: The Last Airbender (id=980431)
+2026-04-26 20:39:54,717 - INFO - GET movie/83533 -> 200
+2026-04-26 20:39:54,941 - INFO - GET movie/83533/credits -> 200
+2026-04-26 20:39:54,942 - INFO - Collected: Avatar: Fire and Ash (id=83533)
+2026-04-26 20:39:55,230 - INFO - GET movie/936075 -> 200
+2026-04-26 20:39:55,539 - INFO - GET movie/936075/credits -> 200
+2026-04-26 20:39:55,540 - INFO - Collected: Michael (id=936075)
+2026-04-26 20:39:55,701 - INFO - GET movie/1613798 -> 200
+2026-04-26 20:39:56,048 - INFO - GET movie/1613798/credits -> 200
+2026-04-26 20:39:56,048 - INFO - Collected: Vengeance (id=1613798)
+2026-04-26 20:39:56,208 - INFO - GET movie/687163 -> 200
+2026-04-26 20:39:56,563 - INFO - GET movie/687163/credits -> 200
+2026-04-26 20:39:56,565 - INFO - Collected: Project Hail Mary (id=687163)
+2026-04-26 20:39:56,714 - INFO - GET movie/1327819 -> 200
+2026-04-26 20:39:57,075 - INFO - GET movie/1327819/credits -> 200
+2026-04-26 20:39:57,075 - INFO - Collected: Hoppers (id=1327819)
+2026-04-26 20:39:57,230 - INFO - GET movie/1290821 -> 200
+2026-04-26 20:39:57,482 - INFO - GET movie/1290821/credits -> 200
+2026-04-26 20:39:57,482 - INFO - Collected: Shelter (id=1290821)
+2026-04-26 20:39:57,782 - INFO - GET movie/1352874 -> 200
+2026-04-26 20:39:57,991 - INFO - GET movie/1352874/credits -> 200
+2026-04-26 20:39:57,991 - INFO - Collected: The Crucifix: Blood of the Exorcist (id=1352874)
+2026-04-26 20:39:58,244 - INFO - GET movie/1470130 -> 200
+2026-04-26 20:39:58,510 - INFO - GET movie/1470130/credits -> 200
+2026-04-26 20:39:58,510 - INFO - Collected: The Mortuary Assistant (id=1470130)
+2026-04-26 20:39:58,815 - INFO - GET movie/1297842 -> 200
+2026-04-26 20:39:59,126 - INFO - GET movie/1297842/credits -> 200
+2026-04-26 20:39:59,128 - INFO - Collected: GOAT (id=1297842)
+2026-04-26 20:39:59,254 - INFO - GET movie/1171145 -> 200
+2026-04-26 20:39:59,636 - INFO - GET movie/1171145/credits -> 200
+2026-04-26 20:39:59,637 - INFO - Collected: Crime 101 (id=1171145)
+2026-04-26 20:39:59,759 - INFO - GET movie/1311031 -> 200
+2026-04-26 20:40:00,148 - INFO - GET movie/1311031/credits -> 200
+2026-04-26 20:40:00,150 - INFO - Collected: Demon Slayer: Kimetsu no Yaiba Infinity Castle (id=1311031)
+2026-04-26 20:40:00,258 - INFO - GET movie/1641319 -> 200
+2026-04-26 20:40:00,558 - INFO - GET movie/1641319/credits -> 200
+2026-04-26 20:40:00,559 - INFO - Collected: Sniper: No Nation (id=1641319)
+2026-04-26 20:40:00,773 - INFO - GET movie/1290417 -> 200
+2026-04-26 20:40:01,067 - INFO - GET movie/1290417/credits -> 200
+2026-04-26 20:40:01,067 - INFO - Collected: Thrash (id=1290417)
+2026-04-26 20:40:01,332 - INFO - GET movie/1304313 -> 200
+2026-04-26 20:40:01,581 - INFO - GET movie/1304313/credits -> 200
+2026-04-26 20:40:01,582 - INFO - Collected: Lee Cronin's The Mummy (id=1304313)
+2026-04-26 20:40:01,783 - INFO - GET movie/1601797 -> 200
+2026-04-26 20:40:02,091 - INFO - GET movie/1601797/credits -> 200
+2026-04-26 20:40:02,091 - INFO - Collected: ¿Quieres Ser Mi Novia? (id=1601797)
+2026-04-26 20:40:02,397 - INFO - GET movie/1084577 -> 200
+2026-04-26 20:40:02,558 - INFO - GET movie/1084577/credits -> 200
+2026-04-26 20:40:02,559 - INFO - Collected: Balls Up (id=1084577)
+2026-04-26 20:40:02,909 - INFO - GET movie/1084242 -> 200
+2026-04-26 20:40:03,059 - INFO - GET movie/1084242/credits -> 200
+2026-04-26 20:40:03,061 - INFO - Collected: Zootopia 2 (id=1084242)
+2026-04-26 20:40:03,313 - INFO - GET movie/1010755 -> 200
+2026-04-26 20:40:03,627 - INFO - GET movie/1010755/credits -> 200
+2026-04-26 20:40:03,627 - INFO - Collected: The Strangers: Chapter 3 (id=1010755)
+2026-04-26 20:40:03,817 - INFO - GET movie/840464 -> 200
+2026-04-26 20:40:04,068 - INFO - GET movie/840464/credits -> 200
+2026-04-26 20:40:04,069 - INFO - Collected: Greenland 2: Migration (id=840464)
+2026-04-26 20:40:04,332 - INFO - GET movie/502356 -> 200
+2026-04-26 20:40:04,653 - INFO - GET movie/502356/credits -> 200
+2026-04-26 20:40:04,655 - INFO - Collected: The Super Mario Bros. Movie (id=502356)
+2026-04-26 20:40:04,837 - INFO - GET movie/1159559 -> 200
+2026-04-26 20:40:05,165 - INFO - GET movie/1159559/credits -> 200
+2026-04-26 20:40:05,166 - INFO - Collected: Scream 7 (id=1159559)
+2026-04-26 20:40:05,340 - INFO - GET movie/1207162 -> 200
+2026-04-26 20:40:05,675 - INFO - GET movie/1207162/credits -> 200
+2026-04-26 20:40:05,675 - INFO - Collected: Rise of the Conqueror (id=1207162)
+2026-04-26 20:40:05,879 - INFO - GET movie/350 -> 200
+2026-04-26 20:40:06,189 - INFO - GET movie/350/credits -> 200
+2026-04-26 20:40:06,189 - INFO - Collected: The Devil Wears Prada (id=350)
+2026-04-26 20:40:06,356 - INFO - GET movie/848116 -> 200
+2026-04-26 20:40:06,612 - INFO - GET movie/848116/credits -> 200
+2026-04-26 20:40:06,613 - INFO - Collected: Rocky Aur Rani Kii Prem Kahaani (id=848116)
+2026-04-26 20:40:06,852 - INFO - GET movie/157336 -> 200
+2026-04-26 20:40:07,214 - INFO - GET movie/157336/credits -> 200
+2026-04-26 20:40:07,216 - INFO - Collected: Interstellar (id=157336)
+2026-04-26 20:40:07,366 - INFO - GET movie/1480387 -> 200
+2026-04-26 20:40:07,722 - INFO - GET movie/1480387/credits -> 200
+2026-04-26 20:40:07,723 - INFO - Collected: undertone (id=1480387)
+2026-04-26 20:40:07,871 - INFO - GET movie/10867 -> 200
+2026-04-26 20:40:08,236 - INFO - GET movie/10867/credits -> 200
+2026-04-26 20:40:08,237 - INFO - Collected: Malena (id=10867)
+2026-04-26 20:40:08,442 - INFO - GET movie/1419406 -> 200
+2026-04-26 20:40:08,748 - INFO - GET movie/1419406/credits -> 200
+2026-04-26 20:40:08,749 - INFO - Collected: The Shadow's Edge (id=1419406)
+2026-04-26 20:40:08,896 - INFO - GET movie/1107166 -> 200
+2026-04-26 20:40:09,158 - INFO - GET movie/1107166/credits -> 200
+2026-04-26 20:40:09,159 - INFO - Collected: Psycho Killer (id=1107166)
+2026-04-26 20:40:09,404 - INFO - GET movie/1242898 -> 200
+2026-04-26 20:40:09,772 - INFO - GET movie/1242898/credits -> 200
+2026-04-26 20:40:09,773 - INFO - Collected: Predator: Badlands (id=1242898)
+2026-04-26 20:40:09,909 - INFO - GET movie/755898 -> 200
+2026-04-26 20:40:10,183 - INFO - GET movie/755898/credits -> 200
+2026-04-26 20:40:10,183 - INFO - Collected: War of the Worlds (id=755898)
+2026-04-26 20:40:10,423 - INFO - GET movie/440249 -> 200
+2026-04-26 20:40:10,677 - INFO - GET movie/440249/credits -> 200
+2026-04-26 20:40:10,678 - INFO - Collected: After Porn Ends 2 (id=440249)
+2026-04-26 20:40:10,923 - INFO - GET movie/1234731 -> 200
+2026-04-26 20:40:11,208 - INFO - GET movie/1234731/credits -> 200
+2026-04-26 20:40:11,209 - INFO - Collected: Anaconda (id=1234731)
+2026-04-26 20:40:11,437 - INFO - GET movie/1193501 -> 200
+2026-04-26 20:40:11,717 - INFO - GET movie/1193501/credits -> 200
+2026-04-26 20:40:11,717 - INFO - Collected: Whistle (id=1193501)
+2026-04-26 20:40:11,943 - INFO - GET movie/1368166 -> 200
+2026-04-26 20:40:12,333 - INFO - GET movie/1368166/credits -> 200
+2026-04-26 20:40:12,334 - INFO - Collected: The Housemaid (id=1368166)
+2026-04-26 20:40:12,446 - INFO - GET movie/1265609 -> 200
+2026-04-26 20:40:12,741 - INFO - GET movie/1265609/credits -> 200
+2026-04-26 20:40:12,741 - INFO - Collected: War Machine (id=1265609)
+2026-04-26 20:40:12,952 - INFO - GET movie/7451 -> 200
+2026-04-26 20:40:13,256 - INFO - GET movie/7451/credits -> 200
+2026-04-26 20:40:13,257 - INFO - Collected: xXx (id=7451)
+2026-04-26 20:40:13,460 - INFO - GET movie/1115544 -> 200
+2026-04-26 20:40:13,780 - INFO - GET movie/1115544/credits -> 200
+2026-04-26 20:40:13,781 - INFO - Collected: Mike & Nick & Nick & Alice (id=1115544)
+2026-04-26 20:40:13,968 - INFO - GET movie/1499885 -> 200
+2026-04-26 20:40:14,378 - INFO - GET movie/1499885/credits -> 200
+2026-04-26 20:40:14,378 - INFO - Collected: The Red Book Ritual: Gates of Hell (id=1499885)
+2026-04-26 20:40:14,494 - INFO - GET movie/1659087 -> 200
+2026-04-26 20:40:14,789 - INFO - GET movie/1659087/credits -> 200
+2026-04-26 20:40:14,789 - INFO - Collected: 180 (id=1659087)
+2026-04-26 20:40:15,095 - INFO - GET movie/680493 -> 200
+2026-04-26 20:40:15,258 - INFO - GET movie/680493/credits -> 200
+2026-04-26 20:40:15,258 - INFO - Collected: Return to Silent Hill (id=680493)
+2026-04-26 20:40:15,505 - INFO - GET movie/634649 -> 200
+2026-04-26 20:40:15,772 - INFO - GET movie/634649/credits -> 200
+2026-04-26 20:40:15,774 - INFO - Collected: Spider-Man: No Way Home (id=634649)
+2026-04-26 20:40:16,014 - INFO - GET movie/1418657 -> 200
+2026-04-26 20:40:16,287 - INFO - GET movie/1418657/credits -> 200
+2026-04-26 20:40:16,288 - INFO - Collected: The Yeti (id=1418657)
+2026-04-26 20:40:16,525 - INFO - GET movie/1367642 -> 200
+2026-04-26 20:40:16,837 - INFO - GET movie/1367642/credits -> 200
+2026-04-26 20:40:16,837 - INFO - Collected: Reminders of Him (id=1367642)
+2026-04-26 20:40:17,035 - INFO - GET movie/1511057 -> 200
+2026-04-26 20:40:17,300 - INFO - GET movie/1511057/credits -> 200
+2026-04-26 20:40:17,301 - INFO - Collected: Roommates (id=1511057)
+2026-04-26 20:40:17,307 - INFO - Saved 50 records to data/raw/tmdb/movies.json
+2026-05-05 14:30:52,419 - INFO - GET movie/popular -> 200
+2026-05-05 14:30:52,534 - INFO - GET movie/popular -> 200
+2026-05-05 14:30:52,811 - INFO - GET movie/popular -> 200
+2026-05-05 14:30:53,031 - INFO - GET movie/1226863 -> 200
+2026-05-05 14:30:53,374 - INFO - GET movie/1226863/credits -> 200
+2026-05-05 14:30:53,374 - INFO - Collected: The Super Mario Galaxy Movie (id=1226863)
+2026-05-05 14:30:53,534 - INFO - GET movie/1318447 -> 200
+2026-05-05 14:30:53,830 - INFO - GET movie/1318447/credits -> 200
+2026-05-05 14:30:53,830 - INFO - Collected: Apex (id=1318447)
+2026-05-05 14:30:54,098 - INFO - GET movie/1007757 -> 200
+2026-05-05 14:30:54,310 - INFO - GET movie/1007757/credits -> 200
+2026-05-05 14:30:54,311 - INFO - Collected: Swapped (id=1007757)
+2026-05-05 14:30:54,567 - INFO - GET movie/10867 -> 200
+2026-05-05 14:30:54,856 - INFO - GET movie/10867/credits -> 200
+2026-05-05 14:30:54,856 - INFO - Collected: Malena (id=10867)
+2026-05-05 14:30:55,071 - INFO - GET movie/1198994 -> 200
+2026-05-05 14:30:55,335 - INFO - GET movie/1198994/credits -> 200
+2026-05-05 14:30:55,336 - INFO - Collected: Send Help (id=1198994)
+2026-05-05 14:30:55,672 - INFO - GET movie/350 -> 200
+2026-05-05 14:30:55,886 - INFO - GET movie/350/credits -> 200
+2026-05-05 14:30:55,886 - INFO - Collected: The Devil Wears Prada (id=350)
+2026-05-05 14:30:56,082 - INFO - GET movie/936075 -> 200
+2026-05-05 14:30:56,332 - INFO - GET movie/936075/credits -> 200
+2026-05-05 14:30:56,332 - INFO - Collected: Michael (id=936075)
+2026-05-05 14:30:56,594 - INFO - GET movie/1523145 -> 200
+2026-05-05 14:30:56,887 - INFO - GET movie/1523145/credits -> 200
+2026-05-05 14:30:56,888 - INFO - Collected: Your Heart Will Be Broken (id=1523145)
+2026-05-05 14:30:57,106 - INFO - GET movie/1314481 -> 200
+2026-05-05 14:30:57,355 - INFO - GET movie/1314481/credits -> 200
+2026-05-05 14:30:57,356 - INFO - Collected: The Devil Wears Prada 2 (id=1314481)
+2026-05-05 14:30:57,754 - INFO - GET movie/1292695 -> 200
+2026-05-05 14:30:57,867 - INFO - GET movie/1292695/credits -> 200
+2026-05-05 14:30:57,868 - INFO - Collected: They Will Kill You (id=1292695)
+2026-05-05 14:30:58,131 - INFO - GET movie/1327819 -> 200
+2026-05-05 14:30:58,391 - INFO - GET movie/1327819/credits -> 200
+2026-05-05 14:30:58,392 - INFO - Collected: Hoppers (id=1327819)
+2026-05-05 14:30:58,644 - INFO - GET movie/83533 -> 200
+2026-05-05 14:30:58,952 - INFO - GET movie/83533/credits -> 200
+2026-05-05 14:30:58,953 - INFO - Collected: Avatar: Fire and Ash (id=83533)
+2026-05-05 14:30:59,191 - INFO - GET movie/1613798 -> 200
+2026-05-05 14:30:59,391 - INFO - GET movie/1613798/credits -> 200
+2026-05-05 14:30:59,391 - INFO - Collected: Vengeance (id=1613798)
+2026-05-05 14:30:59,666 - INFO - GET movie/980431 -> 200
+2026-05-05 14:30:59,977 - INFO - GET movie/980431/credits -> 200
+2026-05-05 14:30:59,978 - INFO - Collected: Avatar Aang: The Last Airbender (id=980431)
+2026-05-05 14:31:00,152 - INFO - GET movie/1297842 -> 200
+2026-05-05 14:31:00,413 - INFO - GET movie/1297842/credits -> 200
+2026-05-05 14:31:00,414 - INFO - Collected: GOAT (id=1297842)
+2026-05-05 14:31:00,659 - INFO - GET movie/687163 -> 200
+2026-05-05 14:31:01,104 - INFO - GET movie/687163/credits -> 200
+2026-05-05 14:31:01,106 - INFO - Collected: Project Hail Mary (id=687163)
+2026-05-05 14:31:01,217 - INFO - GET movie/1669050 -> 200
+2026-05-05 14:31:01,510 - INFO - GET movie/1669050/credits -> 200
+2026-05-05 14:31:01,510 - INFO - Collected: Tayuan 2 (id=1669050)
+2026-05-05 14:31:01,753 - INFO - GET movie/1290821 -> 200
+2026-05-05 14:31:01,969 - INFO - GET movie/1290821/credits -> 200
+2026-05-05 14:31:01,969 - INFO - Collected: Shelter (id=1290821)
+2026-05-05 14:31:02,227 - INFO - GET movie/1311031 -> 200
+2026-05-05 14:31:02,487 - INFO - GET movie/1311031/credits -> 200
+2026-05-05 14:31:02,489 - INFO - Collected: Demon Slayer: Kimetsu no Yaiba Infinity Castle (id=1311031)
+2026-05-05 14:31:02,737 - INFO - GET movie/1510745 -> 200
+2026-05-05 14:31:02,983 - INFO - GET movie/1510745/credits -> 200
+2026-05-05 14:31:02,983 - INFO - Collected: Bodycam (id=1510745)
+2026-05-05 14:31:03,235 - INFO - GET movie/1414413 -> 200
+2026-05-05 14:31:03,492 - INFO - GET movie/1414413/credits -> 200
+2026-05-05 14:31:03,492 - INFO - Collected: Brothers Under Fire (id=1414413)
+2026-05-05 14:31:03,762 - INFO - GET movie/1352874 -> 200
+2026-05-05 14:31:04,029 - INFO - GET movie/1352874/credits -> 200
+2026-05-05 14:31:04,030 - INFO - Collected: The Crucifix: Blood of the Exorcist (id=1352874)
+2026-05-05 14:31:04,242 - INFO - GET movie/1084242 -> 200
+2026-05-05 14:31:04,504 - INFO - GET movie/1084242/credits -> 200
+2026-05-05 14:31:04,507 - INFO - Collected: Zootopia 2 (id=1084242)
+2026-05-05 14:31:04,753 - INFO - GET movie/440249 -> 200
+2026-05-05 14:31:05,048 - INFO - GET movie/440249/credits -> 200
+2026-05-05 14:31:05,049 - INFO - Collected: After Porn Ends 2 (id=440249)
+2026-05-05 14:31:05,258 - INFO - GET movie/1242898 -> 200
+2026-05-05 14:31:05,504 - INFO - GET movie/1242898/credits -> 200
+2026-05-05 14:31:05,505 - INFO - Collected: Predator: Badlands (id=1242898)
+2026-05-05 14:31:05,811 - INFO - GET movie/1171145 -> 200
+2026-05-05 14:31:06,015 - INFO - GET movie/1171145/credits -> 200
+2026-05-05 14:31:06,016 - INFO - Collected: Crime 101 (id=1171145)
+2026-05-05 14:31:06,270 - INFO - GET movie/1207162 -> 200
+2026-05-05 14:31:06,533 - INFO - GET movie/1207162/credits -> 200
+2026-05-05 14:31:06,533 - INFO - Collected: Rise of the Conqueror (id=1207162)
+2026-05-05 14:31:06,780 - INFO - GET movie/318256 -> 200
+2026-05-05 14:31:07,026 - INFO - GET movie/318256/credits -> 200
+2026-05-05 14:31:07,026 - INFO - Collected: Hot Girls Wanted (id=318256)
+2026-05-05 14:31:07,289 - INFO - GET movie/1470130 -> 200
+2026-05-05 14:31:07,543 - INFO - GET movie/1470130/credits -> 200
+2026-05-05 14:31:07,543 - INFO - Collected: The Mortuary Assistant (id=1470130)
+2026-05-05 14:31:07,858 - INFO - GET movie/1173559 -> 200
+2026-05-05 14:31:08,040 - INFO - GET movie/1173559/credits -> 200
+2026-05-05 14:31:08,041 - INFO - Collected: Insidious Inferno (id=1173559)
+2026-05-05 14:31:08,366 - INFO - GET movie/755898 -> 200
+2026-05-05 14:31:08,559 - INFO - GET movie/755898/credits -> 200
+2026-05-05 14:31:08,559 - INFO - Collected: War of the Worlds (id=755898)
+2026-05-05 14:31:08,883 - INFO - GET movie/1419406 -> 200
+2026-05-05 14:31:09,060 - INFO - GET movie/1419406/credits -> 200
+2026-05-05 14:31:09,061 - INFO - Collected: The Shadow's Edge (id=1419406)
+2026-05-05 14:31:09,318 - INFO - GET movie/1368166 -> 200
+2026-05-05 14:31:09,618 - INFO - GET movie/1368166/credits -> 200
+2026-05-05 14:31:09,619 - INFO - Collected: The Housemaid (id=1368166)
+2026-05-05 14:31:09,880 - INFO - GET movie/1292662 -> 200
+2026-05-05 14:31:10,079 - INFO - GET movie/1292662/credits -> 200
+2026-05-05 14:31:10,079 - INFO - Collected: Slaughterhouse On The Hill (id=1292662)
+2026-05-05 14:31:10,386 - INFO - GET movie/73353 -> 200
+2026-05-05 14:31:10,596 - INFO - GET movie/73353/credits -> 200
+2026-05-05 14:31:10,596 - INFO - Collected: Man in the Mirror: The Michael Jackson Story (id=73353)
+2026-05-05 14:31:10,931 - INFO - GET movie/1579 -> 200
+2026-05-05 14:31:11,105 - INFO - GET movie/1579/credits -> 200
+2026-05-05 14:31:11,107 - INFO - Collected: Apocalypto (id=1579)
+2026-05-05 14:31:11,353 - INFO - GET movie/1641319 -> 200
+2026-05-05 14:31:11,611 - INFO - GET movie/1641319/credits -> 200
+2026-05-05 14:31:11,612 - INFO - Collected: Sniper: No Nation (id=1641319)
+2026-05-05 14:31:11,858 - INFO - GET movie/1241752 -> 200
+2026-05-05 14:31:12,107 - INFO - GET movie/1241752/credits -> 200
+2026-05-05 14:31:12,108 - INFO - Collected: Rita (id=1241752)
+2026-05-05 14:31:12,366 - INFO - GET movie/1159559 -> 200
+2026-05-05 14:31:12,622 - INFO - GET movie/1159559/credits -> 200
+2026-05-05 14:31:12,623 - INFO - Collected: Scream 7 (id=1159559)
+2026-05-05 14:31:12,875 - INFO - GET movie/1270125 -> 200
+2026-05-05 14:31:13,139 - INFO - GET movie/1270125/credits -> 200
+2026-05-05 14:31:13,140 - INFO - Collected: Monster on a Plane (id=1270125)
+2026-05-05 14:31:13,379 - INFO - GET movie/1084577 -> 200
+2026-05-05 14:31:13,637 - INFO - GET movie/1084577/credits -> 200
+2026-05-05 14:31:13,638 - INFO - Collected: Balls Up (id=1084577)
+2026-05-05 14:31:14,159 - INFO - GET movie/1087040 -> 200
+2026-05-05 14:31:14,267 - INFO - GET movie/1087040/credits -> 200
+2026-05-05 14:31:14,267 - INFO - Collected: Money Shot: The Pornhub Story (id=1087040)
+2026-05-05 14:31:14,516 - INFO - GET movie/1499885 -> 200
+2026-05-05 14:31:14,822 - INFO - GET movie/1499885/credits -> 200
+2026-05-05 14:31:14,823 - INFO - Collected: The Red Book Ritual: Gates of Hell (id=1499885)
+2026-05-05 14:31:15,027 - INFO - GET movie/840464 -> 200
+2026-05-05 14:31:15,336 - INFO - GET movie/840464/credits -> 200
+2026-05-05 14:31:15,336 - INFO - Collected: Greenland 2: Migration (id=840464)
+2026-05-05 14:31:15,536 - INFO - GET movie/157336 -> 200
+2026-05-05 14:31:15,798 - INFO - GET movie/157336/credits -> 200
+2026-05-05 14:31:15,800 - INFO - Collected: Interstellar (id=157336)
+2026-05-05 14:31:16,045 - INFO - GET movie/458293 -> 200
+2026-05-05 14:31:16,358 - INFO - GET movie/458293/credits -> 200
+2026-05-05 14:31:16,359 - INFO - Collected: Michael Jackson: Searching for Neverland (id=458293)
+2026-05-05 14:31:16,544 - INFO - GET movie/1215106 -> 200
+2026-05-05 14:31:16,799 - INFO - GET movie/1215106/credits -> 200
+2026-05-05 14:31:16,800 - INFO - Collected: Ko Ga Loak Village (id=1215106)
+2026-05-05 14:31:17,057 - INFO - GET movie/848116 -> 200
+2026-05-05 14:31:17,386 - INFO - GET movie/848116/credits -> 200
+2026-05-05 14:31:17,386 - INFO - Collected: Rocky Aur Rani Kii Prem Kahaani (id=848116)
+2026-05-05 14:31:17,571 - INFO - GET movie/7451 -> 200
+2026-05-05 14:31:17,868 - INFO - GET movie/7451/credits -> 200
+2026-05-05 14:31:17,870 - INFO - Collected: xXx (id=7451)
+2026-05-05 14:31:18,116 - INFO - GET movie/1234731 -> 200
+2026-05-05 14:31:18,409 - INFO - GET movie/1234731/credits -> 200
+2026-05-05 14:31:18,410 - INFO - Collected: Anaconda (id=1234731)
+2026-05-05 14:31:18,413 - INFO - Saved 50 records to data/raw/tmdb/movies.json

@@ -1,0 +1,14 @@
+2026-04-25 21:22:14,492 - INFO - Loaded 50 TMDB and 50 IMDb records
+2026-04-25 21:22:14,494 - INFO - Merged dataframe: 50 rows, 19 columns
+2026-04-25 21:22:14,497 - INFO - Removed 0 duplicate rows
+2026-04-25 21:22:14,497 - INFO - Clean dataframe: 50 rows
+2026-04-25 21:22:14,505 - INFO - Saved processed data to data/processed/movies.csv and data/processed/movies.json
+2026-04-26 20:48:41,730 - INFO - Loaded 50 TMDB and 50 IMDb records
+2026-04-26 20:48:41,733 - INFO - Merged dataframe: 50 rows, 19 columns
+2026-04-26 20:48:41,736 - INFO - Removed 0 duplicate rows
+2026-04-26 20:48:41,736 - INFO - Clean dataframe: 50 rows
+2026-04-26 20:48:41,739 - INFO - Saved processed data to data/processed/movies.csv and data/processed/movies.json
+2026-05-05 14:33:15,895 - INFO - Loaded 50 TMDB and 50 Letterboxd records
+2026-05-05 14:33:15,900 - INFO - Merged dataframe: 50 rows, 20 columns
+2026-05-05 14:33:15,902 - INFO - Removed 0 duplicate rows; final: 50
+2026-05-05 14:33:15,904 - INFO - Saved to data/processed/movies.csv and data/processed/movies.json

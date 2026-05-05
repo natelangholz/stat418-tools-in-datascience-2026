@@ -1,0 +1,21 @@
+2026-04-25 21:23:30,776 - INFO - Loaded 50 rows from data/processed/movies.csv
+2026-04-25 21:23:31,403 - INFO - Saved plot: data/analysis/1_rating_analysis.png
+2026-04-25 21:23:31,403 - INFO - Rating correlation TMDB-IMDb: 0.898
+2026-04-25 21:23:31,508 - INFO - Saved plot: data/analysis/2_genre_analysis.png
+2026-04-25 21:23:31,608 - INFO - Saved plot: data/analysis/3_financial_analysis.png
+2026-04-25 21:23:31,608 - INFO - Budget-revenue correlation: 0.614 over 29 movies
+2026-04-25 21:23:31,675 - INFO - Saved plot: data/analysis/4_temporal_analysis.png
+2026-04-26 20:48:49,581 - INFO - Loaded 50 rows from data/processed/movies.csv
+2026-04-26 20:48:50,199 - INFO - Saved plot: data/analysis/1_rating_analysis.png
+2026-04-26 20:48:50,199 - INFO - Rating correlation TMDB-IMDb: 0.896
+2026-04-26 20:48:50,307 - INFO - Saved plot: data/analysis/2_genre_analysis.png
+2026-04-26 20:48:50,410 - INFO - Saved plot: data/analysis/3_financial_analysis.png
+2026-04-26 20:48:50,410 - INFO - Budget-revenue correlation: 0.634 over 29 movies
+2026-04-26 20:48:50,473 - INFO - Saved plot: data/analysis/4_temporal_analysis.png
+2026-05-05 14:33:16,536 - INFO - Loaded 50 rows from data/processed/movies.csv
+2026-05-05 14:33:16,818 - INFO - Saved plot: data/analysis/1_rating_analysis.png
+2026-05-05 14:33:16,818 - INFO - Rating correlation TMDB-Letterboxd: 0.705
+2026-05-05 14:33:16,906 - INFO - Saved plot: data/analysis/2_genre_analysis.png
+2026-05-05 14:33:16,992 - INFO - Saved plot: data/analysis/3_financial_analysis.png
+2026-05-05 14:33:16,992 - INFO - Budget-revenue correlation: 0.620 over 23 movies
+2026-05-05 14:33:17,075 - INFO - Saved plot: data/analysis/4_temporal_analysis.png

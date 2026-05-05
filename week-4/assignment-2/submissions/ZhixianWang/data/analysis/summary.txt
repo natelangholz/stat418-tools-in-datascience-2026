@@ -1,0 +1,14 @@
+# Analysis Summary Report
+
+**Total movies analysed:** 50
+**Movies with Letterboxd ratings:** 38
+**Movies with financial data:** 23
+
+## Key Findings
+
+- TMDB ↔ Letterboxd rating correlation: **0.705**
+- Most common genre: **Drama**
+- Highest-rated genre (Letterboxd): **Animation**
+- Budget ↔ Revenue correlation: **0.62**
+- Most profitable movie: **Zootopia 2**
+- Best-rated release year: **2014**

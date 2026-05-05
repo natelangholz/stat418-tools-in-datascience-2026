@@ -1,0 +1,19 @@
+2026-04-25 21:25:18,180 - INFO - Pipeline started
+2026-04-25 21:25:18,180 - INFO - Starting stage: Stage 3 — Data Processing & Merge
+2026-04-25 21:25:18,331 - INFO - Loaded 50 TMDB and 50 IMDb records
+2026-04-25 21:25:18,332 - INFO - Merged dataframe: 50 rows, 19 columns
+2026-04-25 21:25:18,334 - INFO - Removed 0 duplicate rows
+2026-04-25 21:25:18,334 - INFO - Clean dataframe: 50 rows
+2026-04-25 21:25:18,337 - INFO - Saved processed data to data/processed/movies.csv and data/processed/movies.json
+2026-04-25 21:25:18,337 - INFO - Stage 3 complete
+2026-04-25 21:25:18,337 - INFO - Starting stage: Stage 4 — Analysis & Visualizations
+2026-04-25 21:25:18,484 - INFO - Loaded 50 rows from data/processed/movies.csv
+2026-04-25 21:25:18,645 - INFO - Saved plot: data/analysis/1_rating_analysis.png
+2026-04-25 21:25:18,645 - INFO - Rating correlation TMDB-IMDb: 0.898
+2026-04-25 21:25:18,729 - INFO - Saved plot: data/analysis/2_genre_analysis.png
+2026-04-25 21:25:18,828 - INFO - Saved plot: data/analysis/3_financial_analysis.png
+2026-04-25 21:25:18,828 - INFO - Budget-revenue correlation: 0.614 over 29 movies
+2026-04-25 21:25:18,893 - INFO - Saved plot: data/analysis/4_temporal_analysis.png
+2026-04-25 21:25:18,893 - INFO - Stage 4 complete
+2026-04-25 21:25:18,893 - INFO - Starting stage: Pipeline complete in 0.7s
+2026-04-25 21:25:18,893 - INFO - Pipeline finished in 0.7s

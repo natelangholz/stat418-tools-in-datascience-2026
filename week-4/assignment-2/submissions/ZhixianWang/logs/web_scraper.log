@@ -1,0 +1,258 @@
+2026-04-25 20:54:32,993 - INFO - robots.txt check -> can_fetch=True
+2026-04-25 20:54:33,036 - WARNING - IMDb WAF challenge for tt28650488 (status 202)
+2026-04-25 20:54:35,084 - INFO - OMDb fetched tt28650488
+2026-04-25 20:54:37,023 - WARNING - IMDb WAF challenge for tt38190257 (status 202)
+2026-04-25 20:54:39,087 - INFO - OMDb fetched tt38190257
+2026-04-25 20:54:41,028 - WARNING - IMDb WAF challenge for tt8036976 (status 202)
+2026-04-25 20:54:43,093 - INFO - OMDb fetched tt8036976
+2026-04-25 20:54:45,033 - WARNING - IMDb WAF challenge for tt18259538 (status 202)
+2026-04-25 20:54:47,108 - INFO - OMDb fetched tt18259538
+2026-04-25 20:54:49,041 - WARNING - IMDb WAF challenge for tt1757678 (status 202)
+2026-04-25 20:54:51,101 - INFO - OMDb fetched tt1757678
+2026-04-25 20:54:53,050 - WARNING - IMDb WAF challenge for tt37989803 (status 202)
+2026-04-25 20:54:55,104 - INFO - OMDb fetched tt37989803
+2026-04-25 20:54:57,057 - WARNING - IMDb WAF challenge for tt16431404 (status 202)
+2026-04-25 20:54:59,118 - INFO - OMDb fetched tt16431404
+2026-04-25 20:55:01,071 - WARNING - IMDb WAF challenge for tt12042730 (status 202)
+2026-04-25 20:55:03,133 - INFO - OMDb fetched tt12042730
+2026-04-25 20:55:05,073 - WARNING - IMDb WAF challenge for tt11378946 (status 202)
+2026-04-25 20:55:07,141 - INFO - OMDb fetched tt11378946
+2026-04-25 20:55:09,076 - WARNING - IMDb WAF challenge for tt36647890 (status 202)
+2026-04-25 20:55:11,128 - INFO - OMDb fetched tt36647890
+2026-04-25 20:55:13,083 - WARNING - IMDb WAF challenge for tt32357218 (status 202)
+2026-04-25 20:55:15,159 - INFO - OMDb fetched tt32357218
+2026-04-25 20:55:17,091 - WARNING - IMDb WAF challenge for tt26443616 (status 202)
+2026-04-25 20:55:19,157 - INFO - OMDb fetched tt26443616
+2026-04-25 20:55:21,095 - WARNING - IMDb WAF challenge for tt32059878 (status 202)
+2026-04-25 20:55:23,168 - INFO - OMDb fetched tt32059878
+2026-04-25 20:55:25,101 - WARNING - IMDb WAF challenge for tt27613895 (status 202)
+2026-04-25 20:55:27,174 - INFO - OMDb fetched tt27613895
+2026-04-25 20:55:29,107 - WARNING - IMDb WAF challenge for tt32430579 (status 202)
+2026-04-25 20:55:31,168 - INFO - OMDb fetched tt32430579
+2026-04-25 20:55:33,115 - WARNING - IMDb WAF challenge for tt32612507 (status 202)
+2026-04-25 20:55:35,166 - INFO - OMDb fetched tt32612507
+2026-04-25 20:55:37,127 - WARNING - IMDb WAF challenge for tt39538786 (status 202)
+2026-04-25 20:55:39,184 - INFO - OMDb fetched tt39538786
+2026-04-25 20:55:41,133 - WARNING - IMDb WAF challenge for tt14850054 (status 202)
+2026-04-25 20:55:43,179 - INFO - OMDb fetched tt14850054
+2026-04-25 20:55:45,136 - WARNING - IMDb WAF challenge for tt32820897 (status 202)
+2026-04-25 20:55:47,196 - INFO - OMDb fetched tt32820897
+2026-04-25 20:55:49,132 - WARNING - IMDb WAF challenge for tt26735622 (status 202)
+2026-04-25 20:55:51,191 - WARNING - OMDb returned no result for tt26735622: Error getting data.
+2026-04-25 20:55:53,136 - WARNING - IMDb WAF challenge for tt32362890 (status 202)
+2026-04-25 20:55:55,196 - INFO - OMDb fetched tt32362890
+2026-04-25 20:55:57,146 - WARNING - IMDb WAF challenge for tt14993250 (status 202)
+2026-04-25 20:55:59,200 - INFO - OMDb fetched tt14993250
+2026-04-25 20:56:01,149 - WARNING - IMDb WAF challenge for tt28682323 (status 202)
+2026-04-25 20:56:03,212 - INFO - OMDb fetched tt28682323
+2026-04-25 20:56:05,154 - WARNING - IMDb WAF challenge for tt0458352 (status 202)
+2026-04-25 20:56:07,223 - INFO - OMDb fetched tt0458352
+2026-04-25 20:56:09,164 - WARNING - IMDb WAF challenge for tt35979013 (status 202)
+2026-04-25 20:56:11,236 - INFO - OMDb fetched tt35979013
+2026-04-25 20:56:13,174 - WARNING - IMDb WAF challenge for tt26443597 (status 202)
+2026-04-25 20:56:15,233 - INFO - OMDb fetched tt26443597
+2026-04-25 20:56:17,180 - WARNING - IMDb WAF challenge for tt6718170 (status 202)
+2026-04-25 20:56:19,237 - INFO - OMDb fetched tt6718170
+2026-04-25 20:56:21,190 - WARNING - IMDb WAF challenge for tt27047903 (status 202)
+2026-04-25 20:56:23,250 - INFO - OMDb fetched tt27047903
+2026-04-25 20:56:25,203 - WARNING - IMDb WAF challenge for tt35892608 (status 202)
+2026-04-25 20:56:27,254 - INFO - OMDb fetched tt35892608
+2026-04-25 20:56:29,199 - WARNING - IMDb WAF challenge for tt27543632 (status 202)
+2026-04-25 20:56:31,260 - INFO - OMDb fetched tt27543632
+2026-04-25 20:56:33,207 - WARNING - IMDb WAF challenge for tt34610311 (status 202)
+2026-04-25 20:56:35,270 - INFO - OMDb fetched tt34610311
+2026-04-25 20:56:37,216 - WARNING - IMDb WAF challenge for tt1764551 (status 202)
+2026-04-25 20:56:39,271 - INFO - OMDb fetched tt1764551
+2026-04-25 20:56:41,225 - WARNING - IMDb WAF challenge for tt29550683 (status 202)
+2026-04-25 20:56:43,285 - INFO - OMDb fetched tt29550683
+2026-04-25 20:56:45,230 - WARNING - IMDb WAF challenge for tt13186306 (status 202)
+2026-04-25 20:56:47,295 - INFO - OMDb fetched tt13186306
+2026-04-25 20:56:49,240 - WARNING - IMDb WAF challenge for tt33244668 (status 202)
+2026-04-25 20:56:51,303 - INFO - OMDb fetched tt33244668
+2026-04-25 20:56:53,246 - WARNING - IMDb WAF challenge for tt15940132 (status 202)
+2026-04-25 20:56:55,312 - INFO - OMDb fetched tt15940132
+2026-04-25 20:56:57,254 - WARNING - IMDb WAF challenge for tt40891145 (status 202)
+2026-04-25 20:56:59,311 - INFO - OMDb fetched tt40891145
+2026-04-25 20:57:01,263 - WARNING - IMDb WAF challenge for tt10872600 (status 202)
+2026-04-25 20:57:03,330 - INFO - OMDb fetched tt10872600
+2026-04-25 20:57:05,277 - WARNING - IMDb WAF challenge for tt31227572 (status 202)
+2026-04-25 20:57:07,330 - INFO - OMDb fetched tt31227572
+2026-04-25 20:57:09,283 - WARNING - IMDb WAF challenge for tt0213847 (status 202)
+2026-04-25 20:57:11,339 - INFO - OMDb fetched tt0213847
+2026-04-25 20:57:13,283 - WARNING - IMDb WAF challenge for tt37540875 (status 202)
+2026-04-25 20:57:15,344 - INFO - OMDb fetched tt37540875
+2026-04-25 20:57:17,302 - WARNING - IMDb WAF challenge for tt14500286 (status 202)
+2026-04-25 20:57:19,358 - INFO - OMDb fetched tt14500286
+2026-04-25 20:57:21,307 - WARNING - IMDb WAF challenge for tt5168832 (status 202)
+2026-04-25 20:57:23,368 - INFO - OMDb fetched tt5168832
+2026-04-25 20:57:25,311 - WARNING - IMDb WAF challenge for tt0295701 (status 202)
+2026-04-25 20:57:27,379 - INFO - OMDb fetched tt0295701
+2026-04-25 20:57:29,322 - WARNING - IMDb WAF challenge for tt22868010 (status 202)
+2026-04-25 20:57:31,378 - INFO - OMDb fetched tt22868010
+2026-04-25 20:57:33,328 - WARNING - IMDb WAF challenge for tt1742179 (status 202)
+2026-04-25 20:57:35,387 - INFO - OMDb fetched tt1742179
+2026-04-25 20:57:37,337 - WARNING - IMDb WAF challenge for tt33714084 (status 202)
+2026-04-25 20:57:39,398 - INFO - OMDb fetched tt33714084
+2026-04-25 20:57:41,337 - WARNING - IMDb WAF challenge for tt0816692 (status 202)
+2026-04-25 20:57:43,402 - INFO - OMDb fetched tt0816692
+2026-04-25 20:57:45,357 - WARNING - IMDb WAF challenge for tt26678938 (status 202)
+2026-04-25 20:57:47,410 - INFO - OMDb fetched tt26678938
+2026-04-25 20:57:49,352 - WARNING - IMDb WAF challenge for tt27552099 (status 202)
+2026-04-25 20:57:51,411 - INFO - OMDb fetched tt27552099
+2026-04-25 20:57:51,412 - INFO - Saved 50 records to data/raw/imdb/ratings.json
+2026-04-26 20:41:32,564 - INFO - robots.txt check -> can_fetch=True
+2026-04-26 20:41:32,621 - WARNING - IMDb WAF challenge for tt28650488 (status 202)
+2026-04-26 20:41:34,708 - INFO - OMDb fetched tt28650488
+2026-04-26 20:41:36,602 - WARNING - IMDb WAF challenge for tt16431404 (status 202)
+2026-04-26 20:41:38,839 - INFO - OMDb fetched tt16431404
+2026-04-26 20:41:40,862 - WARNING - IMDb WAF challenge for tt38190257 (status 202)
+2026-04-26 20:41:43,027 - INFO - OMDb fetched tt38190257
+2026-04-26 20:41:44,618 - WARNING - IMDb WAF challenge for tt8036976 (status 202)
+2026-04-26 20:41:46,675 - INFO - OMDb fetched tt8036976
+2026-04-26 20:41:48,631 - WARNING - IMDb WAF challenge for tt18259538 (status 202)
+2026-04-26 20:41:50,699 - INFO - OMDb fetched tt18259538
+2026-04-26 20:41:52,737 - WARNING - IMDb WAF challenge for tt1757678 (status 202)
+2026-04-26 20:41:54,833 - INFO - OMDb fetched tt1757678
+2026-04-26 20:41:56,649 - WARNING - IMDb WAF challenge for tt11378946 (status 202)
+2026-04-26 20:41:58,710 - INFO - OMDb fetched tt11378946
+2026-04-26 20:42:00,661 - WARNING - IMDb WAF challenge for tt37989803 (status 202)
+2026-04-26 20:42:02,759 - INFO - OMDb fetched tt37989803
+2026-04-26 20:42:04,666 - WARNING - IMDb WAF challenge for tt12042730 (status 202)
+2026-04-26 20:42:06,733 - INFO - OMDb fetched tt12042730
+2026-04-26 20:42:08,675 - WARNING - IMDb WAF challenge for tt26443616 (status 202)
+2026-04-26 20:42:10,815 - INFO - OMDb fetched tt26443616
+2026-04-26 20:42:12,682 - WARNING - IMDb WAF challenge for tt32357218 (status 202)
+2026-04-26 20:42:14,821 - INFO - OMDb fetched tt32357218
+2026-04-26 20:42:16,697 - WARNING - IMDb WAF challenge for tt32059878 (status 202)
+2026-04-26 20:42:18,758 - INFO - OMDb fetched tt32059878
+2026-04-26 20:42:20,707 - WARNING - IMDb WAF challenge for tt36647890 (status 202)
+2026-04-26 20:42:22,770 - INFO - OMDb fetched tt36647890
+2026-04-26 20:42:24,719 - WARNING - IMDb WAF challenge for tt27613895 (status 202)
+2026-04-26 20:42:26,887 - INFO - OMDb fetched tt27613895
+2026-04-26 20:42:28,718 - WARNING - IMDb WAF challenge for tt32430579 (status 202)
+2026-04-26 20:42:30,784 - INFO - OMDb fetched tt32430579
+2026-04-26 20:42:32,729 - WARNING - IMDb WAF challenge for tt32820897 (status 202)
+2026-04-26 20:42:34,783 - INFO - OMDb fetched tt32820897
+2026-04-26 20:42:36,774 - WARNING - IMDb WAF challenge for tt39538786 (status 202)
+2026-04-26 20:42:38,868 - INFO - OMDb fetched tt39538786
+2026-04-26 20:42:40,740 - WARNING - IMDb WAF challenge for tt32362890 (status 202)
+2026-04-26 20:42:42,826 - INFO - OMDb fetched tt32362890
+2026-04-26 20:42:44,755 - WARNING - IMDb WAF challenge for tt32612507 (status 202)
+2026-04-26 20:42:46,811 - INFO - OMDb fetched tt32612507
+2026-04-26 20:42:48,836 - WARNING - IMDb WAF challenge for tt35979013 (status 202)
+2026-04-26 20:42:50,968 - INFO - OMDb fetched tt35979013
+2026-04-26 20:42:52,780 - WARNING - IMDb WAF challenge for tt26735622 (status 202)
+2026-04-26 20:42:54,827 - WARNING - OMDb returned no result for tt26735622: Error getting data.
+2026-04-26 20:42:56,780 - WARNING - IMDb WAF challenge for tt26443597 (status 202)
+2026-04-26 20:42:58,850 - INFO - OMDb fetched tt26443597
+2026-04-26 20:43:00,947 - WARNING - IMDb WAF challenge for tt28682323 (status 202)
+2026-04-26 20:43:03,033 - INFO - OMDb fetched tt28682323
+2026-04-26 20:43:04,798 - WARNING - IMDb WAF challenge for tt14850054 (status 202)
+2026-04-26 20:43:06,865 - INFO - OMDb fetched tt14850054
+2026-04-26 20:43:08,805 - WARNING - IMDb WAF challenge for tt6718170 (status 202)
+2026-04-26 20:43:11,110 - INFO - OMDb fetched tt6718170
+2026-04-26 20:43:12,952 - WARNING - IMDb WAF challenge for tt27047903 (status 202)
+2026-04-26 20:43:15,116 - INFO - OMDb fetched tt27047903
+2026-04-26 20:43:16,836 - WARNING - IMDb WAF challenge for tt25868520 (status 202)
+2026-04-26 20:43:18,904 - INFO - OMDb fetched tt25868520
+2026-04-26 20:43:20,837 - WARNING - IMDb WAF challenge for tt0458352 (status 202)
+2026-04-26 20:43:22,999 - INFO - OMDb fetched tt0458352
+2026-04-26 20:43:24,846 - WARNING - IMDb WAF challenge for tt14993250 (status 202)
+2026-04-26 20:43:26,913 - INFO - OMDb fetched tt14993250
+2026-04-26 20:43:28,858 - WARNING - IMDb WAF challenge for tt0816692 (status 202)
+2026-04-26 20:43:30,924 - INFO - OMDb fetched tt0816692
+2026-04-26 20:43:32,864 - WARNING - IMDb WAF challenge for tt35892608 (status 202)
+2026-04-26 20:43:36,622 - INFO - OMDb fetched tt35892608
+2026-04-26 20:43:37,071 - WARNING - IMDb WAF challenge for tt0213847 (status 202)
+2026-04-26 20:43:38,937 - INFO - OMDb fetched tt0213847
+2026-04-26 20:43:40,877 - WARNING - IMDb WAF challenge for tt34610311 (status 202)
+2026-04-26 20:43:42,950 - INFO - OMDb fetched tt34610311
+2026-04-26 20:43:44,941 - WARNING - IMDb WAF challenge for tt1764551 (status 202)
+2026-04-26 20:43:47,067 - INFO - OMDb fetched tt1764551
+2026-04-26 20:43:48,908 - WARNING - IMDb WAF challenge for tt31227572 (status 202)
+2026-04-26 20:43:50,961 - INFO - OMDb fetched tt31227572
+2026-04-26 20:43:52,917 - WARNING - IMDb WAF challenge for tt13186306 (status 202)
+2026-04-26 20:43:54,978 - INFO - OMDb fetched tt13186306
+2026-04-26 20:43:56,929 - WARNING - IMDb WAF challenge for tt5168832 (status 202)
+2026-04-26 20:43:58,984 - INFO - OMDb fetched tt5168832
+2026-04-26 20:44:00,937 - WARNING - IMDb WAF challenge for tt33244668 (status 202)
+2026-04-26 20:44:03,006 - INFO - OMDb fetched tt33244668
+2026-04-26 20:44:04,949 - WARNING - IMDb WAF challenge for tt29550683 (status 202)
+2026-04-26 20:44:06,996 - INFO - OMDb fetched tt29550683
+2026-04-26 20:44:08,958 - WARNING - IMDb WAF challenge for tt27543632 (status 202)
+2026-04-26 20:44:11,020 - INFO - OMDb fetched tt27543632
+2026-04-26 20:44:12,962 - WARNING - IMDb WAF challenge for tt15940132 (status 202)
+2026-04-26 20:44:15,027 - INFO - OMDb fetched tt15940132
+2026-04-26 20:44:16,971 - WARNING - IMDb WAF challenge for tt0295701 (status 202)
+2026-04-26 20:44:19,024 - INFO - OMDb fetched tt0295701
+2026-04-26 20:44:20,986 - WARNING - IMDb WAF challenge for tt27552099 (status 202)
+2026-04-26 20:44:23,041 - INFO - OMDb fetched tt27552099
+2026-04-26 20:44:24,993 - WARNING - IMDb WAF challenge for tt36332085 (status 202)
+2026-04-26 20:44:27,052 - INFO - OMDb fetched tt36332085
+2026-04-26 20:44:29,001 - WARNING - IMDb WAF challenge for tt40891145 (status 202)
+2026-04-26 20:44:31,061 - INFO - OMDb fetched tt40891145
+2026-04-26 20:44:33,004 - WARNING - IMDb WAF challenge for tt22868010 (status 202)
+2026-04-26 20:44:35,060 - INFO - OMDb fetched tt22868010
+2026-04-26 20:44:37,015 - WARNING - IMDb WAF challenge for tt10872600 (status 202)
+2026-04-26 20:44:39,068 - INFO - OMDb fetched tt10872600
+2026-04-26 20:44:41,019 - WARNING - IMDb WAF challenge for tt14500286 (status 202)
+2026-04-26 20:44:43,184 - INFO - OMDb fetched tt14500286
+2026-04-26 20:44:45,016 - WARNING - IMDb WAF challenge for tt33714084 (status 202)
+2026-04-26 20:44:47,085 - INFO - OMDb fetched tt33714084
+2026-04-26 20:44:49,026 - WARNING - IMDb WAF challenge for tt37540875 (status 202)
+2026-04-26 20:44:51,093 - INFO - OMDb fetched tt37540875
+2026-04-26 20:44:51,095 - INFO - Saved 50 records to data/raw/imdb/ratings.json
+2026-05-05 14:24:35,462 - INFO - robots.txt check -> can_fetch=False
+2026-05-05 14:26:29,096 - INFO - robots.txt check -> /film/ allowed=True
+2026-05-05 14:31:23,388 - INFO - robots.txt check -> /film/ allowed=True
+2026-05-05 14:31:23,510 - INFO - Scraped the-super-mario-galaxy-movie -> rating=2.91 fans=782
+2026-05-05 14:31:25,556 - INFO - Scraped apex -> rating=2.84 fans=None
+2026-05-05 14:31:27,544 - INFO - Scraped swapped -> rating=None fans=None
+2026-05-05 14:31:29,863 - INFO - Scraped malena -> rating=3.58 fans=2400
+2026-05-05 14:31:31,749 - INFO - Scraped send-help -> rating=3.4 fans=753
+2026-05-05 14:31:33,501 - INFO - Scraped the-devil-wears-prada -> rating=3.83 fans=77000
+2026-05-05 14:31:35,680 - INFO - Scraped michael -> rating=3.52 fans=16
+2026-05-05 14:31:37,582 - INFO - Scraped your-heart-will-be-broken -> rating=2.05 fans=33
+2026-05-05 14:31:39,526 - INFO - Scraped the-devil-wears-prada-2 -> rating=3.36 fans=705
+2026-05-05 14:31:41,527 - INFO - Scraped they-will-kill-you -> rating=2.98 fans=150
+2026-05-05 14:31:43,514 - INFO - Scraped hoppers -> rating=3.78 fans=1500
+2026-05-05 14:31:45,804 - INFO - Scraped avatar-fire-and-ash -> rating=3.55 fans=8200
+2026-05-05 14:31:47,770 - INFO - Scraped vengeance -> rating=3.49 fans=8
+2026-05-05 14:31:49,662 - INFO - Scraped avatar-aang-the-last-airbender -> rating=None fans=None
+2026-05-05 14:31:51,530 - INFO - Scraped goat -> rating=None fans=None
+2026-05-05 14:31:53,552 - INFO - Scraped project-hail-mary -> rating=4.32 fans=105000
+2026-05-05 14:31:55,548 - INFO - Scraped tayuan-2 -> rating=None fans=None
+2026-05-05 14:31:57,903 - INFO - Scraped shelter -> rating=3.61 fans=594
+2026-05-05 14:31:59,569 - INFO - Scraped demon-slayer-kimetsu-no-yaiba-infinity-castle -> rating=4.04 fans=5000
+2026-05-05 14:32:01,638 - INFO - Scraped bodycam -> rating=None fans=None
+2026-05-05 14:32:03,857 - INFO - Scraped brothers-under-fire -> rating=2.91 fans=None
+2026-05-05 14:32:05,729 - INFO - Scraped the-crucifix-blood-of-the-exorcist -> rating=2.3 fans=None
+2026-05-05 14:32:07,602 - INFO - Scraped zootopia-2 -> rating=3.69 fans=4300
+2026-05-05 14:32:09,841 - INFO - Scraped after-porn-ends-2 -> rating=2.88 fans=3
+2026-05-05 14:32:11,592 - INFO - Scraped predator-badlands -> rating=3.5 fans=527
+2026-05-05 14:32:13,755 - INFO - Scraped crime-101 -> rating=3.1 fans=118
+2026-05-05 14:32:15,979 - INFO - Scraped rise-of-the-conqueror -> rating=3.19 fans=None
+2026-05-05 14:32:18,056 - INFO - Scraped hot-girls-wanted -> rating=2.99 fans=2
+2026-05-05 14:32:19,864 - INFO - Scraped the-mortuary-assistant -> rating=1.56 fans=5
+2026-05-05 14:32:21,983 - INFO - Scraped insidious-inferno -> rating=None fans=None
+2026-05-05 14:32:23,791 - INFO - Scraped war-of-the-worlds -> rating=3.35 fans=2500
+2026-05-05 14:32:25,534 - WARNING - HTTP 404 for https://letterboxd.com/film/the-shadow-s-edge/
+2026-05-05 14:32:28,099 - INFO - Scraped the-housemaid -> rating=3.75 fans=77
+2026-05-05 14:32:30,114 - INFO - Scraped slaughterhouse-on-the-hill -> rating=None fans=None
+2026-05-05 14:32:32,131 - INFO - Scraped man-in-the-mirror-the-michael-jackson-story -> rating=2.49 fans=None
+2026-05-05 14:32:33,606 - INFO - Scraped apocalypto -> rating=3.85 fans=3300
+2026-05-05 14:32:35,932 - INFO - Scraped sniper-no-nation -> rating=2.99 fans=1
+2026-05-05 14:32:37,688 - INFO - Scraped rita -> rating=None fans=None
+2026-05-05 14:32:39,621 - INFO - Scraped scream-7 -> rating=2.23 fans=262
+2026-05-05 14:32:42,237 - INFO - Scraped monster-on-a-plane -> rating=2.11 fans=1
+2026-05-05 14:32:43,727 - INFO - Scraped balls-up -> rating=None fans=None
+2026-05-05 14:32:45,731 - INFO - Scraped money-shot-the-pornhub-story -> rating=2.42 fans=9
+2026-05-05 14:32:47,779 - INFO - Scraped the-red-book-ritual-gates-of-hell -> rating=None fans=None
+2026-05-05 14:32:50,349 - INFO - Scraped greenland-2-migration -> rating=2.28 fans=20
+2026-05-05 14:32:52,323 - INFO - Scraped interstellar -> rating=4.44 fans=515000
+2026-05-05 14:32:53,777 - INFO - Scraped michael-jackson-searching-for-neverland -> rating=2.83 fans=8
+2026-05-05 14:32:56,138 - INFO - Scraped ko-ga-loak-village -> rating=None fans=None
+2026-05-05 14:32:58,381 - INFO - Scraped rocky-aur-rani-kii-prem-kahaani -> rating=3.61 fans=259
+2026-05-05 14:32:59,649 - INFO - Scraped xxx -> rating=2.54 fans=112
+2026-05-05 14:33:02,466 - INFO - Scraped anaconda -> rating=2.39 fans=121
+2026-05-05 14:33:02,467 - INFO - Saved 50 records to /Users/zachwang/stat418-tools-in-datascience-2026/week-4/assignment-2/submissions/ZhixianWang/data/raw/letterboxd/ratings.json

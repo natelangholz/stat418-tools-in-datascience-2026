@@ -1,0 +1,352 @@
+[
+  {
+    "imdb_id": "tt28650488",
+    "imdb_rating": 6.4,
+    "imdb_votes": 33056,
+    "metascore": 37,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt16431404",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt38190257",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt8036976",
+    "imdb_rating": 6.9,
+    "imdb_votes": 71618,
+    "metascore": 75,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt18259538",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt1757678",
+    "imdb_rating": 7.3,
+    "imdb_votes": 154292,
+    "metascore": 61,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt11378946",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt37989803",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt12042730",
+    "imdb_rating": 8.4,
+    "imdb_votes": 207175,
+    "metascore": 77,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt26443616",
+    "imdb_rating": 7.4,
+    "imdb_votes": 33601,
+    "metascore": 73,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt32357218",
+    "imdb_rating": 6.1,
+    "imdb_votes": 25305,
+    "metascore": 50,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt32059878",
+    "imdb_rating": null,
+    "imdb_votes": 71,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt36647890",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt27613895",
+    "imdb_rating": 6.7,
+    "imdb_votes": 15166,
+    "metascore": 60,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt32430579",
+    "imdb_rating": 6.8,
+    "imdb_votes": 56311,
+    "metascore": 68,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt32820897",
+    "imdb_rating": 8.4,
+    "imdb_votes": 64082,
+    "metascore": 67,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt39538786",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt32362890",
+    "imdb_rating": 5.1,
+    "imdb_votes": 14495,
+    "metascore": 49,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt32612507",
+    "imdb_rating": 6.5,
+    "imdb_votes": 804,
+    "metascore": 48,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt35979013",
+    "imdb_rating": null,
+    "imdb_votes": 63,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt26735622",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt26443597",
+    "imdb_rating": 7.4,
+    "imdb_votes": 124386,
+    "metascore": 73,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt28682323",
+    "imdb_rating": 4.1,
+    "imdb_votes": 5027,
+    "metascore": 19,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt14850054",
+    "imdb_rating": 5.2,
+    "imdb_votes": 26853,
+    "metascore": 49,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt6718170",
+    "imdb_rating": 7.0,
+    "imdb_votes": 292599,
+    "metascore": 46,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt27047903",
+    "imdb_rating": 5.5,
+    "imdb_votes": 46203,
+    "metascore": 35,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt25868520",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt0458352",
+    "imdb_rating": 7.0,
+    "imdb_votes": 524526,
+    "metascore": 62,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt14993250",
+    "imdb_rating": 6.5,
+    "imdb_votes": 48224,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt0816692",
+    "imdb_rating": 8.7,
+    "imdb_votes": 2516752,
+    "metascore": 74,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt35892608",
+    "imdb_rating": 6.1,
+    "imdb_votes": 8528,
+    "metascore": 65,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt0213847",
+    "imdb_rating": 7.4,
+    "imdb_votes": 123235,
+    "metascore": 54,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt34610311",
+    "imdb_rating": 7.1,
+    "imdb_votes": 8806,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt1764551",
+    "imdb_rating": 4.7,
+    "imdb_votes": 2596,
+    "metascore": 26,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt31227572",
+    "imdb_rating": 7.2,
+    "imdb_votes": 143246,
+    "metascore": 71,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt13186306",
+    "imdb_rating": 2.5,
+    "imdb_votes": 31185,
+    "metascore": 6,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt5168832",
+    "imdb_rating": 5.5,
+    "imdb_votes": 2886,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt33244668",
+    "imdb_rating": 5.6,
+    "imdb_votes": 55645,
+    "metascore": 43,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt29550683",
+    "imdb_rating": 5.2,
+    "imdb_votes": 10069,
+    "metascore": 55,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt27543632",
+    "imdb_rating": 6.8,
+    "imdb_votes": 133074,
+    "metascore": 65,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt15940132",
+    "imdb_rating": 6.3,
+    "imdb_votes": 86956,
+    "metascore": 54,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt0295701",
+    "imdb_rating": 5.9,
+    "imdb_votes": 192071,
+    "metascore": 48,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt27552099",
+    "imdb_rating": 6.2,
+    "imdb_votes": 15353,
+    "metascore": 70,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt36332085",
+    "imdb_rating": null,
+    "imdb_votes": null,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt40891145",
+    "imdb_rating": 4.6,
+    "imdb_votes": 153,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt22868010",
+    "imdb_rating": 4.0,
+    "imdb_votes": 17409,
+    "metascore": 34,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt10872600",
+    "imdb_rating": 8.1,
+    "imdb_votes": 1016161,
+    "metascore": 71,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt14500286",
+    "imdb_rating": 3.8,
+    "imdb_votes": 612,
+    "metascore": null,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt33714084",
+    "imdb_rating": 6.3,
+    "imdb_votes": 5740,
+    "metascore": 49,
+    "source": "omdb"
+  },
+  {
+    "imdb_id": "tt37540875",
+    "imdb_rating": 5.7,
+    "imdb_votes": 2181,
+    "metascore": 57,
+    "source": "omdb"
+  }
+]
