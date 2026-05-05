@@ -1,0 +1,6 @@
+[00:37] Downloaded NASA_Jul95.log
+[00:37] Downloaded NASA_Aug95.log
+[00:37:41] Download complete!
+[00:37:42] Validation complete!
+[00:37] Created back up of NASA_Jul95.log
+[00:37] Created back up of NASA_Aug95.log
