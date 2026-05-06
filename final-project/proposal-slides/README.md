@@ -6,10 +6,10 @@ Submit your proposal presentation slides via pull request to the `project-propos
 
 ## Presentation Format
 
-- **Duration**: 10-12 minutes
-- **Maximum Slides**: 7 slides total
+- **Duration**: 5-7 minutes
+- **Maximum Slides**: 6 slides total
   - 1 title slide
-  - 6 content slides
+  - 5 content slides
 
 ## Required Content
 
