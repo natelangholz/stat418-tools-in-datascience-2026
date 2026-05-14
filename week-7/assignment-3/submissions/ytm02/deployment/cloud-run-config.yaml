@@ -1,0 +1,30 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: iris-classifier-api
+spec:
+  template:
+    metadata:
+      annotations:
+        autoscaling.knative.dev/maxScale: "10"
+        autoscaling.knative.dev/minScale: "0"
+    spec:
+      containerConcurrency: 80
+      timeoutSeconds: 300
+      containers:
+        - image: gcr.io/YOUR_PROJECT_ID/iris-classifier-api
+          ports:
+            - containerPort: 8080
+          env:
+            - name: PORT
+              value: "8080"
+            - name: MODEL_PATH
+              value: /app/model.pkl
+            - name: LOG_LEVEL
+              value: INFO
+            - name: MAX_BATCH_SIZE
+              value: "100"
+          resources:
+            limits:
+              cpu: "1"
+              memory: 1Gi
