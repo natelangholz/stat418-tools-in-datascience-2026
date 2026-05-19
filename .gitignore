@@ -91,6 +91,7 @@ htmlcov/
 !**/example*.json
 !**/sample*.csv
 !**/sample*.json
+!Spring_*_roster.csv
 
 # Model files
 *.pkl

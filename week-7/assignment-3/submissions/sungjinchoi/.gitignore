@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# model.pkl is a required deliverable -- override the repo-root *.pkl ignore
+!model.pkl
