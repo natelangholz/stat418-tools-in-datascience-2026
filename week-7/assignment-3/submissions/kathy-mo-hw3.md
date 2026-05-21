@@ -10,5 +10,7 @@ Link to deployed API: https://mtcars-fastapi-494286024315.us-central1.run.app/do
 The linear regression model predicts 'mpg' using the following predictors:
 
 'wt': weight 
-'hp': horsepower
+
+'hp': horsepower 
+
 'cyl': cylinders 
