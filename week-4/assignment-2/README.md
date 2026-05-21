@@ -7,7 +7,7 @@
 
 ## Overview
 
-Build a data collection pipeline that combines API integration and web scraping to gather movie and TV show data. You'll collect data from The Movie Database (TMDB) API and scrape additional information from IMDb, then analyze trends in the entertainment industry.
+Build a data collection pipeline that combines API integration and web scraping to gather movie and TV show data. You'll collect data from The Movie Database (TMDB) API and scrape additional information from Letterboxd, then analyze trends in the entertainment industry.
 
 ## Assignment Description
 
@@ -22,10 +22,9 @@ Collect data for **at least 50 movies or TV shows** including:
 - Production companies
 - Original language
 
-**From IMDb (via scraping):**
-- IMDb rating
-- Number of user reviews
-- Metascore (if available)
+**From Letterboxd (via scraping):**
+- Average rating (out of 5 stars)
+- Number of fans
 
 ## Requirements
 
@@ -52,8 +51,8 @@ def collect_all_data(num_items: int = 50) -> List[Dict]
 ### Part 2: Web Scraping
 
 Create `web_scraper.py` that:
-1. Checks IMDb's robots.txt
-2. Scrapes movie pages for ratings and review counts
+1. Checks Letterboxd's robots.txt
+2. Scrapes movie pages for ratings and fan counts
 3. Implements rate limiting (minimum 2 seconds between requests)
 4. Uses appropriate User-Agent header
 5. Handles missing data gracefully
@@ -63,17 +62,17 @@ Create `web_scraper.py` that:
 **Key Functions:**
 ```python
 def check_robots_txt() -> bool
-def scrape_movie_page(imdb_id: str) -> Dict
-def scrape_multiple_movies(imdb_ids: List[str]) -> List[Dict]
+def scrape_movie_page(movie_title: str, year: int = None) -> Dict
+def scrape_multiple_movies(movies: List[Dict]) -> List[Dict]
 ```
 
-**Note:** Focus on getting basic ratings and counts. Don't worry about extracting review text for this assignment.
+**Note:** Letterboxd URLs follow the pattern: `https://letterboxd.com/film/movie-title/`. You'll need to convert movie titles to URL-friendly slugs (lowercase, hyphens instead of spaces, remove special characters).
 
 ### Part 3: Data Processing
 
 Create `data_processor.py` that:
 1. Loads data from both sources
-2. Merges data on common identifiers (IMDb ID)
+2. Merges data on common identifiers (movie title and year)
 3. Cleans and validates data
 4. Handles missing values appropriately
 5. Standardizes formats (dates, ratings)
@@ -83,7 +82,7 @@ Create `data_processor.py` that:
 **Key Functions:**
 ```python
 def load_raw_data() -> Tuple[List[Dict], List[Dict]]
-def merge_data(tmdb_data: List[Dict], imdb_data: List[Dict]) -> pd.DataFrame
+def merge_data(tmdb_data: List[Dict], letterboxd_data: List[Dict]) -> pd.DataFrame
 def clean_data(df: pd.DataFrame) -> pd.DataFrame
 def save_processed_data(df: pd.DataFrame, output_dir: str)
 ```
@@ -93,8 +92,8 @@ def save_processed_data(df: pd.DataFrame, output_dir: str)
 Create `analyze_data.py` that answers **at least 3 of the following**:
 
 1. **Rating Analysis:**
-   - What's the correlation between TMDB and IMDb ratings?
-   - Distribution of ratings on each platform
+   - What's the correlation between TMDB and Letterboxd ratings?
+   - Distribution of ratings on each platform (note: TMDB uses 0-10 scale, Letterboxd uses 0-5 scale)
 
 2. **Genre Analysis:**
    - Most common genres
@@ -147,7 +146,7 @@ week-4/assignment-2/submissions/yourname/
 ├── data/
 │   ├── raw/
 │   │   ├── tmdb/
-│   │   └── imdb/
+│   │   └── letterboxd/
 │   ├── processed/
 │   └── analysis/
 └── logs/
@@ -263,7 +262,7 @@ TMDB_API_KEY=your_tmdb_api_key_here
    ```
 
 7. **Create a pull request:**
-   - Base: `main`
+   - Base: `assignment-2`
    - Compare: `hw2-yourname`
    - Title: "Homework 2 - Your Name"
    - Description: Brief summary of your findings
@@ -338,15 +337,17 @@ class TMDBCollector:
 import requests
 from bs4 import BeautifulSoup
 import time
-from typing import Dict
+import re
+from typing import Dict, Optional
 import logging
 
-class IMDbScraper:
+class LetterboxdScraper:
     def __init__(self, delay: float = 2.0):
         self.delay = delay
+        self.base_url = 'https://letterboxd.com'
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': 'UCLA STAT418 Student - youremail@ucla.edu'
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
         })
         
         logging.basicConfig(
@@ -355,11 +356,19 @@ class IMDbScraper:
             format='%(asctime)s - %(levelname)s - %(message)s'
         )
     
-    def scrape_movie_page(self, imdb_id: str) -> Dict:
-        """Scrape IMDb movie page"""
+    def _slugify_title(self, title: str) -> str:
+        """Convert movie title to URL slug"""
+        slug = title.lower()
+        slug = re.sub(r'[^a-z0-9]+', '-', slug)
+        slug = slug.strip('-')
+        return slug
+    
+    def scrape_movie_page(self, movie_title: str, year: Optional[int] = None) -> Dict:
+        """Scrape Letterboxd movie page"""
         time.sleep(self.delay)
         
-        url = f'https://www.imdb.com/title/{imdb_id}/'
+        slug = self._slugify_title(movie_title)
+        url = f'{self.base_url}/film/{slug}/'
         
         try:
             response = self.session.get(url, timeout=10)
@@ -368,22 +377,30 @@ class IMDbScraper:
             
             # Extract data (adjust selectors as needed)
             data = {
-                'imdb_id': imdb_id,
+                'title': movie_title,
+                'year': year,
+                'url': url,
                 'rating': self._extract_rating(soup),
-                'num_reviews': self._extract_review_count(soup),
-                'metascore': self._extract_metascore(soup)
+                'num_fans': self._extract_fan_count(soup),
+                'scraped_successfully': True
             }
             
-            logging.info(f"Successfully scraped {imdb_id}")
+            logging.info(f"Successfully scraped {movie_title}")
             return data
             
         except Exception as e:
-            logging.error(f"Error scraping {imdb_id}: {e}")
-            return {'imdb_id': imdb_id, 'error': str(e)}
+            logging.error(f"Error scraping {movie_title}: {e}")
+            return {'title': movie_title, 'error': str(e), 'scraped_successfully': False}
     
-    def _extract_rating(self, soup: BeautifulSoup) -> float:
-        """Extract IMDb rating"""
-        # Implementation here
+    def _extract_rating(self, soup: BeautifulSoup) -> Optional[float]:
+        """Extract average rating from meta tags"""
+        # Hint: Look for meta tags with name='twitter:data2'
+        # The content will be in format "X.XX out of 5"
+        pass
+    
+    def _extract_fan_count(self, soup: BeautifulSoup) -> Optional[int]:
+        """Extract number of fans"""
+        # Hint: Look for links with href containing '/fans/'
         pass
 ```
 
@@ -395,7 +412,7 @@ class IMDbScraper:
 
 ### Web Scraping
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/)
-- [IMDb robots.txt](https://www.imdb.com/robots.txt)
+- [Letterboxd robots.txt](https://letterboxd.com/robots.txt)
 - [Web Scraping Best Practices](https://www.scrapehero.com/web-scraping-best-practices/)
 
 ### Data Processing
