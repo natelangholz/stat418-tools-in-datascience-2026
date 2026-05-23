@@ -313,15 +313,18 @@ api_key = st.secrets["API_KEY"]
 
 ## Deployment to Google Cloud Run
 
-### 1. Create Dockerfile
+### 1. Create Containerfile
 
-```dockerfile
+```Containerfile
 FROM python:3.9-slim
 
 WORKDIR /app
 
+# Install uv
+RUN pip install --no-cache-dir uv
+
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN uv pip install --system --no-cache-dir -r requirements.txt
 
 COPY . .
 
@@ -337,13 +340,13 @@ CMD streamlit run app.py \
 
 ```bash
 # Build image
-docker build -t house-price-app .
+podman build -t house-price-app .
 
 # Tag for Google Container Registry
-docker tag house-price-app gcr.io/[PROJECT-ID]/house-price-app
+podman tag house-price-app gcr.io/[PROJECT-ID]/house-price-app
 
 # Push to registry
-docker push gcr.io/[PROJECT-ID]/house-price-app
+podman push gcr.io/[PROJECT-ID]/house-price-app
 
 # Deploy to Cloud Run
 gcloud run deploy house-price-app \
@@ -444,5 +447,5 @@ from sklearn.tree import DecisionTreeRegressor
 
 - [Streamlit Deployment Guide](https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app)
 - [Google Cloud Run Documentation](https://cloud.google.com/run/docs)
-- [Docker Best Practices](https://docs.docker.com/develop/dev-best-practices/)
+- [Podman Documentation](https://podman.io/docs)
 - [ML Model Deployment Patterns](https://ml-ops.org/content/mlops-principles)

@@ -98,6 +98,10 @@ Build a data collection pipeline that combines API integration (TMDB) and web sc
 
 ## Additional Resources
 
+### Articles
+- [The Follower Factory - NY Times Interactive](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html) - Investigation into social media bots and fake followers
+- [AI Copyright Case Tracker - Wired](https://www.wired.com/story/ai-copyright-case-tracker/) - Tracking legal cases involving AI and copyright
+
 ### Documentation
 - [Requests Documentation](https://docs.python-requests.org/)
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/)
