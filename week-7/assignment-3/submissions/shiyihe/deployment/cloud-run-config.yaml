@@ -1,0 +1,23 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: mtcars-api
+spec:
+  template:
+    spec:
+      containers:
+        - image: gcr.io/PROJECT_ID/mtcars-api
+          ports:
+            - containerPort: 8080
+          env:
+            - name: MODEL_PATH
+              value: /app/model.pkl
+            - name: LOG_LEVEL
+              value: INFO
+            - name: MAX_BATCH_SIZE
+              value: "100"
+            - name: API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: api-key
+                  key: latest

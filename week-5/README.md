@@ -98,9 +98,8 @@ Common distance metrics:
 ## Tools & Libraries
 
 ### LLM Providers
-- **OpenAI** (GPT-4, GPT-3.5): Most capable, moderate cost
+- **Google** (Gemini): Multimodal, competitive pricing, free tier available
 - **Anthropic** (Claude): Strong reasoning, large context
-- **Google** (Gemini): Multimodal, competitive pricing
 - **Local models** (Ollama): Free, private, slower
 
 ### Vector Databases
@@ -153,7 +152,7 @@ Common distance metrics:
 ### Documentation
 - [LangChain Docs](https://python.langchain.com/)
 - [ChromaDB Docs](https://docs.trychroma.com/)
-- [OpenAI API Docs](https://platform.openai.com/docs)
+- [Google AI Docs](https://ai.google.dev/docs)
 - [Anthropic API Docs](https://docs.anthropic.com/)
 
 ### Articles & Papers
@@ -165,15 +164,3 @@ Common distance metrics:
 - [Ollama](https://ollama.ai/) - Run LLMs locally
 - [LangSmith](https://smith.langchain.com/) - LangChain debugging
 - [Weights & Biases](https://wandb.ai/) - Experiment tracking
-
-## Next Week Preview
-
-Week 6 focuses on building interactive applications with Streamlit and deploying them to the cloud. You'll take the LLM and RAG concepts from this week and turn them into user-facing applications.
-
-## Assignment
-
-Details for Assignment 3 will be posted separately. It will involve building a RAG system for a domain-specific knowledge base.
-
----
-
-*Remember: LLMs are powerful tools, but they're not magic. Understanding when and how to use them effectively is what separates good data scientists from great ones.*
