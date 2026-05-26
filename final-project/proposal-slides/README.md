@@ -2,14 +2,14 @@
 
 ## Submission Instructions
 
-Submit your proposal presentation slides via pull request to this directory by **11:59 AM on May 5, 2026**.
+Submit your proposal presentation slides via pull request to the `project-proposal` branch in this directory by **11:59 AM on May 5, 2026**.
 
 ## Presentation Format
 
-- **Duration**: 10-12 minutes
-- **Maximum Slides**: 7 slides total
+- **Duration**: 5-7 minutes
+- **Maximum Slides**: 6 slides total
   - 1 title slide
-  - 6 content slides
+  - 5 content slides
 
 ## Required Content
 
@@ -39,15 +39,10 @@ Your proposal presentation should include:
    - Features you plan to engineer
    - Evaluation metrics
 
-6. **Application Design**
-   - Planned user interface features
-   - Mockups or wireframes (if available)
-   - User interaction flow
-
-7. **Solution Architecture & Timeline**
-   - Architecture diagram showing how components connect
+6. **Timeline & Next Steps**
    - Key milestones and timeline to completion
    - Potential challenges and mitigation strategies
+   - Current status and remaining work
 
 ## File Naming Convention
 
