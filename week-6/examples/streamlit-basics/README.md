@@ -13,11 +13,6 @@ Streamlit is an open-source Python framework for building data applications. It'
 ## Installation
 
 ```bash
-pip install streamlit
-```
-
-Or with uv:
-```bash
 uv pip install streamlit
 ```
 
