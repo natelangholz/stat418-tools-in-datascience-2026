@@ -1,0 +1,36 @@
+# AutoRisk · docker-compose (Podman compatible)
+# Run with:  podman-compose up --build
+# Or:        docker compose up --build
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    image: autorisk-api:latest
+    container_name: autorisk-api
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+    healthcheck:
+      test: ["CMD", "python", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8080/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  app:
+    build:
+      context: .
+      dockerfile: app/Dockerfile
+    image: autorisk-app:latest
+    container_name: autorisk-app
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://api:8080
+    depends_on:
+      api:
+        condition: service_healthy
