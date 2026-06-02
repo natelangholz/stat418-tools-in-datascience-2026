@@ -1,0 +1,387 @@
+[
+  {
+    "slide_num": 1,
+    "type": "title",
+    "title": "Week 9: From Prototype to Production",
+    "content": "CI/CD, Testing, and Full-Stack Systems",
+    "speaker_notes": "This week is about the transition from a working prototype to a system that other people can trust, run, test, and deploy. Up to this point, students have already seen APIs, containers, Streamlit apps, deployment workflows, and testing in isolation. The purpose of this lecture is to connect those pieces into an engineering lifecycle: write code, validate it automatically, package it reproducibly, and ship it in a form that can be maintained. Emphasize that production does not only mean large companies or complex infrastructure. Even a class project becomes more professional when it has clear tests, documented architecture, and repeatable deployment steps."
+  },
+  {
+    "slide_num": 2,
+    "type": "content",
+    "title": "Running Example: Full-Stack App",
+    "content": "`examples/fullstack-app/`\n- FastAPI backend\n- Streamlit frontend\n- backend tests\n- compose setup\n- CI workflow\n- Mermaid diagrams\n\nOne repository is enough to show testing, automation, deployment structure, and architecture.",
+    "speaker_notes": "Use a single running example for the lecture to reduce redundancy. This repo already contains enough pieces to support the whole story: an API, a frontend, tests, compose-based local orchestration, CI, and architecture documentation. Keep the focus on this one system and use it to introduce testing, automation, containerization, service contracts, and deployment structure."
+  },
+  {
+    "slide_num": 3,
+    "type": "content",
+    "title": "What is CI?",
+    "content": "Continuous Integration means:\n- automatically checking code on every push\n- running tests before merge\n- enforcing code quality consistently\n- catching regressions early\n\nCI answers: 'Is this change safe to integrate?'",
+    "speaker_notes": "Define CI in operational rather than buzzword terms. CI is not just 'using GitHub Actions'; it is the practice of continuously validating changes as code is developed. When a student pushes code and tests run automatically, that reduces the chance that broken code silently accumulates until demo day. Explain that CI is mainly about fast feedback. The earlier a failure is discovered, the cheaper it is to fix. In team settings, CI also gives everyone a shared standard for what counts as acceptable code to merge."
+  },
+  {
+    "slide_num": 4,
+    "type": "content",
+    "title": "What is CD?",
+    "content": "Continuous Delivery / Deployment means:\n- packaging software reproducibly\n- automating release steps\n- reducing manual deployment errors\n- making changes easier to ship\n\nCD answers: 'How does passing code become running software?'",
+    "speaker_notes": "Present CD as the release side of the same engineering pipeline. CI tells us whether code is safe to integrate; CD tells us how that validated code becomes a running service. Clarify the terminology if helpful: continuous delivery often means the software is always ready to deploy, while continuous deployment means the release actually happens automatically. For this course, the main lesson is that deployment should be scripted and repeatable. Students should not have to remember a fragile sequence of manual commands every time they publish an update."
+  },
+  {
+    "slide_num": 5,
+    "type": "content",
+    "title": "What the Full-Stack Repo Includes",
+    "content": "This one repo already includes:\n- an API contract\n- a user interface\n- automated tests\n- containerized local setup\n- CI checks\n- architecture documentation\n\nThat is enough to discuss the full engineering workflow.",
+    "speaker_notes": "Replace class-project framing with direct reference to the running example. The point is that one realistic repository already contains enough moving parts to motivate CI, testing, deployment structure, and architecture decisions. Keep the discussion tied to the files and behaviors students can inspect rather than abstract comparisons to their own projects."
+  },
+  {
+    "slide_num": 6,
+    "type": "code",
+    "title": "FastAPI Backend Structure",
+    "content": "app = FastAPI(title=\"fullstack-backend\")\n\nclass PredictRequest(BaseModel):\n    sepal_length: float\n    sepal_width: float\n    petal_length: float\n    petal_width: float\n\nCACHE: dict[tuple[float, float, float, float], str] = {}\nPREDICTION_LOG: list[dict[str, float | str | bool]] = []\n\n@app.get(\"/health\")\ndef health():\n    return {\"status\": \"ok\"}\n\n@app.get(\"/history\")\ndef history():\n    return {\"requests\": PREDICTION_LOG}\n\n@app.post(\"/predict\")\ndef predict(request: PredictRequest):\n    ...",
+    "speaker_notes": "Start the technical walkthrough with the real backend structure from the full-stack example. This version validates four numeric Iris features, exposes multiple routes, and keeps simple in-memory state. That makes the example more honest: the API is not inventing a placeholder string, it is serving an actual model prediction while still staying compact enough to fit on slides."
+  },
+  {
+    "slide_num": 7,
+    "type": "content",
+    "title": "Prediction Logic with Cache and History",
+    "content": "@app.post(\"/predict\")\ndef predict(request: PredictRequest):\n    features = (\n        request.sepal_length,\n        request.sepal_width,\n        request.petal_length,\n        request.petal_width,\n    )\n    if features in CACHE:\n        prediction = CACHE[features]\n        cached = True\n    else:\n        predicted_class = model.predict([list(features)])[0]\n        prediction = target_names[int(predicted_class)]\n        CACHE[features] = prediction\n        cached = False\n\n    record = {**request.model_dump(), \"prediction\": prediction, \"cached\": cached}\n    PREDICTION_LOG.append(record)\n    return record",
+    "speaker_notes": "Use the actual prediction endpoint from the full-stack example. The backend now builds a feature tuple, checks an in-memory cache, and otherwise runs a trained Iris classifier from scikit-learn. That still keeps the code readable on one slide while making the example much more realistic: request validation, deterministic model inference, cache hits versus misses, and accumulated request history all come from behavior students can run themselves."
+  },
+  {
+    "slide_num": 8,
+    "type": "code",
+    "title": "Backend Tests",
+    "content": "def test_health_endpoint():\n    response = client.get(\"/health\")\n    assert response.status_code == 200\n    assert response.json() == {\"status\": \"ok\"}\n\n\ndef test_predict_endpoint_returns_real_iris_prediction_and_cached_flag():\n    response = client.post(\n        \"/predict\",\n        json={\"sepal_length\": 5.1, \"sepal_width\": 3.5, \"petal_length\": 1.4, \"petal_width\": 0.2},\n    )\n    assert response.status_code == 200\n    body = response.json()\n    assert body[\"prediction\"] in {\"setosa\", \"versicolor\", \"virginica\"}\n    assert body[\"cached\"] is False\n\n\ndef test_predict_endpoint_uses_cache_on_repeat_request():\n    ...",
+    "speaker_notes": "Use the backend tests from the same full-stack repo. They now verify real API behavior against a real prediction contract: health output, valid Iris-class labels, and cache reuse on repeated requests. This keeps the testing discussion tied to the actual app instead of a toy placeholder implementation."
+  },
+  {
+    "slide_num": 9,
+    "type": "content",
+    "title": "What the Backend Tests Cover",
+    "content": "These tests cover:\n- route availability\n- response fields\n- request validation paths\n- cache behavior on repeated requests\n- backend changes that could break the frontend contract",
+    "speaker_notes": "Keep this slide concrete and tied to the current repo. The main idea is that a small set of endpoint tests can protect the contract that the frontend and deployment pipeline depend on. That is more useful here than abstract claims about testing in general."
+  },
+  {
+    "slide_num": 10,
+    "type": "code",
+    "title": "CI for the Full-Stack Repository",
+    "content": "jobs:\n  backend-tests:\n    runs-on: ubuntu-latest\n    defaults:\n      run:\n        working-directory: week-9/examples/fullstack-app/backend\n    steps:\n      - uses: actions/checkout@v4\n      - uses: actions/setup-python@v5\n      - uses: astral-sh/setup-uv@v6\n      - run: uv sync\n      - run: uv run pytest -q\n\n  frontend-smoke-test:\n    runs-on: ubuntu-latest\n    defaults:\n      run:\n        working-directory: week-9/examples/fullstack-app/frontend\n    steps:\n      - uses: actions/checkout@v4\n      - uses: actions/setup-python@v5\n      - uses: astral-sh/setup-uv@v6\n      - run: uv sync\n      - run: uv run python -m py_compile app.py",
+    "speaker_notes": "Use the multi-service CI workflow from the full-stack repo as the main automation example. This version is uv-based, so the same dependency manager now appears in local setup, CI, and container builds. That makes the week 9 example more internally consistent with the course tooling."
+  },
+  {
+    "slide_num": 11,
+    "type": "content",
+    "title": "How to Read a GitHub Actions Workflow",
+    "content": "Every workflow answers four questions:\n1. When should it run?\n2. What runner should execute it?\n3. What environment must be prepared?\n4. What commands define pass/fail?\n\nIf those four questions are clear, the YAML is usually understandable.",
+    "speaker_notes": "Give a reusable workflow reading strategy. Students do not need to become experts in the platform immediately; they need a way to parse unfamiliar automation files without feeling lost. Encourage them to locate the trigger first, then find the main job, then identify how dependencies are installed, and finally identify the commands whose exit codes determine success or failure. This reading pattern transfers well to GitHub Actions, GitLab CI, and many other automation systems."
+  },
+  {
+    "slide_num": 12,
+    "type": "content",
+    "title": "Triggers, Jobs, and Steps",
+    "content": "Core GitHub Actions concepts:\n- `push` and `pull_request` define when automation runs\n- jobs are separate runner environments\n- steps are individual actions or commands inside a job\n- `needs` can enforce ordering between jobs",
+    "speaker_notes": "Provide the basic workflow vocabulary clearly. A trigger decides when automation starts. A job is a unit of work running on a fresh machine or runner. Steps are the commands or reusable actions that execute inside that job. `needs` creates dependencies between jobs so one must finish before another begins. This vocabulary matters because students will often debug workflow files by reasoning at the wrong level. For example, they may assume files created in one job automatically exist in another, which is usually not true without artifacts or explicit transfer."
+  },
+  {
+    "slide_num": 13,
+    "type": "content",
+    "title": "Quality Checks in CI",
+    "content": "CI can enforce more than tests:\n- linting with Ruff\n- formatting with Black\n- type checks if desired\n- security or dependency scanning later\n\nTests check behavior; the rest keeps the repo consistent and reviewable.",
+    "speaker_notes": "Keep this slide direct and non-meta. The point is that automation can validate both behavior and code quality. That reduces review noise and makes repository standards explicit."
+  },
+  {
+    "slide_num": 14,
+    "type": "code",
+    "title": "Typical Deployment Workflow Shape",
+    "content": "name: Deploy\n\non:\n  push:\n    branches: [main]\n\njobs:\n  deploy:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n      - uses: google-github-actions/auth@v1\n        with:\n          credentials_json: ${{ secrets.GCP_SA_KEY }}\n      - run: |\n          gcloud run deploy my-app \\\n            --source . \\\n            --region us-central1",
+    "speaker_notes": "Show the pattern students will reuse for Cloud Run deployments. The important lesson is that deployment becomes a defined workflow rather than a manual ritual. Once code reaches the main branch, the platform authenticates, builds or packages the app, and pushes it to the target environment. This reduces the risk of 'it worked locally but I forgot a deployment step.' Also use this slide to reinforce that deployment automation depends on secrets management and clearly scoped permissions."
+  },
+  {
+    "slide_num": 15,
+    "type": "content",
+    "title": "Secrets and Environment Variables",
+    "content": "Secrets should never be committed to Git.\n\nUse GitHub Secrets for:\n- cloud credentials\n- API keys\n- deployment tokens\n\nUse environment variables for runtime configuration such as service URLs or mode-specific behavior.",
+    "speaker_notes": "Reinforce the separation between config and code. Students often hardcode keys, URLs, or deployment-specific settings while prototyping, but that becomes a maintenance and security problem quickly. Secrets belong in managed secret stores or repository settings, not version control. Environment variables are useful for values that change between local development, testing, and production. This is also a good place to distinguish sensitivity from variability: not every environment variable is secret, but many configuration values should still live outside the codebase."
+  },
+  {
+    "slide_num": 16,
+    "type": "code",
+    "title": "A Simple Container for the API",
+    "content": "FROM python:3.11-slim\n\nWORKDIR /app\nCOPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/\nCOPY pyproject.toml uv.lock .\nRUN uv sync --no-dev\nCOPY main.py .\n\nCMD [\"uv\", \"run\", \"python\", \"main.py\"]",
+    "speaker_notes": "Show the container pattern used in the week 9 backend. The image copies in uv, installs dependencies from `pyproject.toml` and `uv.lock`, then starts the app with `uv run`. That makes the build reproducible and keeps local, CI, and container execution aligned around the same workflow."
+  },
+  {
+    "slide_num": 17,
+    "type": "content",
+    "title": "Containers in the Delivery Path",
+    "content": "Containers define:\n- base operating system image\n- dependency installation\n- copied source code\n- startup command\n\nThat makes local testing and deployment more reproducible.",
+    "speaker_notes": "Connect this directly to the full-stack repo and its deployment path. Once tests pass, the next question is what artifact actually runs somewhere else. Containers answer that by making the runtime environment explicit."
+  },
+  {
+    "slide_num": 18,
+    "type": "content",
+    "title": "Testing Strategy for Small APIs",
+    "content": "For a small FastAPI app, a good practical testing plan is:\n- endpoint tests for the public API contract\n- targeted logic tests if helper functions get more complex\n- optional smoke tests for the containerized app\n\nFor student repos, endpoint tests often provide the best return first.",
+    "speaker_notes": "Set reasonable testing expectations. The goal is not to copy the test strategy of a huge production company. For a small API, start with public endpoints because they protect the most visible behavior. Add more granular logic tests when internal code becomes complicated enough that endpoint tests alone are too coarse. Smoke tests for the built container can be useful later, especially before deployment. This slide should help students prioritize effort rather than feel overwhelmed by the idea that every line must be exhaustively tested."
+  },
+  {
+    "slide_num": 19,
+    "type": "content",
+    "title": "Moving from One Service to Multiple",
+    "content": "Once a project goes beyond one API, architecture becomes more visible.\n\nThat adds concerns around:\n- service boundaries\n- communication between layers\n- configuration between containers\n- CI validation across multiple parts of one repo",
+    "speaker_notes": "Transition into the full-stack example. Up to here, the workflow has focused on one service in isolation. Real projects often add a frontend, a separate backend, data services, or external integrations. As soon as that happens, architecture matters more because students must reason about boundaries and communication patterns, not just code inside one file. This is where diagrams, compose files, and multi-service CI checks start becoming valuable."
+  },
+  {
+    "slide_num": 20,
+    "type": "content",
+    "title": "Repository Files",
+    "content": "`backend/main.py`\n- FastAPI service\n\n`backend/test_main.py`\n- backend tests\n\n`frontend/app.py`\n- Streamlit interface\n\n`docker-compose.yml`\n- local orchestration\n\n`ci.yml`\n- multi-service validation\n\n`README.md`\n- Mermaid diagrams",
+    "speaker_notes": "Keep this as the repo inventory slide for the single running example. It gives students a concrete map of the files before moving into architecture and deployment details."
+  },
+  {
+    "slide_num": 21,
+    "type": "code",
+    "title": "Interactive System Diagram",
+    "content": "```mermaid\ngraph LR\n    User[User in browser] --> Frontend[Streamlit frontend]\n    Frontend -->|POST /predict| Backend[FastAPI backend]\n    Frontend -->|GET /history| Backend\n    Backend --> Cache[(In-memory cache)]\n    Backend --> History[(Request history)]\n    Backend -->|JSON response| Frontend\n    Frontend -->|updated result + history view| User\n```",
+    "speaker_notes": "Strengthen the architecture view by showing that the app is interactive rather than just a static chain of components. The frontend sends both prediction and history requests, the backend returns JSON, and the frontend updates what the user sees. This still stays faithful to the actual repo, but it better communicates that the system has a request-response loop and visible interaction."
+  },
+  {
+    "slide_num": 22,
+    "type": "content",
+    "title": "What the System Diagram Captures",
+    "content": "The diagram shows:\n- the user interaction loop\n- two frontend-to-backend requests: `/predict` and `/history`\n- backend-managed state through cache and history\n- JSON responses flowing back into the UI\n\nIt describes both structure and visible app behavior.",
+    "speaker_notes": "Use this slide to explain why the revised diagram is more useful. It still shows structure, but it also communicates that the frontend is interactive, that the backend serves multiple routes, and that state changes in the backend affect what users see next."
+  },
+  {
+    "slide_num": 23,
+    "type": "code",
+    "title": "Development and Delivery Loop",
+    "content": "```mermaid\ngraph LR\n    Dev[Developer] --> GitHub[GitHub repository]\n    GitHub --> CI[GitHub Actions CI]\n    CI -->|tests + smoke checks pass| Image[Build artifacts / containers]\n    Image --> Deploy[Deployment target]\n    Deploy --> User[User]\n    User --> Frontend[Streamlit frontend]\n    Frontend --> Backend[FastAPI backend]\n    Backend --> Frontend\n    Frontend --> User\n    CI -. feedback on failures .-> Dev\n```",
+    "speaker_notes": "This diagram answers the user's concern more directly by connecting the interactive app to the engineering loop around it. It shows that the app is not only frontend and backend; it also lives inside a repository, a CI workflow, and a deployment path that feeds information back to the developer when checks fail. This is not a shortfall of the whole example. The original diagram was simply too narrow. The example itself is capable of supporting a stronger story about interaction plus CI/CD if the diagram is drawn at the right level."
+  },
+  {
+    "slide_num": 24,
+    "type": "content",
+    "title": "What the Delivery Loop Adds",
+    "content": "This broader view adds:\n- version-controlled source in GitHub\n- automated checks before release\n- deployment as part of the system story\n- user interaction after deployment\n- feedback to the developer when automation fails",
+    "speaker_notes": "Use this slide to explain that architecture can be drawn at more than one level. One diagram can focus on runtime components inside the app, while another can show the software delivery loop around the app. The example supports both; the earlier problem was that only the runtime view was visible."
+  },
+  {
+    "slide_num": 25,
+    "type": "code",
+    "title": "Backend Endpoints",
+    "content": "The backend exposes:\n- `GET /health`\n- `GET /history`\n- `POST /predict`\n\nRequest model:\n- `sepal_length: float`\n- `sepal_width: float`\n- `petal_length: float`\n- `petal_width: float`\n\nKey response fields:\n- `prediction`\n- `cached`\n- `requests`",
+    "speaker_notes": "Avoid repeating the full backend code later in the deck. Use this slide to summarize the backend interface after students have already seen the structure and core prediction logic earlier. The key point is that the contract is now a real numeric model interface, not a free-form text placeholder."
+  },
+  {
+    "slide_num": 26,
+    "type": "code",
+    "title": "Backend State",
+    "content": "The backend keeps two kinds of in-memory state:\n- `CACHE` for repeated feature tuples\n- `PREDICTION_LOG` for request history\n\nThat allows the same API to support:\n- cached responses\n- history inspection\n- stateful test cases",
+    "speaker_notes": "Replace the duplicated prediction code with a concise summary of the state model. Students have already seen the implementation earlier, so here the goal is to reinforce how cache and history shape the behavior of the service. The cache key is now the numeric feature tuple sent to the classifier."
+  },
+  {
+    "slide_num": 27,
+    "type": "content",
+    "title": "Backend Behaviors in the Full-Stack App",
+    "content": "The backend demonstrates:\n- request validation\n- deterministic model inference\n- cache hit vs cache miss behavior\n- stateful API responses\n- stable response contracts for the frontend",
+    "speaker_notes": "Make this a direct summary of backend behavior. In the spoken explanation, note that the implementation is simplified but still captures common API patterns: validated requests, repeatable model logic, stateful behavior, and explicit output contracts. That lets students see production-relevant ideas in a compact repo without needing databases or other heavy infrastructure."
+  },
+  {
+    "slide_num": 28,
+    "type": "code",
+    "title": "Streamlit Frontend Structure",
+    "content": "BACKEND_URL = os.getenv(\"BACKEND_URL\", \"http://backend:8000\")\n\nst.title(\"Full-Stack Iris Classifier Demo\")\nsepal_length = st.number_input(\"Sepal length (cm)\", value=5.1)\nsepal_width = st.number_input(\"Sepal width (cm)\", value=3.5)\npetal_length = st.number_input(\"Petal length (cm)\", value=1.4)\npetal_width = st.number_input(\"Petal width (cm)\", value=0.2)\n\nif st.button(\"Predict species\"):\n    response = requests.post(\n        f\"{BACKEND_URL}/predict\",\n        json={\n            \"sepal_length\": sepal_length,\n            \"sepal_width\": sepal_width,\n            \"petal_length\": petal_length,\n            \"petal_width\": petal_width,\n        },\n        timeout=10,\n    )",
+    "speaker_notes": "Show the frontend as a thin client over the backend API. The frontend collects four numeric features, sends them to the backend, and displays the model response, but it does not reimplement any prediction logic itself. That separation is healthy because it keeps model behavior in one place and lets the interface remain relatively simple."
+  },
+  {
+    "slide_num": 29,
+    "type": "code",
+    "title": "Frontend History Request",
+    "content": "if st.button(\"Load history\"):\n    response = requests.get(f\"{BACKEND_URL}/history\", timeout=10)\n    if response.ok:\n        st.json(response.json())\n    else:\n        st.error(\"Could not load history\")",
+    "speaker_notes": "This shows the frontend consuming a second backend endpoint. It is useful because it demonstrates that a frontend usually depends on more than one route. There is often a main action endpoint and one or more supporting endpoints for metadata, history, configuration, or health. This matters for testing and CI because backend changes can ripple into multiple parts of the interface. It also reinforces that the frontend is simply another API client, even when it lives in the same repo."
+  },
+  {
+    "slide_num": 30,
+    "type": "content",
+    "title": "Frontend-Backend Contract",
+    "content": "The frontend depends on specific backend behavior:\n- `/predict` accepts four numeric Iris features\n- `/predict` returns `prediction` and `cached`\n- `/history` returns structured JSON under `requests`\n\nIf those contracts drift, the frontend can break even if the backend still runs.",
+    "speaker_notes": "Keep the slide centered on interface stability between services. In the narration, emphasize that a backend can appear healthy from its own perspective while still breaking its consumers. Renaming a field or changing a response shape may not crash the server, but it can still break the frontend immediately. That is why contract-focused tests are so useful."
+  },
+  {
+    "slide_num": 31,
+    "type": "content",
+    "title": "Environment Variables Connect the Layers",
+    "content": "The frontend reads:\n`BACKEND_URL = os.getenv(\"BACKEND_URL\", \"http://backend:8000\")`\n\nThat means the same code can run:\n- inside compose using the service name\n- locally against `localhost`\n- in cloud environments with a different URL\n\nConfiguration changes without rewriting code.",
+    "speaker_notes": "Use this to reinforce environment-based configuration. This is one of the simplest but most important software engineering habits in the course. The code stays the same, while the deployment environment decides which backend URL should be used. That separation makes local development, containerized execution, and cloud deployment much easier to manage. It also reduces the temptation to hardcode machine-specific values into the repo."
+  },
+  {
+    "slide_num": 32,
+    "type": "code",
+    "title": "Compose for Local Multi-Service Development",
+    "content": "services:\n  backend:\n    build: ./backend\n    ports:\n      - \"8000:8000\"\n\n  frontend:\n    build: ./frontend\n    ports:\n      - \"8501:8501\"\n    environment:\n      - BACKEND_URL=http://backend:8000\n    depends_on:\n      - backend\n\nBoth images install dependencies with uv during build.",
+    "speaker_notes": "This is the important shape of the compose file for the example. Compose gives the repo a shared, reproducible local runtime for multiple services. In this version, both images build from uv-managed Python projects, so the compose setup is consistent with local development and CI."
+  },
+  {
+    "slide_num": 33,
+    "type": "content",
+    "title": "Why Compose Helps",
+    "content": "Compose gives one command to launch multiple services together.\n\nThat helps with:\n- reproducible local development\n- easier demos\n- testing service-to-service communication\n- fewer environment-specific surprises",
+    "speaker_notes": "Explain why compose matters for multi-service repos. Once a project has more than one service, setup friction rises quickly. Compose reduces that friction by making startup, networking, and configuration repeatable for everyone on the team. This is especially valuable in class settings where demos fail because one service is running on the wrong port or the frontend points to the wrong backend URL. Compose cannot solve every environment problem, but it eliminates many avoidable ones."
+  },
+  {
+    "slide_num": 34,
+    "type": "code",
+    "title": "Sequence Diagram for User Interaction",
+    "content": "```mermaid\nsequenceDiagram\n    participant U as User\n    participant F as Streamlit frontend\n    participant B as FastAPI backend\n    participant C as CACHE / PREDICTION_LOG\n\n    U->>F: enter iris measurements and click Predict species\n    F->>B: POST /predict with numeric features\n    B->>C: check cache\n    alt cache hit\n        C-->>B: cached result\n        B-->>F: prediction + cached=true\n    else cache miss\n        B->>B: run iris classifier\n        B->>C: save cache + append history\n        B-->>F: prediction + cached=false\n    end\n    F-->>U: render predicted species\n    U->>F: click Load history\n    F->>B: GET /history\n    B->>C: read history\n    B-->>F: history payload\n    F-->>U: render history\n```",
+    "speaker_notes": "Make the sequence diagram more obviously interactive by including both actions the UI supports: prediction and history loading. This helps the audience see that the app is not just one request and one response, but a small loop of user actions, backend state changes, and refreshed interface state around a real classifier."
+  },
+  {
+    "slide_num": 35,
+    "type": "content",
+    "title": "Two Useful Diagram Views",
+    "content": "System diagram:\n- components and responsibilities\n- runtime structure\n- delivery loop around the app\n\nSequence diagram:\n- user actions over time\n- request/response flow\n- state updates and returned results",
+    "speaker_notes": "This revision makes the distinction cleaner. One diagram shows the app and its delivery context. The other shows time-ordered interaction inside the running system. Together they communicate both interactivity and CI/CD connection without inventing infrastructure the repo does not have."
+  },
+  {
+    "slide_num": 36,
+    "type": "code",
+    "title": "Test Cases in the Repo",
+    "content": "The backend tests check:\n- service health\n- response shape from `/predict`\n- cache behavior on repeated requests\n\nThese tests exercise the public API rather than internal helper functions.",
+    "speaker_notes": "Replace the repeated code block with a summary slide. The exact test code already appeared earlier, so this slide can focus on what is being validated and why those checks matter for the running system."
+  },
+  {
+    "slide_num": 37,
+    "type": "content",
+    "title": "What the Tests Catch Early",
+    "content": "The tests catch issues such as:\n- broken routes\n- missing response fields\n- cache regressions\n- backend changes that would break the frontend",
+    "speaker_notes": "Keep this as a brief consequences slide tied directly to the repo. The emphasis is on earlier detection of failures before they surface as harder-to-diagnose frontend or deployment problems."
+  },
+  {
+    "slide_num": 38,
+    "type": "code",
+    "title": "Workflow Jobs",
+    "content": "The CI workflow runs separate jobs for:\n- backend tests\n- frontend smoke checks\n\nEach job has its own:\n- working directory\n- dependencies\n- validation commands",
+    "speaker_notes": "Avoid duplicating the full CI YAML later in the deck. Students already saw the job structure earlier, so this slide can summarize the multi-job pattern and reinforce that one repository can validate multiple services cleanly."
+  },
+  {
+    "slide_num": 39,
+    "type": "content",
+    "title": "Why the Frontend Uses a Smoke Test",
+    "content": "The frontend currently uses a lightweight check instead of a full UI test suite.\n\nThat still verifies:\n- dependencies install\n- code imports successfully\n- syntax is valid\n\nAs the UI grows, the test strategy can grow too.",
+    "speaker_notes": "Explain why different layers may have different validation depth. Test strategy should reflect project maturity and risk. A simple Streamlit interface may not justify a full browser automation stack yet, but it still benefits from checks that catch broken imports or syntax issues. This helps students see that testing is not all-or-nothing. You can start with lightweight safeguards and increase coverage as the interface becomes more complex or more business-critical."
+  },
+  {
+    "slide_num": 40,
+    "type": "content",
+    "title": "Architecture Best Practice: Start Simple",
+    "content": "Most student projects should begin with the simplest useful architecture.\n\nA good progression is:\n- one app if possible\n- split frontend and backend when needed\n- add database, cache, queues, or agents only when there is a real reason",
+    "speaker_notes": "Counter over-engineering explicitly. Students often assume more boxes in the architecture means a better or more impressive project. In practice, every additional service creates new failure modes, new configuration, and more operational work. The better question is not 'what technologies can I add?' but 'what problem requires this extra component?' This slide should encourage disciplined simplicity and intentional growth."
+  },
+  {
+    "slide_num": 41,
+    "type": "content",
+    "title": "Health Checks",
+    "content": "Health endpoints answer a key operational question:\n'Is the service up enough to respond?'\n\nExamples:\n- `/health` for simple liveness\n- `/ready` when dependencies must also be checked\n\nCloud platforms and humans both rely on these signals.",
+    "speaker_notes": "Tie health checks to operations and deployment. A health endpoint is one of the simplest operational features to add, but it pays off immediately. It gives deployment platforms, CI smoke tests, and human operators a consistent way to check whether the service is responding. If the app depends on external systems like databases or queues, readiness checks can go further by verifying those dependencies too. This slide helps connect API design to real deployment behavior."
+  },
+  {
+    "slide_num": 42,
+    "type": "content",
+    "title": "What Makes an App Production-Ready?",
+    "content": "Usually not every advanced feature.\nOften just:\n- critical paths tested\n- config externalized\n- health checks implemented\n- deploy path scripted\n- documentation readable\n- errors visible through logs or monitoring",
+    "speaker_notes": "Make production-readiness feel practical and attainable. Students sometimes interpret 'production-ready' as meaning enterprise-scale complexity, but the more useful framing is reliability and maintainability. Can the app be deployed repeatedly? Can someone diagnose a failure? Can another person understand how to run it? Are the most important behaviors tested? Those are the foundations. Advanced infrastructure can come later if the use case actually demands it."
+  },
+  {
+    "slide_num": 43,
+    "type": "content",
+    "title": "Common Failure Modes",
+    "content": "The most common failures are usually simple:\n- broken imports\n- dependency mismatches\n- missing environment variables\n- API contract drift\n- bad container startup commands\n- no automation on important paths",
+    "speaker_notes": "Motivate why the week 9 tooling matters. Many project failures are not caused by advanced machine learning issues; they come from ordinary software mistakes. Imports break, dependencies differ across machines, environment variables are missing, and deployment commands are slightly wrong. CI, containers, and architecture documentation are powerful because they reduce these mundane but costly failure modes. This slide helps justify the engineering focus of the week."
+  },
+  {
+    "slide_num": 44,
+    "type": "content",
+    "title": "Why Documentation is Operational Tooling",
+    "content": "A strong README can include:\n- setup steps\n- endpoint descriptions\n- architecture diagrams\n- deployment commands\n- troubleshooting hints\n\nThat is why Mermaid in the full-stack README is useful, not decorative.",
+    "speaker_notes": "Connect documentation to maintainability and onboarding. Documentation is often treated as optional polish, but operationally it is part of how a system is run and understood. A good README reduces setup friction, clarifies contracts, and shortens debugging time. In teams, it helps new contributors become productive faster. In class projects, it makes grading, demos, and collaboration much smoother. This is why diagrams in Markdown are valuable: they keep architectural knowledge close to the code."
+  },
+  {
+    "slide_num": 45,
+    "type": "content",
+    "title": "A Practical Engineering Loop",
+    "content": "A healthy project workflow looks like:\n1. change code\n2. test locally\n3. commit and push\n4. CI validates the repo\n5. merge reviewed code\n6. deploy through a scripted path\n7. verify health and logs",
+    "speaker_notes": "Summarize the engineering process students should internalize. The main message is that software quality comes from a repeatable loop, not from one heroic final push before a deadline. Local testing catches immediate issues. CI provides repository-wide validation. Deployment should follow a scripted path. Post-deploy verification closes the loop by confirming that the running system is actually healthy. This slide is the practical workflow students should carry into final projects and future internships."
+  },
+  {
+    "slide_num": 46,
+    "type": "content",
+    "title": "Course Arc: Weeks 1–9",
+    "content": "Week 1 — Dev environment: Git, uv, VSCode, AI tools\nWeek 2 — Command line: Bash, pipes, text processing\nWeek 3 — Collaboration + containers: GitHub workflows, Podman, Compose\nWeek 4 — Data acquisition: APIs, scraping, auth, rate limits\nWeek 5 — LLM systems: RAG, vector DBs, LangChain, OpenRouter\nWeek 6 — Interactive apps: Streamlit, deployment, UI + API integration\nWeek 7 — APIs: FastAPI, Pydantic, MCP, Cloud Run\nWeek 8 — Agents: tool use, MCP clients/servers, external APIs\nWeek 9 — Production workflow: testing, CI/CD, architecture",
+    "speaker_notes": "This is a first-pass condensed recap slide replacing the separate week-by-week slides. Treat it as a visual map of the course rather than a slide to read line by line. The main message is that each week added a layer to the same overall stack: development environment, automation, containers, data access, LLM systems, user interfaces, APIs, agents, and finally production workflow. This helps students see the course as cumulative rather than as disconnected topics."
+  },
+  {
+    "slide_num": 55,
+    "type": "content",
+    "title": "Your Complete Data Science Stack",
+    "content": "Development: Git, VSCode, AI assistants, uv\nCommand Line: Bash, text processing, pipelines\nContainers: Podman, Docker Compose\nData: APIs, web scraping, databases\nAI: LLMs, RAG, vector databases, agents\nApps: Streamlit, FastAPI, MCP\nDeployment: Cloud Run, CI/CD, monitoring\n\nProfessional, production-ready skills",
+    "speaker_notes": "This is the synthesis slide. The course has moved from isolated tools to a complete workflow for building modern data science systems. Emphasize that this stack is valuable because the pieces reinforce one another. APIs connect to apps, containers support deployment, CI protects changes, and documentation makes systems maintainable. Students should leave seeing themselves as capable of building complete, shareable systems rather than one-off notebooks."
+  },
+  {
+    "slide_num": 56,
+    "type": "content",
+    "title": "Architecture Best Practices",
+    "content": "Start simple, add complexity as needed\nSeparate concerns (frontend, API, data)\nUse environment variables for config\nImplement health checks\nLog important events\nHandle errors gracefully\nDocument your architecture\nTest at every level",
+    "speaker_notes": "Use this slide as a practical summary rather than a list to read verbatim. The common thread is intentionality: keep components separated for a reason, externalize configuration, expose health signals, make failures visible, and write down how the system works. Good architecture is not about sophistication; it is about clarity, maintainability, and appropriate boundaries."
+  },
+  {
+    "slide_num": 57,
+    "type": "content",
+    "title": "CI/CD Best Practices",
+    "content": "Run tests on every commit\nKeep pipelines fast\nFail fast on errors\nUse caching effectively\nSeparate build and deploy stages\nUse environment-specific configs\nManage secrets properly\nVerify deployments after release",
+    "speaker_notes": "Summarize CI/CD as an engineering feedback system. Fast pipelines are valuable because people trust and use them. Failing fast prevents wasted compute and faster diagnosis. Separating build and deploy stages improves clarity and control. Secrets and environment-specific configuration keep automation safe. Post-deploy verification ensures that success in CI actually translated into a healthy running system."
+  },
+  {
+    "slide_num": 58,
+    "type": "content",
+    "title": "Testing Best Practices",
+    "content": "Write tests for critical paths\nTest edge cases and errors\nKeep tests fast and isolated\nMock external dependencies when needed\nUse fixtures for repeated setup\nAim for meaningful coverage\nTest near real usage patterns",
+    "speaker_notes": "Summarize testing with an emphasis on usefulness rather than vanity metrics. Critical paths matter more than raw line coverage. Fast tests get run more often. Isolation reduces flakiness. Mocking should be used when external systems would make tests unreliable or expensive, but real usage patterns should still guide what is validated. The goal is confidence in the behavior that matters most."
+  },
+  {
+    "slide_num": 59,
+    "type": "content",
+    "title": "Deployment Checklist",
+    "content": "Environment variables configured\nSecrets properly managed\nHealth check endpoints implemented\nLogging available\nError handling in place\nRollback path understood\nMonitoring and alerts considered\nDocumentation updated",
+    "speaker_notes": "Present this as a final operational checklist students can actually reuse. Before deploying, confirm configuration, secrets, health checks, and logs. Make sure failures will be visible and that there is at least a basic rollback plan or recovery path. Documentation should be updated alongside code so the deployment process remains understandable later."
+  },
+  {
+    "slide_num": 60,
+    "type": "content",
+    "title": "Common Pitfalls to Avoid",
+    "content": "No tests\nSlow pipelines\nHardcoded secrets\nNo monitoring\nOver-engineering\nNo rollback plan\nManual-only deployments\nIgnoring small warnings",
+    "speaker_notes": "End with pitfalls because they are memorable and practical. These mistakes are common precisely because they seem harmless early on: skipping tests, tolerating a slow pipeline, hardcoding a key, or relying on manual deployment steps. Over time they compound into fragile systems. The overall message is that professional quality often comes from avoiding preventable mistakes, not just from adding advanced features."
+  },
+  {
+    "slide_num": 61,
+    "type": "content",
+    "title": "Skills for Your Career",
+    "content": "Technical:\n- APIs\n- apps\n- containers\n- cloud deployment\n- CI/CD\n- documentation\n\nProfessional habits:\n- problem decomposition\n- debugging systematically\n- reading docs\n- communicating architecture clearly",
+    "speaker_notes": "Keep a career-oriented closing section."
+  },
+  {
+    "slide_num": 62,
+    "type": "content",
+    "title": "Showcase Your Work",
+    "content": "Strong portfolio artifacts include:\n- GitHub repositories\n- deployed apps\n- clear READMEs\n- architecture diagrams\n- tests and workflow files\n- short explanations of engineering decisions",
+    "speaker_notes": "Encourage students to make the invisible engineering work visible."
+  },
+  {
+    "slide_num": 63,
+    "type": "content",
+    "title": "After This Course",
+    "content": "Keep building projects\nDeploy your work\nContribute to open source\nPractice with real datasets\nDocument architecture decisions\nUse automation early\nKeep learning new tools",
+    "speaker_notes": "Encourage ongoing practice."
+  }
+]
