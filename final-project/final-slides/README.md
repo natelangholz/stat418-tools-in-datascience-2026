@@ -2,11 +2,11 @@
 
 ## Submission Instructions
 
-Submit your final presentation slides via pull request to this directory by **11:59 PM on June 1, 2026**.
+Submit your final presentation slides as a **PDF only** via pull request to this directory by **11:59 PM on June 1, 2026**.
 
 ## Presentation Format
 
-- **Duration**: 10-12 minutes
+- **Duration**: 8-10 minutes
 - **Maximum Slides**: 7 slides total
   - 1 title slide
   - 6 content slides
@@ -45,10 +45,10 @@ Your final presentation should include:
    - Deployment infrastructure
    - Technology stack
 
-6. **Application Features & Demo**
+6. **Application Features**
    - Key features of your web application
    - User interface highlights
-   - **Live demonstration** of deployed app and API
+   - Example screenshots, outputs, or walkthrough details
    - Example use cases
 
 7. **Challenges, Learnings & Future Work**
@@ -59,7 +59,7 @@ Your final presentation should include:
 
 ## File Naming Convention
 
-Please name your file: `lastname-firstname-final.pdf` or `lastname-firstname-final.pptx`
+Please name your file: `lastname-firstname-final.pdf`
 
 Example: `smith-john-final.pdf`
 
@@ -67,11 +67,6 @@ Example: `smith-john-final.pdf`
 
 Presentation order will be randomized and announced before the presentations begin.
 
-## Live Demo Requirements
+## Submission Requirement
 
-Your presentation must include a live demonstration of:
-- Your deployed web application
-- Your deployed API (showing at least one API call)
-- The interaction between the app and API
-
-Ensure your services are running and accessible before your presentation time.
+Submit PDF slides only. Do not submit PowerPoint files for the final presentation in this directory.
