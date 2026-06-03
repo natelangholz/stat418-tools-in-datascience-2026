@@ -1,0 +1,16 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+COPY requirements-api.txt .
+RUN pip install --no-cache-dir -r requirements-api.txt
+
+COPY app_lib ./app_lib
+COPY api ./api
+COPY models ./models
+COPY data/raw ./data/raw
+
+ENV PYTHONPATH=/app
+EXPOSE 8080
+
+CMD ["gunicorn", "--workers", "1", "--threads", "4", "-b", "0.0.0.0:8080", "api.app:app"]

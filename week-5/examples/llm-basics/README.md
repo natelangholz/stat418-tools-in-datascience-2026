@@ -35,10 +35,8 @@ cp .env.example .env
 
 ## API Keys
 
-You'll need at least one of these:
-- OpenAI API key from https://platform.openai.com/
-- Anthropic API key from https://console.anthropic.com/
-- Google AI API key from https://makersuite.google.com/
+You'll need:
+- Google AI API key from https://aistudio.google.com/
 
 ## Running the Examples
 
@@ -124,9 +122,9 @@ Classify sentiment:
 import time
 for attempt in range(3):
     try:
-        response = client.chat.completions.create(...)
+        response = model.generate_content(...)
         break
-    except RateLimitError:
+    except Exception as e:
         time.sleep(2 ** attempt)
 ```
 
@@ -142,7 +140,7 @@ if len(text) > max_input_tokens:
 ```python
 # Always use environment variables
 import os
-api_key = os.getenv('OPENAI_API_KEY')
+api_key = os.getenv('GOOGLE_API_KEY')
 if not api_key:
     raise ValueError("API key not found")
 ```
@@ -157,6 +155,6 @@ After mastering these basics:
 
 ## Resources
 
-- [OpenAI Cookbook](https://cookbook.openai.com/)
-- [Anthropic Prompt Library](https://docs.anthropic.com/claude/prompt-library)
+- [Google AI Documentation](https://ai.google.dev/docs)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Google AI Studio](https://aistudio.google.com/)

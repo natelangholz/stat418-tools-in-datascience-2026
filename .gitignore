@@ -91,6 +91,7 @@ htmlcov/
 !**/example*.json
 !**/sample*.csv
 !**/sample*.json
+!Spring_*_roster.csv
 
 # Model files
 *.pkl
@@ -108,3 +109,6 @@ temp/
 slides-*.pptx
 slides-*.md
 ~$*.pptx
+
+# Local helper scripts
+scripts/

@@ -1,0 +1,29 @@
+name: fuel-price-app-ci
+
+on:
+  push:
+    paths:
+      - "final-project/fuel-price-forecast-app/**"
+  pull_request:
+    paths:
+      - "final-project/fuel-price-forecast-app/**"
+
+defaults:
+  run:
+    working-directory: final-project/fuel-price-forecast-app
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install
+        run: pip install -r requirements.txt
+      - name: Collect synthetic + train + pytest
+        run: |
+          python scripts/collect.py
+          python scripts/train.py
+          pytest -q
