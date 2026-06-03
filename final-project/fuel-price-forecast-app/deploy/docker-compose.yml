@@ -1,0 +1,18 @@
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.api
+    ports:
+      - "8080:8080"
+
+  streamlit:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    environment:
+      MODEL_API_URL: http://api:8080
+    depends_on:
+      - api
