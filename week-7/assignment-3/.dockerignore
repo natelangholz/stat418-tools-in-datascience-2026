@@ -1,0 +1,17 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+.env
+.env.*
+*.pem
+*.key
+submissions/
+ASSIGNMENT.md
