@@ -262,7 +262,7 @@ st.markdown("Dashboard last updated: " + datetime.now().strftime("%Y-%m-%d %H:%M
 1. Save the code as `dashboard.py`
 2. Install requirements:
 ```bash
-pip install streamlit pandas plotly
+uv pip install streamlit pandas plotly
 ```
 
 3. Run the app:

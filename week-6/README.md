@@ -9,6 +9,10 @@ Week 6 is a pivotal week in the course where we transition from learning tools t
 
 This week bridges the gap between data science work and user-facing applications. You'll learn how to take your models and analyses and make them accessible to non-technical users through web applications.
 
+## Slides
+
+- [Week 6 Slides (PDF)](slides-week-6.pdf)
+
 ## Class Structure
 
 ### Part 1: Proposal Presentations (First ~90 minutes)
@@ -134,7 +138,7 @@ For most data science applications, Streamlit hits the sweet spot of simplicity 
 
 ### Google Cloud Run (Recommended for production)
 - **Pros**: Scales to zero, pay per use, supports any containerized app
-- **Cons**: Requires Docker knowledge, more setup
+- **Cons**: Requires container knowledge (using Podman in this course), more setup
 - **Best for**: Production apps, APIs, any framework
 
 ### Other Options
@@ -206,28 +210,9 @@ We'll address all of these in the examples and lecture.
 ### Deployment
 - [Streamlit Cloud Docs](https://docs.streamlit.io/streamlit-community-cloud)
 - [Google Cloud Run Docs](https://cloud.google.com/run/docs)
-- [Docker Documentation](https://docs.docker.com/)
+- [Podman Documentation](https://podman.io/docs)
 
 ### Design
 - [Streamlit Design Guidelines](https://docs.streamlit.io/library/advanced-features/app-design)
 - [Data Visualization Best Practices](https://www.storytellingwithdata.com/)
 
-## Next Steps
-
-After this week:
-- **Week 7**: Containerization with Podman/Docker (for deployment)
-- **Week 8**: Building APIs with FastAPI (for your model API)
-- **Week 9**: CI/CD with GitHub Actions (automated deployment)
-- **Week 10**: Final presentations
-
-Each week builds on the previous, culminating in your complete, deployed final project.
-
-## Getting Started
-
-1. Review the proposal presentation guidelines
-2. Work through the Streamlit basics example
-3. Explore the interactive dashboard example
-4. Try deploying a simple app to Streamlit Cloud
-5. Start thinking about your final project's UI
-
-Remember: The best way to learn is by building. Start simple, get something working, then iterate and improve.
