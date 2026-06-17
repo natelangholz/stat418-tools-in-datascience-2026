@@ -1,0 +1,64 @@
+Movie Data Analysis Summary Report
+==================================
+
+1. Rating Analysis
+------------------
+Number of movies with both TMDB and Letterboxd ratings: 39
+Correlation between TMDB and Letterboxd ratings: 0.531
+Average TMDB rating: 6.41
+Average Letterboxd rating: 3.04
+TMDB uses a 0-10 scale, while Letterboxd uses a 0-5 scale.
+
+2. Genre Analysis
+-----------------
+Top 10 most common genres:
+genre
+Adventure          16
+Action             15
+Thriller           13
+Comedy             13
+Horror             13
+Drama              11
+Science Fiction    11
+Crime               8
+Mystery             7
+Animation           6
+
+Top 10 genres by average ratings on both platforms:
+                 tmdb_rating  letterboxd_rating
+genre                                          
+Music               7.625000           3.520000
+Science Fiction     7.256000           3.407000
+Family              7.183800           3.380000
+Romance             7.170000           2.760000
+Drama               6.904727           3.185000
+Comedy              6.738769           3.097273
+Adventure           6.664750           3.231667
+Action              6.480800           3.200000
+Thriller            6.437538           3.013636
+Crime               6.363750           2.951667
+
+3. Financial Analysis
+---------------------
+Number of movies with valid budget and revenue data: 30
+Correlation between budget and revenue: 0.697
+
+Top 10 most profitable movies:
+                                         title    budget    revenue     profit
+                       Spider-Man: No Way Home 200000000 1921847111 1721847111
+                                  The Avengers 220000000 1518815515 1298815515
+                   The Super Mario Bros. Movie 100000000 1360879735 1260879735
+                          Avatar: Fire and Ash 350000000 1490477656 1140477656
+                  The Super Mario Galaxy Movie 110000000  831474150  721474150
+Demon Slayer: Kimetsu no Yaiba Infinity Castle  20000000  733030221  713030221
+                                  Interstellar 165000000  746606706  581606706
+                             Project Hail Mary 200000000  613431522  413431522
+                                 The Housemaid  35000000  401725460  366725460
+                         The Devil Wears Prada  35000000  326706115  291706115
+
+Visualizations Created
+----------------------
+1. rating_correlation.png
+2. rating_distributions.png
+3. average_rating_by_genre.png
+4. budget_vs_revenue.png
