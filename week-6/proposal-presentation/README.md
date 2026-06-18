@@ -8,7 +8,7 @@ During the first half of Week 6 class, each student will present their final pro
 
 **Slides due: May 5, 2026 at 11:59 AM**
 
-Submit your slides via pull request to this directory before class begins.
+Submit your slides via pull request to the `project-proposal` branch in this directory before class begins.
 
 ## Presentation Format
 
@@ -79,21 +79,7 @@ Your 5 content slides should cover:
 
 **Example**: "Multi-class classification (Easy/Moderate/Hard) using Random Forest and XGBoost. Features: elevation gain, distance, terrain type, season. Target: 80%+ accuracy."
 
-### Slide 5: Application Design & Architecture
-- **User interface mockup**: What will users see?
-- **Key features**: What can users do?
-- **User flow**: How will users interact with your app?
-- **Solution architecture**: How do components connect?
-
-**What to include**:
-- Wireframe or mockup of your Streamlit app
-- List of interactive features (dropdowns, sliders, maps, etc.)
-- Architecture diagram showing: Data → Model → API → App
-- Technology stack (Streamlit, Flask, Cloud Run, etc.)
-
-**Example**: "Streamlit app with map interface. Users select location, see nearby trails, filter by difficulty. Model API returns predictions. Deployed on Cloud Run."
-
-### Slide 6: Timeline & Next Steps
+### Slide 5: Timeline & Next Steps
 - **Milestones**: Key dates and deliverables
 - **Current status**: What's done, what's in progress
 - **Remaining work**: What needs to be completed
@@ -204,7 +190,7 @@ Here are examples of successful final projects to inspire you:
 2. **Name your file**: `lastname-firstname-proposal.pdf`
 3. **Fork the course repository** (if you haven't already)
 4. **Add your slides** to `week-6/proposal-presentation/`
-5. **Create a pull request** with title: "Proposal: [Your Name]"
+5. **Create a pull request to the `project-proposal` branch** with title: "Proposal: [Your Name]"
 6. **Submit by deadline**: May 5, 2026 at 11:59 AM
 
 ## Presentation Day (May 6, 2026)
