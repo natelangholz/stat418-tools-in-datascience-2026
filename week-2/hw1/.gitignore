@@ -1,0 +1,7 @@
+# Large log files - do not commit
+NASA_Jul95.log
+NASA_Aug95.log
+backups/
+
+# Temp files
+test_sample.log

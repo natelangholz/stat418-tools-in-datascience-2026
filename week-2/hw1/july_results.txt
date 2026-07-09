@@ -1,0 +1,117 @@
+========================================
+ Analyzing: NASA_Jul95.log
+========================================
+
+--- 1. Top 10 Hosts (excluding 404 errors) ---
+  17462 piweba3y.prodigy.com
+  11535 piweba4y.prodigy.com
+   9776 piweba1y.prodigy.com
+   7798 alyssa.prodigy.com
+   7573 siltb10.orl.mmc.com
+   5884 piweba2y.prodigy.com
+   5414 edams.ksc.nasa.gov
+   4891 163.206.89.4
+   4843 news.ti.com
+   4344 disarray.demon.co.uk
+DONE: section 1
+
+--- 2. IP vs Hostname percentage ---
+  Total requests : 1891715
+  IP addresses   : 419140 (22.16%)
+  Hostnames      : 1472575 (77.84%)
+DONE: section 2
+
+--- 3. Top 10 Requested URLs (excluding 404 errors) ---
+ 111144 /images/NASA-logosmall.gif
+  89530 /images/KSC-logosmall.gif
+  60300 /images/MOSAIC-logosmall.gif
+  59845 /images/USA-logosmall.gif
+  59325 /images/WORLD-logosmall.gif
+  58616 /images/ksclogo-medium.gif
+  40841 /images/launch-logo.gif
+  40251 /shuttle/countdown/
+  40072 /ksc.html
+  33555 /images/ksclogosmall.gif
+DONE: section 3
+
+--- 4. HTTP Request Types ---
+1887646 GET
+   3952 HEAD
+    111 POST
+      2 kƒûtxƒûtGƒûtÍƒû
+      2 1/history/apollo/images/
+      1 
+      1 
+DONE: section 4
+
+--- 5. Total 404 Errors ---
+10714
+DONE: section 5
+
+--- 6. Most Frequent Response Code ---
+1697914 200
+ 132626 304
+  46549 302
+  10714 404
+    611 <berend@blazemonger.pc.cc.cmu.edu>"
+  Most frequent: 200 at 89.76% of all responses
+DONE: section 6
+
+--- 7. Requests by Hour of Day ---
+  62450 00
+  53066 01
+  45297 02
+  37398 03
+  32234 04
+  31919 05
+  35253 06
+  54017 07
+  83750 08
+  99969 09
+ 105507 10
+ 115720 11
+ 122085 12
+ 120814 13
+ 122479 14
+ 121200 15
+ 118037 16
+  97609 17
+  79282 18
+  71776 19
+  69809 20
+  71922 21
+  70759 22
+  69362 23
+DONE: section 7
+
+--- 8. Busiest Day ---
+ 134203 13/Jul/1995
+DONE: section 8
+
+--- 9. Quietest Day ---
+  27121 28/Jul/1995
+  35267 22/Jul/1995
+  35272 09/Jul/1995
+  38867 08/Jul/1995
+  39199 23/Jul/1995
+DONE: section 9
+
+--- 10. Hurricane Outage Detection ---
+DONE: section 10
+
+--- 11. Largest and Average Response Size (bytes) ---
+  Largest : 6823936 bytes
+  Average : 20658 bytes
+DONE: section 11
+
+--- 12. Error Patterns (top hours for errors) ---
+   1011 15
+    982 14
+    904 16
+    876 11
+    776 17
+DONE: section 12
+
+========================================
+ Analysis complete for: NASA_Jul95.log
+========================================
